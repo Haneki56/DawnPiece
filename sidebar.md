@@ -19,3 +19,7 @@
   * [9. Loguetown](islands/Loguetown.md)
   * [10. Reverse Mountain](islands/ReverseMountain.md)
   * [11. Whisky Peak](islands/WhiskyPeak.md)
+  * [11.1 Kyuka Island](islands/KyukaIsland.md)
+  * [12. Little Garden](islands/LittleGarden.md)
+  * [13. Drum Island](islands/DrumIsland.md)
+  * [14. Alabasta](islands/Alabasta.md)

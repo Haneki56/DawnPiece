@@ -30,7 +30,7 @@ Note: Completing this quest unlocks Loguetown. Speak to Genzo (CV) or the Telepo
 | Take              | 30 Belly   |           |                      |           |            |           |           |           |
 | Kaneshiro         | 30 Belly   |           |                      |           |            |           |           |           |
 | Pisaro            | 30 Belly   |           |                      |           |            |           |           |           |
-| Chew.             | 50 Belly   |           |                      |           |            |           |           |           |
+| Chew              | 50 Belly   |           |                      |           |            |           |           |           |
 | Kuroobi           | 70 Belly   |           |                      |           |            |           |           |           |
 | Momoo             | 1 Belly    |           |                      |           |            |           |           |           |
 | Hatchan           | 50 Belly   |           | Cutlass (Common)     |           |            |           |           |           |

@@ -11,17 +11,17 @@ To start the main quest, speak to Luffy (FV) near the island teleport location.
 | A01       | Pirates Drank The Booze! |           |
 | A02       | The Adventure Begins!    |           |
 
-Item Rewards: 70 Belly
+Item Rewards: 70 Belly<br>
 Bounty Reward: 70,000
 
 Note: Completing this quest unlocks Alvida's Hideout. Speak to Shanks (FV) or the Teleporter at any location to access the next island.
 
 ###  Main Quest Boss Drops
 
-| Boss Name         | Belly Drops| Orb Drops| Weapon Drops| Armor Drops| Other Drops|
-|-----------        |----------- |-----------|-----------|-----------|-----------|
-| Mountain Bandit   | 10 Belly   |           |           |           |           |
-| Higuma            | 20 Belly   |           |           |           |           |
+| Boss Name         | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------        |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
+| Mountain Bandit   | 10 Belly   |           |           |           |            |           |           |           |
+| Higuma            | 20 Belly   |           |           |           |            |           |           |           |
 
 ### Merchants
 

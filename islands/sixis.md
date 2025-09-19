@@ -28,5 +28,3 @@ Bounty Reward: 200,000
 | NPC Name              | Purpose                                   |
 |-------------          |-----------                                |
 | Teleporter            | Teleport to any unlocked location         |
-
-

@@ -4,7 +4,7 @@ Once the Foosha Village Main Questline is complete, speak to Shanks (FV) or the 
 
 ### Main Quest
 
-To start the Main Quest, speak to Luffy (FV) near the island teleport location.
+To start the Main Quest, speak to Koby (AH) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|

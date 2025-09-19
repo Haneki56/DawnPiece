@@ -7,3 +7,6 @@
   * [1.1 Goa Kingdom](islands/goa.md)
   * [1.2 Sixis](islands/sixis.md)
   * [2. Alvida's Hideout](islands/alvida.md)
+  * [3. Shells Town](islands/shells.md)
+  * [3.1 Shimotsuki Village](islands/shimotsuki.md)
+  * [4. Orange Town](islands/orange.md)

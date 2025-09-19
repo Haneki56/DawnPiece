@@ -1,5 +1,3 @@
-* [**Home**](home.md)
-
 * **Island Guide**
   * [Overview](islands/islandguide.md)
   * [0. Spawn Island](islands/spawn.md)

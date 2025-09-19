@@ -13,3 +13,7 @@
   * [6. Island of Rare Animals](islands/iora.md)
   * [6.1 Don Krieg's Hideout](islands/donkrieg.md)
   * [6.2 Lost Island](islands/lost.md)
+  * [7. Baratie](islands/baratie.md)
+  * [8. Cocoyashi Village](islands/cocoyashi.md)
+  * [8.1 Oykot Kingdom](islands/oykot.md)
+  * [9. Loguetown](islands/loguetown.md)

@@ -30,7 +30,7 @@ Note: Completing this quest unlocks Syrup Village. Speak to Luffy (OT) or the Te
 | Richie            | 10 Belly   |           |                      |           |            |           |           |           |
 | Cabaji            | 40 Belly   |           |                      |           |            |           |           |           |
 | Clown Pirate      | 20 Belly   |           |                      |           |            |           |           |           |
-| Buggy             | 55 Belly   |           | Clown Claws (Common) |           |            |           |           |           |
+| Buggy             | 55 Belly   |           | Clown Knives (Common)|           |            |           |           |           |
 
 ### Essential NPCs
 

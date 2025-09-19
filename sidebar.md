@@ -8,3 +8,8 @@
   * [3. Shells Town](islands/shells.md)
   * [3.1 Shimotsuki Village](islands/shimotsuki.md)
   * [4. Orange Town](islands/orange.md)
+  * [5. Syrup Village](islands/syrup.md)
+  * [5.1 Mirror Ball Island](islands/mirrorball.md)
+  * [6. Island of Rare Animals](islands/iora.md)
+  * [6.1 Don Krieg's Hideout](islands/donkrieg.md)
+  * [6.2 Lost Island](islands/lost.md)

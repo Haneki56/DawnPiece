@@ -4,7 +4,7 @@ This island is automatically accessible from Spawn Island. Speak to the Teleport
 
 ### Main Quest
 
-To start the main quest, speak to Luffy (FV) near the island teleport location.
+To start the Main Quest, speak to Luffy (FV) near the island teleport location.
 
 | Quest Code| Quest Name               | Quest Objective|
 |-----------|-----------               |-----------|
@@ -16,7 +16,7 @@ Bounty Reward: 70,000
 
 Note: Completing this quest unlocks Alvida's Hideout. Speak to Shanks (FV) or the Teleporter at any location to access the next island.
 
-###  Main Quest Boss Drops
+### Main Quest Boss Drops
 
 | Boss Name         | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
 |-----------        |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
@@ -31,7 +31,7 @@ Note: Completing this quest unlocks Alvida's Hideout. Speak to Shanks (FV) or th
 
 ### Essential NPCs
 
-| NPC Name         | Purpose     |
-|-------------     |-----------|
-| Teleporter       | Teleport to any unlocked location |
-| Blacksmith       | Custom Gear Information          |
+| NPC Name         | Purpose                            |
+|-------------     |-----------                         |
+| Teleporter       | Teleport to any unlocked location  |
+| Blacksmith       | Custom Gear Information            |

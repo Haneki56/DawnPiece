@@ -8,14 +8,14 @@ To start the Main Quest, speak to Zoro (LGT) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | Finding A Sword!              |           |
-| A02       | The Cursed Sword!             |           |
-| A03       | Breaking The Curse!           |           |
-| A04       | Straw Hat Shopping Excursion! |           |
-| A05       | Trouble With Luffy!           |           |
-| A06       | Old Foes, New Town!           |           |
-| A07       | The Smoke Man!                |           |
-| A08       | The Storm Approaches!         |           |
+| A01       | Finding A Sword!              |Find the Loguetown Sword Shop somewhere in town.|
+| A02       | The Cursed Sword!             |Talk to Tashigi (LGT) in the sword shop to complete the quest.|
+| A03       | Breaking The Curse!           |Talk to Ipponmatsu (LGT) in the sword shop to complete the quest.|
+| A04       | Straw Hat Shopping Excursion! |Find Sanji (LGT), Usopp (LGT) and Nami (LGT) in and around the market section of town.|
+| A05       | Trouble With Luffy!           |Talk to Luffy (LGT) on the scaffold to complete the quest.|
+| A06       | Old Foes, New Town!           |Defeat Buggy The Clown and Smooth Alvida in the town square.|
+| A07       | The Smoke Man!                |Defeat Smoker and Tashigi in the town square.|
+| A08       | The Storm Approaches!         |Talk to Dragon (LGT) by the entrance of the town square to complete the questline.|
 
 Item Rewards: 245 Belly<br>
 Bounty Reward: 245,000

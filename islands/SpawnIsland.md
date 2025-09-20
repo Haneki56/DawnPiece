@@ -11,3 +11,4 @@ This is the first island you start on when you join the server. There are no que
 | Gameplay Tutorial     | Basic Server Information          |
 | Markets Tutorial      | Basic Server Information          |
 | Abilities Tutorial    | Basic Server Information          |
+| Monkey D. Luffy       | New Player Guide                  |

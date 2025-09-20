@@ -8,14 +8,14 @@ To start the Main Quest, speak to Nami (OT) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | The Stolen Map!           |           |
-| A02       | Escape To Town!           |           |
-| A03       | The Stubborn Dog!         |           |
-| A04       | The Lion & The Tamer!     |           |
-| A05       | Confronting The Boss!     |           |
-| A06       | The Acrobat!              |           |
-| A07       | Buggy The Clown!          |           |
-| A08       | Sailing Off To The Sunset!|           |
+| A01       | The Stolen Map!           |Talk to Buggy (OT) on the main road to complete the quest.|
+| A02       | Escape To Town!           |Find Orange Town Center. There should be a fountain in the area.|
+| A03       | The Stubborn Dog!         |Talk to Mayor Boodle (OT) in front of the pet shop to complete the quest.|
+| A04       | The Lion & The Tamer!     |Defeat Mohji and Richie near the pet shop.|
+| A05       | Confronting The Boss!     |Talk to Zoro (OT) on the west side of town to complete the quest.|
+| A06       | The Acrobat!              |Defeat Cabaji on the west side of town.|
+| A07       | Buggy The Clown!          |Defeat 3 Clown Pirates and Buggy at the bar in town.|
+| A08       | Sailing Off To The Sunset!|Talk to Luffy (OT) outside the bar to complete the questline.|
 
 Item Rewards: 195 Belly<br>
 Bounty Reward: 195,000

@@ -8,10 +8,10 @@ To start the Main Quest, speak to Koby (AH) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | A Boy In A Barrel!        |           |
-| A02       | Who’s That Fat Lady?!     |           |
-| A03       | For Koby’s Dream!         |           |
-| A04       | Get Koby A Boat!          |           |
+| A01       | A Boy In A Barrel!        |Defeat Heppoko, Peppoko and Poppoko on Alvida's ship.|
+| A02       | Who’s That Fat Lady?!     |Talk to Luffy (AH) on the ship's deck to complete the quest.|
+| A03       | For Koby’s Dream!         |Defeat Alvida on the ship's deck.|
+| A04       | Get Koby A Boat!          |Talk to Alvida Pirate (AH) on the ship's deck to complete the questline.|
 
 Item Rewards: 65 Belly<br>
 Bounty Reward: 65,000

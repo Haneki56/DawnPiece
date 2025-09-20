@@ -8,8 +8,8 @@ To start the Main Quest, speak to Luffy (FV) near the island teleport location.
 
 | Quest Code| Quest Name               | Quest Objective|
 |-----------|-----------               |-----------|
-| A01       | Pirates Drank The Booze! |           |
-| A02       | The Adventure Begins!    |           |
+| A01       | Pirates Drank The Booze! |Defeat Higuma and 5 Bandits on the west side of town by the coast.|
+| A02       | The Adventure Begins!    |Talk to Shanks (FV) at the bar to complete the questline.|
 
 Item Rewards: 70 Belly<br>
 Bounty Reward: 70,000

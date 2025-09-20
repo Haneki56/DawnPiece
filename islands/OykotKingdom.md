@@ -8,9 +8,9 @@ To start the A Quest, speak to Marine (OYK) near the island teleport location.
 
 | Quest Code| Quest Name           | Quest Objective|
 |-----------|-----------           |-----------|
-| A01       | Defeat The Pirates!  |           |
-| A02       | Search For Survivors!|           |
-| A03       | A New Family!        |           |
+| A01       | Defeat The Pirates!  |Defeat 5 Pirate Grunts and the Pirate Captain around the destroyed town.|
+| A02       | Search For Survivors!|Find the Oykot Survivors somewhere in the destroyed town.|
+| A03       | A New Family!        |Talk to Bellemere (OYK) in the destroyed town to complete the questline.|
 
 Item Rewards: 350 Belly<br>
 Bounty Reward: 350,000

@@ -8,12 +8,12 @@ To start the Main Quest, speak to Luffy (BR) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | The Disgruntled Waiter!       |           |
-| A02       | There's A Bug In My Soup!     |           |
-| A03       | The Desperate Captain!        |           |
-| A04       | The Don Krieg Pirates!        |           |
-| A05       | Seek Me Out In The Grand Line!|           |
-| A06       | A New Cook!                   |           |
+| A01       | The Disgruntled Waiter!       |Talk to Sanji (BR) in the restaurant to complete the quest.|
+| A02       | There's A Bug In My Soup!     |Defeat Fullbody in the restaurant.|
+| A03       | The Desperate Captain!        |Talk to Krieg (BR) by the entrance to finish the quest.|
+| A04       | The Don Krieg Pirates!        |Defeat Gin, Pearl and Don Krieg on the debris in front of the restaurant.|
+| A05       | Seek Me Out In The Grand Line!|Talk to Mihawk (BR) outside the restaurant to complete the quest.|
+| A06       | A New Cook!                   |Talk to Zeff (BR) outside the restaurant to complete the questline.|
 
 Item Rewards: 170 Belly<br>
 Bounty Reward: 170,000

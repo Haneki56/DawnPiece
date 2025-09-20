@@ -8,10 +8,10 @@ To start the A Quest, speak to Jango (MBI) near the island teleport location.
 
 | Quest Code| Quest Name           | Quest Objective|
 |-----------|-----------           |-----------|
-| A01       | To The Dance Hall!   |           |
-| A02       | The Votes Are In!    |           |
-| A03       | The Tulip Pirates!   |           |
-| A04       | Hostages Saved!      |           |
+| A01       | To The Dance Hall!   |Find the Mirror Ball Dance Hall somewhere in town.|
+| A02       | The Votes Are In!    |Talk to the Competition Judge (MBI) in the Dance Hall to complete the quest.|
+| A03       | The Tulip Pirates!   |Defeat 5 Tulip Pirates and Yurikah scattered around the town.|
+| A04       | Hostages Saved!      |Talk to Fullbody (MBI) by the dock to complete the questline.|
 
 Item Rewards: 350 Belly<br>
 Bounty Reward: 350,000

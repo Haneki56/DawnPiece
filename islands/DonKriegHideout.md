@@ -8,9 +8,9 @@ To start the A Quest, speak to Krieg (DKH) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | Don Krieg’s Test!         |           |
-| A02       | Hold Off Hawk Eyes!       |           |
-| A03       | The Strongest Swordsman!  |           |
+| A01       | Don Krieg’s Test!         |Defeat Kagikko, Hustle and Ideaman on the ship.|
+| A02       | Hold Off Hawk Eyes!       |Talk to Gin (DKH) on the ship to complete the quest.|
+| A03       | The Strongest Swordsman!  |Defeat Mihawk on the ship to complete the questline.|
 
 Item Rewards: 240 Belly<br>
 Bounty Reward: 240,000

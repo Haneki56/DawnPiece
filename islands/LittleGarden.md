@@ -8,16 +8,16 @@ To start the Main Quest, speak to Vivi (LG) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | Explore The Jungle!           |           |
-| A02       | Wow, A Giant!                 |           |
-| A03       | Nami’s Screams!               |           |
-| A04       | The Giant’s Story!            |           |
-| A05       | The 100 Year Duel!            |           |
-| A06       | The Duel Has Been Compromised!|           |
-| A07       | Old Enemies From Whisky Peak! |           |
-| A08       | Nakama Turned To Wax!         |           |
-| A09       | Baroque Works, Again!         |           |
-| A10       | A Cup Of Tea & A Phone Call!  |           |
+| A01       | Explore The Jungle!           |Find the West Dinosaur Skeleton to the north west of the Going Merry. X: 4734 Y: 73 Z: 3177|
+| A02       | Wow, A Giant!                 |Talk to Dorry (LG) by the West Dinosaur Skeleton to complete the quest.|
+| A03       | Nami’s Screams!               |Talk to Nami (LG) by the East Dinosaur Skeleton to complete the quest. X: 5373 Y: 97 Z: 3353|
+| A04       | The Giant’s Story!            |Talk to Broggy (LG) near the East Dinosaur Skeleton to complete the quest.|
+| A05       | The 100 Year Duel!            |Defeat Brogy and Dorry in between the two skeletons. X: 5058 Y: 67 Z: 3134|
+| A06       | The Duel Has Been Compromised!|Talk to Luffy (LG) nearby Dorry and Brogy to complete the quest.|
+| A07       | Old Enemies From Whisky Peak! |Defeat Mr. 5 and Miss Valentine north of Dorry and Brogy.|
+| A08       | Nakama Turned To Wax!         |Talk to Zoro (LG) on the wax candle in the middle of the island to complete the quest.|
+| A09       | Baroque Works, Again!         |Defeat Mr. 3 and Miss Goldenweek near the wax candle.|
+| A10       | A Cup Of Tea & A Phone Call!  |Talk to Sanji (LG) in the wax hut north west of the candle to complete the questline.|
 
 Item Rewards: 370 Belly<br>
 Bounty Reward: 370,000

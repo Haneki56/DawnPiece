@@ -8,8 +8,8 @@ To start the A Quest, speak to Johnny (LOST) near the island teleport location.
 
 | Quest Code| Quest Name        | Quest Objective|
 |-----------|-----------        |-----------|
-| A01       | Build A Boat!     |           |
-| A02       | Off To Baratie!   |           |
+| A01       | Build A Boat!     |Bring Johnny (LOST) 64 Oak Planks, 64 Oak Fences and 64 White Wool.|
+| A02       | Off To Baratie!   |Talk to Yosaku (LOST) to complete the questline.|
 
 Item Rewards: 60 Belly<br>
 Bounty Reward: 60,000

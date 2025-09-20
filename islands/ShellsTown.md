@@ -8,12 +8,12 @@ To start the Main Quest, speak to Koby (ST) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | The Marine Base!              |           |
-| A02       | Sweet Rice Balls!             |           |
-| A03       | The First Nakama!             |           |
-| A04       | Defeat The Marines!           |           |
-| A05       | The Captain & His Weak Son!   |           |
-| A06       | Morgan’s Reign Is Over!       |           |
+| A01       | The Marine Base!              |Talk to Rika (ST) in front of the marine base to complete the quest.|
+| A02       | Sweet Rice Balls!             |Find Zoro's swords in Helmeppo's room somewhere in the Marine Base.|
+| A03       | The First Nakama!             |Talk to Zoro (ST) in the yard to complete the quest.|
+| A04       | Defeat The Marines!           |Defeat Ukkari, Rokkaku and Ripper at the Marine Base.|
+| A05       | The Captain & His Weak Son!   |Defeat Helmeppo and Axe-Hand Morgan in the Marine Base.|
+| A06       | Morgan’s Reign Is Over!       |Talk to Ririka (ST) at her restaurant on the main street to complete the questline.|
 
 Item Rewards: 90 Belly<br>
 Bounty Reward: 90,000

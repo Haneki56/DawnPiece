@@ -8,9 +8,9 @@ To start the A Quest, speak to Young Zoro (STV) near the island teleport locatio
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | Training For The Fight!       |           |
-| A02       | Defeat Kuina!                 |           |
-| A03       | A Dream For The Both Of Us!   |           |
+| A01       | Training For The Fight!       |Defeat 5 Isshin Dojo Students on the Dojo grounds.|
+| A02       | Defeat Kuina!                 |Defeat Kuina in the Dojo.|
+| A03       | A Dream For The Both Of Us!   |Talk to Young Zoro (STV) at the Dojo entrance to complete the questline.|
 
 Item Rewards: 350 Belly<br>
 Bounty Reward: 350,000

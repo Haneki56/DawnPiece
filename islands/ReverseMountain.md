@@ -8,10 +8,10 @@ To start the Main Quest, speak to Luffy (RM) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | A Giant Whale?!           |           |
-| A02       | The Pirate King’s Doctor! |           |
-| A03       | What’s Baroque Works?!    |           |
-| A04       | The Log Pose!             |           |
+| A01       | A Giant Whale?!           |Talk to Usopp (RM) on the Going Merry to complete the quest.|
+| A02       | The Pirate King’s Doctor! |Talk to Crocus (RM) inside his house to complete the quest.|
+| A03       | What’s Baroque Works?!    |Defeat Mr. 9 and Miss Wednesday by the south lighthouse.|
+| A04       | The Log Pose!             |Talk to Nami (RM) by the south lighthouse to complete the questline.|
 
 Item Rewards: 80 Belly<br>
 Bounty Reward: 80,000

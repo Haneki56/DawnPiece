@@ -21,7 +21,7 @@ Bounty Reward: 2,050,000
 | Fire Fist Ace | 700 Belly  | Rare      | Ace Knife (Rare)     |           |            |           |           | Mera Fragment|
 | Teach         | 700 Belly  | Rare      |                      |           |            |           |           | Yami Fragment|
 | Burgess       | 500 Belly  | Rare      |                      |           |            |           |           |              |
-| Augur         | 150 Belly  | Rare      |                      |           |            |           |           |              |
+| Augur         | 150 Belly  |           |                      |           |            |           |           |              |
 
 ### Essential NPCs
 

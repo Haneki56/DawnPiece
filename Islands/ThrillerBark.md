@@ -75,7 +75,6 @@ To start the B Quest, speak to Lola (TB) in the Mansion.
 Item Rewards: 1,600 Belly<br>
 Bounty Reward: 1,600,000
 
-
 ### Essential NPCs
 
 | NPC Name         | Purpose                                        |

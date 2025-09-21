@@ -135,16 +135,18 @@ Bounty Reward: 400,000
 
 ### Essential NPCs
 
-| NPC Name                | Purpose                                |
-|-------------            |-----------                             |
-| Teleporter              | Teleport to any unlocked location      |
-| Teleporter (AB)         | Teleport to any unlocked Alabasta POI  |
-| Blacksmith              | Custom Gear Information                |
-| Dealer (10 Belly)       | Gambling                |
-| Dealer (50 Belly)       | Gambling                |
-| Dealer (100 Belly)      | Gambling                |
-| Dealer (500 Belly)      | Gambling                |
-| Dealer (1000 Belly)     | Gambling                |
-| Dealer (5000 Belly)     | Gambling                |
-| Dealer (10000 Belly)    | Gambling                |
-| Dealer (100000 Belly)   | Gambling                |
+| NPC Name                | Purpose                                 |
+|-------------            |-----------                              |
+| Teleporter              | Teleport to any unlocked location       |
+| Teleporter (AB)         | Teleport to any unlocked Alabasta POI   |
+| Blacksmith              | Custom Gear Information                 |
+| Bank Teller             | Currency Exchange                       |
+| Bank Teller (Bulk)      | Currency Exchange                       |
+| Dealer (10 Belly)       | Gambling                                |
+| Dealer (50 Belly)       | Gambling                                |
+| Dealer (100 Belly)      | Gambling                                |
+| Dealer (500 Belly)      | Gambling                                |
+| Dealer (1000 Belly)     | Gambling                                |
+| Dealer (5000 Belly)     | Gambling                                |
+| Dealer (10000 Belly)    | Gambling                                |
+| Dealer (100000 Belly)   | Gambling                                |

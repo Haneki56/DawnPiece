@@ -32,7 +32,7 @@ Note: Completing this quest unlocks the Island of Rare Animals. Speak to Merry (
 | Ninjin            | 5 Belly    |           |                      |           |            |           |           |           |
 | Sham              | 25 Belly   |           |                      |           |            |           |           |           |
 | Buchi             | 25 Belly   |           |                      |           |            |           |           |           |
-| Clown Pirate      | 40 Belly   |           |                      |           |            |           |           |           |
+| Jango             | 40 Belly   |           |                      |           |            |           |           |           |
 | Kuro              | 70 Belly   |           | Tekko Kagi (Common)  |           |            |           |           |           |
 
 ### Essential NPCs

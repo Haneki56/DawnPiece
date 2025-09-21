@@ -34,7 +34,7 @@ Note: Completing this quest unlocks the Shift Station. Speak to Luffy (LRLL) or 
 | Pickles   | 250 Belly  | Uncommon  | Cutlass (Uncommon)    |           |            |           |           |                 |
 | Big Pan   | 250 Belly  | Uncommon  |                       |           |            |           |           |                 |
 | Foxy      | 350 Belly  | Uncommon  |                       |           |            |           |           | Noro Fragment   |
-| Aokiji    | 400 Belly  | Uncommon  |                       |           |            |           |           |                 |
+| Aokiji    | 400 Belly  | Rare      |                       |           |            |           |           |                 |
 
 
 ### Essential NPCs

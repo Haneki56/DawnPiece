@@ -34,3 +34,4 @@
   * [22. Thriller Bark](islands/ThrillerBark.md)
   * [23. Flying Fish Riders Base](islands/FlyingFishRidersBase.md)
   * [24. Sabaody Archipelago](islands/SabaodyArchipelago.md)
+  * [25. Amazon Lily](islands/AmazonLily.md)

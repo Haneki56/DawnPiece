@@ -6,24 +6,24 @@ Once the Impel Down Main Questline is complete, speak to Jinbe (ID) or the Telep
 
 To start the Main Quest, speak to Marco (MF) near the island teleport location.
 
-| Quest Code| Quest Name                    | Quest Objective|
-|-----------|-----------                    |-----------|
-| A01       | Begin The Siege!              ||
-| A02       | Old Foes From Enies Lobby!    ||
-| A03       | The Vice Admirals Attack!     ||
-| A04       | The Giant Squad!              ||
-| A05       | Hina’s Squad!                 ||
-| A06       | Smoker Attacks!               ||
-| A07       | The Vice Admirals Avenge!     ||
-| A08       | Sentomaru’s Pride!            ||
-| A09       | The Warlords Are In The Way!  ||
-| A10       | The Shady Warlords!           ||
-| A11       | A Battle With Family!         ||
-| A12       | The Final Vice Admirals!      ||
-| A13       | Save Ace!                     ||
-| A14       | The Three Admirals!           ||
-| A15       | The Fleet Admiral!            ||
-| A16       | Mission Failed!               ||
+| Quest Code| Quest Name              | Quest Objective|
+|-----------|-----------              |-----------|
+| A01 | Begin The Siege!        |Defeat Captain T-Bone, Lieutenant Commander Brannew and Vice-Admiral Dalmatian on the ice in front of the execution platform.|
+| A02 | Old Foes From Enies Lobby!    |Defeat Vice-Admiral Strawberry, Vice-Admiral Yamakaji and Vice-Admiral Onigumo on the western wing of Marineford.|
+| A03 | The Vice Admirals Attack!     |Defeat Vice-Admiral Comil, Vice-Admiral Momonga and Vice-Admiral Doberman on the western wing of Marineford.|
+| A04 | The Giant Squad! |Defeat Vice-Admiral John Giant, Vice-Admiral Lacroix and Vice-Admiral Ronse on the western wing of Marineford close to the building.|
+| A05 | Hina’s Squad!                 |Defeat Seaman Recruit Fullbody, Seaman Recruit Jango and Captain Hina on the eastern wing of Marineford.|
+| A06 | Smoker Attacks!               |Defeat Ensign Tashigi and Commodore Smoker on the eastern wing of Marineford.|
+| A07 | The Vice Admirals Avenge!     |Defeat Vice-Admiral Stainless, Vice-Admiral Mozambia and Vice-Admiral Cancer on the eastern wing of Marineford.|
+| A08 | Sentomaru’s Pride!            |Defeat Sentomaru, PX-3 and PX-6 on the eastern wing of Marineford close to the building.|
+| A09 | The Warlords Are In The Way!  |Defeat Warlord Hancock, Warlord Kuma and Warlord Mihawk on the eastern wing of Marineford in front of the building.|
+| A10 | The Shady Warlords!           |Defeat Warlord Moria and Warlord Doflamingo on the western wing of Marineford in front of the building.|
+| A11 | A Battle With Family!         |Defeat Petty Officer Koby, Petty Officer Helmeppo and Vice-Admiral Garp on the western wing in front of the building.|
+| A12 | The Final Vice Admirals!      |Defeat Vice-Admiral Tsuru & Vice-Admiral Bastille on the eastern wing of Marineford in front of the building.|
+| A13 | Save Ace!                     |Talk to Ace (MF) on the execution platform to complete the quest.|
+| A14 | The Three Admirals!           |Defeat Admiral Kizaru, Admiral Aokiji and Admiral Akainu in front of the main building.|
+| A15 | The Fleet Admiral!            |Defeat Fleet Admiral Sengoku on the execution platform.|
+| A16 | Mission Failed!               |Talk to Jinbei (MF) at the bottom of the execution platform to complete the questline.|
 
 
 Item Rewards: 18,800 Belly<br>
@@ -79,17 +79,17 @@ To start the B Quest, speak to Sengoku (MF) in the corner of the western wing of
 
 | Quest Code| Quest Name            | Quest Objective|
 |-----------|-----------            |-----------|
-| B01       | The Decalvan Brothers!||
-| B02       | The Allied Captains!  ||
-| B03       | The Ancient Giant!    ||
-| B04       | Division Commanders!  ||
-| B05       | Division Commanders!  ||
-| B06       | Division Commanders!  ||
-| B07       | Division Commanders!  ||
-| B08       | Division Commanders!  ||
-| B09       | Division Commanders!  ||
-| B10       | The Last Of The Sons! ||
-| B11       | The Father!           ||
+| B01       | The Decalvan Brothers!|Defeat Blondie, Decalvan Brother 1 and Decalvan Brother 2 on the western wing of Marineford.|
+| B02       | The Allied Captains!  |Defeat McGuy, Doma and Whitey Bay on the western wing of Marineford.|
+| B03       | The Ancient Giant!    |Defeat Epoida, Karma and Little Oars Jr on the eastern wing of Marineford.|
+| B04       | Division Commanders!  |Defeat Islewan, Izou and Fossa on the eastern wing of Marineford.|
+| B05       | Division Commanders!  |Defeat Zucca, Speed Jiru and Atmos on the ice of Marineford.|
+| B06       | Division Commanders!  |Defeat Haruta, Blenheim and Kingdew on the ice of Marineford.|
+| B07       | Division Commanders!  |Defeat Curiel, Namur and Rakuyo on the ice of Marineford.|
+| B08       | Division Commanders!  |Defeat Pavlik, Blamenco and Delacuaji on the ice of Marineford.|
+| B09       | Division Commanders!  |Defeat Vista, Ramba and Jozu on the ice of Marineford.|
+| B10       | The Last Of The Sons! |Defeat A O, Marco and Squard on the ice of Marineford.|
+| B11       | The Father!           |Defeat Whitebeard on the Moby Dick.|
 
 Item Rewards: 12,600 Belly<br>
 Bounty Reward: 12,600,000
@@ -98,7 +98,7 @@ Bounty Reward: 12,600,000
 
 | Boss Name          | Belly      | Orb       | Weapon                   | Helmet    | Chestplate | Leggings  | Boots     | Other           |
 |-----------         |----------- |-----------|-----------               |-----------|----------- |-----------|-----------|-----------      |
-| Forliewbs          | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
+| Blondie            | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Decalvan Brother 1 | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Decalvan Brother 2 | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | McGuy              | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
@@ -106,8 +106,8 @@ Bounty Reward: 12,600,000
 | Whitey Bay         | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Epoida             | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Karma              | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Little Oars Jr.    | 500 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Happygun           | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
+| Little Oars Jr     | 500 Belly  | Uncommon  |                          |           |            |           |           |                 |
+| Islewan            | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Izou               | 350 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Fossa              | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Zucca              | 300 Belly  | Uncommon  |                          |           |            |           |           |                 |
@@ -136,12 +136,12 @@ To start the C Quest, speak to Koby (MF) in the corner of the eastern wing of Ma
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| C01       | The Newkama Arrive!       ||
-| C02       | The Clown & Queen!        ||
-| C03       | Baroque Works Returns!    ||
-| C04       | The Rookie & Veteran!     ||
-| C05       | The Heart Pirates Arrive! ||
-| C06       | Stop The Heart Pirates!   ||
+| C01       | The Newkama Arrive!       |Defeat Tsunokkov, Usakkov and Francois on the bottom of the eastern tsunami.|
+| C02       | The Clown & Queen!        |Defeat Captain Buggy and Emporio Ivankov on the bottom of the eastern tsunami.|
+| C03       | Baroque Works Returns!    |Defeat Prisoner Galdino, Prisoner Daz Bones and Ex-Warlord Crocodile on top of the eastern tsunami.|
+| C04       | The Rookie & Veteran!     |Defeat Escapee Luffy and Ex-Warlord Jinbe on top of the eastern tsunami.|
+| C05       | The Heart Pirates Arrive! |Defeat Shachi and Penguin on the southwest side of Marineford near the Polar Tang.|
+| C06       | Stop The Heart Pirates!   |Defeat Jean Bart, Bepo The Mink and Trafalgar Water Law on the Polar Tang.|
 
 Item Rewards: 7,600 Belly<br>
 Bounty Reward: 7,600,000

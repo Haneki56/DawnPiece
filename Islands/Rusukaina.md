@@ -8,12 +8,12 @@ To start the Main Quest, speak to Rayleigh (RK) near the island teleport locatio
 
 | Quest Code| Quest Name             | Quest Objective|
 |-----------|-----------             |-----------|
-| A01       | Haki Training Begins!  ||
-| A02       | Rhino Schneider!       ||
-| A03       | Culverin!              ||
-| A04       | Leo Bazooka!           ||
-| A05       | Kong Gun!              ||
-| A06       | 3D2Y!                  ||
+| A01       | Haki Training Begins!  |Defeat 5 Giant Tigers south of the center volcano.|
+| A02       | Rhino Schneider!       |Defeat 5 Giant Rhinos south of the center volcano.|
+| A03       | Culverin!              |Defeat 5 Giant Serpents north of the center volcano.|
+| A04       | Leo Bazooka!           |Defeat 5 Giant Lions in the north east corner of the island.|
+| A05       | Kong Gun!              |Defeat 5 Giant Gorillas in the north east corner of the island.|
+| A06       | 3D2Y!                  |Talk to Luffy (RK) by the tree to complete the questline.|
 
 Item Rewards: 14,000 Belly<br>
 Bounty Reward: 14,000,000

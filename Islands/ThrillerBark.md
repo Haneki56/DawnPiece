@@ -8,24 +8,24 @@ To start the Main Quest, speak to Usopp (TB) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | A Cerberus!                   ||
-| A02       | The Doctor’s Mansion!         ||
-| A03       | Find The Mansion!             ||
-| A04       | Zombies Attack!               ||
-| A05       | The Famous Doctor!            ||
-| A06       | Defeat The Doctor!            ||
-| A07       | Escape The Mansion!           ||
-| A08       | The Invisible Creep!          ||
-| A09       | Stop The Wedding!             ||
-| A10       | Zoro & Sanji?!                ||
-| A11       | Enemies On The Bridge!        ||
-| A12       | The Spider, Pirate & Samurai! ||
-| A13       | Perona’s Wonder Garden!       ||
-| A14       | I Am Negative!                ||
-| A15       | The Ancient Giant!            ||
-| A16       | 100 Shadows Worth Of Pain!    ||
-| A17       | The King Of The Shadows!      ||
-| A18       | Escape From Thriller Bark!    ||
+| A01       | A Cerberus!                   |Defeat Cerberus in the forest.|
+| A02       | The Doctor’s Mansion!         |Talk to Chopper (TB) in the forest to complete the quest.|
+| A03       | Find The Mansion!             |Find the Thriller Bark Mansion on the center of the island.|
+| A04       | Zombies Attack!               |Defeat 10 Zombies, Hildon and MocDonald in the mansion courtyard.|
+| A05       | The Famous Doctor!            |Talk to Dr. Hogback (TB) in his lab to complete the quest.|
+| A06       | Defeat The Doctor!            |Defeat Cindry and Dr. Hogback in the lab.|
+| A07       | Escape The Mansion!           |Find the Thriller Bark Fireplace at the end of the hall from Hogback's lab.|
+| A08       | The Invisible Creep!          |Talk to Nami (TB) outside the church to complete the quest.|
+| A09       | Stop The Wedding!             |Defeat 5 Zombie Generals outside the church, and Zombie Lola and Absalom inside the church.|
+| A10       | Zoro & Sanji?!                |Defeat Inuppe and Jigoro inside the base of the mansion.|
+| A11       | Enemies On The Bridge!        |Talk to Franky (TB) at the base of the mansion to complete the quest.|
+| A12       | The Spider, Pirate & Samurai! |Defeat Tararan on the bridge, John in the tower by the bridge, and Ryuma at the top of the mansion.|
+| A13       | Perona’s Wonder Garden!       |Find Perona’s Wonder Garden somewhere in the mansion.|
+| A14       | I Am Negative!                |Defeat Kumashi and Perona in the mansion.|
+| A15       | The Ancient Giant!            |Find Oars on the grounds behind the mansion.|
+| A16       | 100 Shadows Worth Of Pain!    |Defeat Nightmare Luffy and Oars on the grounds behind the mansion.|
+| A17       | The King Of The Shadows!      |Defeat Doppelman and Gecko Moria at the top of the mansion.|
+| A18       | Escape From Thriller Bark!    |Talk to Kuma (TB) by the mansion entrance to complete the questline.|
 
 Item Rewards: 6,600 Belly<br>
 Bounty Reward: 6,600,000
@@ -58,19 +58,19 @@ Note: Completing this quest unlocks the Flying Fish Riders Base. Speak to Kuma (
 
 ### B Quest
 
-To start the B Quest, speak to Lola (TB) in the Mansion.
+To start the B Quest, speak to Lola (TB) in the Mansion above the entrance.
 
 | Quest Code| Quest Name        | Quest Objective|
 |-----------|-----------        |-----------|
-| B01       | Lola’s Shadow!    ||
-| B02       | Search For Brook! ||
-| B03       | Brook’s Shadow!   ||
-| B04       | Search For Sanji! ||
-| B05       | Sanji’s Shadow!   ||
-| B06       | Search For Zoro!  ||
-| B07       | Zoro’s Shadow!    ||
-| B08       | Search For Luffy! ||
-| B09       | Luffy’s Shadow!   ||
+| B01       | Lola’s Shadow!    |Bring Lola (TB) her shadow. You can get it by defeating Zombie Lola.|
+| B02       | Search For Brook! |Talk to Brook (TB) at the graveyard to complete the quest.|
+| B03       | Brook’s Shadow!   |Bring Brook (TB) his shadow. You can get it by defeating Ryuma.|
+| B04       | Search For Sanji! |Talk to Sanji (TB) in the kitchen to complete the quest.|
+| B05       | Sanji’s Shadow!   |Bring Sanji (TB) his shadow. You can get it by defeating Inuppe.|
+| B06       | Search For Zoro!  |Talk to Zoro (TB) near the graveyard to complete the quest.|
+| B07       | Zoro’s Shadow!    |Bring Zoro (TB) his shadow. You can get it by defeating Jigoro.|
+| B08       | Search For Luffy! |Talk to Luffy (TB) in the mansion above the kitchen to complete the quest.|
+| B09       | Luffy’s Shadow!   |Bring Luffy (TB) his shadow to complete the questline. You can get it by defeating Oars.|
 
 Item Rewards: 1,600 Belly<br>
 Bounty Reward: 1,600,000

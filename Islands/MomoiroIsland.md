@@ -8,9 +8,9 @@ To start the A Quest, speak to Sanji (MI) near the island teleport location.
 
 | Quest Code| Quest Name           | Quest Objective|
 |-----------|-----------           |-----------|
-| A01       | The Land of Women?!  ||
-| A02       | Get Me Out Of Here!  ||
-| A03       | Defeat The Queen!    ||
+| A01       | The Land of Women?!  |Defeat 10 Okama and Tibany around the island.|
+| A02       | Get Me Out Of Here!  |Talk to Caroline (MI) in the north central part of the island to complete the quest.|
+| A03       | Defeat The Queen!    |Defeat Caroline in the north central part of the island to complete the questline.|
 
 Item Rewards: 2,500 Belly<br>
 Bounty Reward: 2,500,000

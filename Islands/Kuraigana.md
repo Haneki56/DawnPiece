@@ -8,8 +8,8 @@ To start the A Quest, speak to Zoro (KG) near the island teleport location.
 
 | Quest Code| Quest Name            | Quest Objective|
 |-----------|-----------            |-----------|
-| A01       | A Gloomy Island!      ||
-| A02       | Swordsman Training!   ||
+| A01       | A Gloomy Island!      |Talk to Mihawk (KG) in his castle to complete the quest.|
+| A02       | Swordsman Training!   |Defeat 10 Humandrills in front of the castle to complete the questline.|
 
 Item Rewards: 1,000 Belly<br>
 Bounty Reward: 1,000,000

@@ -8,12 +8,12 @@ To start the Main Quest, speak to Caimie (FFR) near the island teleport location
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | Hachi's Been Captured!    ||
-| A02       | The Caged Octopus!        ||
-| A03       | The Flying Fish Riders!   ||
-| A04       | Duval's Tragedy!          ||
-| A05       | Iron Mask Duval!          ||
-| A06       | The Rosy Life Riders!     ||
+| A01       | Hachi's Been Captured!    |Talk to Nami (FFR) by Hatchan's cage to complete the quest.|
+| A02       | The Caged Octopus!        |Talk to Hatchan (FFR) in the cage to complete the quest.|
+| A03       | The Flying Fish Riders!   |Defeat 5 Flying Fish Riders, Motobaro and Macro around the base.|
+| A04       | Duval's Tragedy!          |Talk to Sanji (FFR) in front of Duval's House to complete the quest.|
+| A05       | Iron Mask Duval!          |Defeat Duval in his house.|
+| A06       | The Rosy Life Riders!     |Talk to Duval (FFR) in front of his house to complete the questline.|
 
 Item Rewards: 1,850 Belly<br>
 Bounty Reward: 1,850,000

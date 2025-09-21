@@ -8,8 +8,8 @@ To start the A Quest, speak to Nami (WTH) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | The Weather Wizards!      ||
-| A02       | The Artificial Sky Island!||
+| A01       | The Weather Wizards!      |Defeat 10 Weather Wizards and Haredas around the island.|
+| A02       | The Artificial Sky Island!|Talk to Haredas (WTH) in his house to complete the questline.|
 
 Item Rewards: 2,200 Belly<br>
 Bounty Reward: 2,200,000

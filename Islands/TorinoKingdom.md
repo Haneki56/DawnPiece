@@ -8,8 +8,8 @@ To start the A Quest, speak to Chopper (TK) near the island teleport location.
 
 | Quest Code| Quest Name           | Quest Objective|
 |-----------|-----------           |-----------|
-| A01       | The Primitive Humans!||
-| A02       | The Giant Birds!     ||
+| A01       | The Primitive Humans!|Defeat 5 Primitive Humans and Shanba in the village.|
+| A02       | The Giant Birds!     |Defeat 5 Giant Birds on the west side of the island to complete the questline.|
 
 Item Rewards: 2,300 Belly<br>
 Bounty Reward: 2,300,000

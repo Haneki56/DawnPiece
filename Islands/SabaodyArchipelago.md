@@ -8,23 +8,23 @@ To start the Main Quest, speak to Nami (SA) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | To The Amusement Park!        ||
-| A02       | The Pirate Slave!             ||
-| A03       | The World Nobles!             ||
-| A04       | Hold Luffy Back!              ||
-| A05       | The Bartender!                ||
-| A06       | The Supernovas!               ||
-| A07       | The Worst Generation!         ||
-| A08       | Kidnapping!                   ||
-| A09       | Hatchans Been Shot!           ||
-| A10       | One Shot The World Noble!     ||
-| A11       | The Dark King!                ||
-| A12       | The Supernova Vice Captains!  ||
-| A13       | The Strongest Supernova!      ||
-| A14       | The Buster Call!              ||
-| A15       | The Pacifista!                ||
-| A16       | The Warlord!                  ||
-| A17       | The Straw Hats Separated!     ||
+| A01       | To The Amusement Park!        |Find The Amusement Park on Sabaody Archipelago.|
+| A02       | The Pirate Slave!             |Talk to Pirate Slave (SA) at the Amusement Park to complete the quest.|
+| A03       | The World Nobles!             |Talk to Saint Rosward (SA) at the Amusement Park to complete the quest.|
+| A04       | Hold Luffy Back!              |Talk to Luffy (SA) at the Amusement Park to complete the quest.|
+| A05       | The Bartender!                |Talk to Shakky (SA) inside the bar near the Thousand Sunny to complete the quest.|
+| A06       | The Supernovas!               |Defeat Capone Bege, Jewelry Bonney and Basil Hawkins in the town on the southeast grove.|
+| A07       | The Worst Generation!         |Defeat Scratchmen Apoo, Urouge and X Drake in the town on the southeast grove.|
+| A08       | Kidnapping!                   |Talk to Chopper (SA) in the town on the southeast grove to complete the quest.|
+| A09       | Hatchans Been Shot!           |Talk to Hatchan (SA) in the Auction House to complete the quest.|
+| A10       | One Shot The World Noble!     |Defeat Saint Charlos in the Auction House.|
+| A11       | The Dark King!                |Talk to Rayleigh (SA) in the Auction House to complete the quest.|
+| A12       | The Supernova Vice Captains!  |Defeat Roronoa Zolo, Killer and Bepo in the Auction House.|
+| A13       | The Strongest Supernova!      |Defeat Eustass Kid, Trafalgar Law and Monkey D. Luffy outside the Auction House.|
+| A14       | The Buster Call!              |Defeat 10 Seaman Apprentice and Kizaru outside the Auction House.|
+| A15       | The Pacifista!                |Defeat PX-4, PX-1 and Sentomaru on the west side of the north grove.|
+| A16       | The Warlord!                  |Defeat Kuma on the west side of the north grove.|
+| A17       | The Straw Hats Separated!     |Talk to Zoro (SA) on the west side of the north grove to complete the questline.|
 
 Item Rewards: 7,100 Belly<br>
 Bounty Reward: 7,100,000

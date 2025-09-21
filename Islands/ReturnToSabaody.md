@@ -8,22 +8,22 @@ To start the Main Quest, speak to Shakky (RTS) near the island teleport location
 
 | Quest Code| Quest Name            | Quest Objective|
 |-----------|-----------            |-----------|
-| A01       | Find Brook!           ||
-| A02       | Find Franky!          ||
-| A03       | Find Robin!           ||
-| A04       | Find Chopper!         ||
-| A05       | Find Nami!            ||
-| A06       | Talk To Usopp!        ||
-| A07       | Find Sanji!           ||
-| A08       | Find Zoro!            ||
-| A09       | Find Luffy!           ||
-| A10       | The Fake Straw Hats!  ||
-| A11       | Defeat The Imposters! ||
-| A12       | Demaro Black!         ||
-| A13       | Top Pirates!          ||
-| A14       | The Caribou Brothers! ||
-| A15       | The Pacifista!        ||
-| A16       | Return To The Sunny!  ||
+| A01       | Find Brook!           |Talk to Brook (RTS) on the platform on the south west grove to complete the quest.|
+| A02       | Find Franky!          |Talk to Franky (RTS) on the Thousand Sunny to complete the quest.|
+| A03       | Find Robin!           |Talk to Robin (RTS) in town on the south east grove to complete the quest.|
+| A04       | Find Chopper!         |Talk to Chopper (RTS) near the Thousand Sunny to complete the quest.|
+| A05       | Find Nami!            |Talk to Nami (RTS) in Shakky's Bar to complete the quest.|
+| A06       | Talk To Usopp!        |Talk to Usopp (RTS) in Shakky's Bar to complete the quest.|
+| A07       | Find Sanji!           |Talk to Sanji (RTS) in town on the south east grove to complete the quest.|
+| A08       | Find Zoro!            |Talk to Zoro (RTS) on the eastern part of the north grove to complete the quest.|
+| A09       | Find Luffy!           |Talk to Luffy (RTS) on the platform on the east grove to complete the quest.|
+| A10       | The Fake Straw Hats!  |Defeat Fake Franky, Fake Robin and Fake Chopper on the east grove.|
+| A11       | Defeat The Imposters! |Defeat Fake Nami, Fake Usopp and Fake Sanji on the east grove.|
+| A12       | Demaro Black!         |Defeat Fake Zoro and Fake Luffy on the east grove.|
+| A13       | Top Pirates!          |Defeat Albion and Doughty on the east grove.|
+| A14       | The Caribou Brothers! |Defeat Caribou and Coribou on the east grove.|
+| A15       | The Pacifista!        |Defeat PX-5, PX-7 and Marine Officer Sentomaru on the east grove.|
+| A16       | Return To The Sunny!  |Talk to Rayleigh (RTS) by the Thousand Sunny to complete the questline.|
 
 
 Item Rewards: 3,300 Belly<br>

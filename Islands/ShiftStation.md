@@ -8,7 +8,7 @@ To start the Main Quest, speak to Kokoro (SS) near the island teleport location.
 
 | Quest Code| Quest Name          | Quest Objective|
 |-----------|-----------          |-----------|
-| A01       | In Need Of Repairs! ||
+| A01       | In Need Of Repairs! |Talk to Kokoro (SS) at the Shift Station to complete the quest.|
 
 Item Rewards: 10 Belly<br>
 Bounty Reward: 10,000
@@ -21,9 +21,9 @@ To start the B Quest, speak to Chimney (SS) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| B01       | Return Of The Foxy Pirates!   ||
-| B02       | The Groggy Monsters!          ||
-| B03       | Captain Foxy!                 ||
+| B01       | Return Of The Foxy Pirates!   |Defeat Cutie Porche, Fishman Capote and Star Shark Monda on Foxy's Ship.|
+| B02       | The Groggy Monsters!          |Defeat Four Footed Dash Freak Hamburg, Tackle Machine Pickles and Big Pan The Wotan on Foxy's Ship.|
+| B03       | Captain Foxy!                 |Defeat Foxy The Silver Fox on Foxy's Ship to complete the questline.|
 
 Item Rewards: 2,650 Belly<br>
 Bounty Reward: 2,650,000

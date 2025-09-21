@@ -8,14 +8,14 @@ To start the Main Quest, speak to Luffy (AL) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | I Want My Clothes Back!   ||
-| A02       | They Want My Kintama!     ||
-| A03       | A Big Misunderstanding!   ||
-| A04       | The Ruthless Kuja!        ||
-| A05       | Bath Time!                ||
-| A06       | Trial Of The Arena!       ||
-| A07       | The Pirate Empress!       ||
-| A08       | The Truth About The Mark! ||
+| A01       | I Want My Clothes Back!   |Defeat Marguerite, Sweet Pea and Aphelandra in town.|
+| A02       | They Want My Kintama!     |Defeat Kikyo, Belladonna and Enishida in town.|
+| A03       | A Big Misunderstanding!   |Talk to Marguerite (AL) in town to complete the quest.|
+| A04       | The Ruthless Kuja!        |Defeat Cosmos, Daisy and Ran in town.|
+| A05       | Bath Time!                |Talk to Naked Hancock (AL) in the palace to complete the quest.|
+| A06       | Trial Of The Arena!       |Defeat Bacura in the arena, and Boa Marigold and Boa Sandersonia by the arena entrance.|
+| A07       | The Pirate Empress!       |Defeat Boa Hancock in the palace.|
+| A08       | The Truth About The Mark! |Talk to Boa Hancock (AL) in the palace to complete the questline.|
 
 Item Rewards: 3,700 Belly<br>
 Bounty Reward: 3,700,000

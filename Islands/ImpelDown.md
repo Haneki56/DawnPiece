@@ -8,21 +8,21 @@ To start the Main Quest, speak to Luffy (ID) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | Begin The Infiltration!       ||
-| A02       | Level 1: The Crimson Hell!    ||
-| A03       | The Blugori!                  ||
-| A04       | Level 2: Wild Beast Hell!     ||
-| A05       | The Jailer Beasts!            ||
-| A06       | Level 3: Starvation Hell!     ||
-| A07       | The Jailer Guards!            ||
-| A08       | Level 4: Blazing Hell!        ||
-| A09       | The Leaders!                  ||
-| A10       | Level 5: Freezing Hell!       ||
-| A11       | The Wolves!                   ||
-| A12       | Level 5.5: Newkama Land!      ||
-| A13       | Level 6: Eternal Hell!        ||
-| A14       | An Unexpected Arrival!        ||
-| A15       | The Greatest Nakama!          ||
+| A01       | Begin The Infiltration!       |Talk to Hancock (ID) on the surface of Impel Down to complete the quest.|
+| A02       | Level 1: The Crimson Hell!    |Talk to Buggy (ID) on Level 1 of Impel Down to complete the quest.|
+| A03       | The Blugori!                  |Defeat 5 Blugori on Level 1 of Impel Down.|
+| A04       | Level 2: Wild Beast Hell!     |Talk to Galdino (ID) on Level 2 of Impel Down to complete the quest.|
+| A05       | The Jailer Beasts!            |Defeat Minotaurus, Minorhinocerous, and Minokoala on Level 2 of Impel Down.|
+| A06       | Level 3: Starvation Hell!     |Talk to Bentham (ID) on Level 3 of Impel Down to complete the quest.|
+| A07       | The Jailer Guards!            |Defeat Minozebra, Sadi, and Domino on Level 3 of Impel Down.|
+| A08       | Level 4: Blazing Hell!        |Talk to Daz Bones (ID) on Level 4 of Impel Down to complete the quest.|
+| A09       | The Leaders!                  |Defeat Hannyabal and Magellan on Level 4 of Impel Down.|
+| A10       | Level 5: Freezing Hell!       |Talk to Inazuma (ID) on Level 5 of Impel Down to complete the quest.|
+| A11       | The Wolves!                   |Defeat 5 Wolves on Level 5 of Impel Down.|
+| A12       | Level 5.5: Newkama Land!      |Talk to Ivankov (ID) on Level 5.5 of Impel Down to complete the quest.|
+| A13       | Level 6: Eternal Hell!        |Talk to Crocodile (ID) on Level 6 of Impel Down to complete the quest.|
+| A14       | An Unexpected Arrival!        |Talk to Blackbeard (ID) on the surface of Impel Down to complete the quest.|
+| A15       | The Greatest Nakama!          |Talk to Jinbe (ID) on the ship in front of Impel Down to complete the questline.|
 
 
 Item Rewards: 4,200 Belly<br>

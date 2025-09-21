@@ -128,7 +128,7 @@ To start the D Quest, speak to White Chase Smoker (AB) in Katorea.
 
 | Boss Name | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other        |
 |-----------|----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------   |
-| Ace       | 400 Belly  | Rare      | Ace Knife (Uncommon) |           |            |           |           | Mera fragment|
+| Ace       | 400 Belly  | Rare      | Ace Knife (Uncommon) |           |            |           |           | Mera Fragment|
 
 Item Rewards: 400 Belly<br>
 Bounty Reward: 400,000

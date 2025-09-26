@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <title>DawnPiece Wiki</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <!-- Removed default Vue theme -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/docsify-themeable/style.min.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css">
   <style>
     .sidebar {
@@ -24,9 +25,26 @@
       loadSidebar: 'sidebar.md',
       subMaxLevel: 2,
       sidebarDisplayLevel: 0
+      ,darklightTheme: {
+        siteFont : 'PT Sans',
+        defaultTheme : 'dark',
+        codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
+        bodyFontSize : '17px',
+        dark: {
+          background: '#181818',
+          highlightColor: '#e96900',
+          codeBackgroundColor : '#222',
+          codeTextColor : '#b4b4b4',
+        },
+        light: {
+          background: '#fff',
+          highlightColor: '#e96900',
+        }
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/docsify-darklight-theme.min.js"></script>
 </body>
 </html>

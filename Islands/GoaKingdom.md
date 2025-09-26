@@ -1,3 +1,4 @@
+
 # Goa Kingdom Guide
 
 This island is automatically accessible from the Side Island Menu in the Teleporter. Goa Kingdom is a very important location regarding shopping for food, blocks, devil fruits and many other items in the game.
@@ -40,7 +41,10 @@ Bounty Reward: 550,000
 | Epic Fragment Trader      | Devil Fruit Fragments     |
 | Legendary Fragment Trader | Devil Fruit Fragments     |
 | Mythical Fragment Trader  | Devil Fruit Fragments     |
-| Upgrade Orb Exchange      | Upgrade Orbs              |
+| Orb Exchange              | Upgrade Orbs              |
+| MMNM Swords               | Modded Swords             |
+| MMNM Ranged               | Modded Ranged Weapons     |
+| MMNM Ability Items        | Modded Ability Items      |
 | Waiter                    | Food                      |
 | Chef                      | Sea King Meat             |
 | Wool                      | Wool Blocks               |
@@ -96,4 +100,5 @@ Bounty Reward: 550,000
 | Bank Teller           | Currency Exchange                         |
 | Bank Teller (Bulk)    | Currency Exchange                         |
 | Devil Fruit Remover   | Remove your Devil Fruit                   |
+| Doctor                | Healer                         |
 | Policeman             | Server Rules and Jail Tutorial            |

@@ -48,6 +48,6 @@
   * [28.8 Namakura Island](Islands/NamakuraIsland.md)
   * [29. Return To Sabaody](Islands/ReturnToSabaody.md)
 
-  * **Custom Gear Guide**
+* **Custom Gear Guide**
   * [Melee Weapons](Gear/MeleeWeapons.md)
   * [Armor](Gear/Armor.md)

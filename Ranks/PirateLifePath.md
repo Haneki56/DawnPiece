@@ -1,0 +1,82 @@
+# Pirate Life Path
+
+Please see the sections below regarding the information you need to know for the Pirate Life Path.
+
+### General Ranks
+
+| Rank Name     | Rank Type     | Cumulative Bounty |
+|-----------    |-----------    |-------------------|
+| Pirate        | Starting      | 0                 |
+| Super-Rookie  | 30,000,000    | 30,000,000        |
+| Supernova     | 100,000,000   | 130,000,000       |
+| Conqueror     | 300,000,000   | 430,000,000       |
+
+### Legacy Ranks
+
+| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
+|-----------            |-----------        |-------------------|-----------            |
+| Warlord               | 500,000,000       | 930,000,000       | 7                     |
+| Yonko                 | 1,000,000,000     | 1,930,000,000     | 4                     |   
+| King of the Pirates   | 1,500,000,000     | 3,430,000,000     | 1                     |
+
+### Trials Quest
+
+To start the Pirate Trials Questline, speak to X (Trials) on X.
+
+| Quest Code| Quest Name                 | Quest Objective|
+|-----------|-----------                 |-----------|
+| P01       |                            ||
+| P02       |                            ||
+| P03       |                            ||
+| P04       |                            ||
+|The Warlord Trials have been completed! Speak to X (Trials) again to start the Yonko Trials.|
+| P05       |                            ||
+| P06       |                            ||
+| P07       |                            ||
+|The Yonko Trials have been completed! Speak to X (Trials) again to start the King Of The Pirates Trials.|
+| P08       |                            ||
+| P09       |                            ||
+
+Note: The player must complete Wano Kuni to be have access to this questline. This questline can only be completed once.
+
+### Trials Quest Boss Drops
+
+| Boss Name | Belly         | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------|-----------    |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+|           |               |           |           |           |            |           |           |           |
+
+### Trials Quest Boss Locations
+
+| Boss Name | Island        | Sub-Location  | 
+|-----------|-----------    |-----------    |
+|           |               |               |
+|           |               |               | 
+|           |               |               |
+|           |               |               |  
+|           |               |               |     
+|           |               |               |     
+|           |               |               | 
+|           |               |               |  
+|           |               |               |  
+|           |               |               | 
+|           |               |               | 
+|           |               |               | 
+|           |               |               |
+|           |               |               |
+|           |               |               |
+|           |               |               |

@@ -1,5 +1,4 @@
 * **Island Guide**
-  * [Overview](Islands/IslandGuide.md)
   * [0. Spawn Island](Islands/SpawnIsland.md)
   * [1. Foosha Village](Islands/FooshaVillage.md)
   * [1.1 Goa Kingdom](Islands/GoaKingdom.md)
@@ -49,5 +48,10 @@
   * [29. Return To Sabaody](Islands/ReturnToSabaody.md)
 
 * **Custom Gear Guide**
+  * [Blacksmiths](Gear/Blacksmith.md)
   * [Melee Weapons](Gear/MeleeWeapons.md)
   * [Armor](Gear/Armor.md)
+
+* **Ranks**
+  * [General Information](Ranks/Ranks.md)
+  * [Pirate Life Path](Ranks/PirateLifePath.md)

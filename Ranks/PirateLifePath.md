@@ -23,19 +23,51 @@ Please see the sections below regarding the information you need to know for the
 
 To start the Pirate Trials Questline, speak to X (Trials) on X.
 
-| Quest Code| Quest Name                 | Quest Objective|
-|-----------|-----------                 |-----------|
-| P01       |                            ||
-| P02       |                            ||
-| P03       |                            ||
-| P04       |                            ||
-|The Warlord Trials have been completed! Speak to X (Trials) again to start the Yonko Trials.|
-| P05       |                            ||
-| P06       |                            ||
-| P07       |                            ||
-|The Yonko Trials have been completed! Speak to X (Trials) again to start the King Of The Pirates Trials.|
-| P08       |                            ||
-| P09       |                            ||
+<table>
+	<thead>
+		<tr>
+			<th>Quest Code</th>
+			<th>Quest Name</th>
+			<th>Quest Objective</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>P01</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td>P02</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td>P03</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td>P04</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td colspan="3"><em>The Warlord Trials have been completed! Speak to X (Trials) again to start the Yonko Trials.</em></td>
+		</tr>
+		<tr>
+			<td>P05</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td>P06</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td>P07</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td colspan="3"><em>The Yonko Trials have been completed! Speak to X (Trials) again to start the King Of The Pirates Trials.</em></td>
+		</tr>
+		<tr>
+			<td>P08</td><td></td><td></td>
+		</tr>
+		<tr>
+			<td>P09</td><td></td><td></td>
+		</tr>
+	</tbody>
+  
+</table>
 
 Note: The player must complete Wano Kuni to be have access to this questline. This questline can only be completed once.
 

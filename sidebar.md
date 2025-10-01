@@ -52,6 +52,6 @@
   * [Melee Weapons](Gear/MeleeWeapons.md)
   * [Armor](Gear/Armor.md)
 
-* **Ranks**
+* **Life Path Guide**
   * [General Information](Ranks/Ranks.md)
   * [Pirate Life Path](Ranks/PirateLifePath.md)

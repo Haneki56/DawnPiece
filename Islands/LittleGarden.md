@@ -29,7 +29,7 @@ Note: Completing this quest unlocks Drum Island. Speak to Sanji (LG) or the Tele
 | Boss Name         | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other           |
 |-----------        |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------      |
 | Dorry             | 70 Belly   |           |           |           |            |           |           |                 |
-| Broggy            | 75 Belly   |           |           |           |            |           |           |                 |
+| Broggy            | 70 Belly   |           |           |           |            |           |           |                 |
 | Miss Valentine    | 50 Belly   |           |           |           |            |           |           | Kilo Fragment   |
 | Mr. 5             | 70 Belly   |           |           |           |            |           |           | Bomu Fragment   |
 | Miss Goldenweek   | 30 Belly   |           |           |           |            |           |           |                 |

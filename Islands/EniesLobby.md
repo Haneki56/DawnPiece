@@ -70,9 +70,9 @@ Note: Completing this quest unlocks Thriller Bark. Speak to Luffy (EL) or the Te
 | Captain Sharinguru | 300 Belly | Uncommon |  |  |  |  |  |  |
 | Vice Admiral Strawberry | 300 Belly | Uncommon |  |  |  |  |  |  |
 | Vice Admiral Yamakaji | 300 Belly | Uncommon |  |  |  |  |  |  |
-| Vice Admiral Onigumo | 300 Belly | Uncommon |  |  |  |  |  |  |
+| Vice Admiral Onigumo | 300 Belly | Uncommon | Cutlass (Uncommon) |  |  |  |  |  |
 | Vice Admiral Doberman | 300 Belly | Uncommon |  |  |  |  |  |  |
-| Vice Admiral Momonga | 300 Belly | Uncommon | Cutlass (Uncommon) |  |  |  |  |  |
+| Vice Admiral Momonga | 300 Belly | Uncommon |  |  |  |  |  |  |
 
 ### Essential NPCs
 

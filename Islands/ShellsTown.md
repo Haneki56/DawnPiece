@@ -35,3 +35,4 @@ Note: Completing this quest unlocks Orange Town. Speak to Ririka (ST) or the Tel
 | NPC Name         | Purpose                            |
 |-------------     |-----------                         |
 | Teleporter       | Teleport to any unlocked location  |
+| Blacksmith       | Custom Gear Information            |

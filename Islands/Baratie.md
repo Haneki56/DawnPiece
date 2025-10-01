@@ -26,7 +26,7 @@ Note: Completing this quest unlocks Cocoyashi Village. Speak to Zeff (BR) or the
 |-----------        |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------|
 | Fullbody          | 35 Belly   |           |                      |           |            |           |           |           |
 | Gin               | 25 Belly   |           | Tonfa (Common)       |           |            |           |           |           |
-| Pearl.            | 30 Belly   |           |                      |           |            |           |           |           |
+| Pearl             | 30 Belly   |           |                      |           |            |           |           |           |
 | Don Krieg         | 80 Belly   |           | Diaseno (Common)     |           |            |           |           |           |
 
 ### Essential NPCs

@@ -83,8 +83,8 @@ Bounty Reward: 1,110,000
 | Arrow         | 50 Belly   |           |                      |           |            |           |           |                  |
 | Barrel        | 50 Belly   |           |                      |           |            |           |           |                  |
 | Igaram        | 80 Belly   |           |                      |           |            |           |           |                  |
-| Chaka         | 150 Belly  |           |                      |           |            |           |           |                  |
-| Pell          | 150 Belly  |           |                      |           |            |           |           | Falcon Fragment  |
+| Chaka         | 150 Belly  | Uncommon  |                      |           |            |           |           |                  |
+| Pell          | 150 Belly  | Uncommon  |                      |           |            |           |           | Falcon Fragment  |
 | Princess Vivi | 100 Belly  |           |                      |           |            |           |           |                  |
 | King Cobra    | 50 Belly   |           |                      |           |            |           |           |                  |
 

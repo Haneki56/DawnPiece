@@ -39,6 +39,7 @@ Note: Completing this quest unlocks the Flying Fish Riders Base. Speak to Kuma (
 | Cerberus          | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Zombie            | 50 Belly   |           |                          |           |            |           |           |                 |
 | Hildon            | 150 Belly  | Uncommon  |                          |           |            |           |           |                 |
+| MocDonald         | 150 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Cindry            | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Dr. Hogback       | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Zombie General    | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |

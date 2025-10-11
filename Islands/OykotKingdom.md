@@ -19,8 +19,8 @@ Bounty Reward: 350,000
 
 | Boss Name      | Belly      | Orb       | Weapon              | Helmet    | Chestplate | Leggings  | Boots     | Other     |
 |-----------     |----------- |-----------|-----------          |-----------|----------- |-----------|-----------|-----------|
-| Pirate Grunt   | 50 Belly   |           | Cutlass (Common)    |           |            |           |           |           |
-| Pirate Captain | 100 Belly  |           | Cutlass (Uncommon)  |           |            |           |           |           |
+| Pirate Grunt   | 50 Belly   | Common    | Cutlass (Common)    |           |            |           |           |           |
+| Pirate Captain | 100 Belly  | Uncommon  | Cutlass (Uncommon)  |           |            |           |           |           |
 
 ### Essential NPCs
 

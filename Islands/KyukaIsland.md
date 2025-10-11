@@ -18,11 +18,11 @@ Bounty Reward: 400,000
 
 ### A Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------        |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
-| Marine Fullbody   | 100 Belly  |           |           |           |            |           |           |           |
-| Marine Jango      | 100 Belly  |           |           |           |            |           |           |           |
-| Marine Hina       | 200 Belly  | Uncommon  |           |           |            |           |           |           |
+| Boss Name       | Belly      | Orb      | Weapon              | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------      |----------- |----------|-----------          |-----------|----------- |-----------|-----------|-----------|
+| Marine Fullbody | 100 Belly  | Uncommon |                     |           |            |           |           |           |
+| Marine Jango    | 100 Belly  | Uncommon | Chakram (Uncommon)  |           |            |           |           |           |
+| Marine Hina     | 200 Belly  | Uncommon |                     |           |            |           |           |           |
 
 ### Essential NPCs
 

@@ -19,9 +19,9 @@ Bounty Reward: 240,000
 
 | Boss Name      | Belly      | Orb       | Weapon              | Helmet    | Chestplate | Leggings  | Boots     | Other     |
 |-----------     |----------- |-----------|-----------          |-----------|----------- |-----------|-----------|-----------|
-| Kagikko        | 30 Belly   |           |                     |           |            |           |           |           |
-| Hustle         | 30 Belly   |           |                     |           |            |           |           |           |
-| Ideaman        | 30 Belly   |           |                     |           |            |           |           |           |
+| Kagikko        | 30 Belly   | Common    |                     |           |            |           |           |           |
+| Hustle         | 30 Belly   | Common    |                     |           |            |           |           |           |
+| Ideaman        | 30 Belly   | Common    |                     |           |            |           |           |           |
 | Mihawk         | 150 Belly  | Uncommon  | Kogatana (Uncommon) |           |            |           |           |           |
 
 ### Essential NPCs

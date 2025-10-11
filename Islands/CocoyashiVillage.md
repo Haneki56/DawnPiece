@@ -24,17 +24,17 @@ Note: Completing this quest unlocks Loguetown. Speak to Genzo (CV) or the Telepo
 
 ### Main Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------        |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------|
-| Shioyaki          | 30 Belly   |           |                      |           |            |           |           |           |
-| Take              | 30 Belly   |           |                      |           |            |           |           |           |
-| Kaneshiro         | 30 Belly   |           |                      |           |            |           |           |           |
-| Pisaro            | 30 Belly   |           |                      |           |            |           |           |           |
-| Chew              | 50 Belly   |           |                      |           |            |           |           |           |
-| Kuroobi           | 70 Belly   |           |                      |           |            |           |           |           |
-| Momoo             | 1 Belly    |           |                      |           |            |           |           |           |
-| Hatchan           | 50 Belly   |           | Cutlass (Common)     |           |            |           |           |           |
-| Arlong            | 90 Belly   |           | Kiribachi (Common)   |           |            |           |           |           |
+| Boss Name | Belly    | Orb     | Weapon             | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------|----------|---------|-----------         |-----------|----------- |-----------|-----------|-----------|
+| Shioyaki  | 30 Belly | Common  |                    |           |            |           |           |           |
+| Take      | 30 Belly | Common  |                    |           |            |           |           |           |
+| Kaneshiro | 30 Belly | Common  |                    |           |            |           |           |           |
+| Pisaro    | 30 Belly | Common  |                    |           |            |           |           |           |
+| Chew      | 50 Belly | Common  |                    |           |            |           |           |           |
+| Kuroobi   | 70 Belly | Common  |                    |           |            |           |           |           |
+| Momoo     | 1 Belly  |         |                    |           |            |           |           |           |
+| Hatchan   | 50 Belly | Common  | Cutlass (Common)   |           |            |           |           |           |
+| Arlong    | 90 Belly | Common  | Kiribachi (Common) |           |            |           |           |           |
 
 ### B Quest
 
@@ -63,11 +63,11 @@ Bounty Reward: 150,000
 
 ### C Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other        |
-|-----------        |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------   |
-| Salmon Fishman    | 50 Belly   |           |           |           |            |           |           | Raw Salmon   |
-| Puffer Fishman    | 50 Belly   |           |           |           |            |           |           | Pufferfish   |
-| Clown Fishman     | 50 Belly   |           |           |           |            |           |           | Tropical Fish|
+| Boss Name      | Belly    | Orb    | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other        |
+|-----------     |----------|--------|-----------|-----------|----------- |-----------|-----------|-----------   |
+| Salmon Fishman | 50 Belly | Common |           |           |            |           |           | Raw Salmon   |
+| Puffer Fishman | 50 Belly | Common |           |           |            |           |           | Pufferfish   |
+| Clown Fishman  | 50 Belly | Common |           |           |            |           |           | Tropical Fish|
 
 ### Essential NPCs
 

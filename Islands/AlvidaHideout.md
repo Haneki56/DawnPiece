@@ -22,10 +22,10 @@ Note: Completing this quest unlocks Shells Town. Speak to Alvida Pirate (AH) or 
 
 | Boss Name         | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other     |
 |-----------        |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------|
-| Heppoko           | 10 Belly   |           |                      |           |            |           |           |           |
-| Peppoko           | 10 Belly   |           |                      |           |            |           |           |           |
-| Poppoko           | 10 Belly   |           |                      |           |            |           |           |           |
-| Alvida            | 35 Belly   |           | Iron Mace (Common)   |           |            |           |           |           |
+| Heppoko           | 10 Belly   | Common    |                      |           |            |           |           |           |
+| Peppoko           | 10 Belly   | Common    |                      |           |            |           |           |           |
+| Poppoko           | 10 Belly   | Common    |                      |           |            |           |           |           |
+| Alvida            | 35 Belly   | Common    | Iron Mace (Common)   |           |            |           |           |           |
 
 ### Essential NPCs
 

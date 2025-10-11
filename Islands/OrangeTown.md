@@ -24,13 +24,13 @@ Note: Completing this quest unlocks Syrup Village. Speak to Luffy (OT) or the Te
 
 ### Main Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------        |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------|
-| Mohji             | 30 Belly   |           |                      |           |            |           |           |           |
-| Richie            | 10 Belly   |           |                      |           |            |           |           |           |
-| Cabaji            | 40 Belly   |           |                      |           |            |           |           |           |
-| Clown Pirate      | 20 Belly   |           |                      |           |            |           |           |           |
-| Buggy             | 55 Belly   |           | Clown Knives (Common)|           |            |           |           |           |
+| Boss Name   | Belly    | Orb    | Weapon                | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------  |----------|--------|-----------            |-----------|----------- |-----------|-----------|-----------|
+| Mohji       | 30 Belly | Common | Tamer Whip (Common)   |           |            |           |           |           |
+| Richie      | 10 Belly | Common |                       |           |            |           |           |           |
+| Cabaji      | 40 Belly | Common | Acrobat Sword (Common)|           |            |           |           |           |
+| Clown Pirate| 20 Belly | Common |                       |           |            |           |           |           |
+| Buggy       | 55 Belly | Common | Clown Knives (Common) |           |            |           |           |           |
 
 ### Essential NPCs
 

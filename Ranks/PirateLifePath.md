@@ -26,9 +26,7 @@ To start the Pirate Trials Questline, speak to X (Trials) on X.
 <table>
 	<thead>
 		<tr>
-			<th>Quest Code</th>
-			<th>Quest Name</th>
-			<th>Quest Objective</th>
+			<th>Quest Code</th><th>Quest Name</th><th>Quest Objective</th>
 		</tr>
 	</thead>
 	<tbody>

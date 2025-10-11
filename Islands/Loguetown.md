@@ -26,9 +26,9 @@ Note: Completing this quest unlocks Reverse Mountain. Speak to Dragon (LGT) or t
 
 | Boss Name         | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other        |
 |-----------        |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------   |
-| Buggy The Clown   | 65 Belly   |           | Clown Knives (Common)|           |            |           |           | Bara Fragment|
-| Smooth Alvida     | 40 Belly   |           | Iron Mace (Common)   |           |            |           |           | Sube Fragment|
-| Tashigi           | 40 Belly   |           |                      |           |            |           |           |              |
+| Buggy The Clown   | 65 Belly   | Common    | Clown Knives (Common)|           |            |           |           | Bara Fragment|
+| Smooth Alvida     | 40 Belly   | Common    | Iron Mace (Common)   |           |            |           |           | Sube Fragment|
+| Tashigi           | 40 Belly   | Common    | Shigure (Common)     |           |            |           |           |              |
 | Smoker            | 100 Belly  | Uncommon  | Jitte (Uncommon)     |           |            |           |           |              |
 
 ### Essential NPCs

@@ -69,6 +69,10 @@ Bounty Reward: 150,000
 | Puffer Fishman | 50 Belly | Common |           |           |            |           |           | Pufferfish   |
 | Clown Fishman  | 50 Belly | Common |           |           |            |           |           | Tropical Fish|
 
+| Merchant Name | Merchandise   |
+|-------------  |-----------    |
+| Bellemere     | Fruits        |
+
 ### Essential NPCs
 
 | NPC Name         | Purpose                            |

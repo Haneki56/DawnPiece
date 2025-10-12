@@ -30,15 +30,15 @@ Bounty Reward: 2,650,000
 
 ### B Quest Boss Drops
 
-| Boss Name                     | Belly      | Orb       | Weapon                | Helmet    | Chestplate | Leggings  | Boots     | Other           |
-|-----------                    |----------- |-----------|-----------            |-----------|----------- |-----------|-----------|-----------      |
-| Cutie Porche                  | 300 Belly  | Uncommon  |                       |           |            |           |           |                 |
-| Fishman Capote                | 300 Belly  | Uncommon  |                       |           |            |           |           |                 |
-| Star Shark Monda              | 250 Belly  | Uncommon  |                       |           |            |           |           |                 |
-| Four Footed Dash Freak Hamburg| 400 Belly  | Uncommon  | Iron Mace (Uncommon)  |           |            |           |           |                 |
-| Tackle Machine Pickles        | 450 Belly  | Uncommon  | Cutlass (Uncommon)    |           |            |           |           |                 |
-| Big Pan The Wotan             | 450 Belly  | Uncommon  |                       |           |            |           |           |                 |
-| Foxy The Silver Fox           | 500 Belly  | Rare      |                       |           |            |           |           | Noro Fragment   |
+| Boss Name                     | Belly     | Orb      | Weapon                         | Helmet    | Chestplate | Leggings  | Boots     | Other           |
+|-----------                    |-----------|----------|-----------                     |-----------|----------- |-----------|-----------|-----------      |
+| Cutie Porche                  | 300 Belly | Uncommon | Cutie Baton (Uncommon)         |           |            |           |           |                 |
+| Fishman Capote                | 300 Belly | Uncommon |                                |           |            |           |           |                 |
+| Star Shark Monda              | 250 Belly | Uncommon |                                |           |            |           |           |                 |
+| Four Footed Dash Freak Hamburg| 400 Belly | Rare     | Iron Mace (Uncommon)           |           |            |           |           |                 |
+| Tackle Machine Pickles        | 450 Belly | Rare     | Cutlass (Uncommon)             |           |            |           |           |                 |
+| Big Pan The Wotan             | 450 Belly | Rare     | Big Pan (Uncommon)             |           |            |           |           |                 |
+| Foxy The Silver Fox           | 500 Belly | Rare     | Noro Noro Beam Sword (Uncommon)|           |            |           |           | Noro Fragment   |
 
 
 ### Essential NPCs

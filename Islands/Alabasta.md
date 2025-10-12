@@ -38,21 +38,21 @@ Note: Completing this quest unlocks Jaya. Speak to Nico Robin (AB) or the Telepo
 
 ### Main Quest Boss Drops
 
-| Boss Name             | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other        |
-|-----------            |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------   |
-| Kung Fu Dugong        | 10 Belly   |           |                      |           |            |           |           |              |
-| Mr. 4                 | 70 Belly   |           |                      |           |            |           |           |              |
-| Lassoo                | 30 Belly   |           |                      |           |            |           |           |              |
-| Miss Merry Christmas  | 60 Belly   |           |                      |           |            |           |           | Mogu Fragment|
-| Mr. 2                 | 100 Belly  |           |                      |           |            |           |           | Mane Fragment|
-| Miss Doublefinger     | 80 Belly   |           |                      |           |            |           |           |              |
-| Mr. 1                 | 150 Belly  | Uncommon  |                      |           |            |           |           | Supa Fragment|
-| Rebel Soldier         | 60 Belly   |           |                      |           |            |           |           |              |
-| Royal Soldier         | 60 Belly   |           |                      |           |            |           |           |              |
-| Mr. 7                 | 90 Belly   |           |                      |           |            |           |           |              |
-| Miss Father's Day     | 90 Belly   |           |                      |           |            |           |           |              |
-| Miss All-Sunday       | 120 Belly  |           |                      |           |            |           |           | Hana Fragment|
-| Mr. 0                 | 250 Belly  | Uncommon  | Hook (Uncommon)      |           |            |           |           | Suna Fragment|
+| Boss Name            | Belly     | Orb      | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other        |
+|-----------           |-----------|----------|-----------           |-----------|----------- |-----------|-----------|-----------   |
+| Kung Fu Dugong       | 10 Belly  | Common   |                      |           |            |           |           |              |
+| Mr. 4                | 70 Belly  | Common   | Steel Bat (Common)   |           |            |           |           |              |
+| Lassoo               | 30 Belly  | Common   |                      |           |            |           |           |              |
+| Miss Merry Christmas | 60 Belly  | Common   | Mole Claw (Common)   |           |            |           |           | Mogu Fragment|
+| Mr. 2                | 100 Belly | Uncommon |                      |           |            |           |           | Mane Fragment|
+| Miss Doublefinger    | 80 Belly  | Common   |                      |           |            |           |           |              |
+| Mr. 1                | 150 Belly | Uncommon | Arm Sword (Uncommon) |           |            |           |           | Supa Fragment|
+| Rebel Soldier        | 60 Belly  | Common   |                      |           |            |           |           |              |
+| Royal Soldier        | 60 Belly  | Common   |                      |           |            |           |           |              |
+| Mr. 7                | 90 Belly  | Common   |                      |           |            |           |           |              |
+| Miss Father's Day    | 90 Belly  | Common   |                      |           |            |           |           |              |
+| Miss All-Sunday      | 120 Belly | Uncommon |                      |           |            |           |           | Hana Fragment|
+| Mr. 0                | 250 Belly | Uncommon | Hook (Uncommon)      |           |            |           |           | Suna Fragment|
 
 ### B Quest
 
@@ -74,19 +74,19 @@ Bounty Reward: 1,110,000
 
 ### B Quest Boss Drops
 
-| Boss Name     | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other            |
-|-----------    |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------       |
-| Royal Soldier | 60 Belly   |           |                      |           |            |           |           |                  |
-| Terracotta    | 20 Belly   |           |                      |           |            |           |           |                  |
-| Hyota         | 50 Belly   |           |                      |           |            |           |           |                  |
-| Brahm         | 50 Belly   |           |                      |           |            |           |           |                  |
-| Arrow         | 50 Belly   |           |                      |           |            |           |           |                  |
-| Barrel        | 50 Belly   |           |                      |           |            |           |           |                  |
-| Igaram        | 80 Belly   |           |                      |           |            |           |           |                  |
-| Chaka         | 150 Belly  | Uncommon  |                      |           |            |           |           |                  |
-| Pell          | 150 Belly  | Uncommon  |                      |           |            |           |           | Falcon Fragment  |
-| Princess Vivi | 100 Belly  |           |                      |           |            |           |           |                  |
-| King Cobra    | 50 Belly   |           |                      |           |            |           |           |                  |
+| Boss Name     | Belly     | Orb      | Weapon                     | Helmet    | Chestplate | Leggings  | Boots     | Other            |
+|-----------    |-----------|----------|-----------                 |-----------|----------- |-----------|-----------|-----------       |
+| Royal Soldier | 60 Belly  | Common   |                            |           |            |           |           |                  |
+| Terracotta    | 20 Belly  | Common   |                            |           |            |           |           |                  |
+| Hyota         | 50 Belly  | Common   | Tsumegeri Cleaver (Common) |           |            |           |           |                  |
+| Brahm         | 50 Belly  | Common   | Tsumegeri Labrys (Common)  |           |            |           |           |                  |
+| Arrow         | 50 Belly  | Common   | Tsumegeri Sword (Common)   |           |            |           |           |                  |
+| Barrel        | 50 Belly  | Common   | Tsumegeri Cleaver (Common) |           |            |           |           |                  |
+| Igaram        | 80 Belly  | Common   |                            |           |            |           |           |                  |
+| Chaka         | 150 Belly | Uncommon | Jackal Sword (Uncommon)    |           |            |           |           |                  |
+| Pell          | 150 Belly | Uncommon | Falcon Sword (Uncommon)    |           |            |           |           | Falcon Fragment  |
+| Princess Vivi | 100 Belly | Uncommon | Peacock Slasher (Uncommon) |           |            |           |           |                  |
+| King Cobra    | 50 Belly  | Common   |                            |           |            |           |           |                  |
 
 ### C Quest
 
@@ -105,14 +105,14 @@ Bounty Reward: 530,000
 
 ### C Quest Boss Drops
 
-| Boss Name     | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------    |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
-| Rebel Soldier | 60 Belly   |           |           |           |            |           |           |           |
-| Farafra       | 20 Belly   |           |           |           |            |           |           |           |
-| Okame         | 20 Belly   |           |           |           |            |           |           |           |
-| Erik          | 20 Belly   |           |           |           |            |           |           |           |
-| Kebi          | 20 Belly   |           |           |           |            |           |           |           |
-| Koza          | 150 Belly  | Uncommon  |           |           |            |           |           |           |
+| Boss Name     | Belly     | Orb      | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------    |-----------|----------|-----------|-----------|----------- |-----------|-----------|-----------|
+| Rebel Soldier | 60 Belly  | Common   |           |           |            |           |           |           |
+| Farafra       | 20 Belly  | Common   |           |           |            |           |           |           |
+| Okame         | 20 Belly  | Common   |           |           |            |           |           |           |
+| Erik          | 20 Belly  | Common   |           |           |            |           |           |           |
+| Kebi          | 20 Belly  | Common   |           |           |            |           |           |           |
+| Koza          | 150 Belly | Uncommon |           |           |            |           |           |           |
 
 ### D Quest
 
@@ -126,9 +126,9 @@ To start the D Quest, speak to White Chase Smoker (AB) in Katorea.
 
 ### D Quest Boss Drops
 
-| Boss Name | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other        |
-|-----------|----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------   |
-| Ace       | 400 Belly  | Rare      | Ace Knife (Uncommon) |           |            |           |           | Mera Fragment|
+| Boss Name | Belly     | Orb  | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other        |
+|-----------|-----------|------|-----------           |-----------|----------- |-----------|-----------|-----------   |
+| Ace       | 400 Belly | Rare | Ace Knife (Uncommon) |           |            |           |           | Mera Fragment|
 
 Item Rewards: 400 Belly<br>
 Bounty Reward: 400,000

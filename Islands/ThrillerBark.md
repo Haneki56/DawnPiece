@@ -37,7 +37,7 @@ Note: Completing this quest unlocks the Flying Fish Riders Base. Speak to Kuma (
 | Boss Name         | Belly      | Orb       | Weapon                   | Helmet    | Chestplate | Leggings  | Boots     | Other           |
 |-----------        |----------- |-----------|-----------               |-----------|----------- |-----------|-----------|-----------      |
 | Cerberus          | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Zombie            | 50 Belly   |           |                          |           |            |           |           |                 |
+| Zombie            | 50 Belly   | Common    |                          |           |            |           |           |                 |
 | Hildon            | 150 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | MocDonald         | 150 Belly  | Uncommon  |                          |           |            |           |           |                 |
 | Cindry            | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
@@ -54,7 +54,7 @@ Note: Completing this quest unlocks the Flying Fish Riders Base. Speak to Kuma (
 | Perona            | 400 Belly  | Rare      | Horo Umbrella (Uncommon) |           |            |           |           | Horo Fragment   |
 | Nightmare Luffy   | 450 Belly  | Rare      |                          |           |            |           |           | Gomu Fragment   |
 | Oars              | 300 Belly  | Uncommon  |                          |           |            |           |           | Luffy's Shadow  |
-| Doppelman         | 50 Belly   |           |                          |           |            |           |           |                 |
+| Doppelman         | 50 Belly   | Common    |                          |           |            |           |           |                 |
 | Gecko Moria       | 700 Belly  | Rare      | Scissors (Rare)          |           |            |           |           | Kage Fragment   |
 
 ### B Quest

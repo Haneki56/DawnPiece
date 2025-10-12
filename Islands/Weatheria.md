@@ -16,10 +16,10 @@ Bounty Reward: 2,200,000
 
 ### A Quest Boss Drops
 
-| Boss Name     | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------    |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
-| Weather Wizard| 200 Belly  |           |           |           |            |           |           |           |
-| Haredas       | 200 Belly  |           |           |           |            |           |           |           |
+| Boss Name     | Belly      | Orb      | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------    |----------- |----------|-----------|-----------|----------- |-----------|-----------|-----------|
+| Weather Wizard| 200 Belly  | Uncommon |           |           |            |           |           |           |
+| Haredas       | 200 Belly  | Uncommon |           |           |            |           |           |           |
 
 ### Essential NPCs
 

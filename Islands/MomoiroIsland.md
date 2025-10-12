@@ -17,11 +17,11 @@ Bounty Reward: 2,500,000
 
 ### A Quest Boss Drops
 
-| Boss Name | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------|----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
-| Okama     | 200 Belly  |           |           |           |            |           |           |           |
-| Tibany    | 200 Belly  |           |           |           |            |           |           |           |
-| Caroline  | 300 Belly  |           |           |           |            |           |           |           |
+| Boss Name | Belly      | Orb      | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------|----------- |----------|-----------|-----------|----------- |-----------|-----------|-----------|
+| Okama     | 200 Belly  | Uncommon |           |           |            |           |           |           |
+| Tibany    | 200 Belly  | Uncommon |           |           |            |           |           |           |
+| Caroline  | 300 Belly  | Uncommon |           |           |            |           |           |           |
 
 ### Essential NPCs
 

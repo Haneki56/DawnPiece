@@ -16,12 +16,12 @@ Bounty Reward: 1,000,000
 
 ### A Quest Boss Drops
 
-| Boss Name     | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------    |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
-| Humandrills   | 100 Belly  | Uncommon  |           |           |            |           |           |           |
+| Boss Name   | Belly     | Orb      | Weapon             | Helmet    | Chestplate | Leggings  | Boots     | Other     |
+|-----------  |-----------|----------|-----------         |-----------|----------- |-----------|-----------|-----------|
+| Humandrills | 100 Belly | Uncommon | Cutlass (Uncommon) |           |            |           |           |           |
 
 ### Essential NPCs
 
-| NPC Name              | Purpose                                   |
-|-------------          |-----------                                |
-| Teleporter            | Teleport to any unlocked location         |
+| NPC Name    | Purpose                                   |
+|-------------|-----------                                |
+| Teleporter  | Teleport to any unlocked location         |

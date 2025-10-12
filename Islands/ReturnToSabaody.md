@@ -44,12 +44,12 @@ Note: Completing this quest unlocks Fishman Island. Speak to Rayleigh (RTS) or t
 | Fake Zoro                 | 50 Belly   | Common    |                          |           |            |           |           |                |
 | Fake Luffy                | 50 Belly   | Common    |                          |           |            |           |           |                |
 | Albion                    | 400 Belly  | Uncommon  | Tekko Kagi (Uncommon)    |           |            |           |           |                |
-| Doughty                   | 400 Belly  | Uncommon  |                          |           |            |           |           |                |
+| Doughty                   | 400 Belly  | Uncommon  | Toothed Saber (Uncommon) |           |            |           |           |                |
 | Caribou                   | 400 Belly  | Uncommon  |                          |           |            |           |           |                |
-| Coribou                   | 400 Belly  | Uncommon  |                          |           |            |           |           |                |
+| Coribou                   | 400 Belly  | Uncommon  | Iron Shovel (Uncommon)   |           |            |           |           |                |
 | PX-5                      | 400 Belly  | Uncommon  |                          |           |            |           |           |                |
 | PX-7                      | 400 Belly  | Uncommon  |                          |           |            |           |           |                |
-| Marine Officer Sentomaru  | 500 Belly  | Rare      |                          |           |            |           |           |                |
+| Marine Officer Sentomaru  | 500 Belly  | Rare      | Masakari (Uncommon)      |           |            |           |           |                |
 
 ### Essential NPCs
 

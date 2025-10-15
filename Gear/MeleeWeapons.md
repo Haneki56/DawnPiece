@@ -8,12 +8,12 @@ All melee weapons will have base Damage stats for dealing raw damage and an Atta
 
 | Tier      | Basic Damage  | Grade Damage  | Skillful Damage   | Great Damage  | Supreme Damage| Attack Speed  |
 |-----------|---------------|---------------|-------------------|---------------|---------------|---------------|
-| Common    | 6             | 6             | 6                 | 7             | 7             | 1.5           |
-| Uncommon  | 12            | 12            | 13                | 14            | 14            | 1.75          |
-| Rare      | 24            | 25            | 26                | 27            | 28            | 2             |
-| Epic      | 48            | 50            | 52                | 54            | 56            | 2.25          |
-| Legendary | 96            | 100           | 104               | 108           | 112           | 2.5           |
-| Mythical  | 192           | 200           | 208               | 216           | 224           | 2.75          |
+| Common    | 6             | 6             | 7                 | 8             | 8             | 1.5           |
+| Uncommon  | 12            | 13            | 14                | 15            | 16            | 1.75          |
+| Rare      | 24            | 26            | 28                | 30            | 32            | 2             |
+| Epic      | 48            | 52            | 56                | 60            | 64            | 2.25          |
+| Legendary | 96            | 104           | 112               | 120           | 128           | 2.5           |
+| Mythical  | 192           | 208           | 224               | 240           | 256           | 2.75          |
 
 ### Weapon Types
 
@@ -34,11 +34,11 @@ To upgrade your gear, you need to pay a certain amount of belly, have a certain 
 
 | Tier      | Damage Dealt  | Orb Needed| Basic Cost| Grade Cost| Skillful Cost | Great Cost| Supreme Cost  |
 |-----------|---------------|-----------|-----------|-----------|---------------|-----------|---------------|
-| Common    | 4,000         | Uncommon  | 3,600     | 3,700     | 3,800         | 3,900     | 4,000         |
-| Uncommon  | 20,000        | Rare      | 18,000    | 18,500    | 19,000        | 19,500    | 20,000        |
-| Rare      | 100,000       | Epic      | 90,000    | 92,500    | 95,000        | 97,500    | 100,000       |
-| Epic      | 500,000       | Legendary | 450,000   | 462,500   | 475,000       | 487,500   | 500,000       |
-| Legendary | 2,500,000     | Mythical  | 2,250,000 | 2,312,500 | 2,375,000     | 2,437,500 | 2,500,000     |
+| Common    | 4,000         | Uncommon  | 3,200     | 3,400     | 3,600         | 3,800     | 4,000         |
+| Uncommon  | 20,000        | Rare      | 16,000    | 17,000    | 18,000        | 19,000    | 20,000        |
+| Rare      | 100,000       | Epic      | 80,000    | 85,000    | 90,000        | 95,000    | 100,000       |
+| Epic      | 500,000       | Legendary | 400,000   | 425,000   | 450,000       | 475,000   | 500,000       |
+| Legendary | 2,500,000     | Mythical  | 2,000,000 | 2,125,000 | 2,250,000     | 2,375,000 | 2,500,000     |
 
 ### Weapon Repairing
 

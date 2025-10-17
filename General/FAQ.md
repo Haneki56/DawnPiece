@@ -65,16 +65,16 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 
 |Currency Denominations|
 |-------------|
-| <img src="../assets/currency/1-belly.png" width="24" height="24" alt="1 Belly Coin"> 1 Belly Coin |
-| <img src="../assets/currency/5-belly.png" width="24" height="24" alt="5 Belly Coin"> 5 Belly Coin |
-| <img src="../assets/currency/10-belly.png" width="24" height="24" alt="10 Belly Coin"> 10 Belly Coin |
-| <img src="../assets/currency/50-belly.png" width="24" height="24" alt="50 Belly Coin"> 50 Belly Coin |
-| <img src="../assets/currency/100-belly.png" width="24" height="24" alt="100 Belly Coin"> 100 Belly Coin |
-| <img src="../assets/currency/500-belly.png" width="24" height="24" alt="500 Belly Coin"> 500 Belly Coin |
-| <img src="../assets/currency/1000-belly.png" width="24" height="24" alt="1,000 Belly Bill"> 1,000 Belly Bill |
-| <img src="../assets/currency/5000-belly.png" width="24" height="24" alt="5,000 Belly Bill"> 5,000 Belly Bill |
-| <img src="../assets/currency/10000-belly.png" width="24" height="24" alt="10,000 Belly Bill"> 10,000 Belly Bill |
-| <img src="../assets/currency/100000-belly.png" width="24" height="24" alt="100,000 Belly Bag"> 100,000 Belly Bag |
+| <img src="../Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin"> 1 Belly Coin |
+| <img src="../Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin"> 5 Belly Coin |
+| <img src="../Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin"> 10 Belly Coin |
+| <img src="../Assets/Currency/belly50.png" width="32" height="32" alt="50 Belly Coin"> 50 Belly Coin |
+| <img src="../Assets/Currency/belly100.png" width="32" height="32" alt="100 Belly Coin"> 100 Belly Coin |
+| <img src="../Assets/Currency/belly500.png" width="32" height="32" alt="500 Belly Coin"> 500 Belly Coin |
+| <img src="../Assets/currency/belly1000.png" width="32" height="32" alt="1,000 Belly Bill"> 1,000 Belly Bill |
+| <img src="../Assets/Currency/belly5000.png" width="32" height="32" alt="5,000 Belly Bill"> 5,000 Belly Bill |
+| <img src="../Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill"> 10,000 Belly Bill |
+| <img src="../Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag"> 100,000 Belly Bag |
 
 `How To Get Rich`
 

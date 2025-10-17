@@ -48,7 +48,7 @@ Note: Completing this quest unlocks Amazon Lily. Speak to Zoro (SA) or the Telep
 | Eustass Kid | 450 Belly | Rare | Metal Arm (Uncommon) |  |  |  |  | Jiki Fragment |
 | Trafalgar Law | 450 Belly | Rare | Kikoku (Uncommon) |  |  |  |  | Ope Fragment |
 | Monkey D. Luffy | 450 Belly | Rare |  |  |  |  |  | Gomu Fragment |
-| Seaman Apprentice | 50 Belly |  | Marine Sword (Common) |  |  |  |  |  |
+| Seaman Apprentice | 50 Belly | Common | Marine Sword (Common) |  |  |  |  |  |
 | Kizaru | 700 Belly | Rare | Ama No Murakumo (Rare) |  |  |  |  |  |
 | PX-1 | 200 Belly | Uncommon |  |  |  |  |  |  |
 | PX-4 | 200 Belly | Uncommon |  |  |  |  |  |  |

@@ -49,7 +49,7 @@ Note: Completing this quest unlocks Long Ring Long Land. Speak to Sanji (SP) or 
 | Hotori           | 100 Belly  | Uncommon | Impact Gloves (Uncommon) |           |            |           |           |              |
 | Kotori           | 100 Belly  | Uncommon | Impact Gloves (Uncommon) |           |            |           |           |              |
 | Satori           | 250 Belly  | Uncommon | Impact Gloves (Uncommon) |           |            |           |           |              |
-| Shura            | 200 Belly  | Uncommon |                          |           |            |           |           |              |
+| Shura            | 200 Belly  | Uncommon | Heat Javelin (Uncommon)  |           |            |           |           |              |
 | Holy             | 50 Belly   | Common   |                          |           |            |           |           |              |
 | Ohm              | 300 Belly  | Uncommon | Eisen Whip (Uncommon)    |           |            |           |           |              |
 | Gedatsu          | 350 Belly  | Uncommon |                          |           |            |           |           |              |

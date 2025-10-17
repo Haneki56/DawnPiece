@@ -150,3 +150,33 @@ Bounty Reward: 400,000
 | Dealer (5000 Belly)     | Gambling                                |
 | Dealer (10000 Belly)    | Gambling                                |
 | Dealer (100000 Belly)   | Gambling                                |
+
+### Treasure Hunt
+
+The Alabasta Treasure Hunt has a total of 21 NPC's Speak with the Nanohana Bartender being the starting point, they will direct you on who to talk to next. Only one NPC knows the true location of the Treasure and the others may lead you to an incorrect location. Some locations may have more than one treasure chest so be sure to look carefully. If you find the treasure let an Admin know so that they can rework the treasure hunt.
+
+Treasure: Desert Sun Amulet, Runic Stone and 100,000 Belly
+
+| NPC Name                  |
+|-------------              |
+| Nanohana Bartender        |
+| Nanohana Dockworker       |
+| Nanohana Shipwright       |
+| Nanohana Fisherman        |
+| Nanohana Merchant         |
+| Nanohana Bard             |
+| Alubarna Tavern Keeper    |
+| Alubarna Guard Captain    |
+| Alubarna Spice Seller     |
+| Alubarna Beggar           |
+| Alubarna Shopkeeper       |
+| Katorea Caravan Leader    |
+| Katorea Fortune Teller    |
+| Katorea Scholar           |
+| Katorea Priest            |
+| Katorea Trader            |
+| Rainbase Nomad            |
+| Rainbase Marine           |
+| Rainbase Gambler          |
+| Rainbase Rogue            |
+| Rainbase Drunkard         |

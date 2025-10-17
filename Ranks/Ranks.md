@@ -1,6 +1,6 @@
 # Ranks
 
-There are various life paths that you can choose in game by speaking to the Life Path Recruiter at Spawn. You can also choose your Life Path on the Discord Server by reacting to the message in the Ranks Channel to get the role. Each rank follows the same structure regarding leveling up.
+There are various life paths that you can choose in game by speaking to the Life Path Recruiter at Spawn. You can also choose your Life Path on the Discord Server by reacting to the message in the [Ranks Channel](https://discord.com/channels/1385526041807949855/1395615888585130144)on the Discord to get the role. Each rank follows the same structure regarding leveling up.
 
 ### General Ranks & Bounty
 

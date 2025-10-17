@@ -65,16 +65,16 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 
 |Currency Denominations|
 |-------------|
-| <img src="../Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin">|
-| <img src="../Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin">|
-| <img src="../Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin">|
-| <img src="../Assets/Currency/belly50.png" width="32" height="32" alt="50 Belly Coin">|
-| <img src="../Assets/Currency/belly100.png" width="32" height="32" alt="100 Belly Coin">|
-| <img src="../Assets/Currency/belly500.png" width="32" height="32" alt="500 Belly Coin">|
-| <img src="../Assets/currency/belly1000.png" width="32" height="32" alt="1,000 Belly Bill">|
-| <img src="../Assets/Currency/belly5000.png" width="32" height="32" alt="5,000 Belly Bill">|
-| <img src="../Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill">|
-| <img src="../Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag">|
+| <img src="Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin">|
+| <img src="Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin">|
+| <img src="Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin">|
+| <img src="Assets/Currency/belly50.png" width="32" height="32" alt="50 Belly Coin">|
+| <img src="Assets/Currency/belly100.png" width="32" height="32" alt="100 Belly Coin">|
+| <img src="Assets/Currency/belly500.png" width="32" height="32" alt="500 Belly Coin">|
+| <img src="Assets/currency/belly1000.png" width="32" height="32" alt="1,000 Belly Bill">|
+| <img src="Assets/Currency/belly5000.png" width="32" height="32" alt="5,000 Belly Bill">|
+| <img src="Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill">|
+| <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag">|
 
 `How To Get Rich`
 

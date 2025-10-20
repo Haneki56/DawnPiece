@@ -22,8 +22,8 @@ All treasure locations are well hidden so simply flying around won’t help. Ent
 
 Every island will have a 100,000 Belly Bag, a Runic Stone, and an Island Specific Treasure. The belly can be spent as usual once found, while the runic stones will be required to be collected to access the Black Market and Island Specific Treasures can be sold on the Black Market for high value items!
 
-|Treasure Name|Location|
-|-------------|-------------|
-| <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag"> 100,000 Belly Bag  | All       |
-| <img src="Assets/General/general_runic_stone.png" width="32" height="32" alt="Runic Stone"> Runic Stone               | All       |
-| <img src="Assets/General/general_desert_sun_amulet.png" width="32" height="32" alt="Desert Sun Amulet"> Desert Sun Amulet   | Alabasta  |
+|Treasure Image | Treasure Name | Location |
+|---------------|---------------|----------|
+| <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag">                | 100,000 Belly Bag | All       |
+| <img src="Assets/General/general_runic_stone.png" width="32" height="32" alt="Runic Stone">               | Runic Stone       | All       |
+| <img src="Assets/General/general_desert_sun_amulet.png" width="32" height="32" alt="Desert Sun Amulet">   | Desert Sun Amulet | Alabasta  |

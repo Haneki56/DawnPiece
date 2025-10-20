@@ -14,7 +14,7 @@ To start the Main Quest, speak to Luffy (PH) near the island teleport location.
 | A04       | The Centaurs!                     |Defeat 5 Centaur and Brownbeard on the ice.|
 | A05       | The Warlord Of The Sea!           |Talk to Law (PH) in front of the main lab to complete the quest.|
 | A06       | The G-5 Marines!                  |Defeat 5 G-5 Marines, Captain Tashigi and Vice-Admiral Smoker inside the first lab room.|
-| A07       | The Distress Call!                |Talk to Smoker (PH) at the end of the first lab room  to complete the quest.|
+| A07       | The Distress Call!                |Talk to Smoker (PH) at the end of the first lab room to complete the quest.|
 | A08       | Find The Children!                |Find the Kids Room upstairs from the first lab room.|
 | A09       | The Rampaging Children!           |Defeat 5 Giant Children in the kids room.|
 | A10       | Escape With The Kids!             |Talk to Nami (PH) in front of the kids room to complete the quest.|

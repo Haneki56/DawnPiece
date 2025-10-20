@@ -1,10 +1,10 @@
 # Frequently Asked Questions
 
-Scroll thtough this page to see the list of our most frequently asked questions. If have a question that you feel is important and is not listed here, open a ticket on the discord server so that staff can add it to the list.
+Scroll through this page to see the list of our most frequently asked questions. If have a question that you feel is important and is not listed here, open a ticket on the discord server so that staff can add it to the list.
 
 ### Joining The Server
 
-`Joining Through Technic`
+##### Joining Through Technic
 
 1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
 2. [Download the Technic Launcher](https://www.technicpack.net/download). 
@@ -12,7 +12,7 @@ Scroll thtough this page to see the list of our most frequently asked questions.
 4. Click on Launcher Options and allocate around 50% of your computer's total RAM to the Technic Launcher. This should be around 8-16 GB depending on your computer's RAM. You will likely need at least a 16 GB computer to run this modpack as an 8GB computer may crash upon loading.
 5. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
-`Joining Through Minecraft Launcher`
+##### Joining Through Minecraft Launcher
 
 1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
 2. Download Minecraft Version 1.16.5 and Forge Version 36.2.39 in your Minecraft Launcher.
@@ -65,16 +65,16 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 
 |Currency Denominations|
 |-------------|
-| <img src="Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin">|
-| <img src="Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin">|
-| <img src="Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin">|
-| <img src="Assets/Currency/belly50.png" width="32" height="32" alt="50 Belly Coin">|
-| <img src="Assets/Currency/belly100.png" width="32" height="32" alt="100 Belly Coin">|
-| <img src="Assets/Currency/belly500.png" width="32" height="32" alt="500 Belly Coin">|
-| <img src="Assets/currency/belly1000.png" width="32" height="32" alt="1,000 Belly Bill">|
-| <img src="Assets/Currency/belly5000.png" width="32" height="32" alt="5,000 Belly Bill">|
-| <img src="Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill">|
-| <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag">|
+| <img src="Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin"> 1 Belly Coin|
+| <img src="Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin"> 5 Belly Coin|
+| <img src="Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin"> 10 Belly Coin|
+| <img src="Assets/Currency/belly50.png" width="32" height="32" alt="50 Belly Coin"> 50 Belly Coin|
+| <img src="Assets/Currency/belly100.png" width="32" height="32" alt="100 Belly Coin"> 100 Belly Coin|
+| <img src="Assets/Currency/belly500.png" width="32" height="32" alt="500 Belly Coin"> 500 Belly Coin|
+| <img src="Assets/Currency/belly1000.png" width="32" height="32" alt="1,000 Belly Bill"> 1,000 Belly Bill|
+| <img src="Assets/Currency/belly5000.png" width="32" height="32" alt="5,000 Belly Bill"> 5,000 Belly Bill|
+| <img src="Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill"> 10,000 Belly Bill|
+| <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag"> 100,000 Belly Bag|
 
 `How To Get Rich`
 
@@ -124,7 +124,7 @@ The more power your crew has, the more land you can claim. Power is attained by 
 `Managing A Crew`
 
 1. Invite a Player: /f invite <player name> 
-2. Kick a Player: /f kick <player name>. 
+2. Kick a Player: /f kick <player name> 
 3. Promote a Player: /f promote <player name>
 4. Ally Another Crew: /f ally <crew name>
 5. Truce Another Crew: /f truce <crew name>

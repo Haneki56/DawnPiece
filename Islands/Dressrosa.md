@@ -35,34 +35,34 @@ To start the Main Quest, speak to Nami (DR) near the island teleport location.
 | A25       | Dressrosa Avenged!            ||
 
 
-Item Rewards: 1,690 Belly<br>
-Bounty Reward: 1,690,000
+Item Rewards: 25,400 Belly<br>
+Bounty Reward: 25,400,000
 
 Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter at any location to access the next island.
 
 ### Main Quest Boss Drops
 
-| Boss Name            | Belly      | Orb    | Weapon               | Armor Set | Other        |
-|-----------           |----------- |--------|-----------           |-----------|-----------   |
-| Donquixote Pirate    | 400 Belly  | Rare   |                      |           |              |
-| Fujitora             | 1000 Belly | Rare   |                      |           |              |
-| Giolla               | 1200 Belly | Rare   |                      |           |              |
-| Bellamy The Hyena    | 1200 Belly | Rare   |                      |           |              |
-| Dellinger            | 1200 Belly | Rare   |                      |           |              |
-| Machvise             | 1200 Belly | Rare   |                      |           |              |
-| Gladius              | 400 Belly  | Rare   |                      |           |              |
-| Lao G                | 10 Belly   | Common |                      |           |              |
-| Sugar                | 1400 Belly | Epic   |                      |           |              |
-| Buffalo              | 600 Belly  | Rare   |                      |           |              |
-| Baby 5               | 1400 Belly | Epic   |                      |           |              |
-| Senor Pink           | 1400 Belly | Epic   |                      |           |              |
-| Trebol               | 1500 Belly | Epic   |                      |           |              |
-| Diamante             | 1000 Belly |        |                      |           |              |
-| Pica                 | 10 Belly   | Common |                      |           |              |
-| Marine Lieutenant    | 10 Belly   | Common |                      |           |              |
-| Vice Admiral Maynard | 1500 Belly | Epic   |                      |           |              |
-| Vice Admiral Bastille| 1500 Belly | Epic   |                      |           |              |
-| Donquixote Doflamingo| 1500 Belly | Epic   |                      |           |              |
+| Boss Name            | Belly      | Orb       | Weapon                   | Armor Set | Other         |
+|-----------           |----------- |--------   |-----------               |-----------|-----------    |
+| Donquixote Pirate    | 400 Belly  | Rare      | Cutlass (Uncommon)       |           |               |
+| Fujitora             | 1700 Belly | Epic      | Yakuza Kasen (Rare)      |           | Zushi Fragment|
+| Giolla               | 700 Belly  | Rare      |                          |           |               |
+| Bellamy The Hyena    | 1000 Belly | Rare      |                          |           | Bane Fragment |
+| Dellinger            | 1200 Belly | Rare      |                          |           |               |
+| Machvise             | 1300 Belly | Epic      |                          |           |               |
+| Gladius              | 1200 Belly | Rare      |                          |           |               |
+| Sugar                | 100 Belly  | Uncommon  |                          |           |               |
+| Lao G                | 1400 Belly | Epic      |                          |           |               |
+| Buffalo              | 1200 Belly | Rare      |                          |           |               |
+| Baby 5               | 1100 Belly | Epic      |                          |           |               |
+| Senor Pink           | 1500 Belly | Epic      |                          |           | Sui Fragment  |
+| Trebol               | 1400 Belly | Epic      |                          |           | Beta Fragment |
+| Diamante             | 1500 Belly | Epic      |                          |           |               |
+| Pica                 | 1200 Belly | Rare      |                          |           |               |
+| Marine Lieutenant    | 400 Belly  | Rare      | Marine Sword (Uncommon)  |           |               |
+| Vice Admiral Maynard | 1200 Belly | Rare      |                          |           |               |
+| Vice Admiral Bastille| 1200 Belly | Rare      | Samekiri Bocho (Rare)    |           |               |
+| Donquixote Doflamingo| 2500 Belly | Legendary | Strings (Epic)           |           | Ito Fragment  |
 
 ### Essential NPCs
 

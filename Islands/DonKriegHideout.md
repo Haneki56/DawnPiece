@@ -17,12 +17,12 @@ Bounty Reward: 240,000
 
 ### A Quest Boss Drops
 
-| Boss Name      | Belly      | Orb       | Weapon              | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------     |----------- |-----------|-----------          |-----------|----------- |-----------|-----------|-----------|
-| Kagikko        | 30 Belly   | Common    |                     |           |            |           |           |           |
-| Hustle         | 30 Belly   | Common    |                     |           |            |           |           |           |
-| Ideaman        | 30 Belly   | Common    |                     |           |            |           |           |           |
-| Mihawk         | 150 Belly  | Uncommon  | Kogatana (Uncommon) |           |            |           |           |           |
+| Boss Name      | Belly      | Orb       | Weapon              | Armor Set | Other     |
+|-----------     |----------- |-----------|-----------          |-----------|-----------|
+| Kagikko        | 30 Belly   | Common    |                     |           |           |
+| Hustle         | 30 Belly   | Common    |                     |           |           |
+| Ideaman        | 30 Belly   | Common    |                     |           |           |
+| Mihawk         | 150 Belly  | Uncommon  | Kogatana (Uncommon) |           |           |
 
 ### Essential NPCs
 

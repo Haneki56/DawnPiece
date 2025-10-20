@@ -18,10 +18,10 @@ Bounty Reward: 350,000
 
 ### A Quest Boss Drops
 
-| Boss Name    | Belly     | Orb      | Weapon                  | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------   |-----------|----------|-----------              |-----------|----------- |-----------|-----------|-----------|
-| Tulip Pirate | 50 Belly  | Common   | Cutlass (Common)        |           |            |           |           |           |
-| Yurikah      | 100 Belly | Uncommon | Green Katana (Uncommon) |           |            |           |           |           |
+| Boss Name    | Belly     | Orb      | Weapon                  | Armor Set | Other     |
+|--------------|-----------|----------|-------------------------|-----------|-----------|
+| Tulip Pirate | 50 Belly  | Common   | Cutlass (Common)        |           |           |
+| Yurikah      | 100 Belly | Uncommon | Green Katana (Uncommon) |           |           |
 
 ### Essential NPCs
 

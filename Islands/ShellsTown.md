@@ -22,13 +22,13 @@ Note: Completing this quest unlocks Orange Town. Speak to Ririka (ST) or the Tel
 
 ### Main Quest Boss Drops
 
-| Boss Name      | Belly    | Orb    | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------     |----------|--------|-----------           |-----------|----------- |-----------|-----------|-----------|
-| Ukkari         | 15 Belly | Common | Marine Sword (Common)|           |            |           |           |           |
-| Rokkaku        | 15 Belly | Common | Marine Sword (Common)|           |            |           |           |           |
-| Ripper         | 15 Belly | Common | Marine Sword (Common)|           |            |           |           |           |
-| Helmeppo       | 5 Belly  | Common |                      |           |            |           |           |           |
-| Axe-Hand Morgan| 40 Belly | Common | Axe Hand (Common)    |           |            |           |           |           |
+| Boss Name      | Belly    | Orb    | Weapon               | Armor Set | Other     |
+|----------------|----------|--------|----------------------|-----------|-----------|
+| Ukkari         | 15 Belly | Common | Marine Sword (Common)|           |           |
+| Rokkaku        | 15 Belly | Common | Marine Sword (Common)|           |           |
+| Ripper         | 15 Belly | Common | Marine Sword (Common)|           |           |
+| Helmeppo       | 5 Belly  | Common |                      |           |           |
+| Axe-Hand Morgan| 40 Belly | Common | Axe Hand (Common)    |           |           |
 
 ### Essential NPCs
 

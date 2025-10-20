@@ -16,9 +16,9 @@ Bounty Reward: 1,000,000
 
 ### A Quest Boss Drops
 
-| Boss Name | Belly     | Orb      | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------|-----------|----------|-----------|-----------|----------- |-----------|-----------|-----------|
-| Cyborg    | 100 Belly | Uncommon |           |           |            |           |           |           |
+| Boss Name | Belly     | Orb      | Weapon    | Armor Set | Other     |
+|-----------|-----------|----------|-----------|-----------|-----------|
+| Cyborg    | 100 Belly | Uncommon |           |           |           |
 
 ### Essential NPCs
 

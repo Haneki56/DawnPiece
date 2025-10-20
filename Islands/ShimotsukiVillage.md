@@ -17,10 +17,10 @@ Bounty Reward: 350,000
 
 ### A Quest Boss Drops
 
-| Boss Name          | Belly     | Orb    | Weapon                   | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------         |-----------|--------|-----------               |-----------|----------- |-----------|-----------|-----------|
-| Isshin Dojo Student| 50 Belly  | Common |                          |           |            |           |           |           |
-| Kuina              | 100 Belly | Common | Wado Ichimonji (Common)  |           |            |           |           |           |
+| Boss Name          | Belly     | Orb    | Weapon                  | Armor Set | Other     |
+|--------------------|-----------|--------|-------------------------|-----------|-----------|
+| Isshin Dojo Student| 50 Belly  | Common |                         |           |           |
+| Kuina              | 100 Belly | Common | Wado Ichimonji (Common) |           |           |
 
 ### Essential NPCs
 

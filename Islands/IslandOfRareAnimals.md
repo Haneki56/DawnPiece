@@ -21,11 +21,11 @@ Note: Completing this quest unlocks the Island of Rare Animals. Speak to Merry (
 
 ### Main Quest Boss Drops
 
-| Boss Name | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------|----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------|
-| Cocox     | 10 Belly   | Common    |           |           |            |           |           |           |
-| Lionbuta  | 10 Belly   | Common    |           |           |            |           |           |           |
-| Usagihebi | 10 Belly   | Common    |           |           |            |           |           |           |
+| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Cocox     | 10 Belly  | Common    |           |           |           |
+| Lionbuta  | 10 Belly  | Common    |           |           |           |
+| Usagihebi | 10 Belly  | Common    |           |           |           |
 
 ### Essential NPCs
 

@@ -22,12 +22,12 @@ Note: Completing this quest unlocks Sabaody Archipelago. Speak to Duval (FFR) or
 
 ### Main Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon                | Helmet    | Chestplate | Leggings  | Boots     | Other           |
-|-----------        |----------- |-----------|-----------            |-----------|----------- |-----------|-----------|-----------      |
-| Flying Fish Rider | 200 Belly  | Uncommon  |                       |           |            |           |           |                 |
-| Motobaro          | 100 Belly  | Uncommon  |                       |           |            |           |           |                 |
-| Macro             | 250 Belly  | Uncommon  |                       |           |            |           |           |                 |
-| Duval             | 500 Belly  | Rare      |                       |           |            |           |           |                 |
+| Boss Name         | Belly      | Orb       | Weapon                | Armor Set | Other           |
+|-----------        |----------- |-----------|-----------            |-----------|-----------      |
+| Flying Fish Rider | 200 Belly  | Uncommon  |                       |           |                 |
+| Motobaro          | 100 Belly  | Uncommon  |                       |           |                 |
+| Macro             | 250 Belly  | Uncommon  |                       |           |                 |
+| Duval             | 500 Belly  | Rare      |                       |           |                 |
 
 ### Essential NPCs
 

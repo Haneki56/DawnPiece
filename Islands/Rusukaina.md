@@ -22,13 +22,13 @@ Note: Completing this quest unlocks Return To Sabaody. Speak to Luffy (RK) or th
 
 ### Main Quest Boss Drops
 
-| Boss Name     | Belly      | Orb       | Weapon    | Helmet    | Chestplate | Leggings  | Boots     | Other           |
-|-----------    |----------- |-----------|-----------|-----------|----------- |-----------|-----------|-----------      |
-| Giant Tiger   | 600 Belly  | Rare      |           |           |            |           |           |                 |
-| Giant Rhino   | 700 Belly  | Rare      |           |           |            |           |           |                 |
-| Giant Serpent | 500 Belly  | Rare      |           |           |            |           |           |                 |
-| Giant Lion    | 500 Belly  | Rare      |           |           |            |           |           |                 |
-| Giant Gorilla | 500 Belly  | Rare      |           |           |            |           |           |                 |
+| Boss Name     | Belly     | Orb  | Weapon    | Armor Set | Other     |
+|---------------|-----------|------|-----------|-----------|-----------|
+| Giant Tiger   | 600 Belly | Rare |           |           |           |
+| Giant Rhino   | 700 Belly | Rare |           |           |           |
+| Giant Serpent | 500 Belly | Rare |           |           |           |
+| Giant Lion    | 500 Belly | Rare |           |           |           |
+| Giant Gorilla | 500 Belly | Rare |           |           |           |
 
 ### Essential NPCs
 

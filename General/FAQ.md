@@ -63,18 +63,18 @@ If you're lucky, another player may be selling a weapon you are looking for so k
 
 The main currency is Belly. It is used to purchase items or commodities from a variety of shops or other players. Belly can be converted into higher and lower volumes by talking to the Bank Teller NPC at Goa Kingdom and various other islands with banks.
 
-|Currency Denominations|
-|-------------|
-| <img src="Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin"> 1 Belly Coin|
-| <img src="Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin"> 5 Belly Coin|
-| <img src="Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin"> 10 Belly Coin|
-| <img src="Assets/Currency/belly50.png" width="32" height="32" alt="50 Belly Coin"> 50 Belly Coin|
-| <img src="Assets/Currency/belly100.png" width="32" height="32" alt="100 Belly Coin"> 100 Belly Coin|
-| <img src="Assets/Currency/belly500.png" width="32" height="32" alt="500 Belly Coin"> 500 Belly Coin|
-| <img src="Assets/Currency/belly1000.png" width="32" height="32" alt="1,000 Belly Bill"> 1,000 Belly Bill|
-| <img src="Assets/Currency/belly5000.png" width="32" height="32" alt="5,000 Belly Bill"> 5,000 Belly Bill|
-| <img src="Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill"> 10,000 Belly Bill|
-| <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag"> 100,000 Belly Bag|
+|Currency Icon|Currency Denominations|
+|-------------|-------------|
+| <img src="Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin">          |1 Belly Coin|
+| <img src="Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin">          |5 Belly Coin|
+| <img src="Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin">        |10 Belly Coin|
+| <img src="Assets/Currency/belly50.png" width="32" height="32" alt="50 Belly Coin">        |50 Belly Coin|
+| <img src="Assets/Currency/belly100.png" width="32" height="32" alt="100 Belly Coin">      |100 Belly Coin|
+| <img src="Assets/Currency/belly500.png" width="32" height="32" alt="500 Belly Coin">      |500 Belly Coin|
+| <img src="Assets/Currency/belly1000.png" width="32" height="32" alt="1,000 Belly Bill">   |1,000 Belly Bill|
+| <img src="Assets/Currency/belly5000.png" width="32" height="32" alt="5,000 Belly Bill">   |5,000 Belly Bill|
+| <img src="Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill"> |10,000 Belly Bill|
+| <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag">|100,000 Belly Bag|
 
 `How To Get Rich`
 
@@ -113,8 +113,8 @@ There is a Factions System in the game where you can start or join a crew. Type 
 
 `Creating A Crew & Faction Base`
 
-1. Start a Crew: /f create <crew name>
-2. Join a Crew: /f join <crew name> 
+1. Start a Crew: /f create (crew name)
+2. Join a Crew: /f join (crew name) 
 3. Claim Crew Land: /f claim
 4. Set Crew Home: /f sethome
 5. Teleport to Faction Base: /f home
@@ -123,12 +123,16 @@ The more power your crew has, the more land you can claim. Power is attained by 
 
 `Managing A Crew`
 
-1. Invite a Player: /f invite <player name> 
-2. Kick a Player: /f kick <player name> 
-3. Promote a Player: /f promote <player name>
-4. Ally Another Crew: /f ally <crew name>
-5. Truce Another Crew: /f truce <crew name>
-6. Enemy Another Crew: /f enemy <crew name>
+1. Invite a Player: /f invite (player name) 
+2. Kick a Player: /f kick (player name) 
+3. Promote a Player: /f promote (player name)
+4. Ally Another Crew: /f ally (crew name)
+5. Truce Another Crew: /f truce (crew name)
+6. Enemy Another Crew: /f enemy (crew name)
 7. Disband Crew: /f disband
 
 New members are automatically recruits; however, they can be promoted to members and officers. Members can use chests, doors and build on claimed land and officers can claim land, invite new members, kick crew members and decide relations with other crews. 
+
+### Houses
+
+You are not allowed to own a home in the pirate world. We have tried donation systems for individual homes, and legacy rank homes in the past however upkeep with these systems was too strenuous on staff. We prefer to focus our time updating the server and creating events. You may build homes in the faction world as you please but they may be raided so be careful about where you place your homes. 

@@ -18,10 +18,10 @@ Note: Completing this quest unlocks Alvida's Hideout. Speak to Shanks (FV) or th
 
 ### Main Quest Boss Drops
 
-| Boss Name      | Belly    | Orb    | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------     |----------|--------|-----------           |-----------|----------- |-----------|-----------|-----------|
-| Mountain Bandit| 10 Belly | Common | Bandit Sword (Common)|           |            |           |           |           |
-| Higuma         | 20 Belly | Common | Bandit Sword (Common)|           |            |           |           |           |
+| Boss Name      | Belly    | Orb    | Weapon               | Armor Set | Other     |
+|-----------     |----------|--------|-----------           |-----------|-----------|
+| Mountain Bandit| 10 Belly | Common | Bandit Sword (Common)|           |           |
+| Higuma         | 20 Belly | Common | Bandit Sword (Common)|           |           |
 
 ### Merchants
 

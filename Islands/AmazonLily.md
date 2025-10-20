@@ -24,21 +24,21 @@ Note: Completing this quest unlocks Impel Down. Speak to Boa Hancock (AL) or the
 
 ### Main Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon                | Helmet    | Chestplate | Leggings  | Boots     | Other               |
-|-----------        |----------- |-----------|-----------            |-----------|----------- |-----------|-----------|-----------          |
-| Marguerite        | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Sweet Pea         | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Aphelandra        | 250 Belly  | Uncommon  | Jian Sword (Uncommon) |           |            |           |           |                     |
-| Kikyo             | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Belladonna        | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Enishida          | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Cosmos            | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Daisy             | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Ran               | 250 Belly  | Uncommon  |                       |           |            |           |           |                     |
-| Bacura            | 50 Belly   | Common    |                       |           |            |           |           |                     |
-| Boa Marigold      | 350 Belly  | Uncommon  | Polearm Axe (Uncommon)|           |            |           |           | King Cobra Fragment |
-| Boa Sandersonia   | 350 Belly  | Uncommon  |                       |           |            |           |           | Anaconda Fragment   |
-| Boa Hancock       | 700 Belly  | Rare      |                       |           |            |           |           | Mero Fragment       |
+| Boss Name         | Belly      | Orb       | Weapon                | Armor Set | Other               |
+|-----------        |----------- |-----------|-----------            |-----------|-----------          |
+| Marguerite        | 250 Belly  | Uncommon  |                       |           |                     |
+| Sweet Pea         | 250 Belly  | Uncommon  |                       |           |                     |
+| Aphelandra        | 250 Belly  | Uncommon  | Jian Sword (Uncommon) |           |                     |
+| Kikyo             | 250 Belly  | Uncommon  |                       |           |                     |
+| Belladonna        | 250 Belly  | Uncommon  |                       |           |                     |
+| Enishida          | 250 Belly  | Uncommon  |                       |           |                     |
+| Cosmos            | 250 Belly  | Uncommon  |                       |           |                     |
+| Daisy             | 250 Belly  | Uncommon  |                       |           |                     |
+| Ran               | 250 Belly  | Uncommon  |                       |           |                     |
+| Bacura            | 50 Belly   | Common    |                       |           |                     |
+| Boa Marigold      | 350 Belly  | Uncommon  | Polearm Axe (Uncommon)|           | King Cobra Fragment |
+| Boa Sandersonia   | 350 Belly  | Uncommon  |                       |           | Anaconda Fragment   |
+| Boa Hancock       | 700 Belly  | Rare      |                       |           | Mero Fragment       |
 
 
 ### Essential NPCs

@@ -22,13 +22,13 @@ Note: Completing this quest unlocks Alabasta. Speak to Chopper (DI) or the Telep
 
 ### Main Quest Boss Drops
 
-| Boss Name                 | Belly      | Orb      | Weapon                     | Helmet    | Chestplate | Leggings  | Boots     | Other           |
-|-----------                |----------- |----------|-----------                 |-----------|----------- |-----------|-----------|-----------      |
-| Drum Island Militia Guard | 20 Belly   | Common   |                            |           |            |           |           |                 |
-| Dalton                    | 100 Belly  | Uncommon | Spade (Uncommon)           |           |            |           |           | Bison Fragment  |
-| Chess                     | 50 Belly   | Common   | Black Boxing Glove (Common)|           |            |           |           |                 |
-| Kuromarimo                | 50 Belly   | Common   |                            |           |            |           |           |                 |
-| Wapol                     | 150 Belly  | Uncommon |                            |           |            |           |           | Baku Fragment   |
+| Boss Name                 | Belly      | Orb      | Weapon                     | Armor Set | Other           |
+|-----------                |----------- |----------|-----------                 |-----------|-----------      |
+| Drum Island Militia Guard | 20 Belly   | Common   |                            |           |                 |
+| Dalton                    | 100 Belly  | Uncommon | Spade (Uncommon)           |           | Bison Fragment  |
+| Chess                     | 50 Belly   | Common   | Black Boxing Glove (Common)|           |                 |
+| Kuromarimo                | 50 Belly   | Common   |                            |           |                 |
+| Wapol                     | 150 Belly  | Uncommon |                            |           | Baku Fragment   |
 
 
 ### Essential NPCs

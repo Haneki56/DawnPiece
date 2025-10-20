@@ -25,16 +25,16 @@ Note: Completing this quest unlocks the Shift Station. Speak to Luffy (LRLL) or 
 
 ### Main Quest Boss Drops
 
-| Boss Name | Belly     | Orb      | Weapon                         | Helmet    | Chestplate | Leggings  | Boots     | Other           |
-|-----------|-----------|----------|-----------                     |-----------|----------- |-----------|-----------|-----------      |
-| Porche    | 200 Belly | Uncommon | Cutie Baton (Uncommon)         |           |            |           |           |                 |
-| Capote    | 200 Belly | Uncommon |                                |           |            |           |           |                 |
-| Monda     | 150 Belly | Uncommon |                                |           |            |           |           |                 |
-| Hamburg   | 200 Belly | Uncommon | Iron Mace (Uncommon)           |           |            |           |           |                 |
-| Pickles   | 250 Belly | Uncommon | Cutlass (Uncommon)             |           |            |           |           |                 |
-| Big Pan   | 250 Belly | Uncommon | Big Pan (Uncommon)             |           |            |           |           |                 |
-| Foxy      | 350 Belly | Uncommon | Noro Noro Beam Sword (Uncommon)|           |            |           |           | Noro Fragment   |
-| Aokiji    | 400 Belly | Rare     | Ice Saber (Uncommon)           |           |            |           |           |                 |
+| Boss Name | Belly     | Orb      | Weapon                         | Armor Set | Other         |
+|-----------|-----------|----------|--------------------------------|-----------|---------------|
+| Porche    | 200 Belly | Uncommon | Cutie Baton (Uncommon)         |           |               |
+| Capote    | 200 Belly | Uncommon |                                |           |               |
+| Monda     | 150 Belly | Uncommon |                                |           |               |
+| Hamburg   | 200 Belly | Uncommon | Iron Mace (Uncommon)           |           |               |
+| Pickles   | 250 Belly | Uncommon | Cutlass (Uncommon)             |           |               |
+| Big Pan   | 250 Belly | Uncommon | Big Pan (Uncommon)             |           |               |
+| Foxy      | 350 Belly | Uncommon | Noro Noro Beam Sword (Uncommon)|           | Noro Fragment |
+| Aokiji    | 400 Belly | Rare     | Ice Saber (Uncommon)           |           |               |
 
 
 ### Essential NPCs

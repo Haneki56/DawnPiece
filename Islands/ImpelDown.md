@@ -32,18 +32,18 @@ Note: Completing this quest unlocks Marineford. Speak to Jinbe (ID) or the Telep
 
 ### Main Quest Boss Drops
 
-| Boss Name     | Belly     | Orb      | Weapon                    | Helmet    | Chestplate | Leggings  | Boots     | Other         |
-|-----------    |-----------|----------|-----------                |-----------|----------- |-----------|-----------|-----------    |
-| Blugori       | 200 Belly | Uncommon | Blugori Axe (Uncommon)    |           |            |           |           |               |
-| Minotaurus    | 300 Belly | Uncommon | Iron Mace (Uncommon)      |           |            |           |           |               |
-| Minorhinoceros| 300 Belly | Uncommon | Iron Mace (Uncommon)      |           |            |           |           | Sai Fragment  |
-| Minokoala     | 300 Belly | Uncommon | Spiked Knuckles (Uncommon)|           |            |           |           |               |
-| Minozebra     | 300 Belly | Uncommon | Polearm Mace (Uncommon)   |           |            |           |           |               |
-| Sadi          | 350 Belly | Uncommon | Devil Pitchfork (Uncommon)<br>Sadist Whip (Uncommon)|           |            |           |           |               |
-| Domino        | 200 Belly | Uncommon | Dominatrix Whip (Uncommon)|           |            |           |           |               |
-| Hannyabal     | 400 Belly | Uncommon | Kessui (Uncommon)         |           |            |           |           |               |
-| Magellan      | 800 Belly | Rare     |                           |           |            |           |           | Doku Fragment |
-| Wolf          | 50 Belly  | Common   |                           |           |            |           |           |               |
+| Boss Name     | Belly     | Orb      | Weapon                                              | Armor Set | Other        |
+|---------------|-----------|----------|-----------------------------------------------------|-----------|--------------|
+| Blugori       | 200 Belly | Uncommon | Blugori Axe (Uncommon)                              |           |              |
+| Minotaurus    | 300 Belly | Uncommon | Iron Mace (Uncommon)                                |           |              |
+| Minorhinoceros| 300 Belly | Uncommon | Iron Mace (Uncommon)                                |           | Sai Fragment |
+| Minokoala     | 300 Belly | Uncommon | Spiked Knuckles (Uncommon)                          |           |              |
+| Minozebra     | 300 Belly | Uncommon | Polearm Mace (Uncommon)                             |           |              |
+| Sadi          | 350 Belly | Uncommon | Devil Pitchfork (Uncommon)<br>Sadist Whip (Uncommon)|           |              |
+| Domino        | 200 Belly | Uncommon | Dominatrix Whip (Uncommon)                          |           |              |
+| Hannyabal     | 400 Belly | Uncommon | Kessui (Uncommon)                                   |           |              |
+| Magellan      | 800 Belly | Rare     |                                                     |           | Doku Fragment|
+| Wolf          | 50 Belly  | Common   |                                                     |           |              |
 
 
 ### Essential NPCs

@@ -33,23 +33,23 @@ Note: Completing this quest unlocks Fishman Island. Speak to Rayleigh (RTS) or t
 
 ### Main Quest Boss Drops
 
-| Boss Name                 | Belly      | Orb       | Weapon                   | Helmet    | Chestplate | Leggings  | Boots     | Other          |
-|-----------                |----------- |-----------|-----------               |-----------|----------- |-----------|-----------|-----------     |
-| Fake Franky               | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Fake Robin                | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Fake Chopper              | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Fake Nami                 | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Fake Usopp                | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Fake Sanji                | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Fake Zoro                 | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Fake Luffy                | 50 Belly   | Common    |                          |           |            |           |           |                |
-| Albion                    | 400 Belly  | Uncommon  | Tekko Kagi (Uncommon)    |           |            |           |           |                |
-| Doughty                   | 400 Belly  | Uncommon  | Toothed Saber (Uncommon) |           |            |           |           |                |
-| Caribou                   | 400 Belly  | Uncommon  |                          |           |            |           |           | Numa Fragment  |
-| Coribou                   | 400 Belly  | Uncommon  | Iron Shovel (Uncommon)   |           |            |           |           |                |
-| PX-5                      | 400 Belly  | Uncommon  |                          |           |            |           |           |                |
-| PX-7                      | 400 Belly  | Uncommon  |                          |           |            |           |           |                |
-| Marine Officer Sentomaru  | 500 Belly  | Rare      | Masakari (Uncommon)      |           |            |           |           |                |
+| Boss Name                | Belly     | Orb      | Weapon                   | Armor Set | Other         |
+|--------------------------|-----------|----------|--------------------------|-----------|---------------|
+| Fake Franky              | 50 Belly  | Common   |                          |           |               |
+| Fake Robin               | 50 Belly  | Common   |                          |           |               |
+| Fake Chopper             | 50 Belly  | Common   |                          |           |               |
+| Fake Nami                | 50 Belly  | Common   |                          |           |               |
+| Fake Usopp               | 50 Belly  | Common   |                          |           |               |
+| Fake Sanji               | 50 Belly  | Common   |                          |           |               |
+| Fake Zoro                | 50 Belly  | Common   |                          |           |               |
+| Fake Luffy               | 50 Belly  | Common   |                          |           |               |
+| Albion                   | 400 Belly | Uncommon | Tekko Kagi (Uncommon)    |           |               |
+| Doughty                  | 400 Belly | Uncommon | Toothed Saber (Uncommon) |           |               |
+| Caribou                  | 400 Belly | Uncommon |                          |           | Numa Fragment |
+| Coribou                  | 400 Belly | Uncommon | Iron Shovel (Uncommon)   |           |               |
+| PX-5                     | 400 Belly | Uncommon |                          |           |               |
+| PX-7                     | 400 Belly | Uncommon |                          |           |               |
+| Marine Officer Sentomaru | 500 Belly | Rare     | Masakari (Uncommon)      |           |               |
 
 ### Essential NPCs
 

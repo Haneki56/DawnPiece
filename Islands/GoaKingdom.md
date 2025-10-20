@@ -24,11 +24,11 @@ Bounty Reward: 550,000
 
 ### A Quest Boss Drops
 
-| Boss Name     | Belly      | Orb       | Weapon            | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------    |----------- |-----------|-----------        |-----------|----------- |-----------|-----------|-----------|
-| Bluejam Pirate| 50 Belly   | Common    | Cutlass (Common)  |           |            |           |           |           |
-| Porchemy      | 100 Belly  | Uncommon  | Cutlass (Uncommon)|           |            |           |           |           |
-| Bluejam       | 150 Belly  | Uncommon  | Cutlass (Uncommon)|           |            |           |           |           |
+| Boss Name     | Belly      | Orb       | Weapon            | Armor Set | Other     |
+|-----------    |----------- |-----------|-----------        |-----------|-----------|
+| Bluejam Pirate| 50 Belly   | Common    | Cutlass (Common)  |           |           |
+| Porchemy      | 100 Belly  | Uncommon  | Cutlass (Uncommon)|           |           |
+| Bluejam       | 150 Belly  | Uncommon  | Cutlass (Uncommon)|           |           |
 
 ### Merchants
 

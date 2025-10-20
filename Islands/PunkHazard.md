@@ -36,7 +36,7 @@ Note: Completing this quest unlocks Dressrosa. Speak to Brook (PH) or the Telepo
 ### Main Quest Boss Drops
 
 | Boss Name            | Belly      | Orb      | Weapon                 | Armor Set | Other             |
-|-----------           |----------- |----------|-----------             |-----------|-----------        |
+|----------------------|----------- |----------|------------------------|-----------|-------------------|
 | Artificial Dragon    | 400 Belly  | Rare     |                        |           |                   |
 | Centaur              | 200 Belly  | Uncommon |                        |           |                   |
 | Brownbeard           | 1300 Belly | Epic     |                        |           |                   |

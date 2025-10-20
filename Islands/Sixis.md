@@ -17,11 +17,11 @@ Bounty Reward: 200,000
 
 ### A Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon               | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------        |----------- |-----------|-----------           |-----------|----------- |-----------|-----------|-----------|
-| Previous Mr. 7    | 40 Belly   | Common    |                      |           |            |           |           |           |
-| Portgas D. Ace    | 100 Belly  | Uncommon  | Ace Knife (Uncommon) |           |            |           |           |           |
-| Masked Deuce      | 60 Belly   | Common    |                      |           |            |           |           |           |
+| Boss Name      | Belly     | Orb      | Weapon               | Armor Set | Other     |
+|----------------|-----------|----------|----------------------|-----------|-----------|
+| Previous Mr. 7 | 40 Belly  | Common   |                      |           |           |
+| Portgas D. Ace | 100 Belly | Uncommon | Ace Knife (Uncommon) |           |           |
+| Masked Deuce   | 60 Belly  | Common   |                      |           |           |
 
 ### Essential NPCs
 

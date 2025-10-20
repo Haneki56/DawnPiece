@@ -16,11 +16,11 @@ Bounty Reward: 2,300,000
 
 ### A Quest Boss Drops
 
-| Boss Name       | Belly     | Orb      | Weapon                 | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------      |-----------|----------|-----------             |-----------|----------- |-----------|-----------|-----------|
-| Primitive Human | 200 Belly | Uncommon | Wooden Club (Uncommon) |           |            |           |           |           |
-| Shanba          | 300 Belly | Uncommon | Rocket Spear (Uncommon)|           |            |           |           |           |
-| Giant Bird      | 200 Belly | Uncommon |                        |           |            |           |           |           |
+| Boss Name       | Belly     | Orb      | Weapon                 | Armor Set | Other     |
+|-----------------|-----------|----------|------------------------|-----------|-----------|
+| Primitive Human | 200 Belly | Uncommon | Wooden Club (Uncommon) |           |           |
+| Shanba          | 300 Belly | Uncommon | Rocket Spear (Uncommon)|           |           |
+| Giant Bird      | 200 Belly | Uncommon |                        |           |           |
 
 ### Essential NPCs
 

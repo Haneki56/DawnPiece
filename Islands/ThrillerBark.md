@@ -34,28 +34,28 @@ Note: Completing this quest unlocks the Flying Fish Riders Base. Speak to Kuma (
 
 ### Main Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon                   | Helmet    | Chestplate | Leggings  | Boots     | Other           |
-|-----------        |----------- |-----------|-----------               |-----------|----------- |-----------|-----------|-----------      |
-| Cerberus          | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Zombie            | 50 Belly   | Common    |                          |           |            |           |           |                 |
-| Hildon            | 150 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| MocDonald         | 150 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Cindry            | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Dr. Hogback       | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Zombie General    | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Zombie Lola       | 400 Belly  | Uncommon  |                          |           |            |           |           | Lola's Shadow   |
-| Absalom           | 100 Belly  | Uncommon  |                          |           |            |           |           | Suke Fragment   |
-| Inuppe            | 200 Belly  | Uncommon  |                          |           |            |           |           | Sanji's Shadow  |
-| Jigoro            | 300 Belly  | Uncommon  | Cutlass (Uncommon)       |           |            |           |           | Zoro's Shadow   |
-| Tararan           | 350 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| John              | 350 Belly  | Uncommon  | Cutlass (Uncommon)       |           |            |           |           |                 |
-| Ryuma             | 400 Belly  | Rare      | Shusui (Uncommon)        |           |            |           |           | Brook's Shadow  |
-| Kumashi           | 200 Belly  | Uncommon  |                          |           |            |           |           |                 |
-| Perona            | 400 Belly  | Rare      | Horo Umbrella (Uncommon) |           |            |           |           | Horo Fragment   |
-| Nightmare Luffy   | 450 Belly  | Rare      |                          |           |            |           |           | Gomu Fragment   |
-| Oars              | 300 Belly  | Uncommon  |                          |           |            |           |           | Luffy's Shadow  |
-| Doppelman         | 50 Belly   | Common    |                          |           |            |           |           |                 |
-| Gecko Moria       | 700 Belly  | Rare      | Scissors (Rare)          |           |            |           |           | Kage Fragment   |
+| Boss Name       | Belly     | Orb      | Weapon                   | Armor Set | Other           |
+|-----------------|-----------|----------|--------------------------|-----------|-----------------|
+| Cerberus        | 200 Belly | Uncommon |                          |           |                 |
+| Zombie          | 50 Belly  | Common   |                          |           |                 |
+| Hildon          | 150 Belly | Uncommon |                          |           |                 |
+| MocDonald       | 150 Belly | Uncommon |                          |           |                 |
+| Cindry          | 200 Belly | Uncommon |                          |           |                 |
+| Dr. Hogback     | 200 Belly | Uncommon |                          |           |                 |
+| Zombie General  | 200 Belly | Uncommon |                          |           |                 |
+| Zombie Lola     | 400 Belly | Uncommon |                          |           | Lola's Shadow   |
+| Absalom         | 100 Belly | Uncommon |                          |           | Suke Fragment   |
+| Inuppe          | 200 Belly | Uncommon |                          |           | Sanji's Shadow  |
+| Jigoro          | 300 Belly | Uncommon | Cutlass (Uncommon)       |           | Zoro's Shadow   |
+| Tararan         | 350 Belly | Uncommon |                          |           |                 |
+| John            | 350 Belly | Uncommon | Cutlass (Uncommon)       |           |                 |
+| Ryuma           | 400 Belly | Rare     | Shusui (Uncommon)        |           | Brook's Shadow  |
+| Kumashi         | 200 Belly | Uncommon |                          |           |                 |
+| Perona          | 400 Belly | Rare     | Horo Umbrella (Uncommon) |           | Horo Fragment   |
+| Nightmare Luffy | 450 Belly | Rare     |                          |           | Gomu Fragment   |
+| Oars            | 300 Belly | Uncommon |                          |           | Luffy's Shadow  |
+| Doppelman       | 50 Belly  | Common   |                          |           |                 |
+| Gecko Moria     | 700 Belly | Rare     | Scissors (Rare)          |           | Kage Fragment   |
 
 ### B Quest
 

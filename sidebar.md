@@ -46,6 +46,8 @@
   * [28.7 Karakuri Island](Islands/KarakuriIsland.md)
   * [28.8 Namakura Island](Islands/NamakuraIsland.md)
   * [29. Return To Sabaody](Islands/ReturnToSabaody.md)
+  * [30. Fishman Island](Islands/FishmanIsland.md)
+  * [31. Punk Hazard](Islands/PunkHazard.md)
 
 * **Custom Gear Guide**
   * [Blacksmiths](Gear/Blacksmith.md)

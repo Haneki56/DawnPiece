@@ -22,12 +22,12 @@ Note: Completing this quest unlocks Cocoyashi Village. Speak to Zeff (BR) or the
 
 ### Main Quest Boss Drops
 
-| Boss Name | Belly     | Orb     | Weapon           | Helmet    | Chestplate | Leggings  | Boots     | Other     |
-|-----------|-----------|---------|-----------       |-----------|----------- |-----------|-----------|-----------|
-| Fullbody  | 35 Belly  | Common  |                  |           |            |           |           |           |
-| Gin       | 25 Belly  | Common  | Tonfa (Common)   |           |            |           |           |           |
-| Pearl     | 30 Belly  | Common  |                  |           |            |           |           |           |
-| Don Krieg | 80 Belly  | Common  | Diaseno (Common) |           |            |           |           |           |
+| Boss Name | Belly     | Orb     | Weapon           | Armor Set | Other     |
+|-----------|-----------|---------|-----------       |-----------|-----------|
+| Fullbody  | 35 Belly  | Common  |                  |           |           |
+| Gin       | 25 Belly  | Common  | Tonfa (Common)   |           |           |
+| Pearl     | 30 Belly  | Common  |                  |           |           |
+| Don Krieg | 80 Belly  | Common  | Diaseno (Common) |           |           |
 
 ### Essential NPCs
 

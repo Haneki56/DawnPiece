@@ -1,4 +1,5 @@
 * **Island Guide**
+  * [Island Guide Overview](Islands/Overview.md)
   * [0. Spawn Island](Islands/SpawnIsland.md)
   * [1. Foosha Village](Islands/FooshaVillage.md)
   * [1.1 Goa Kingdom](Islands/GoaKingdom.md)
@@ -48,6 +49,11 @@
   * [29. Return To Sabaody](Islands/ReturnToSabaody.md)
   * [30. Fishman Island](Islands/FishmanIsland.md)
   * [31. Punk Hazard](Islands/PunkHazard.md)
+  * [32. Dressrosa](Islands/Dressrosa.md)
+  * [33. Zou](Islands/Zou.md)
+  * [34. Whole Cake Island](Islands/WholeCakeIsland.md)
+  * [35. Wano Kuni](Islands/WanoKuni.md)
+  * [36. Onigashima](Islands/Onigashima.md)
 
 * **Custom Gear Guide**
   * [Blacksmiths](Gear/Blacksmith.md)
@@ -55,5 +61,5 @@
   * [Armor](Gear/Armor.md)
 
 * **Life Path Guide**
-  * [General Information](Ranks/Ranks.md)
+  * [Ranks Overview](Ranks/Overview.md)
   * [Pirate Life Path](Ranks/PirateLifePath.md)

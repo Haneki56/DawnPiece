@@ -1,4 +1,4 @@
-# <span style="color:#DC2626">Frequently Asked Questions</span>
+# <span style="color:#DC2626">Tutorial</span>
 
 Scroll through this page to see the list of our most frequently asked questions. If have a question that you feel is important and is not listed here, open a ticket on the discord server so that staff can add it to the list.
 
@@ -19,7 +19,7 @@ Scroll through this page to see the list of our most frequently asked questions.
 3. [Download](https://www.dropbox.com/scl/fi/e578ow4w2vnuiofyim6it/onepieceaas.zip?rlkey=fkvxu9kcrwmpke3nu1chinpc3&st=kjy3om0n&dl=0) all of the mods and add them to your mods folder.
 4. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
-### <span style="color:#FF0000">Getting Started</span>
+### <span style="color:#FF0000">Gameplay</span>
 
 `Getting Started`
 
@@ -83,7 +83,7 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 3. Selling useful items such as swords, armor and devil fruits to other players and to merchants in game that are set up to purchase items.
 4. Salvaging unused gear. 
 
-### <span style="color:#FF0000">Devil Fruits</span>
+### <span style="color:#FF0000">Getting Devil Fruits</span>
 
 `Buying Devil Fruits`
 
@@ -105,7 +105,15 @@ There may be occasional events and giveaways where you can win a devil fruit! We
 
 You can talk to the Devil Fruit Remover at Goa Kingdom to remove your devil fruit for a price. Be sure that you want to remove your fruit because the change is permanent. If you have a Yami Yami No Mi combination with another fruit, both fruits will be removed in this process.
 
-### <span style="color:#FF0000">Crews</span>
+### <span style="color:#FF0000">Faction World</span>
+
+The Faction World is a free room version of the One Piece Map used in the Pirate World! Explore the faction world to find an island or ship out in the ocean to claim for your crew and build a base. You can collect blocks there to use to build bases, or purchase blocks in the Pirate World to aid your building.
+
+You can access the Faction World by speaking with the Teleporter at Spawn. While in the Faction World, you can use /rtp to randomly teleport around a 3,000 block radius from the start point. The entire faction world radius is much larger so hide your base far away to protect it from raids! 
+
+The Faction World was designed so players can PvP to their hearts content. Players are allowed to kill each other and raid other crews bases here freely. Keep inventory is off in the faction world so be careful when coming into contact with other players, lava and fall damage as you will lose your stuff. 
+
+### <span style="color:#FF0000">Starting and Joining Crews</span>
 
 `Basic Information`
 
@@ -136,3 +144,25 @@ New members are automatically recruits; however, they can be promoted to members
 ### <span style="color:#FF0000">Houses</span>
 
 You are not allowed to own a home in the pirate world. We have tried donation systems for individual homes, and legacy rank homes in the past however upkeep with these systems was too strenuous on staff. We prefer to focus our time updating the server and creating events. You may build homes in the faction world as you please but they may be raided so be careful about where you place your homes. 
+
+### <span style="color:#FF0000">Storage</span>
+
+`Ender Chests`
+
+Ender chests work exactly as they would in vanilla. Anywhere you open one, you can access a single chests worth of shared inventory space. In the server, you can find these at every bank. Certain donation ranks can access /echest from anywhere.
+
+`Safes`
+
+Safes are custom modded blocks that act exactly like ender chests, however are double chests and have a separate inventory from ender chests. Certain donation ranks can access /openbank from anywhere.
+
+`Faction World`
+
+The rest of your items can be limitlessly stored in the faction world. Be careful as other players can steal these items if you are raided, so store your most valuable items in the items mentioned above.
+
+`Backpacks`
+
+Everyone gets a backpack at start, and have the option to one time purchase a large backpack. Backpacks are extremely rare and valuable, so we recommend not keeping it on your person in the faction world as keep inventory is off there.
+
+`Prohibited Storage`
+
+You may stumble across chests and other items in the pirate world where you may store your items, however storing at these locations is prohibited. This rule is for your sake, as we are constantly editing interiors and landscapes. If you decide to store somewhere in the pirate world, and the blocks are deleted, then staff is not held responsible for your loss.

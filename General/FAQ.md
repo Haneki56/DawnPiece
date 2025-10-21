@@ -1,10 +1,10 @@
-# Frequently Asked Questions
+# <span style="color:#DC2626">Frequently Asked Questions</span>
 
 Scroll through this page to see the list of our most frequently asked questions. If have a question that you feel is important and is not listed here, open a ticket on the discord server so that staff can add it to the list.
 
-### Joining The Server
+### <span style="color:#FF0000">Joining The Server</span>
 
-##### Joining Through Technic
+##### <span style="color:#B91C1C">Joining Through Technic</span>
 
 1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
 2. [Download the Technic Launcher](https://www.technicpack.net/download). 
@@ -12,14 +12,14 @@ Scroll through this page to see the list of our most frequently asked questions.
 4. Click on Launcher Options and allocate around 50% of your computer's total RAM to the Technic Launcher. This should be around 8-16 GB depending on your computer's RAM. You will likely need at least a 16 GB computer to run this modpack as an 8GB computer may crash upon loading.
 5. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
-##### Joining Through Minecraft Launcher
+##### <span style="color:#B91C1C">Joining Through Minecraft Launcher</span>
 
 1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
 2. Download Minecraft Version 1.16.5 and Forge Version 36.2.39 in your Minecraft Launcher.
 3. [Download](https://www.dropbox.com/scl/fi/e578ow4w2vnuiofyim6it/onepieceaas.zip?rlkey=fkvxu9kcrwmpke3nu1chinpc3&st=kjy3om0n&dl=0) all of the mods and add them to your mods folder.
 4. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
-### Getting Started
+### <span style="color:#FF0000">Getting Started</span>
 
 `Getting Started`
 
@@ -33,7 +33,7 @@ Talk to the Teleporter at Spawn to take you to Foosha Village and start your jou
 
 We recommend you use your starter gear that you received when spawning into the server to help fight bosses. Be sure to also take a look around Goa Kingdom since you will always be coming back here to use the shops and essential NPCs like bankers for storage, currency exchange, food merchants, etc.
 
-### Questing Basics
+### <span style="color:#FF0000">Questing Basics</span>
 
 `Main Quests`
 
@@ -43,7 +43,7 @@ Every island has the main quest giver near the area you initially teleport to. S
 
 You will notice that islands also have side quests. The quest giver NPCs are scattered around so you are encouraged to adventure around each island you visit. Most side quests are only specific to their island, however some will require you to travel around the One Piece world while others may give you access to new locations upon completion.
 
-### Getting Gear
+### <span style="color:#FF0000">Getting Gear</span>
 
 `Starter Gear`
 
@@ -57,14 +57,14 @@ Armor and weapons also drop from NPCs. As you progress through the story, you wi
 
 If you're lucky, another player may be selling a weapon you are looking for so keep an eye on the [Item Search Channel](https://discord.com/channels/1385526041807949855/1394218892330537103) to see if there's anything that you can afford.
 
-### Server Currency
+### <span style="color:#FF0000">Server Currency</span>
 
 `Belly`
 
 The main currency is Belly. It is used to purchase items or commodities from a variety of shops or other players. Belly can be converted into higher and lower volumes by talking to the Bank Teller NPC at Goa Kingdom and various other islands with banks.
 
 |Currency Icon|Currency Denominations|
-|-------------|-------------|
+|:-----------:|----------------------|
 | <img src="Assets/Currency/belly1.png" width="32" height="32" alt="1 Belly Coin">          |1 Belly Coin|
 | <img src="Assets/Currency/belly5.png" width="32" height="32" alt="5 Belly Coin">          |5 Belly Coin|
 | <img src="Assets/Currency/belly10.png" width="32" height="32" alt="10 Belly Coin">        |10 Belly Coin|
@@ -83,7 +83,7 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 3. Selling useful items such as swords, armor and devil fruits to other players and to merchants in game that are set up to purchase items.
 4. Salvaging unused gear. 
 
-### Devil Fruits
+### <span style="color:#FF0000">Devil Fruits</span>
 
 `Buying Devil Fruits`
 
@@ -105,7 +105,7 @@ There may be occasional events and giveaways where you can win a devil fruit! We
 
 You can talk to the Devil Fruit Remover at Goa Kingdom to remove your devil fruit for a price. Be sure that you want to remove your fruit because the change is permanent. If you have a Yami Yami No Mi combination with another fruit, both fruits will be removed in this process.
 
-### Crews
+### <span style="color:#FF0000">Crews</span>
 
 `Basic Information`
 
@@ -133,6 +133,6 @@ The more power your crew has, the more land you can claim. Power is attained by 
 
 New members are automatically recruits; however, they can be promoted to members and officers. Members can use chests, doors and build on claimed land and officers can claim land, invite new members, kick crew members and decide relations with other crews. 
 
-### Houses
+### <span style="color:#FF0000">Houses</span>
 
 You are not allowed to own a home in the pirate world. We have tried donation systems for individual homes, and legacy rank homes in the past however upkeep with these systems was too strenuous on staff. We prefer to focus our time updating the server and creating events. You may build homes in the faction world as you please but they may be raided so be careful about where you place your homes. 

@@ -1,65 +1,49 @@
-# <span style="color:#DC2626">Tutorial</span>
+# Tutorial
 
-Scroll through this page to see the list of our most frequently asked questions. If have a question that you feel is important and is not listed here, open a ticket on the discord server so that staff can add it to the list.
+Scroll through this page to see a basic guide based on our most frequently asked questions. If have a question that you feel is important but the information is not listed here, [open a ticket](https://discord.com/channels/1385526041807949855/1394129612161810433) on the discord server so that staff can add it to the list.
 
-### <span style="color:#FF0000">Joining The Server</span>
+## Joining The Server
 
-##### <span style="color:#B91C1C">Joining Through Technic</span>
+### Joining Through Technic
 
 1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
 2. [Download the Technic Launcher](https://www.technicpack.net/download). 
-3. Open the Technic Launcher, search for the mod pack "One Piece Adventures at Sea" and install it.
+3. Open the Technic Launcher, search for the mod pack "One Piece Adventures at Sea" and install it. The creator of the modpack is SmoovOperator.
 4. Click on Launcher Options and allocate around 50% of your computer's total RAM to the Technic Launcher. This should be around 8-16 GB depending on your computer's RAM. You will likely need at least a 16 GB computer to run this modpack as an 8GB computer may crash upon loading.
-5. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
+5. Minecraft stopped official support for Minecraft using Legacy JRE so if you are still having issues loading, uncheck the box "Use Mojang Java runtimes" and make sure you have another JRE isntalled which you can find [here](https://api.adoptium.net/v3/installer/latest/8/ga/windows/x64/jre/hotspot/normal/eclipse?project=jdk)
+6. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
-##### <span style="color:#B91C1C">Joining Through Minecraft Launcher</span>
+### Joining Through Minecraft Launcher
 
 1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
 2. Download Minecraft Version 1.16.5 and Forge Version 36.2.39 in your Minecraft Launcher.
 3. [Download](https://www.dropbox.com/scl/fi/e578ow4w2vnuiofyim6it/onepieceaas.zip?rlkey=fkvxu9kcrwmpke3nu1chinpc3&st=kjy3om0n&dl=0) all of the mods and add them to your mods folder.
-4. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
+4. Make sure that you have enough RAM allocated to the launcher.
+5. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
-### <span style="color:#FF0000">Gameplay</span>
+## Getting Started
 
-`Getting Started`
+The purpose of the game is to go through the storyline in One Piece, similar to the way the Straw Hats go through their journey! Upon joining the server, you'll wind up at [Spawn Island](https://haneki56.github.io/DawnPiece/#/Islands/SpawnIsland). Talk to the NPCs there to learn about the server. There will also be a Teleporter NPC there to take you wherever you need to go as long as you have unlocked the island.
 
-The purpose of the game is to go through the storyline in One Piece, similar to the way the Straw Hats go through their journey! Upon joining the server, you'll wind up at Spawn Island. Talk to the Tutorial NPCs there to learn about the server. There will also be a Teleporter NPC there to take you wherever you need to go as long as the island is unlocked.
+First, you should teleport [Foosha Village](https://haneki56.github.io/DawnPiece/#/Islands/FooshaVillage) and start your journey! As soon as you arrive there, talk to Luffy to start the main quest. Each island going forward will have a main questline, so to unlcok the next island, complete the main questline of the island you are currently on. The option for the next island will be available in the Teleporter interface.
 
-`Progressing Through The Story`
+We recommend you use your starter gear that you received when spawning into the server to help fight bosses. Be sure to also take a look around [Goa Kingdom](https://haneki56.github.io/DawnPiece/#/Islands/GoaKingdom) since you will often go there to use the shops and essential NPCs like bankers for storage, currency exchange, food merchants, etc.
 
-Talk to the Teleporter at Spawn to take you to Foosha Village and start your journey! As soon as you arrive there, talk to Luffy to start the main quest. Each island has a main questline, so to get to the next island, complete the main questline of the island you are currently on and the option for the next island will be available in the Teleporter interface.
-
-`Basic Starting Tips`
-
-We recommend you use your starter gear that you received when spawning into the server to help fight bosses. Be sure to also take a look around Goa Kingdom since you will always be coming back here to use the shops and essential NPCs like bankers for storage, currency exchange, food merchants, etc.
-
-### <span style="color:#FF0000">Questing Basics</span>
-
-`Main Quests`
+## Questing Basics
 
 Every island has the main quest giver near the area you initially teleport to. Speak to them to begin the quest. Once you complete the first part of the quest, the next part will appear in your quest log until you complete the final part. Upon completion, you will unlock the warp for the next island. Simply speak to the final NPC in the questline to warp to the next island. Upon completion, the island will unlock within the Teleporter NPC as well so you can access it at any time.
 
-`Side Quests`
-
 You will notice that islands also have side quests. The quest giver NPCs are scattered around so you are encouraged to adventure around each island you visit. Most side quests are only specific to their island, however some will require you to travel around the One Piece world while others may give you access to new locations upon completion.
 
-### <span style="color:#FF0000">Getting Gear</span>
+## Getting Gear
 
-`Starter Gear`
+You will get a free set of starter gear the moment you land in the server. This should help you defeat the early bosses and move through the storyline in a smoother fashion. This gear can also be [repaired](https://haneki56.github.io/DawnPiece/#/Gear/Blacksmith?id=repair-station) and [upgraded](https://haneki56.github.io/DawnPiece/#/Gear/Blacksmith?id=upgrade-table) so hold onto it as you will only get the one set.
 
-You will get a free set of starter gear the moment you land in the server. This should help you defeat the early bosses and move through the storyline in a smoother fashion. This gear can also be repaired and upgraded so hold onto it as you will only get the one set.
+Armor and weapons also drop from NPCs. As you progress through the story, you will be able to unlock the ability to fight a wider variety of characters that drop their own gear. For more information on how the gear system works and the list of gear that drops from various bosses, check out the [Gear Guide](https://haneki56.github.io/DawnPiece/#/Gear/Overview) and [Island Guide](https://haneki56.github.io/DawnPiece/#/Islands/Overview).
 
-`Custom Gear`
+If you're lucky, another player may be selling a weapon or armor piece you are looking for so keep an eye on the [Item Search Channel](https://discord.com/channels/1385526041807949855/1394218892330537103) to see if there's anything that you can afford.
 
-Armor and weapons also drop from NPCs. As you progress through the story, you will be able to unlock the ability to fight a wider variety of characters that drop their own gear. For more information on how custom gear works and the list of gear that drops from various bosses, check out the Gear and Island Guide sections of this Wiki.
-
-`Player Market`
-
-If you're lucky, another player may be selling a weapon you are looking for so keep an eye on the [Item Search Channel](https://discord.com/channels/1385526041807949855/1394218892330537103) to see if there's anything that you can afford.
-
-### <span style="color:#FF0000">Server Currency</span>
-
-`Belly`
+## Server Currency
 
 The main currency is Belly. It is used to purchase items or commodities from a variety of shops or other players. Belly can be converted into higher and lower volumes by talking to the Bank Teller NPC at Goa Kingdom and various other islands with banks.
 
@@ -76,34 +60,18 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 | <img src="Assets/Currency/belly10000.png" width="32" height="32" alt="10,000 Belly Bill"> |10,000 Belly Bill|
 | <img src="Assets/Currency/belly100000.png" width="32" height="32" alt="100,000 Belly Bag">|100,000 Belly Bag|
 
-`How To Get Rich`
-
 1. All bosses drop belly based on their difficulty, so defeating them is a great way to earn belly.
 2. Complete quests. Rewards will get better as the game progresses. Questlines can be repeated weekly, so make sure to do them often. If you complete a questline, the payout is equal to defeating all of the bosses that are a part of the questline. 
 3. Selling useful items such as swords, armor and devil fruits to other players and to merchants in game that are set up to purchase items.
-4. Salvaging unused gear. 
+4. Salvaging unused gear is another way to earn quick belly. 
 
-### <span style="color:#FF0000">Getting Devil Fruits</span>
+## Devil Fruits
 
-`Buying Devil Fruits`
-
-You can use in-game currency that you get from killing enemies and completing quests to buy Crate Keys from the merchants at Goa Kingdom which you can then use to roll for a random fruit depending on it's tier. 
-
-`Earning Devil Fruits`
-
-Some bosses have a low chance of dropping fragments of their devil fruits. You can farm these bosses and trade their fragments in for the entire fruit to the fragment traders at Goa Kingdom.
-
-`Trading Devil Fruits`
-
-Trading with or buying fruits from other players in the Market Channels on Discord or in game is a great way to get a devil fruit. You can also sell your possessions to other players to save up for a fruit or even a crate key.
-
-`Winning Devil Fruits`
-
-There may be occasional events and giveaways where you can win a devil fruit! We don't do these often and they come at random times so keep an eye out on the [Item Search Channel](https://discord.com/channels/1385526041807949855/1388360081640521850) in the Discord.
-
-`Removing Your Devil Fruit`
-
-You can talk to the Devil Fruit Remover at Goa Kingdom to remove your devil fruit for a price. Be sure that you want to remove your fruit because the change is permanent. If you have a Yami Yami No Mi combination with another fruit, both fruits will be removed in this process.
+1. Buying Devil Fruits: You can use in-game currency that you get from killing enemies and completing quests to buy Crate Keys from the merchants at Goa Kingdom which you can then use to roll for a random fruit depending on it's tier. 
+2. Earning Devil Fruits: Some bosses have a low chance of dropping fragments of their devil fruits. You can farm these bosses and trade their fragments in for the entire fruit to the fragment traders at Goa Kingdom.
+3. Trading Devil Fruits: Trading with or buying fruits from other players in the Market Channels on Discord or in game is a great way to get a devil fruit. You can also sell your possessions to other players to save up for a fruit or even a crate key.
+4. Winning Devil Fruits: There may be occasional events and giveaways where you can win a devil fruit! We don't do these often and they come at random times so keep an eye out on the [Item Search Channel](https://discord.com/channels/1385526041807949855/1388360081640521850) in the Discord.
+5. Removing Your Devil Fruit: You can talk to the Devil Fruit Remover at Goa Kingdom to remove your devil fruit for a price. Be sure that you want to remove your fruit because the change is permanent. If you have a Yami Yami No Mi combination with another fruit, both fruits will be removed in this process.
 
 ### <span style="color:#FF0000">Faction World</span>
 

@@ -9,57 +9,57 @@ The island guide is a collection of pages describing the contents of each island
 
 ### Island Order
 
-[0. Spawn Island](Islands/SpawnIsland.md)
-[1. Foosha Village](Islands/FooshaVillage.md)
-[1.1 Goa Kingdom](Islands/GoaKingdom.md)
-[1.2 Sixis](Islands/Sixis.md)
-[2. Alvida's Hideout](Islands/AlvidaHideout.md)
-[3. Shells Town](Islands/ShellsTown.md)
-[3.1 Shimotsuki Village](Islands/ShimotsukiVillage.md)
-[4. Orange Town](Islands/OrangeTown.md)
-[5. Syrup Village](Islands/SyrupVillage.md)
-[5.1 Mirror Ball Island](Islands/MirrorBallIsland.md)
-[6. Island of Rare Animals](Islands/IslandOfRareAnimals.md)
-[6.1 Don Krieg's Hideout](Islands/DonKriegHideout.md)
-[6.2 Lost Island](Islands/LostIsland.md)
-[7. Baratie](Islands/Baratie.md)
-[8. Cocoyashi Village](Islands/CocoyashiVillage.md)
-[8.1 Oykot Kingdom](Islands/OykotKingdom.md)
-[9. Loguetown](Islands/Loguetown.md)
-[10. Reverse Mountain](Islands/ReverseMountain.md)
-[11. Whisky Peak](Islands/WhiskyPeak.md)
-[11.1 Kyuka Island](Islands/KyukaIsland.md)
-[12. Little Garden](Islands/LittleGarden.md)
-[13. Drum Island](Islands/DrumIsland.md)
-[14. Alabasta](Islands/Alabasta.md)
-[15. Jaya](Islands/Jaya.md)
-[16. Knock Up Stream](Islands/KnockUpStream.md)
-[17. Skypiea](Islands/Skypiea.md)
-[18. Long Ring Long Land](Islands/LongRingLongLand.md)
-[19. Shift Station](Islands/ShiftStation.md)
-[20. Water Seven](Islands/WaterSeven.md)
-[21. Enies Lobby](Islands/EniesLobby.md)
-[21.2 Banaro Island](Islands/BanaroIsland.md)
-[22. Thriller Bark](Islands/ThrillerBark.md)
-[23. Flying Fish Riders Base](Islands/FlyingFishRidersBase.md)
-[24. Sabaody Archipelago](Islands/SabaodyArchipelago.md)
-[25. Amazon Lily](Islands/AmazonLily.md)
-[26. Impel Down](Islands/ImpelDown.md)
-[27. Marineford](Islands/Marineford.md)
-[28. Rusukaina](Islands/Rusukaina.md)
-[28.1 Kuraigana](Islands/Kuraigana.md)
-[28.2 Momoiro Island](Islands/MomoiroIsland.md)
-[28.3 Boin Archipelago](Islands/BoinArchipelago.md)
-[28.4 Weatheria](Islands/Weatheria.md)
-[28.5 Torino Kingdom](Islands/TorinoKingdom.md)
-[28.6 Tequila Wolf](Islands/TequilaWolf.md)
-[28.7 Karakuri Island](Islands/KarakuriIsland.md)
-[28.8 Namakura Island](Islands/NamakuraIsland.md)
-[29. Return To Sabaody](Islands/ReturnToSabaody.md)
-[30. Fishman Island](Islands/FishmanIsland.md)
-[31. Punk Hazard](Islands/PunkHazard.md)
-[32. Dressrosa](Islands/Dressrosa.md)
-[33. Zou](Islands/Zou.md)
-[34. Whole Cake Island](Islands/WholeCakeIsland.md)
-[35. Wano Kuni](Islands/WanoKuni.md)
-[36. Onigashima](Islands/Onigashima.md)
+[0. Spawn Island](Islands/SpawnIsland.md)<br>
+[1. Foosha Village](Islands/FooshaVillage.md)<br>
+[1.1 Goa Kingdom](Islands/GoaKingdom.md)<br>
+[1.2 Sixis](Islands/Sixis.md)<br>
+[2. Alvida's Hideout](Islands/AlvidaHideout.md)<br>
+[3. Shells Town](Islands/ShellsTown.md)<br>
+[3.1 Shimotsuki Village](Islands/ShimotsukiVillage.md)<br>
+[4. Orange Town](Islands/OrangeTown.md)<br>
+[5. Syrup Village](Islands/SyrupVillage.md)<br>
+[5.1 Mirror Ball Island](Islands/MirrorBallIsland.md)<br>
+[6. Island of Rare Animals](Islands/IslandOfRareAnimals.md)<br>
+[6.1 Don Krieg's Hideout](Islands/DonKriegHideout.md)<br>
+[6.2 Lost Island](Islands/LostIsland.md)<br>
+[7. Baratie](Islands/Baratie.md)<br>
+[8. Cocoyashi Village](Islands/CocoyashiVillage.md)<br>
+[8.1 Oykot Kingdom](Islands/OykotKingdom.md)<br>
+[9. Loguetown](Islands/Loguetown.md)<br>
+[10. Reverse Mountain](Islands/ReverseMountain.md)<br>
+[11. Whisky Peak](Islands/WhiskyPeak.md)<br>
+[11.1 Kyuka Island](Islands/KyukaIsland.md)<br>
+[12. Little Garden](Islands/LittleGarden.md)<br>
+[13. Drum Island](Islands/DrumIsland.md)<br>
+[14. Alabasta](Islands/Alabasta.md)<br>
+[15. Jaya](Islands/Jaya.md)<br>
+[16. Knock Up Stream](Islands/KnockUpStream.md)<br>
+[17. Skypiea](Islands/Skypiea.md)<br>
+[18. Long Ring Long Land](Islands/LongRingLongLand.md)<br>
+[19. Shift Station](Islands/ShiftStation.md)<br>
+[20. Water Seven](Islands/WaterSeven.md)<br>
+[21. Enies Lobby](Islands/EniesLobby.md)<br>
+[21.2 Banaro Island](Islands/BanaroIsland.md)<br>
+[22. Thriller Bark](Islands/ThrillerBark.md)<br>
+[23. Flying Fish Riders Base](Islands/FlyingFishRidersBase.md)<br>
+[24. Sabaody Archipelago](Islands/SabaodyArchipelago.md)<br>
+[25. Amazon Lily](Islands/AmazonLily.md)<br>
+[26. Impel Down](Islands/ImpelDown.md)<br>
+[27. Marineford](Islands/Marineford.md)<br>
+[28. Rusukaina](Islands/Rusukaina.md)<br>
+[28.1 Kuraigana](Islands/Kuraigana.md)<br>
+[28.2 Momoiro Island](Islands/MomoiroIsland.md)<br>
+[28.3 Boin Archipelago](Islands/BoinArchipelago.md)<br>
+[28.4 Weatheria](Islands/Weatheria.md)<br>
+[28.5 Torino Kingdom](Islands/TorinoKingdom.md)<br>
+[28.6 Tequila Wolf](Islands/TequilaWolf.md)<br>
+[28.7 Karakuri Island](Islands/KarakuriIsland.md)<br>
+[28.8 Namakura Island](Islands/NamakuraIsland.md)<br>
+[29. Return To Sabaody](Islands/ReturnToSabaody.md)<br>
+[30. Fishman Island](Islands/FishmanIsland.md)<br>
+[31. Punk Hazard](Islands/PunkHazard.md)<br>
+[32. Dressrosa](Islands/Dressrosa.md)<br>
+[33. Zou](Islands/Zou.md)<br>
+[34. Whole Cake Island](Islands/WholeCakeIsland.md)<br>
+[35. Wano Kuni](Islands/WanoKuni.md)<br>
+[36. Onigashima](Islands/Onigashima.md)<br>

@@ -8,25 +8,25 @@ To start the Main Quest, speak to Nami (DR) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | The Swindlers!                ||
-| A02       | The Blind Man!                ||
-| A03       | Zoro’s Dilemma!               ||
-| A04       | Luffy’s Battle!               ||
-| A05       | A Passionate Affair!          ||
-| A06       | Violet’s Surprise!            ||
-| A07       | The Land Of The Fairies!      ||
-| A08       | A Rouge Once More!            ||
-| A09       | The Navy Admiral!             ||
-| A10       | Trouble On The Sunny!         ||
-| A11       | The Donquixote Artist!        ||
-| A12       | To Zou!                       ||
-| A13       | The Donquixote Officers!      ||
-| A14       | To The Toy Factory!           ||
-| A15       | The Dark History!             ||
-| A16       | Showdown At The Toy Factory!  ||
-| A17       | God Usopp!                    ||
-| A18       | The Smile Factory!            ||
-| A19       | Showdown At The Smile Factory!||
+| A01       | The Swindlers!                |Defeat 5 Donquixote Pirates in the gambling house.|
+| A02       | The Blind Man!                |Talk to Fujitora (DR) in front of the gambling house to complete the quest.|
+| A03       | Zoro’s Dilemma!               |Talk to Zoro (DR) by the fountain east of the gambling house to complete the quest.|
+| A04       | Luffy’s Battle!               |Talk to Luffy (DR) in front of the colosseum to complete the quest.|
+| A05       | A Passionate Affair!          |Talk to Sanji (DR) in front of the stage that is east of the colosseum to complete the quest.|
+| A06       | Violet’s Surprise!            |Talk to Violet (DR) on the stage to complete the quest.|
+| A07       | The Land Of The Fairies!      |Talk to Robin (DR) in the Tontatta Kingdom to complete the quest.|
+| A08       | A Rouge Once More!            |Talk to Law (DR) on Green Bit to complete the quest.|
+| A09       | The Navy Admiral!             |Defeat Fujitora on the bridge between Dressrosa and Green Bit.|
+| A10       | Trouble On The Sunny!         |Talk to Usopp (DR) in the Tontatta Kingdom to complete the quest.|
+| A11       | The Donquixote Artist!        |Defeat Giolla on the Thousand Sunny.|
+| A12       | To Zou!                       |Talk to Brook (DR) on the Thousand Sunny to complete the quest.|
+| A13       | The Donquixote Officers!      |Defeat Bellamy The Hyena, Dellinger and Machvise in Town by the southern fountain.|
+| A14       | To The Toy Factory!           |Talk to Luffyland (DR) by the staircase north of the southern fountain to complete the quest.|
+| A15       | The Dark History!             |Talk to Thunder Soldier (DR) in front of the Toy Factory to complete the quest.|
+| A16       | Showdown At The Toy Factory!  |Defeat Gladius, Lao G and Sugar in the Toy Factory.|
+| A17       | God Usopp!                    |Talk to Usoland (DR) in front of the Toy Factory to complete the quest.|
+| A18       | The Smile Factory!            |Talk to Fraland (DR) in front of the Smile Factory to complete the quest.|
+| A19       | Showdown At The Smile Factory!|Defeat Buffalo, Baby 5 and Senor Pink in the Smile Factory.|
 | A20       | The Flower Hill!              ||
 | A21       | The Donquixote Executives!    ||
 | A22       | The Vice Admirals!            ||

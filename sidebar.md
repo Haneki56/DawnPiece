@@ -55,10 +55,11 @@
   * [35. Wano Kuni](Islands/WanoKuni.md)
   * [36. Onigashima](Islands/Onigashima.md)
 
-* **Custom Gear Guide**
+* **Gear Guide**
+  * [Gear Guide Overview](Gear/Overview.md)
   * [Blacksmiths](Gear/Blacksmith.md)
-  * [Melee Weapons](Gear/MeleeWeapons.md)
   * [Armor](Gear/Armor.md)
+  * [Melee Weapons](Gear/MeleeWeapons.md)
 
 * **Life Path Guide**
   * [Ranks Overview](Ranks/Overview.md)

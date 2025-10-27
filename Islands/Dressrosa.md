@@ -27,12 +27,12 @@ To start the Main Quest, speak to Nami (DR) near the island teleport location.
 | A17       | God Usopp!                    |Talk to Usoland (DR) in front of the Toy Factory to complete the quest.|
 | A18       | The Smile Factory!            |Talk to Fraland (DR) in front of the Smile Factory to complete the quest.|
 | A19       | Showdown At The Smile Factory!|Defeat Buffalo, Baby 5 and Senor Pink in the Smile Factory.|
-| A20       | The Flower Hill!              ||
-| A21       | The Donquixote Executives!    ||
-| A22       | The Vice Admirals!            ||
-| A23       | Reclaim The Throne!           ||
-| A24       | The Heavenly Demon!           ||
-| A25       | Dressrosa Avenged!            ||
+| A20       | The Flower Hill!              |Talk to Zoroland (DR) at the base of the Flower Hill to complete the quest.|
+| A21       | The Donquixote Executives!    |Defeat Trebol, Diamante and Pica around the base of the Flower Hill.|
+| A22       | The Vice Admirals!            |Defeat 5 Marine Lieutenants, Vice Admiral Maynard and Vice Admiral Bastille around the Dressrosa Fields.|
+| A23       | Reclaim The Throne!           |Talk to King Riku (DR) in front of the palace to complete the quest.|
+| A24       | The Heavenly Demon!           |Defeat Donquixote Doflamingo in the Dressrosa Palace.|
+| A25       | Dressrosa Avenged!            |Talk to Kyros (DR) in front of the Dressrosa Palace to complete the questline.|
 
 
 Item Rewards: 25,400 Belly<br>
@@ -58,7 +58,7 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 | Senor Pink           | 1500 Belly | Epic      |                          |           | Sui Fragment  |
 | Trebol               | 1400 Belly | Epic      |                          |           | Beta Fragment |
 | Diamante             | 1500 Belly | Epic      |                          |           |               |
-| Pica                 | 1200 Belly | Rare      |                          |           |               |
+| Pica                 | 1200 Belly | Rare      |                          |           | Ishi Fragment |
 | Marine Lieutenant    | 400 Belly  | Rare      | Marine Sword (Uncommon)  |           |               |
 | Vice Admiral Maynard | 1200 Belly | Rare      |                          |           |               |
 | Vice Admiral Bastille| 1200 Belly | Rare      | Samekiri Bocho (Rare)    |           |               |

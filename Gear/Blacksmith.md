@@ -4,11 +4,11 @@ Blacksmiths are Essential NPCs in game located at various islands that give you 
 
 ### Upgrade Table
 
-To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage dealt with the weapon, and input the required upgrade orb. These values are different depending on the weapon tier and class, however if you place your weapon inside the GUI, the upgrade table will tell you what you need for the upgrade. You can also see the requirements in the other sections on the Custom Gear Guide.
+To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage dealt with the weapon or damage recieved with the armor, and insert the required upgrade orb in the table. These values are different depending on the weapon tier and class, however if you place your weapon inside the slot, the upgrade table interface will tell you what you need for the upgrade.
 
 ### Repair Station
 
-To repair your gear, you need to pay 1 Belly for every 10 units of durability. You can wait until zero durability to repair, or repair anytime between. Weapons will never break on zero durability so you don't need to be overly cautious about losing a hard earned weapon, however the weapon will do zero damage at zero durability. You can also see more specifics on repair costs and durability levels in the other sections on the Custom Gear Guide.
+To repair your gear, you need to pay 1 Belly for every 10 units of durability. You can wait until zero durability to repair, or repair anytime between. Weapons and armor will never break on zero durability so you don't need to be overly cautious about losing hard earned gear, however the weapon will do zero damage and armor will have no protection at zero durability.
 
 ### Fate Forge
 

@@ -1,3 +1,7 @@
+* **General Information**
+  * [Tutorial](General/Tutorial.md)
+  * [Treasure Hunts](General/TreasureHunts.md)
+
 * **Island Guide**
   * [Island Guide Overview](Islands/Overview.md)
   * [0. Spawn Island](Islands/SpawnIsland.md)
@@ -62,5 +66,13 @@
   * [Melee Weapons](Gear/MeleeWeapons.md)
 
 * **Life Path Guide**
-  * [Ranks Overview](Ranks/Overview.md)
+  * [Life Path Overview](Ranks/Overview.md)
   * [Pirate Life Path](Ranks/PirateLifePath.md)
+  * [Marine Life Path](Ranks/MarineLifePath.md)
+  * [Revolutionary Life Path](Ranks/RevolutionaryLifePath.md)
+  * [Samurai Life Path](Ranks/SamuraiLifePath.md)
+  * [World Government Life Path](Ranks/WorldGovernmentLifePath.md)
+  * [Shandian Life Path](Ranks/ShandianLifePath.md)
+  * [Baroque Works Life Path](Ranks/BaroqueWorksLifePath.md)
+  * [Bounty Hunter Life Path](Ranks/BountyHunterLifePath.md)
+  * [Bandit Life Path](Ranks/BanditLifePath.md)

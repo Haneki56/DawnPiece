@@ -41,7 +41,7 @@ Note: Completing this quest unlocks Punk Hazard. Speak to Pekoms (FI) or the Tel
 |-----------           |----------- |--------|-----------           |-----------|-----------   |
 | Ankoro               | 400 Belly  | Rare   |                      |           |              |
 | Wadatsumi            | 1000 Belly | Rare   |                      |           |              |
-| Vander Decken IX     | 1200 Belly | Rare   |                      |           |              |
+| Vander Decken IX     | 1200 Belly | Rare   |                      |           | Mato Fragment|
 | Hammond              | 1200 Belly | Rare   |                      |           |              |
 | Kasagoba             | 1200 Belly | Rare   |                      |           |              |
 | Jean Noueilles       | 1200 Belly | Rare   |                      |           |              |

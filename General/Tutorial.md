@@ -73,7 +73,7 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 4. Winning Devil Fruits: There may be occasional events and giveaways where you can win a devil fruit! We don't do these often and they come at random times so keep an eye out on the [Item Search Channel](https://discord.com/channels/1385526041807949855/1388360081640521850) in the Discord.
 5. Removing Your Devil Fruit: You can talk to the Devil Fruit Remover at Goa Kingdom to remove your devil fruit for a price. Be sure that you want to remove your fruit because the change is permanent. If you have a Yami Yami No Mi combination with another fruit, both fruits will be removed in this process.
 
-### <span style="color:#FF0000">Faction World</span>
+## Faction World
 
 The Faction World is a free room version of the One Piece Map used in the Pirate World! Explore the faction world to find an island or ship out in the ocean to claim for your crew and build a base. You can collect blocks there to use to build bases, or purchase blocks in the Pirate World to aid your building.
 
@@ -81,56 +81,34 @@ You can access the Faction World by speaking with the Teleporter at Spawn. While
 
 The Faction World was designed so players can PvP to their hearts content. Players are allowed to kill each other and raid other crews bases here freely. Keep inventory is off in the faction world so be careful when coming into contact with other players, lava and fall damage as you will lose your stuff. 
 
-### <span style="color:#FF0000">Starting and Joining Crews</span>
-
-`Basic Information`
+## Crews
 
 There is a Factions System in the game where you can start or join a crew. Type /f help in game for a list of commands. Be sure to check the [Crew Recruitment Channel](https://discord.com/channels/1385526041807949855/1408560501700431943) for any crews that are actively recruiting.
 
-`Creating A Crew & Faction Base`
+New members are automatically recruits; however, they can be promoted to members and officers. Members can use chests, doors and build on claimed land and officers can claim land, invite new members, kick crew members and decide relations with other crews. The more power your crew has, the more land you can claim. Power is attained by staying alive and the max power a crew can have depends on their member count. See the list of command below.
 
 1. Start a Crew: /f create (crew name)
 2. Join a Crew: /f join (crew name) 
 3. Claim Crew Land: /f claim
 4. Set Crew Home: /f sethome
 5. Teleport to Faction Base: /f home
+6. Invite a Player: /f invite (player name) 
+7. Kick a Player: /f kick (player name) 
+8. Promote a Player: /f promote (player name)
+9. Ally Another Crew: /f ally (crew name)
+10. Truce Another Crew: /f truce (crew name)
+11. Enemy Another Crew: /f enemy (crew name)
+12. Disband Crew: /f disband
 
-The more power your crew has, the more land you can claim. Power is attained by staying alive and the max power a crew can have depends on their member count.
-
-`Managing A Crew`
-
-1. Invite a Player: /f invite (player name) 
-2. Kick a Player: /f kick (player name) 
-3. Promote a Player: /f promote (player name)
-4. Ally Another Crew: /f ally (crew name)
-5. Truce Another Crew: /f truce (crew name)
-6. Enemy Another Crew: /f enemy (crew name)
-7. Disband Crew: /f disband
-
-New members are automatically recruits; however, they can be promoted to members and officers. Members can use chests, doors and build on claimed land and officers can claim land, invite new members, kick crew members and decide relations with other crews. 
-
-### <span style="color:#FF0000">Houses</span>
+## Houses
 
 You are not allowed to own a home in the pirate world. We have tried donation systems for individual homes, and legacy rank homes in the past however upkeep with these systems was too strenuous on staff. We prefer to focus our time updating the server and creating events. You may build homes in the faction world as you please but they may be raided so be careful about where you place your homes. 
 
-### <span style="color:#FF0000">Storage</span>
+## Storage
 
-`Ender Chests`
+There are a variety of options to store your items. Safe storage that is untouchable by other players is limited to Ender Chests, Banks, and Backpacks. You may stumble across chests and other items in the pirate world where you may store your items, however storing at these locations is prohibited. This rule is for your sake, as we are constantly editing interiors and landscapes. If you decide to store somewhere in the pirate world, and the blocks are deleted, then staff is not held responsible for your loss.
 
-Ender chests work exactly as they would in vanilla. Anywhere you open one, you can access a single chests worth of shared inventory space. In the server, you can find these at every bank. Certain donation ranks can access /echest from anywhere.
-
-`Safes`
-
-Safes are custom modded blocks that act exactly like ender chests, however are double chests and have a separate inventory from ender chests. Certain donation ranks can access /openbank from anywhere.
-
-`Faction World`
-
-The rest of your items can be limitlessly stored in the faction world. Be careful as other players can steal these items if you are raided, so store your most valuable items in the items mentioned above.
-
-`Backpacks`
-
-Everyone gets a backpack at start, and have the option to one time purchase a large backpack. Backpacks are extremely rare and valuable, so we recommend not keeping it on your person in the faction world as keep inventory is off there.
-
-`Prohibited Storage`
-
-You may stumble across chests and other items in the pirate world where you may store your items, however storing at these locations is prohibited. This rule is for your sake, as we are constantly editing interiors and landscapes. If you decide to store somewhere in the pirate world, and the blocks are deleted, then staff is not held responsible for your loss.
+1. Ender chests work exactly as they would in vanilla. Anywhere you open one, you can access a single chests worth of shared inventory space for safe storage. In the server, you can find these at every bank. Certain donation ranks can also access /echest from anywhere.
+2. Safes are DawnPiece modded blocks that act exactly like ender chests, however are double chests and have a separate inventory from ender chests. Certain donation ranks will be given a Wallet to access their bank from anywhere. Wallets can not be dropped on death, even in the faction world.
+3. Everyone gets a small backpack at start, and has the option to one time purchase a large backpack on the donation store. Similar to wallets, backpacks can not be dropped on death, even in the faction world.
+4. The rest of your items can be limitlessly stored in the faction world. Be careful as other players can steal these items if you are raided, so store your most valuable items using the methods mentioned above.

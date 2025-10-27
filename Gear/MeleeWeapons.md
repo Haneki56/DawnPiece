@@ -4,7 +4,7 @@ The DawnPiece mod has custom weapons that drop from NPCs. As you progress throug
 
 ### Weapon Stats
 
-All melee weapons will have base Damage stats for dealing raw damage and an Attack Speed multiplier that dictates how fast they can swing their weapon in a second. There are 6 Tiers for Gear: Common, Uncommon, Rare, Epic, Legendary and Mythical. You can increase the tier of the weapon by upgrading them at an upgrade table. There are 5 classes of weapons referred to as Basic, Grade, Skillful, Great and Supreme. Supreme blades are the highest damage class while Basic is the lowest damage class. Attack Speed remains unchanged amongst classes, but it will increase when upgrading the tier.
+All melee weapons will have base Damage stats for dealing raw damage and an Attack Speed multiplier that dictates how fast they can swing their weapon in a second. There are 6 Tiers for Gear: Common, Uncommon, Rare, Epic, Legendary and Mythical. You can increase the tier of the weapon by upgrading it at an upgrade table. There are 5 classes of weapons referred to as Basic, Grade, Skillful, Great and Supreme. Supreme blades are the highest damage class while Basic is the lowest damage class. Attack Speed remains unchanged amongst classes, but it will increase when upgrading the tier.
 
 | Tier      | Basic Damage  | Grade Damage  | Skillful Damage   | Great Damage  | Supreme Damage| Attack Speed  |
 |-----------|---------------|---------------|-------------------|---------------|---------------|---------------|
@@ -17,7 +17,7 @@ All melee weapons will have base Damage stats for dealing raw damage and an Atta
 
 ### Weapon Types
 
-There are 6 types of melee weapons. For now, the type does nothing in game but we plan to add special effects depending on the type in future releases. Some armor set bonuses will give damage bonuses depending on the type of weapon equipped.
+There are 6 types of melee weapons below. Some armor set bonuses will give damage bonuses depending on the type of weapon equipped or damage resistance when hit by certain types.
 
 | Type Name     | Weapons Included                        |
 |---------------|-----------                              |
@@ -30,7 +30,7 @@ There are 6 types of melee weapons. For now, the type does nothing in game but w
 
 ### Weapon Upgrading
 
-To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage dealt with the weapon, and input the required upgrade orb. These values are different depending on the weapon tier and class, however if you place your weapon inside the GUI, the upgrade table will tell you what you need for the upgrade. Please see the following chart for a reference. Mythical weapons cannot be upgraded since they are the final tier.
+To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage dealt with the weapon, and insert the required upgrade orb. These values are different depending on the weapon tier and class, however if you place your weapon inside the slot, the upgrade table interface will tell you what you need for the upgrade. Please see the following chart for a reference. Mythical weapons cannot be upgraded since it is the final tier.
 
 | Tier      | Damage Dealt  | Orb Needed| Basic Cost| Grade Cost| Skillful Cost | Great Cost| Supreme Cost  |
 |-----------|---------------|-----------|-----------|-----------|---------------|-----------|---------------|

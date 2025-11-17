@@ -1,10 +1,10 @@
 # Life Paths
 
-There are various life paths that you can choose in game by speaking to the Life Path Recruiter at Spawn. You can also choose your Life Path on the Discord Server by reacting to the message in the [Ranks Channel](https://discord.com/channels/1385526041807949855/1395615888585130144)on the Discord to get the role. Each rank follows the same structure regarding leveling up.
+There are various life paths that you can choose by typing /dp ranks in game. Simply select the rank from the list and your in game suffix will change to reflect that choice. You can also choose your Life Path on the Discord Server by reacting to the message in the [Ranks Channel](https://discord.com/channels/1385526041807949855/1395615888585130144) on the Discord Server to get the role. Each rank follows the same structure regarding leveling up.
 
 ### General Ranks & Bounty
 
-The balance you see by using the commands /money and /bal represents the bounty you’ve accumulated so far on the server. This money is used to upgrade ⁠ranks depending on which life path you choose. You accumulate bounty by completing quests and winning events! Once you achieve the required bounty to rank up, you can type /rankup in game. Each rankup will give you a bonus.
+The balance you see by using the command /dp bounty represents the bounty you’ve accumulated so far on the server. This bounty is used to upgrade ⁠ranks depending on which life path you choose. You accumulate bounty by completing quests and winning events! Once you achieve the required bounty to rank up, you will see your suffix change in game along with a message in chat. Each rankup will give you a bonus. If you want to see how you fare compared to the rest of the server, type /dp bounty list for the rankings.
 
 | Rank Type     | Rank Bonus                    |
 |-----------    |-----------                    |

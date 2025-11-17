@@ -4,119 +4,111 @@ Once the Wano Kuni Main Questline is complete, speak to Speak to Nami (ONG) or t
 
 ### Main Quest
 
-To start the Main Quest, speak to Luffy (WK) near the island teleport location.
+To start the Main Quest, speak to Nami (ONI) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | Begin The Raid!               ||
-| A02       | Infiltrate The Interior!      ||
-| A03       | Spilled Oshiruko!             ||
-| A04       | The Spoiled Waiters!          ||
-| A05       | Turned Traitors!              ||
-| A06       | Defeat The Traitors!          ||
-| A07       | The Son Of Kaido!             ||
-| A08       | Ancient Giant Experiments?!   ||
-| A09       | The Numbers!                  ||
-| A10       | A Deck Of Giants!             ||
-| A11       | The Final Number!             ||
-| A12       | Sanji’s Dilemma!              ||
-| A13       | The Pleasure District!        ||
-| A14       | Pleasure Gifters!             ||
-| A15       | The Spider Woman!             ||
-| A16       | Usopp’s Fear!                 ||
-| A17       | The Tobiroppo!                ||
-| A18       | The Sibling Tobiroppo!        ||
-| A19       | Tama Is Here?!                ||
-| A20       | Turn The Tides!               ||
-| A21       | More Gifters To Turn!         ||
-| A22       | Feed Them Kibi Dango!         ||
-| A23       | The Armored Division!         ||
-| A24       | The Gifters Keep Coming!      ||
-| A25       | Headliners Arrive!            ||
-| A26       | More Headliners!              ||
-| A27       | The Doubt Brothers!           ||
-| A28       | The Last Headliners!          ||
-| A29       | Forge A Path For Zoro!        ||
-| A30       | The All Stars!                ||
-| A31       | Big Mom Has Arrived!          ||
-| A32       | The Final Showdown!           ||
-| A33       | For Wano Kuni!                ||
-| A34       | Wano Kuni Is Free!            ||
+| A01       | Begin The Raid!               |Defeat 5 Pleasures on the island of Onigashima.|
+| A02       | Infiltrate The Interior!      |Talk to Kin’emon (ONI) at the entrance of Onigashima to complete the quest.|
+| A03       | Spilled Oshiruko!             |Talk to Luffy (ONI) inside by the entrance to complete the quest.|
+| A04       | The Spoiled Waiters!          |Defeat 5 Waiters in the main area of Onigashima.|
+| A05       | Turned Traitors!              |Talk to Kid (ONI) in the main area of Onigashima to complete the quest.|
+| A06       | Defeat The Traitors!          |Defeat Beast Pirate Hawkins, Straw Monster and Beast Pirate Apoo in the main area of Onigashima.|
+| A07       | The Son Of Kaido!             |Talk to Yamato (ONI) in the main area of Onigashima to complete the quest.|
+| A08       | Ancient Giant Experiments?!   |Defeat Inbi, Fuga and Zanki in the main area of Onigashima.|
+| A09       | The Numbers!                  |Defeat Jaki, Goki and Rokki in the main area of Onigashima.|
+| A10       | A Deck Of Giants!             |Defeat Nangi, Hatcha and Kunyun in the main area of Onigashima.|
+| A11       | The Final Number!             |Defeat Juki in the main area of Onigashima.|
+| A12       | Sanji’s Dilemma!              |Talk to Sanji (ONI) in the main area of Onigashima to complete the quest.|
+| A13       | The Pleasure District!        |Defeat Tenjo-Sagari, Sarahebi and Bao-Huang in the Pleasure District.|
+| A14       | The Spider Woman!             |Defeat Wanyudo and Black Maria in the Pleasure District.|
+| A15       | Usopp’s Fear!                 |Talk to Usopp (ONI) in the main area of Onigashima to complete the quest.|
+| A16       | The Tobiroppo!                |Defeat Diez Drake Beast Form, Sasaki Beast Form and Who’s Who Hybrid Form in the Tobiroppo District.|
+| A17       | The Sibling Tobiroppo!        |Defeat Page One Beast Form and Ulti in the Tobiroppo District.|
+| A18       | Tama Is Here?!                |Talk to Tama (ONI) in front of the main building to complete the quest.|
+| A19       | Turn The Tides!               |Defeat Snakeman, Rabbitman and Dachoman on the first floor of the main building.|
+| A20       | The Armored Division!         |Defeat Beegirl, Battaman and Beetleman on the first floor of the main building.|
+| A21       | The Gifters Keep Coming!      |Defeat Saitank and Scorpionlady on the first floor of the main building.|
+| A22       | Headliners Arrive!            |Defeat Ginrummy, Solitaire and Usonoro on the second floor of the main building.|
+| A23       | More Headliners!              |Defeat Nokokuwa Police, Briscola and Bisley on the second floor of the main building.|
+| A24       | The Doubt Brothers!           |Defeat Doubt Brother 1, Doubt Brother 2 and Mizerka on the third floor of the main building.|
+| A25       | The Last Headliners!          |Defeat Fourtricks, Hamlet and Poker on the third floor of the main building.|
+| A26       | Forge A Path For Zoro!        |Talk to Zoro (ONI) on the fourth floor of the main building to complete the quest.|
+| A27       | The All Stars!                |Defeat All-Star Jack, All-Star Queen Beast Form and All-Star King Beast Form on the fourth floor of the main building.|
+| A28       | For Wano Kuni!                |Defeat O-Lin and Kaido Man-Beast Form on the rooftop of Onigashima.|
+| A29       | Wano Kuni Is Free!            |Talk to Momonosuke (ONG) on the rooftop of Onigashima to complete the questline.|
 
 
-Item Rewards: 1,690 Belly<br>
-Bounty Reward: 1,690,000
+Item Rewards: 92,250 Belly<br>
+Bounty Reward: 92,250,000
 
 Note: This is the final quest in the Main Story until we release further islands. 
 
 ### Main Quest Boss Drops
 
-| Boss Name             | Belly      | Orb    | Weapon               | Armor Set | Other        |
-|-----------            |----------- |--------|-----------           |-----------|-----------   |
-| Pleasure              | 600 Belly  | Rare   |                      |           |              |
-| Waiter                | 1400 Belly | Epic   |                      |           |              |
-| Beast Pirate Hawkins  | 400 Belly  | Rare   |                      |           |              |
-| Strawman              | 1400 Belly | Epic   |                      |           |              |
-| Beast Pirate Apoo     | 1000 Belly | Rare   |                      |           |              |
-| Inbi                  | 1200 Belly | Rare   |                      |           |              |
-| Fuga                  | 1200 Belly | Rare   |                      |           |              |
-| Zanki                 | 1200 Belly | Rare   |                      |           |              |
-| Jaki                  | 1200 Belly | Rare   |                      |           |              |
-| Goki                  | 400 Belly  | Rare   |                      |           |              |
-| Rokki                 | 10 Belly   | Common |                      |           |              |
-| Nangi                 | 1400 Belly | Epic   |                      |           |              |
-| Hatcha                | 600 Belly  | Rare   |                      |           |              |
-| Kunyun                | 1400 Belly | Epic   |                      |           |              |
-| Juki                  | 1400 Belly | Epic   |                      |           |              |
-| Tenjo-Sagari          | 1500 Belly | Epic   |                      |           |              |
-| Sarahebi              | 1000 Belly |        |                      |           |              |
-| Caiman Lady           | 10 Belly   | Common |                      |           |              |
-| Nure-Onna             | 10 Belly   | Common |                      |           |              |
-| Yamanba               | 1500 Belly | Epic   |                      |           |              |
-| Bishonure-Onna        | 1500 Belly | Epic   |                      |           |              |
-| Bao-Huang             | 1500 Belly | Epic   |                      |           |              |
-| Wanyudo               | 1500 Belly | Epic   |                      |           |              |
-| Black Maria           | 1500 Belly | Epic   |                      |           |              |
-| Diez Drake            | 1500 Belly | Epic   |                      |           |              |
-| Sasaki                | 1500 Belly | Epic   |                      |           |              |
-| Who’s Who             | 1500 Belly | Epic   |                      |           |              |
-| Page One              | 1500 Belly | Epic   |                      |           |              |
-| Ulti                  | 1500 Belly | Epic   |                      |           |              |
-| Snakeman              | 1500 Belly | Epic   |                      |           |              |
-| Rabbitman             | 1500 Belly | Epic   |                      |           |              |
-| Dachoman              | 1500 Belly | Epic   |                      |           |              |
-| Ahega Woman           | 1500 Belly | Epic   |                      |           |              |
-| Hawkman               | 1500 Belly | Epic   |                      |           |              |
-| Koshi Falcon          | 1500 Belly | Epic   |                      |           |              |
-| Nightcrab Girl        | 1500 Belly | Epic   |                      |           |              |
-| Redwolf               | 1500 Belly | Epic   |                      |           |              |
-| Jumper                | 1500 Belly | Epic   |                      |           |              |
-| Beegirl               | 1500 Belly | Epic   |                      |           |              |
-| Battaman              | 1500 Belly | Epic   |                      |           |              |
-| Beetleman             | 1500 Belly | Epic   |                      |           |              |
-| Saitank               | 1500 Belly | Epic   |                      |           |              |
-| Scorpionlady          | 1500 Belly | Epic   |                      |           |              |
-| Horseman              | 1500 Belly | Epic   |                      |           |              |
-| Ginrummy              | 1500 Belly | Epic   |                      |           |              |
-| Solitaire             | 1500 Belly | Epic   |                      |           |              |
-| Usonoru               | 1500 Belly | Epic   |                      |           |              |
-| Nokokuwa Police       | 1500 Belly | Epic   |                      |           |              |
-| Briscola              | 1500 Belly | Epic   |                      |           |              |
-| Bisley                | 1500 Belly | Epic   |                      |           |              |
-| Doubt Brother 1       | 1500 Belly | Epic   |                      |           |              |
-| Doubt Brother 2       | 1500 Belly | Epic   |                      |           |              |
-| Mizerka               | 1500 Belly | Epic   |                      |           |              |
-| Fourtricks            | 1500 Belly | Epic   |                      |           |              |
-| Hamlet                | 1500 Belly | Epic   |                      |           |              |
-| Poker                 | 1500 Belly | Epic   |                      |           |              |
-| All-Star Jack         | 1500 Belly | Epic   |                      |           |              |
-| All-Star Queen        | 1500 Belly | Epic   |                      |           |              |
-| All-Star King         | 1500 Belly | Epic   |                      |           |              |
-| O-Lin                 | 1500 Belly | Epic   |                      |           |              |
-| Kaido                 | 1500 Belly | Epic   |                      |           |              |
+| Boss Name                 | Belly      | Orb     | Weapon               | Armor Set | Other                         |
+|-----------                |----------- |-------- |-----------           |-----------|-----------                    |
+| Pleasure                  | 500 Belly  | Rare    |                      |           |                               |
+| Waiter                    | 500 Belly  | Rare    |                      |           |                               |
+| Beast Pirate Hawkins      | 1800 Belly | Epic    | Warabide Sword (Rare)|           | Wara Fragment                 |
+| Strawman                  | 500 Belly  | Rare    |                      |           |                               |
+| Beast Pirate Apoo         | 1800 Belly | Epic    | Tonfa Baton (Rare)   |           | Oto Fragment                  |
+| Inbi                      | 1500 Belly | Epic    |                      |           |                               |
+| Fuga                      | 1500 Belly | Epic    |                      |           |                               |
+| Zanki                     | 1500 Belly | Epic    |                      |           |                               |
+| Jaki                      | 1500 Belly | Epic    |                      |           |                               |
+| Goki                      | 1500 Belly | Epic    |                      |           |                               |
+| Rokki                     | 1500 Belly | Epic    |                      |           |                               |
+| Nangi                     | 1500 Belly | Epic    |                      |           |                               |
+| Hatcha                    | 1500 Belly | Epic    |                      |           |                               |
+| Kunyun                    | 1500 Belly | Epic    |                      |           |                               |
+| Juki                      | 1500 Belly | Epic    |                      |           |                               |
+| Tenjo-Sagari              | 1500 Belly | Epic    |                      |           |                               |
+| Sarahebi                  | 1500 Belly | Epic    |                      |           |                               |
+| Bao-Huang                 | 1500 Belly | Epic    |                      |           |                               |
+| Wanyudo                   | 200 Belly  | Uncommon|                      |           |                               |
+| Black Maria               | 2200 Belly | Epic    |                      |           | Rosamygale Grauvogeli Fragment|
+| Diez Drake                | 1000 Belly |         |                      |           |                               |
+| Diez Drake Beast Form     | 1500 Belly |Legendary| X Rapier (Epic) <br> X Axe (Epic)|           | Allosaurus Fragment|
+| Sasaki                    | 1000 Belly |         |                      |           |                               |
+| Sasaki Beast Form         | 1500 Belly |Legendary|                      |           | Triceratops Fragment          |
+| Who’s Who                 | 1500 Belly |         |                      |           |                               |
+| Who’s Who Hybrid Form     | 1000 Belly |Legendary|                      |           | Saber Tiger Fragment          |
+| Page One                  | 1000 Belly |         |                      |           |                               |
+| Page One Beast Form       | 1500 Belly |Legendary|                      |           | Spinosaurus Fragment          |
+| Ulti                      | 2000 Belly | Epic    |                      |           | Pachycephalosaurus Fragment   |
+| Snakeman                  | 1500 Belly | Epic    |                      |           |                               |
+| Rabbitman                 | 1500 Belly | Epic    |                      |           |                               |
+| Dachoman                  | 1500 Belly | Epic    |                      |           |                               |
+| Beegirl                   | 1500 Belly | Epic    |                      |           |                               |
+| Battaman                  | 1500 Belly | Epic    |                      |           |                               |
+| Beetleman                 | 1500 Belly | Epic    |                      |           |                               |
+| Saitank                   | 1500 Belly | Epic    |                      |           |                               |
+| Scorpionlady              | 1500 Belly | Epic    |                      |           |                               |
+| Ginrummy                  | 1500 Belly | Epic    |                      |           |                               |
+| Solitaire                 | 1500 Belly | Epic    |                      |           |                               |
+| Usonoru                   | 1500 Belly | Epic    |                      |           |                               |
+| Nokokuwa Police           | 1500 Belly | Epic    |                      |           |                               |
+| Briscola                  | 1500 Belly | Epic    |                      |           |                               |
+| Bisley                    | 1000 Belly | Rare    |                      |           |                               |
+| Doubt Brother 1           | 1500 Belly | Epic    |                      |           |                               |
+| Doubt Brother 2           | 1500 Belly | Epic    |                      |           |                               |
+| Mizerka                   | 1500 Belly | Epic    |                      |           |                               |
+| Fourtricks                | 1500 Belly | Epic    |                      |           |                               |
+| Hamlet                    | 1500 Belly | Epic    |                      |           |                               |
+| Poker                     | 1500 Belly | Epic    |                      |           |                               |
+| All-Star Jack             | 3000 Belly |Legendary|                      |           |                               |
+| All-Star Queen            | 1000 Belly |         |                      |           |                               |
+| All-Star Queen Beast Form | 2250 Belly |Legendary|                      |           | Brachiosaurus Fragment        |
+| All-Star King             | 1000 Belly |         |                      |           |                               |
+| All-Star King Beast Form  | 2500 Belly |Legendary| King Sword (Epic)    |           | Pteranodon Fragment           |
+| O-Lin                     | 4000 Belly |Mythical | Napoleon (Legendary) |           |                               |
+| Kaido                     | 3000 Belly |         |                      |           |                               |
+| Kaido Man-Beast Form      | 2000 Belly |Mythical | Hassaikai (Legendary)|           | Seiryu Fragment               |
 
 ### Essential NPCs
 
 | NPC Name         | Purpose                                    |
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
+| Teleporter (ONI) | Teleport to any unlocked Onigashima POI    |

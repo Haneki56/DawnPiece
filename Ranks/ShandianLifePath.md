@@ -4,20 +4,20 @@ Please see the sections below regarding the information you need to know for the
 
 ### General Ranks
 
-| Rank Name         | Rank Type     | Cumulative Bounty |
-|-----------        |-----------    |-------------------|
-| Shandian          | Starting      | 0                 |
-| Shandian Warrior  | 30,000,000    | 30,000,000        |
-| Shandian Priest   | 100,000,000   | 130,000,000       |
-| Shandian Chief    | 300,000,000   | 430,000,000       |
+| Rank Name         | Rank Type     |
+|-----------        |-----------    |
+| Shandian          | Starting      |
+| Shandian Warrior  | 50,000,000    |
+| Shandian Priest   | 200,000,000   |
+| Shandian Chief    | 500,000,000   |
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| God's Guard           | 500,000,000       | 930,000,000       | 1                     |
-| Divine Priest         | 1,000,000,000     | 1,930,000,000     | 4                     |   
-| God of Skypiea        | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| God's Guard           | 1,000,000,000     | 1                     |
+| Divine Priest         | 2,000,000,000     | 4                     |   
+| God of Skypiea        | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

@@ -38,3 +38,4 @@ Note: Completing this quest unlocks Whole Cake Island. Speak to Luffy (ZOU) or t
 | NPC Name         | Purpose                                    |
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
+| Teleporter (ZOU) | Teleport to any unlocked Zou POI           |

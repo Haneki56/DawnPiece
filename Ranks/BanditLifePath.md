@@ -4,20 +4,20 @@ Please see the sections below regarding the information you need to know for the
 
 ### General Ranks
 
-| Rank Name     | Rank Type     | Cumulative Bounty |
-|-----------    |-----------    |-------------------|
-| Bandit        | Starting      | 0                 |
-| Outlaw        | 30,000,000    | 30,000,000        |
-| Rogue         | 100,000,000   | 130,000,000       |
-| Marauder      | 300,000,000   | 430,000,000       |
+| Rank Name     | Rank Type     |
+|-----------    |-----------    |
+| Bandit        | Starting      |
+| Outlaw        | 50,000,000    |
+| Rogue         | 200,000,000   |
+| Marauder      | 500,000,000   |
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| Crime Boss            | 500,000,000       | 930,000,000       | 7                     |
-| Tyrant                | 1,000,000,000     | 1,930,000,000     | 4                     |   
-| Underworld Emperor    | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| Crime Boss            | 1,000,000,000     | 4                     |
+| Tyrant                | 2,000,000,000     | 2                     |   
+| Underworld Emperor    | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

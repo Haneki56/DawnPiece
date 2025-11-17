@@ -4,20 +4,20 @@ Please see the sections below regarding the information you need to know for the
 
 ### General Ranks
 
-| Rank Name         | Rank Type     | Cumulative Bounty |
-|-----------        |-----------    |-------------------|
-| Bounty Hunter     | Starting      | 0                 |
-| Outlaw Chaser     | 30,000,000    | 30,000,000        |
-| Rogue Slayer      | 100,000,000   | 130,000,000       |
-| Skull Collector   | 300,000,000   | 430,000,000       |
+| Rank Name         | Rank Type     |
+|-----------        |-----------    |
+| Bounty Hunter     | Starting      |
+| Outlaw Chaser     | 50,000,000    |
+| Rogue Slayer      | 200,000,000   |
+| Skull Collector   | 500,000,000   |
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| Warlord Hunter        | 500,000,000       | 930,000,000       | 4                     |
-| Yonko Hunter          | 1,000,000,000     | 1,930,000,000     | 2                     |   
-| World Seeker          | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| Warlord Hunter        | 1,000,000,000     | 4                     |
+| Yonko Hunter          | 2,000,000,000     | 2                     |   
+| World Seeker          | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

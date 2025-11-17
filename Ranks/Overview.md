@@ -6,22 +6,22 @@ There are various life paths that you can choose in game by speaking to the Life
 
 The balance you see by using the commands /money and /bal represents the bounty you’ve accumulated so far on the server. This money is used to upgrade ⁠ranks depending on which life path you choose. You accumulate bounty by completing quests and winning events! Once you achieve the required bounty to rank up, you can type /rankup in game. Each rankup will give you a bonus.
 
-| Rank Type     | Cumulative Bounty | Rank Bonus|
-|-----------    |-------------------|-----------|
-| Starting      | 0                 | None      |
-| 30,000,000    | 30,000,000        | ?         |
-| 100,000,000   | 130,000,000       | ?         |
-| 300,000,000   | 430,000,000       | ?         |
+| Rank Type     | Rank Bonus                    |
+|-----------    |-----------                    |
+| Starting      | None                          |
+| 50,000,000    | Increase MMNM Damage by 10%   |
+| 200,000,000   | Increase MMNM Damage by 20%   |
+| 500,000,000   | Increase MMNM Damage by 30%   |
 
 ### Legacy Ranks
 
-Legacy Ranks are special ranks in game that can only be occupied by one player at a time. There are various ranks depending on the life path of the player. Each Legacy Rank requires the completion of a trials questline tied to that rank and a tribute given to staff. Legacy Rank Holders receive a kit specific to their rank and well as bonus similar to the general ranks. To see specific information for each life path including trials quests and bosses, refer to their respective pages.
+Legacy Ranks are special ranks in game that can only be occupied by one player at a time. There are various ranks depending on the life path of the player. Each Legacy Rank requires the completion of a trials questline tied to that rank and a tribute given to a staff member. Legacy Rank Holders receive a kit specific to their rank and well as bonus similar to the general ranks. To see specific information for each life path including trials quests and bosses, refer to their respective pages.
 
-| Legacy Rank Type  | Cumulative Bounty | Rank Bonus| Rank Kit  |
-|-----------        |-------------------|-----------|-----------|
-| 500,000,000       | 930,000,000       | ?         | ?         |
-| 1,000,000,000     | 1,930,000,000     | ?         | ?         |
-| 1,500,000,000     | 3,430,000,000     | ?         | ?         |
+| Legacy Rank Type  | Rank Bonus                    | Rank Kit  | Required Tribute  |
+|-----------        |-----------                    |-----------|-----------        |
+| 1,000,000,000     | Increase MMNM Damage by 50%   | ?         | ?         |
+| 2,000,000,000     | Increase MMNM Damage by 75%   | ?         | ?         |
+| 4,000,000,000     | Increase MMNM Damage by 100%  | ?         | ?         |
 
 ### Rules For Legacy Ranks
 

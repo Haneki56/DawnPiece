@@ -4,21 +4,21 @@ Please see the sections below regarding the information you need to know for the
 
 ### General Ranks
 
-| Rank Name     | Rank Type     | Cumulative Bounty |
-|-----------    |-----------    |-------------------|
-| Marine        | Starting      | 0                 |
-| Marine Captain| 30,000,000    | 30,000,000        |
-| Rear Admiral  | 100,000,000   | 130,000,000       |
-| Vice Admiral  | 300,000,000   | 430,000,000       |
+| Rank Name     | Rank Type     |
+|-----------    |-----------    |
+| Marine        | Starting      |
+| Marine Captain| 50,000,000    |
+| Rear Admiral  | 200,000,000   |
+| Vice Admiral  | 500,000,000   |
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| Warden                | 500,000,000       | 930,000,000       | 1                     |
-| Admiral               | 500,000,000       | 930,000,000       | 3                     |
-| Fleet Admiral         | 1,000,000,000     | 1,930,000,000     | 1                     |   
-| Commander in Chief    | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| Warden                | 1,000,000,000     | 1                     |
+| Admiral               | 1,000,000,000     | 3                     |
+| Fleet Admiral         | 2,000,000,000     | 1                     |   
+| Commander in Chief    | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

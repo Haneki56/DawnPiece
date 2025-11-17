@@ -4,20 +4,20 @@ Please see the sections below regarding the information you need to know for the
 
 ### General Ranks
 
-| Rank Name     | Rank Type     | Cumulative Bounty |
-|-----------    |-----------    |-------------------|
-| Cipher Pol    | Starting      | 0                 |
-| CP-9          | 30,000,000    | 30,000,000        |
-| CP-0          | 100,000,000   | 130,000,000       |
-| God's Knight  | 300,000,000   | 430,000,000       |
+| Rank Name     | Rank Type     |
+|-----------    |-----------    |
+| Cipher Pol    | Starting      |
+| CP-9          | 50,000,000    |
+| CP-0          | 200,000,000   |
+| God's Knight  | 500,000,000   |
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| God's Knight Commander| 500,000,000       | 930,000,000       | 1                     |
-| Gorosei               | 1,000,000,000     | 1,930,000,000     | 5                     |   
-| King of the World     | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| God's Knight Commander| 1,000,000,000     | 1                     |
+| Gorosei               | 2,000,000,000     | 5                     |   
+| King of the World     | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

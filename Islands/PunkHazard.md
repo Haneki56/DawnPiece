@@ -57,3 +57,4 @@ Note: Completing this quest unlocks Dressrosa. Speak to Brook (PH) or the Telepo
 | NPC Name         | Purpose                                    |
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
+| Teleporter (PH)  | Teleport to any unlocked Punk Hazard POI   |

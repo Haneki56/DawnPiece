@@ -69,3 +69,4 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 | NPC Name         | Purpose                                    |
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
+| Teleporter (DR)  | Teleport to any unlocked Dressrosa POI     |

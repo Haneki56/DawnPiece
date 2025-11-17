@@ -4,20 +4,20 @@ Please see the sections below regarding the information you need to know for the
 
 ### General Ranks
 
-| Rank Name     | Rank Type     | Cumulative Bounty |
-|-----------    |-----------    |-------------------|
-| Samurai       | Starting      | 0                 |
-| Ronin         | 30,000,000    | 30,000,000        |
-| Yakuza        | 100,000,000   | 130,000,000       |
-| Azakaya       | 300,000,000   | 430,000,000       |
+| Rank Name     | Rank Type     |
+|-----------    |-----------    |
+| Samurai       | Starting      |
+| Ronin         | 50,000,000    |
+| Yakuza        | 200,000,000   |
+| Akazaya       | 500,000,000   |
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| Daimyo                | 500,000,000       | 930,000,000       | 5                     |
-| Shogun                | 1,000,000,000     | 1,930,000,000     | 1                     |   
-| Sword God             | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| Daimyo                | 1,000,000,000     | 5                     |
+| Shogun                | 2,000,000,000     | 1                     |   
+| Sword God             | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

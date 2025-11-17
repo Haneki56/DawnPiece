@@ -40,15 +40,15 @@ Note: Completing this quest unlocks Jaya. Speak to Nico Robin (AB) or the Telepo
 
 | Boss Name            | Belly     | Orb      | Weapon               | Armor Set | Other        |
 |-----------           |-----------|----------|-----------           |-----------|-----------   |
-| Kung Fu Dugong       | 10 Belly  | Common   |                      |           |              |
+| Kung Fu Dugong       | 10 Belly  |          |                      |           |              |
 | Mr. 4                | 70 Belly  | Common   | Steel Bat (Common)   |           |              |
 | Lassoo               | 30 Belly  | Common   |                      |           |              |
 | Miss Merry Christmas | 60 Belly  | Common   | Mole Claw (Common)   |           | Mogu Fragment|
 | Mr. 2                | 100 Belly | Uncommon |                      |           | Mane Fragment|
 | Miss Doublefinger    | 80 Belly  | Common   |                      |           |              |
 | Mr. 1                | 150 Belly | Uncommon | Arm Sword (Uncommon) |           | Supa Fragment|
-| Rebel Soldier        | 60 Belly  | Common   |                      |           |              |
-| Royal Soldier        | 60 Belly  | Common   |                      |           |              |
+| Rebel Soldier        | 10 Belly  |          |                      |           |              |
+| Royal Soldier        | 10 Belly  |          |                      |           |              |
 | Mr. 7                | 90 Belly  | Common   |                      |           |              |
 | Miss Father's Day    | 90 Belly  | Common   |                      |           |              |
 | Miss All-Sunday      | 120 Belly | Uncommon |                      |           | Hana Fragment|
@@ -76,7 +76,7 @@ Bounty Reward: 1,110,000
 
 | Boss Name     | Belly     | Orb      | Weapon                     | Armor Set | Other          |
 |---------------|-----------|----------|----------------------------|-----------|----------------|
-| Royal Soldier | 60 Belly  | Common   |                            |           |                |
+| Royal Soldier | 10 Belly  |          |                            |           |                |
 | Terracotta    | 20 Belly  | Common   |                            |           |                |
 | Hyota         | 50 Belly  | Common   | Tsumegeri Cleaver (Common) |           |                |
 | Brahm         | 50 Belly  | Common   | Tsumegeri Labrys (Common)  |           |                |
@@ -107,7 +107,7 @@ Bounty Reward: 530,000
 
 | Boss Name     | Belly     | Orb      | Weapon    | Armor Set | Other     |
 |-----------    |-----------|----------|-----------|-----------|-----------|
-| Rebel Soldier | 60 Belly  | Common   |           |           |           |
+| Rebel Soldier | 10 Belly  |          |           |           |           |
 | Farafra       | 20 Belly  | Common   |           |           |           |
 | Okame         | 20 Belly  | Common   |           |           |           |
 | Erik          | 20 Belly  | Common   |           |           |           |

@@ -4,20 +4,20 @@ Please see the sections below regarding the information you need to know for the
 
 ### General Ranks
 
-| Rank Name     | Rank Type     | Cumulative Bounty |
-|-----------    |-----------    |-------------------|
-| Revolutionary | Starting      | 0                 |
-| Rev. Member   | 30,000,000    | 30,000,000        |
-| Rev. Officer  | 100,000,000   | 130,000,000       |
-| Rev. Captain  | 300,000,000   | 430,000,000       |
+| Rank Name     | Rank Type     |
+|-----------    |-----------    |
+| Revolutionary | Starting      |
+| Rev. Member   | 50,000,000    |
+| Rev. Officer  | 200,000,000   |
+| Rev. Captain  | 500,000,000   |
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| Rev. Commander        | 500,000,000       | 930,000,000       | 5                     |
-| Chief of Staff        | 1,000,000,000     | 1,930,000,000     | 1                     |   
-| Most Wanted           | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| Rev. Commander        | 1,000,000,000     | 5                     |
+| Chief of Staff        | 2,000,000,000     | 1                     |   
+| Most Wanted           | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

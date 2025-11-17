@@ -10,7 +10,7 @@ Scroll through this page to see a basic guide based on our most frequently asked
 2. [Download the Technic Launcher](https://www.technicpack.net/download). 
 3. Open the Technic Launcher, search for the mod pack "One Piece Adventures at Sea" and install it. The creator of the modpack is SmoovOperator.
 4. Click on Launcher Options and allocate around 50% of your computer's total RAM to the Technic Launcher. This should be around 8-16 GB depending on your computer's RAM. You will likely need at least a 16 GB computer to run this modpack as an 8GB computer may crash upon loading.
-5. Minecraft stopped official support for Minecraft using Legacy JRE so if you are still having issues loading, uncheck the box "Use Mojang Java runtimes" and make sure you have another JRE isntalled which you can find [here](https://api.adoptium.net/v3/installer/latest/8/ga/windows/x64/jre/hotspot/normal/eclipse?project=jdk)
+5. Minecraft stopped official support for Minecraft using Legacy JRE so if you are still having issues loading, uncheck the box "Use Mojang Java runtimes" and make sure you have another JRE isntalled which you can find [here](https://adoptium.net/temurin/releases?version=8&os=any&arch=any)
 6. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 
 ### Joining Through Minecraft Launcher
@@ -25,7 +25,7 @@ Scroll through this page to see a basic guide based on our most frequently asked
 
 The purpose of the game is to go through the storyline in One Piece, similar to the way the Straw Hats go through their journey! Upon joining the server, you'll wind up at [Spawn Island](https://haneki56.github.io/DawnPiece/#/Islands/SpawnIsland). Talk to the NPCs there to learn about the server. There will also be a Teleporter NPC there to take you wherever you need to go as long as you have unlocked the island.
 
-First, you should teleport [Foosha Village](https://haneki56.github.io/DawnPiece/#/Islands/FooshaVillage) and start your journey! As soon as you arrive there, talk to Luffy to start the main quest. Each island going forward will have a main questline, so to unlcok the next island, complete the main questline of the island you are currently on. The option for the next island will be available in the Teleporter interface.
+First, you should teleport to [Foosha Village](https://haneki56.github.io/DawnPiece/#/Islands/FooshaVillage) and start your journey! As soon as you arrive there, talk to Luffy to start the main quest. Each island going forward will have a main questline, so to unlock the next island, complete the main questline of the island you are currently on. The option for the next island will be available in the Teleporter interface.
 
 We recommend you use your starter gear that you received when spawning into the server to help fight bosses. Be sure to also take a look around [Goa Kingdom](https://haneki56.github.io/DawnPiece/#/Islands/GoaKingdom) since you will often go there to use the shops and essential NPCs like bankers for storage, currency exchange, food merchants, etc.
 

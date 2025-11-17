@@ -13,11 +13,11 @@ Please see the sections below regarding the information you need to know for the
 
 ### Legacy Ranks
 
-| Rank Name             | Legacy Rank Type  | Cumulative Bounty | Positions Available   |
-|-----------            |-----------        |-------------------|-----------            |
-| Warlord               | 500,000,000       | 930,000,000       | 7                     |
-| Yonko                 | 1,000,000,000     | 1,930,000,000     | 4                     |   
-| King of the Pirates   | 1,500,000,000     | 3,430,000,000     | 1                     |
+| Rank Name             | Legacy Rank Type  | Positions Available   |
+|-----------            |-----------        |-----------            |
+| Warlord               | 1,000,000,000     | 7                     |
+| Yonko                 | 2,000,000,000     | 4                     |   
+| King of the Pirates   | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

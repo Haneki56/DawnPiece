@@ -46,7 +46,7 @@ Note: Completing this quest unlocks Punk Hazard. Speak to Pekoms (FI) or the Tel
 | Kasagoba             | 1200 Belly | Rare   |                      |           |              |
 | Jean Noueilles       | 1200 Belly | Rare   |                      |           |              |
 | Ammo Knight          | 400 Belly  | Rare   |                      |           |              |
-| Fishman              | 10 Belly   | Common |                      |           |              |
+| Fishman              | 10 Belly   |        |                      |           |              |
 | Dosun                | 1400 Belly | Epic   |                      |           |              |
 | Daruma               | 600 Belly  | Rare   |                      |           |              |
 | Ikaros Much          | 1400 Belly | Epic   |                      |           |              |

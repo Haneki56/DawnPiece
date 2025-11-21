@@ -48,11 +48,10 @@ To start the A Quest, speak to Jotaro Kujo (JJ4) near the island teleport locati
 | A38       | Killer Queen!             |Defeat Yoshikage Kira’s stand Killer Queen in the park west of the town square to complete the quest.|
 | A39       | Rest In Peace!            |Talk to Reimi (JJ4) in the Ghost Alley to complete the questline.|
 
-
 Item Rewards: 16,850 Belly<br>
 Bounty Reward: 16,850,000
 
-### Main Quest Boss Drops
+### A Quest Boss Drops
 
 | Boss Name                     | Belly      | Orb      | Weapon               | Armor Set | Other                         |
 |-----------                    |----------- |--------  |-----------           |-----------|-----------                    |
@@ -76,8 +75,6 @@ Bounty Reward: 16,850,000
 | Killer Queen                  | 1000 Belly |          |                      |           |                               |
 | Killer Queen Bites The Dust   | 1500 Belly | Legendary|                      |           |                               |
 | Sheer Heart Attack            | 20 Belly   | Common   |                      |           |                               |
-
-
 
 ### Essential NPCs
 

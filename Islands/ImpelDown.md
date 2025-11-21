@@ -52,4 +52,5 @@ Note: Completing this quest unlocks Marineford. Speak to Jinbe (ID) or the Telep
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (ID)  | Teleport to any unlocked Impel Down POI    |
+| Blacksmith       | Custom Gear Information                    |
 | Doctor           | Healer                                     |

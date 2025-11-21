@@ -60,4 +60,5 @@ Note: Completing this quest unlocks Amazon Lily. Speak to Zoro (SA) or the Telep
 | NPC Name         | Purpose                                        |
 |-------------     |-----------                                     |
 | Teleporter       | Teleport to any unlocked location              |
+| Blacksmith       | Custom Gear Information                        |
 | Doctor           | Healer                                         |

@@ -80,4 +80,5 @@ Note: Completing this quest unlocks Thriller Bark. Speak to Luffy (EL) or the Te
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (EL)  | Teleport to any unlocked Enies Lobby POI   |
+| Blacksmith       | Custom Gear Information                    |
 | Doctor           | Healer                                     |

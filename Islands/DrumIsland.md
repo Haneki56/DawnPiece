@@ -37,4 +37,5 @@ Note: Completing this quest unlocks Alabasta. Speak to Chopper (DI) or the Telep
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (DI)  | Teleport to any unlocked Drum Island POI   |
+| Blacksmith       | Custom Gear Information                    |
 | Doctor           | Healer                                     |

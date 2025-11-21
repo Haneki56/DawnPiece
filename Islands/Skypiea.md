@@ -75,4 +75,5 @@ Bounty Reward: 200,000
 |-------------            |-----------                             |
 | Teleporter              | Teleport to any unlocked location      |
 | Teleporter (SP)         | Teleport to any unlocked Skypiea POI   |
+| Blacksmith              | Custom Gear Information                |
 | Doctor                  | Healer                                 |

@@ -28,3 +28,4 @@ Bounty Reward: 2,050,000
 | NPC Name              | Purpose                                   |
 |-------------          |-----------                                |
 | Teleporter            | Teleport to any unlocked location         |
+| Blacksmith            | Custom Gear Information                   |

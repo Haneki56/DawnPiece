@@ -65,7 +65,8 @@ The island guide is a collection of pages describing the contents of each island
 [35. Wano Kuni](Islands/WanoKuni.md)<br>
 [36. Onigashima](Islands/Onigashima.md)<br>
 [37. Egghead](Islands/Egghead.md)<br>
+[37.1 Hachinosu](Islands/Hachinosu.md)<br>
 
-### Donation Island Order
+### Donation Islands
 
 [D1. Morioh](Islands/Morioh.md)<br>

@@ -11,7 +11,7 @@ To start the A Quest, speak to Garp (HN) near the island teleport location.
 | A01       | Old Foes In The New World!|Defeat Pearl The Iron Wall, Gin The Man Demon and Foul Play Krieg in town.|
 | A02       | A Marine Captured!        |Defeat Doc Q, Stronger and Sanjuan Wolf in town.|
 | A03       | The Blackbeard Pirates!   |Defeat Catarina Devon, Laffitte and Vasco Shot in town.|
-| A04       | Elite Pirates!            |Defeat Van Augur, Jesus Burgess and Avalo Pizzaro in town.|
+| A04       | Elite Pirates!            |Defeat Van Augur, Jesus Burgess and Avalo Pizarro in town.|
 | A05       | Pure Darkness!            |Defeat Shiryu, Kuzan and Marshall D.Teach inside the Skull.|
 | A06       | A Sacrifice!              |Talk to Koby (HN) in the Skull to complete the questline.|
 
@@ -33,7 +33,7 @@ Bounty Reward: 36,750,000
 | Vasco Shot            | 2000 Belly | Epic      |                                                      |                   |                                |
 | Van Augur             | 3000 Belly | Legendary |                                                      |                   | Wapu Fragment                  |
 | Jesus Burgess         | 3000 Belly | Legendary | Green Dagger (Epic)                                  |                   | Riki Fragment                  |
-| Avalo Pizzaro         | 2000 Belly | Epic      |                                                      |                   |                                |
+| Avalo Pizarro         | 2000 Belly | Epic      |                                                      |                   |                                |
 | Shiryu                | 3000 Belly | Legendary | Raiu (Epic)                                          |                   | Suke Fragment                  |
 | Kuzan                 | 4000 Belly | Mythical  | Ice Saber (Legendary)                                | Aokiji (Legendary)| Hie Fragment                   |
 | Marshall D.Teach      | 4000 Belly | Mythical  | Darkness First (Legendary)                           | Teach (Legendary) | Yami Fragment<br>Gura Fragment |

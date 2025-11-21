@@ -12,7 +12,7 @@ To start the A Quest, speak to Garp (HN) near the island teleport location.
 | A02       | A Marine Captured!        |Defeat Doc Q, Stronger and Sanjuan Wolf in town.|
 | A03       | The Blackbeard Pirates!   |Defeat Catarina Devon, Laffitte and Vasco Shot in town.|
 | A04       | Elite Pirates!            |Defeat Van Augur, Jesus Burgess and Avalo Pizzaro in town.|
-| A05       | Pure Darkness!            |Defeat Shiryu, Kuzan and Marshall D.Teach inside the Skull.|
+| A05       | Pure Darkness!            |Defeat Kuzan in front of the skull, and Shiryu and Marshall D.Teach inside the Skull.|
 | A06       | A Sacrifice!              |Talk to Koby (HN) in the Skull to complete the questline.|
 
 Item Rewards: 36,750 Belly<br>
@@ -36,7 +36,7 @@ Bounty Reward: 36,750,000
 | Avalo Pizzaro         | 2000 Belly | Epic      |                                                      |                   |                                |
 | Shiryu                | 3000 Belly | Legendary | Raiu (Epic)                                          |                   | Suke Fragment                  |
 | Kuzan                 | 4000 Belly | Mythical  | Ice Saber (Legendary)                                | Aokiji (Legendary)| Hie Fragment                   |
-| Marshall D.Teach      | 4000 Belly | Mythical  | Darkness First (Legendary)<br>Tremor Fist (Legendary)| Teach (Legendary) | Yami Fragment<br>Gura Fragment |
+| Marshall D.Teach      | 4000 Belly | Mythical  | Darkness First (Legendary)                           | Teach (Legendary) | Yami Fragment<br>Gura Fragment |
 
 ### Essential NPCs
 

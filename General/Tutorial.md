@@ -75,7 +75,7 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 
 ## Faction World
 
-The Faction World is a free room version of the One Piece Map used in the Pirate World! Explore the faction world to find an island or ship out in the ocean to claim for your crew and build a base. You can collect blocks there to use to build bases, or purchase blocks in the Pirate World to aid your building.
+The Faction World is a free roam version of the One Piece Map used in the Pirate World! Explore the faction world to find an island or ship out in the ocean to claim for your crew and build a base. You can collect blocks there to use to build bases, or purchase blocks in the Pirate World to aid your building.
 
 You can access the Faction World by speaking with the Teleporter at Spawn. While in the Faction World, you can use /rtp to randomly teleport around a 3,000 block radius from the start point. The entire faction world radius is much larger so hide your base far away to protect it from raids! 
 

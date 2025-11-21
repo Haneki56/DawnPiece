@@ -20,12 +20,12 @@ Note: Completing this quest unlocks Shells Town. Speak to Alvida Pirate (AH) or 
 
 ### Main Quest Boss Drops
 
-| Boss Name         | Belly      | Orb       | Weapon               | Armor Set | Other     |
-|-----------        |----------- |-----------|-----------           |-----------|-----------|
-| Heppoko           | 10 Belly   | Common    |                      |           |           |
-| Peppoko           | 10 Belly   | Common    |                      |           |           |
-| Poppoko           | 10 Belly   | Common    |                      |           |           |
-| Alvida            | 35 Belly   | Common    | Iron Mace (Common)   |           |           |
+| Boss Name         | Belly      | Orb       | Weapon               | Armor Set         | Other     |
+|-----------        |----------- |-----------|-----------           |-----------        |-----------|
+| Heppoko           | 10 Belly   | Common    |                      |                   |           |
+| Peppoko           | 10 Belly   | Common    |                      |                   |           |
+| Poppoko           | 10 Belly   | Common    |                      |                   |           |
+| Alvida            | 35 Belly   | Common    | Iron Mace (Common)   | Alvida (Common)   |           |
 
 ### Essential NPCs
 

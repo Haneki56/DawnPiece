@@ -42,27 +42,27 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 
 ### Main Quest Boss Drops
 
-| Boss Name            | Belly      | Orb       | Weapon                   | Armor Set | Other         |
-|-----------           |----------- |--------   |-----------               |-----------|-----------    |
-| Donquixote Pirate    | 400 Belly  | Rare      | Cutlass (Uncommon)       |           |               |
-| Fujitora             | 1700 Belly | Epic      | Yakuza Kasen (Rare)      |           | Zushi Fragment|
-| Giolla               | 700 Belly  | Rare      |                          |           |               |
-| Bellamy The Hyena    | 1000 Belly | Rare      |                          |           | Bane Fragment |
-| Dellinger            | 1200 Belly | Rare      |                          |           |               |
-| Machvise             | 1300 Belly | Epic      |                          |           |               |
-| Gladius              | 1200 Belly | Rare      |                          |           |               |
-| Sugar                | 100 Belly  | Uncommon  |                          |           |               |
-| Lao G                | 1400 Belly | Epic      |                          |           |               |
-| Buffalo              | 1200 Belly | Rare      |                          |           |               |
-| Baby 5               | 1100 Belly | Epic      |                          |           |               |
-| Senor Pink           | 1500 Belly | Epic      |                          |           | Sui Fragment  |
-| Trebol               | 1400 Belly | Epic      |                          |           | Beta Fragment |
-| Diamante             | 1500 Belly | Epic      |                          |           |               |
-| Pica                 | 1200 Belly | Rare      |                          |           | Ishi Fragment |
-| Marine Lieutenant    | 400 Belly  | Rare      | Marine Sword (Uncommon)  |           |               |
-| Vice Admiral Maynard | 1200 Belly | Rare      |                          |           |               |
-| Vice Admiral Bastille| 1200 Belly | Rare      | Samekiri Bocho (Rare)    |           |               |
-| Donquixote Doflamingo| 2500 Belly | Legendary | Strings (Epic)           |           | Ito Fragment  |
+| Boss Name            | Belly      | Orb       | Weapon                   | Armor Set          | Other         |
+|-----------           |----------- |--------   |-----------               |-----------         |-----------    |
+| Donquixote Pirate    | 400 Belly  | Rare      | Cutlass (Uncommon)       |                    |               |
+| Fujitora             | 1700 Belly | Epic      | Yakuza Kasen (Rare)      |                    | Zushi Fragment|
+| Giolla               | 700 Belly  | Rare      |                          |                    |               |
+| Bellamy The Hyena    | 1000 Belly | Rare      |                          | Bellamy (Rare)     | Bane Fragment |
+| Dellinger            | 1200 Belly | Rare      |                          |                    |               |
+| Machvise             | 1300 Belly | Epic      |                          |                    |               |
+| Gladius              | 1200 Belly | Rare      |                          |                    |               |
+| Sugar                | 100 Belly  | Uncommon  |                          |                    |               |
+| Lao G                | 1400 Belly | Epic      |                          |                    |               |
+| Buffalo              | 1200 Belly | Rare      |                          |                    |               |
+| Baby 5               | 1100 Belly | Epic      |                          |                    |               |
+| Senor Pink           | 1500 Belly | Epic      |                          |                    | Sui Fragment  |
+| Trebol               | 1400 Belly | Epic      |                          |                    | Beta Fragment |
+| Diamante             | 1500 Belly | Epic      |                          |                    |               |
+| Pica                 | 1200 Belly | Rare      |                          |                    | Ishi Fragment |
+| Marine Lieutenant    | 400 Belly  | Rare      | Marine Sword (Uncommon)  | Marine (Uncommon)  |               |
+| Vice Admiral Maynard | 1200 Belly | Rare      |                          |                    |               |
+| Vice Admiral Bastille| 1200 Belly | Rare      | Samekiri Bocho (Rare)    |                    |               |
+| Donquixote Doflamingo| 2500 Belly | Legendary | Strings (Epic)           | Doflamingo (Epic)  | Ito Fragment  |
 
 ### Essential NPCs
 
@@ -70,3 +70,4 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (DR)  | Teleport to any unlocked Dressrosa POI     |
+| Doctor           | Healer                                     |

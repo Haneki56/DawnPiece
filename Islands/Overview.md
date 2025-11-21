@@ -6,6 +6,7 @@ The island guide is a collection of pages describing the contents of each island
 
 1. Main Islands: These are islands that have main quests that you need to complete to progress through the story and unlock further islands. Each main quest is denoted by the A quest code. Main Islands can also have side quests (B, C, etc.) that are there for you to complete, but are not required to progress through the story. The islands listed below with a whole number is a main island, starting from Foosha Village, then Alivda's Hideout, and so on.
 2. Side Islands: These are islands that only have side quests, so you do not need to complete these to progress through the story. The islands listed below with a decimal point is a side island, starting from Goa Kingdom, then Sixis, and so on. New side islands will be unlocked as you complete the island of the same number. For example, completing Shells Town will unlock Shimotsuki Village. The exeption to this is Goa Kingdom and Sixis, as those will be unlocked from the beginning.
+3. Donation Islands: These are islands that can only be accessed if you have purchased the Tenryubito Donation Rank. Similar to side islands, they only have side quests, so you do not need to complete these to progress through the story. The islands listed below with a D Prefix is a donation island, starting from Morioh. All donation islands will be automatically unlocked upon receieving the Tenryubito Rank.
 
 ### Island Order
 
@@ -63,3 +64,8 @@ The island guide is a collection of pages describing the contents of each island
 [34. Whole Cake Island](Islands/WholeCakeIsland.md)<br>
 [35. Wano Kuni](Islands/WanoKuni.md)<br>
 [36. Onigashima](Islands/Onigashima.md)<br>
+[37. Egghead](Islands/Egghead.md)<br>
+
+### Donation Island Order
+
+[D1. Morioh](Islands/Morioh.md)<br>

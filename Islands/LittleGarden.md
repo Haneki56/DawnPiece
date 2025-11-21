@@ -26,14 +26,14 @@ Note: Completing this quest unlocks Drum Island. Speak to Sanji (LG) or the Tele
 
 ### Main Quest Boss Drops
 
-| Boss Name      | Belly    | Orb    | Weapon               | Armor Set | Other           |
-|----------------|----------|--------|----------------------|-----------|-----------------|
-| Dorry          | 70 Belly | Common | Terry Sword (Common) |           |                 |
-| Broggy         | 70 Belly | Common | Bruiser Axe (Common) |           |                 |
-| Miss Valentine | 50 Belly | Common | Umbrella (Common)    |           | Kilo Fragment   |
-| Mr. 5          | 70 Belly | Common |                      |           | Bomu Fragment   |
-| Miss Goldenweek| 30 Belly | Common | Paintbrush (Common)  |           |                 |
-| Mr. 3          | 80 Belly | Common | Wax Sword (Common)   |           | Doru Fragment   |
+| Boss Name      | Belly    | Orb    | Weapon               | Armor Set         | Other           |
+|----------------|----------|--------|----------------------|-----------        |-----------------|
+| Dorry          | 70 Belly | Common | Terry Sword (Common) |                   |                 |
+| Broggy         | 70 Belly | Common | Bruiser Axe (Common) |                   |                 |
+| Miss Valentine | 50 Belly | Common | Umbrella (Common)    | Mikita (Common)   | Kilo Fragment   |
+| Mr. 5          | 70 Belly | Common |                      | Gem (Common)      | Bomu Fragment   |
+| Miss Goldenweek| 30 Belly | Common | Paintbrush (Common)  | Marianne (Common) |                 |
+| Mr. 3          | 80 Belly | Common | Wax Sword (Common)   | Galdino (Common)  | Doru Fragment   |
 
 
 ### Essential NPCs

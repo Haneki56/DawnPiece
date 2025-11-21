@@ -8,9 +8,9 @@ To start the Main Quest, speak to Nami (FI) near the island teleport location.
 
 | Quest Code| Quest Name                    | Quest Objective|
 |-----------|-----------                    |-----------|
-| A01       | The Flying Pirates!           |Defeat Ankoro, Wadatsumi and Vander Decken IX near the island warp point.|
-| A02       | Join or Die!                  |Talk to Hammond (FI) under the watch tower to complete the quest.|
-| A03       | A New Enemy!                  |Defeat Hammond, Kasagoba and Jean Noueilles around the watch tower.|
+| A01       | The Flying Pirates!           |Defeat Ankoro, Wadatsumi and Vander Decken IX on the Flying Dutchman.|
+| A02       | Join or Die!                  |Talk to Hammond (FI) under the Flying Dutchman to complete the quest.|
+| A03       | A New Enemy!                  |Defeat Hammond, Kasagoba and Jean Noueilles around the base of the Flying Dutchman.|
 | A04       | Illegal Entry!                |Talk to Caimie (FI) in her house to complete the quest.|
 | A05       | We’ve Been Found!             |Defeat 5 Ammo Knights in front of Camie’s House.|
 | A06       | A Misunderstanding!           |Talk to Fukaboshi (FI) by the tall coral in front of Camie's House to complete the quest|

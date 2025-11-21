@@ -22,13 +22,13 @@ Note: Completing this quest unlocks Alabasta. Speak to Chopper (DI) or the Telep
 
 ### Main Quest Boss Drops
 
-| Boss Name                 | Belly      | Orb      | Weapon                     | Armor Set | Other           |
-|-----------                |----------- |----------|-----------                 |-----------|-----------      |
-| Drum Island Militia Guard | 20 Belly   | Common   |                            |           |                 |
-| Dalton                    | 100 Belly  | Uncommon | Spade (Uncommon)           |           | Bison Fragment  |
-| Chess                     | 50 Belly   | Common   | Black Boxing Glove (Common)|           |                 |
-| Kuromarimo                | 50 Belly   | Common   |                            |           |                 |
-| Wapol                     | 150 Belly  | Uncommon |                            |           | Baku Fragment   |
+| Boss Name                 | Belly      | Orb      | Weapon                     | Armor Set        | Other           |
+|-----------                |----------- |----------|-----------                 |-----------       |-----------      |
+| Drum Island Militia Guard | 20 Belly   | Common   |                            |                  |                 |
+| Dalton                    | 100 Belly  | Uncommon | Spade (Uncommon)           |                  | Bison Fragment  |
+| Chess                     | 50 Belly   | Common   | Black Boxing Glove (Common)|                  |                 |
+| Kuromarimo                | 50 Belly   | Common   |                            |                  |                 |
+| Wapol                     | 150 Belly  | Uncommon |                            | Wapol (Unommon)  | Baku Fragment   |
 
 
 ### Essential NPCs
@@ -37,3 +37,4 @@ Note: Completing this quest unlocks Alabasta. Speak to Chopper (DI) or the Telep
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (DI)  | Teleport to any unlocked Drum Island POI   |
+| Doctor           | Healer                                     |

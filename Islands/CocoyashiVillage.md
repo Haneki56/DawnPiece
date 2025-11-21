@@ -24,17 +24,17 @@ Note: Completing this quest unlocks Loguetown. Speak to Genzo (CV) or the Telepo
 
 ### Main Quest Boss Drops
 
-| Boss Name | Belly    | Orb     | Weapon             | Armor Set | Other     |
-|-----------|----------|---------|-----------         |-----------|-----------|
-| Shioyaki  | 30 Belly | Common  |                    |           |           |
-| Take      | 30 Belly | Common  |                    |           |           |
-| Kaneshiro | 30 Belly | Common  |                    |           |           |
-| Pisaro    | 30 Belly | Common  |                    |           |           |
-| Chew      | 50 Belly | Common  |                    |           |           |
-| Kuroobi   | 70 Belly | Common  |                    |           |           |
-| Momoo     | 1 Belly  |         |                    |           |           |
-| Hatchan   | 50 Belly | Common  | Cutlass (Common)   |           |           |
-| Arlong    | 90 Belly | Common  | Kiribachi (Common) |           |           |
+| Boss Name | Belly    | Orb     | Weapon             | Armor Set       | Other     |
+|-----------|----------|---------|-----------         |-----------      |-----------|
+| Shioyaki  | 30 Belly | Common  |                    |                 |           |
+| Take      | 30 Belly | Common  |                    |                 |           |
+| Kaneshiro | 30 Belly | Common  |                    |                 |           |
+| Pisaro    | 30 Belly | Common  |                    |                 |           |
+| Chew      | 50 Belly | Common  |                    | Chew (Common)   |           |
+| Kuroobi   | 70 Belly | Common  |                    | Kuroobi (Common)|           |
+| Momoo     | 1 Belly  |         |                    |                 |           |
+| Hatchan   | 50 Belly | Common  | Cutlass (Common)   | Hatchan (Common)|           |
+| Arlong    | 90 Belly | Common  | Kiribachi (Common) | Arlong (Common) |           |
 
 ### B Quest
 
@@ -79,3 +79,4 @@ Bounty Reward: 150,000
 |-------------     |-----------                         |
 | Teleporter       | Teleport to any unlocked location  |
 | Blacksmith       | Custom Gear Information            |
+| Doctor           | Healer                             |

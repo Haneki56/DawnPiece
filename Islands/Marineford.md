@@ -33,45 +33,45 @@ Note: Completing this quest unlocks Rusukaina. Speak to Jinbe (MF) or the Telepo
 
 ### Main Quest Boss Drops
 
-| Boss Name                     | Belly      | Orb       | Weapon                     | Armor Set | Other          |
-|-------------------------------|------------|-----------|----------------------------|-----------|----------------|
-| Captain T-Bone                | 400 Belly  | Rare      | Bamboo (Uncommon)          |           |                |
-| Lieutenant Commander Brannew  | 400 Belly  | Rare      | Cutlass (Uncommon)         |           |                |
-| Vice-Admiral Dalmatian        | 400 Belly  | Rare      |                            |           |                |
-| Vice-Admiral Strawberry       | 400 Belly  | Rare      | Strawberry Sword (Uncommon)|           |                |
-| Vice-Admiral Yamakaji         | 400 Belly  | Rare      | Green Katana (Uncommon)    |           |                |
-| Vice-Admiral Onigumo          | 400 Belly  | Rare      | Cutlass (Uncommon)         |           |                |
-| Vice-Admiral Comil            | 400 Belly  | Rare      | Brown Katana (Uncommon)    |           |                |
-| Vice-Admiral Momonga          | 400 Belly  | Rare      | Brown Katana (Uncommon)    |           |                |
-| Vice-Admiral Doberman         | 400 Belly  | Rare      | Blue Katana (Uncommon)     |           |                |
-| Vice-Admiral John Giant       | 400 Belly  | Rare      | Clover Katana (Uncommon)   |           |                |
-| Vice-Admiral Lacroix          | 400 Belly  | Rare      | Marine Sword (Uncommon)    |           |                |
-| Vice-Admiral Ronse            | 400 Belly  | Rare      | Giant Labrys (Uncommon)    |           |                |
-| Seaman Recruit Fullbody       | 200 Belly  | Uncommon  |                            |           |                |
-| Seaman Recruit Jango          | 200 Belly  | Uncommon  | Chakram (Uncommon)         |           |                |
-| Captain Hina                  | 400 Belly  | Rare      |                            |           |                |
-| Ensign Tashigi                | 200 Belly  | Uncommon  | Shigure (Uncommon)         |           |                |
-| Commodore Smoker              | 300 Belly  | Uncommon  | Jitte (Uncommon)           |           | Moku Fragment  |
-| Vice-Admiral Stainless        | 400 Belly  | Rare      | Purple Katana (Uncommon)   |           |                |
-| Vice-Admiral Mozambia         | 400 Belly  | Rare      | Red Katana (Uncommon)      |           |                |
-| Vice-Admiral Cancer           | 400 Belly  | Rare      | Marine Sword (Uncommon)    |           |                |
-| Sentomaru                     | 350 Belly  | Uncommon  | Masakari (Uncommon)        |           |                |
-| PX-3                          | 200 Belly  | Uncommon  |                            |           |                |
-| PX-6                          | 200 Belly  | Uncommon  |                            |           |                |
-| Warlord Hancock               | 800 Belly  | Rare      |                            |           | Mero Fragment  |
-| Warlord Kuma                  | 600 Belly  | Rare      |                            |           | Nikyu Fragment |
-| Warlord Mihawk                | 1000 Belly | Rare      | Yoru (Rare)                |           |                |
-| Warlord Moria                 | 700 Belly  | Rare      | Scissors (Rare)            |           | Kage Fragment  |
-| Warlord Doflamingo            | 900 Belly  | Rare      | Strings (Rare)             |           | Ito Fragment   |
-| Petty Officer Koby            | 200 Belly  | Uncommon  |                            |           |                |
-| Petty Officer Helmeppo        | 150 Belly  | Uncommon  | Kukri (Uncommon)           |           |                |
-| Vice-Admiral Garp             | 800 Belly  | Rare      | Galaxy Fist (Rare)         |           |                |
-| Vice-Admiral Tsuru            | 300 Belly  | Uncommon  |                            |           |                |
-| Vice-Admiral Bastille         | 400 Belly  | Rare      | Samekiri Bocho (Uncommon)  |           |                |
-| Admiral Kizaru                | 1300 Belly | Epic      | Ama No Murakumo (Rare)     |           | Pika Fragment  |
-| Admiral Aokiji                | 1300 Belly | Epic      | Ice Saber (Rare)           |           | Hie Fragment   |
-| Admiral Akainu                | 1500 Belly | Epic      | Magma Fist (Rare)          |           | Magu Fragment  |
-| Fleet Admiral Sengoku         | 800 Belly  | Rare      |                            |           |                |
+| Boss Name                     | Belly      | Orb       | Weapon                     | Armor Set           | Other          |
+|-------------------------------|------------|-----------|----------------------------|-----------          |----------------|
+| Captain T-Bone                | 400 Belly  | Rare      | Bamboo (Uncommon)          |                     |                |
+| Lieutenant Commander Brannew  | 400 Belly  | Rare      | Cutlass (Uncommon)         |                     |                |
+| Vice-Admiral Dalmatian        | 400 Belly  | Rare      |                            |                     |                |
+| Vice-Admiral Strawberry       | 400 Belly  | Rare      | Strawberry Sword (Uncommon)|                     |                |
+| Vice-Admiral Yamakaji         | 400 Belly  | Rare      | Green Katana (Uncommon)    |                     |                |
+| Vice-Admiral Onigumo          | 400 Belly  | Rare      | Cutlass (Uncommon)         |                     |                |
+| Vice-Admiral Comil            | 400 Belly  | Rare      | Brown Katana (Uncommon)    |                     |                |
+| Vice-Admiral Momonga          | 400 Belly  | Rare      | Brown Katana (Uncommon)    |                     |                |
+| Vice-Admiral Doberman         | 400 Belly  | Rare      | Blue Katana (Uncommon)     |                     |                |
+| Vice-Admiral John Giant       | 400 Belly  | Rare      | Clover Katana (Uncommon)   |                     |                |
+| Vice-Admiral Lacroix          | 400 Belly  | Rare      | Marine Sword (Uncommon)    |                     |                |
+| Vice-Admiral Ronse            | 400 Belly  | Rare      | Giant Labrys (Uncommon)    |                     |                |
+| Seaman Recruit Fullbody       | 200 Belly  | Uncommon  |                            |                     |                |
+| Seaman Recruit Jango          | 200 Belly  | Uncommon  | Chakram (Uncommon)         |                     |                |
+| Captain Hina                  | 400 Belly  | Rare      |                            |                     |                |
+| Ensign Tashigi                | 200 Belly  | Uncommon  | Shigure (Uncommon)         |                     |                |
+| Commodore Smoker              | 300 Belly  | Uncommon  | Jitte (Uncommon)           | Smoker (Uncommon)   | Moku Fragment  |
+| Vice-Admiral Stainless        | 400 Belly  | Rare      | Purple Katana (Uncommon)   |                     |                |
+| Vice-Admiral Mozambia         | 400 Belly  | Rare      | Red Katana (Uncommon)      |                     |                |
+| Vice-Admiral Cancer           | 400 Belly  | Rare      | Marine Sword (Uncommon)    |                     |                |
+| Sentomaru                     | 350 Belly  | Uncommon  | Masakari (Uncommon)        |                     |                |
+| PX-3                          | 200 Belly  | Uncommon  |                            |                     |                |
+| PX-6                          | 200 Belly  | Uncommon  |                            |                     |                |
+| Warlord Hancock               | 800 Belly  | Rare      |                            |                     | Mero Fragment  |
+| Warlord Kuma                  | 600 Belly  | Rare      |                            |                     | Nikyu Fragment |
+| Warlord Mihawk                | 1000 Belly | Rare      | Yoru (Rare)                | Mihawk (Rare)       |                |
+| Warlord Moria                 | 700 Belly  | Rare      | Scissors (Rare)            | Moria (Rare)        | Kage Fragment  |
+| Warlord Doflamingo            | 900 Belly  | Rare      | Strings (Rare)             | Doflamingo (Rare)   | Ito Fragment   |
+| Petty Officer Koby            | 200 Belly  | Uncommon  |                            |                     |                |
+| Petty Officer Helmeppo        | 150 Belly  | Uncommon  | Kukri (Uncommon)           |                     |                |
+| Vice-Admiral Garp             | 800 Belly  | Rare      | Galaxy Fist (Rare)         | Garp (Rare)         |                |
+| Vice-Admiral Tsuru            | 300 Belly  | Uncommon  |                            |                     |                |
+| Vice-Admiral Bastille         | 400 Belly  | Rare      | Samekiri Bocho (Uncommon)  |                     |                |
+| Admiral Kizaru                | 1300 Belly | Epic      | Ama No Murakumo (Rare)     | Kizaru (Rare)       | Pika Fragment  |
+| Admiral Aokiji                | 1300 Belly | Epic      | Ice Saber (Rare)           | Aokiji (Rare)       | Hie Fragment   |
+| Admiral Akainu                | 1500 Belly | Epic      | Magma Fist (Rare)          | Akainu (Rare)       | Magu Fragment  |
+| Fleet Admiral Sengoku         | 800 Belly  | Rare      |                            |                     |                |
 
 ### B Quest
 
@@ -148,26 +148,27 @@ Bounty Reward: 7,600,000
 
 ### C Quest Boss Drops
 
-| Boss Name             | Belly     | Orb      | Weapon                   | Armor Set | Other         |
-|-----------------------|-----------|----------|--------------------------|-----------|---------------|
-| Tsunokkov             | 300 Belly | Uncommon |                          |           |               |
-| Usakkov               | 300 Belly | Uncommon |                          |           |               |
-| Francois              | 300 Belly | Uncommon |                          |           |               |
-| Captain Buggy         | 500 Belly | Rare     | Clown Knives (Uncommon)  |           | Bara Fragment |
-| Emporio Ivankov       | 500 Belly | Rare     |                          |           | Horu Fragment |
-| Prisoner Galdino      | 500 Belly | Rare     | Wax Sword (Uncommon)     |           | Doru Fragment |
-| Prisoner Daz Bones    | 500 Belly | Rare     | Arm Sword (Uncommon)     |           | Supa Fragment |
-| Ex-Warlord Crocodile  | 800 Belly | Rare     | Hook (Rare)              |           | Suna Fragment |
-| Escapee Luffy         | 900 Belly | Rare     |                          |           | Gomu Fragment |
-| Ex-Warlord Jinbe      | 700 Belly | Rare     |                          |           |               |
-| Shachi                | 300 Belly | Uncommon | Purple Katana (Uncommon) |           |               |
-| Penguin               | 300 Belly | Uncommon | Blue Katana (Uncommon)   |           |               |
-| Jean Bart             | 500 Belly | Rare     |                          |           |               |
-| Bepo The Mink         | 400 Belly | Uncommon |                          |           |               |
-| Trafalgar Water Law   | 800 Belly | Rare     | Kikoku (Rare)            |           | Ope Fragment  |
+| Boss Name             | Belly     | Orb      | Weapon                   | Armor Set           | Other         |
+|-----------------------|-----------|----------|--------------------------|-----------          |---------------|
+| Tsunokkov             | 300 Belly | Uncommon |                          |                     |               |
+| Usakkov               | 300 Belly | Uncommon |                          |                     |               |
+| Francois              | 300 Belly | Uncommon |                          |                     |               |
+| Captain Buggy         | 500 Belly | Rare     | Clown Knives (Uncommon)  | Buggy (Uncommon)    | Bara Fragment |
+| Emporio Ivankov       | 500 Belly | Rare     |                          |                     | Horu Fragment |
+| Prisoner Galdino      | 500 Belly | Rare     | Wax Sword (Uncommon)     | Galdino (Uncommon)  | Doru Fragment |
+| Prisoner Daz Bones    | 500 Belly | Rare     | Arm Sword (Uncommon)     | Daz Bones (Uncommon)| Supa Fragment |
+| Ex-Warlord Crocodile  | 800 Belly | Rare     | Hook (Rare)              | Crocodile (Rare)    | Suna Fragment |
+| Escapee Luffy         | 900 Belly | Rare     |                          | Luffy (Rare)        | Gomu Fragment |
+| Ex-Warlord Jinbe      | 700 Belly | Rare     |                          |                     |               |
+| Shachi                | 300 Belly | Uncommon | Purple Katana (Uncommon) |                     |               |
+| Penguin               | 300 Belly | Uncommon | Blue Katana (Uncommon)   |                     |               |
+| Jean Bart             | 500 Belly | Rare     |                          |                     |               |
+| Bepo The Mink         | 400 Belly | Uncommon |                          |                     |               |
+| Trafalgar Water Law   | 800 Belly | Rare     | Kikoku (Rare)            | Law (Rare)          | Ope Fragment  |
 
 ### Essential NPCs
 
 | NPC Name         | Purpose                                    |
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
+| Doctor           | Healer                                     |

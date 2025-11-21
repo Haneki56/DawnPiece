@@ -58,6 +58,8 @@
   * [34. Whole Cake Island](Islands/WholeCakeIsland.md)
   * [35. Wano Kuni](Islands/WanoKuni.md)
   * [36. Onigashima](Islands/Onigashima.md)
+  * [37. Egghead](Islands/Egghead.md)
+  * [D1. Morioh](Islands/Morioh.md)
 
 * **Gear Guide**
   * [Gear Guide Overview](Gear/Overview.md)

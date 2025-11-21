@@ -26,12 +26,12 @@ Note: Completing this quest unlocks the Knock Up Stream. Speak to Luffy (MT) or 
 
 ### Main Quest Boss Drops
 
-| Boss Name | Belly     | Orb      | Weapon               | Armor Set | Other           |
-|-----------|-----------|----------|----------------------|-----------|-----------------|
-| Masira    | 50 Belly  | Common   |                      |           |                 |
-| Shoujou   | 50 Belly  | Common   |                      |           |                 |
-| Sarquiss  | 150 Belly | Uncommon | Big Knife (Uncommon) |           |                 |
-| Bellamy   | 250 Belly | Uncommon |                      |           | Bane Fragment   |
+| Boss Name | Belly     | Orb      | Weapon               | Armor Set           | Other           |
+|-----------|-----------|----------|----------------------|-----------          |-----------------|
+| Masira    | 50 Belly  | Common   |                      |                     |                 |
+| Shoujou   | 50 Belly  | Common   |                      |                     |                 |
+| Sarquiss  | 150 Belly | Uncommon | Big Knife (Uncommon) |                     |                 |
+| Bellamy   | 250 Belly | Uncommon |                      | Bellamy (Uncommon)  | Bane Fragment   |
 
 
 ### Essential NPCs
@@ -40,3 +40,4 @@ Note: Completing this quest unlocks the Knock Up Stream. Speak to Luffy (MT) or 
 |-------------     |-----------                        |
 | Teleporter       | Teleport to any unlocked location |
 | Blacksmith       | Custom Gear Information           |
+| Doctor           | Healer                            |

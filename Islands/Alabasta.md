@@ -38,21 +38,21 @@ Note: Completing this quest unlocks Jaya. Speak to Nico Robin (AB) or the Telepo
 
 ### Main Quest Boss Drops
 
-| Boss Name            | Belly     | Orb      | Weapon               | Armor Set | Other        |
-|-----------           |-----------|----------|-----------           |-----------|-----------   |
-| Kung Fu Dugong       | 10 Belly  |          |                      |           |              |
-| Mr. 4                | 70 Belly  | Common   | Steel Bat (Common)   |           |              |
-| Lassoo               | 30 Belly  | Common   |                      |           |              |
-| Miss Merry Christmas | 60 Belly  | Common   | Mole Claw (Common)   |           | Mogu Fragment|
-| Mr. 2                | 100 Belly | Uncommon |                      |           | Mane Fragment|
-| Miss Doublefinger    | 80 Belly  | Common   |                      |           |              |
-| Mr. 1                | 150 Belly | Uncommon | Arm Sword (Uncommon) |           | Supa Fragment|
-| Rebel Soldier        | 10 Belly  |          |                      |           |              |
-| Royal Soldier        | 10 Belly  |          |                      |           |              |
-| Mr. 7                | 90 Belly  | Common   |                      |           |              |
-| Miss Father's Day    | 90 Belly  | Common   |                      |           |              |
-| Miss All-Sunday      | 120 Belly | Uncommon |                      |           | Hana Fragment|
-| Mr. 0                | 250 Belly | Uncommon | Hook (Uncommon)      |           | Suna Fragment|
+| Boss Name            | Belly     | Orb      | Weapon               | Armor Set            | Other        |
+|-----------           |-----------|----------|-----------           |-----------           |-----------   |
+| Kung Fu Dugong       | 10 Belly  |          |                      |                      |              |
+| Mr. 4                | 70 Belly  | Common   | Steel Bat (Common)   | Babe (Common)        |              |
+| Lassoo               | 30 Belly  | Common   |                      |                      |              |
+| Miss Merry Christmas | 60 Belly  | Common   | Mole Claw (Common)   |                      | Mogu Fragment|
+| Mr. 2                | 100 Belly | Uncommon |                      |                      | Mane Fragment|
+| Miss Doublefinger    | 80 Belly  | Common   |                      | Zala (Common)        |              |
+| Mr. 1                | 150 Belly | Uncommon | Arm Sword (Uncommon) | Daz Bones (Uncommon) | Supa Fragment|
+| Rebel Soldier        | 10 Belly  |          |                      |                      |              |
+| Royal Soldier        | 10 Belly  |          |                      |                      |              |
+| Mr. 7                | 90 Belly  | Common   |                      |                      |              |
+| Miss Father's Day    | 90 Belly  | Common   |                      |                      |              |
+| Miss All-Sunday      | 120 Belly | Uncommon |                      |                      | Hana Fragment|
+| Mr. 0                | 250 Belly | Uncommon | Hook (Uncommon)      | Crocodile (Uncommon) | Suna Fragment|
 
 ### B Quest
 
@@ -74,19 +74,19 @@ Bounty Reward: 1,110,000
 
 ### B Quest Boss Drops
 
-| Boss Name     | Belly     | Orb      | Weapon                     | Armor Set | Other          |
-|---------------|-----------|----------|----------------------------|-----------|----------------|
-| Royal Soldier | 10 Belly  |          |                            |           |                |
-| Terracotta    | 20 Belly  | Common   |                            |           |                |
-| Hyota         | 50 Belly  | Common   | Tsumegeri Cleaver (Common) |           |                |
-| Brahm         | 50 Belly  | Common   | Tsumegeri Labrys (Common)  |           |                |
-| Arrow         | 50 Belly  | Common   | Tsumegeri Sword (Common)   |           |                |
-| Barrel        | 50 Belly  | Common   | Tsumegeri Cleaver (Common) |           |                |
-| Igaram        | 80 Belly  | Common   |                            |           |                |
-| Chaka         | 150 Belly | Uncommon | Jackal Sword (Uncommon)    |           |                |
-| Pell          | 150 Belly | Uncommon | Falcon Sword (Uncommon)    |           | Falcon Fragment|
-| Princess Vivi | 100 Belly | Uncommon | Peacock Slasher (Uncommon) |           |                |
-| King Cobra    | 50 Belly  | Common   |                            |           |                |
+| Boss Name     | Belly     | Orb      | Weapon                     | Armor Set         | Other          |
+|---------------|-----------|----------|----------------------------|-----------        |----------------|
+| Royal Soldier | 10 Belly  |          |                            |                   |                |
+| Terracotta    | 20 Belly  | Common   |                            |                   |                |
+| Hyota         | 50 Belly  | Common   | Tsumegeri Cleaver (Common) |                   |                |
+| Brahm         | 50 Belly  | Common   | Tsumegeri Labrys (Common)  |                   |                |
+| Arrow         | 50 Belly  | Common   | Tsumegeri Sword (Common)   |                   |                |
+| Barrel        | 50 Belly  | Common   | Tsumegeri Cleaver (Common) |                   |                |
+| Igaram        | 80 Belly  | Common   |                            |                   |                |
+| Chaka         | 150 Belly | Uncommon | Jackal Sword (Uncommon)    |                   |                |
+| Pell          | 150 Belly | Uncommon | Falcon Sword (Uncommon)    | Pell (Uncommon)   | Falcon Fragment|
+| Princess Vivi | 100 Belly | Uncommon | Peacock Slasher (Uncommon) |                   |                |
+| King Cobra    | 50 Belly  | Common   |                            |                   |                |
 
 ### C Quest
 
@@ -126,9 +126,9 @@ To start the D Quest, speak to White Chase Smoker (AB) in Katorea.
 
 ### D Quest Boss Drops
 
-| Boss Name | Belly     | Orb  | Weapon               | Armor Set | Other        |
-|-----------|-----------|------|----------------------|-----------|--------------|
-| Ace       | 400 Belly | Rare | Ace Knife (Uncommon) |           | Mera Fragment|
+| Boss Name | Belly     | Orb  | Weapon               | Armor Set       | Other        |
+|-----------|-----------|------|----------------------|-----------      |--------------|
+| Ace       | 400 Belly | Rare | Ace Knife (Uncommon) | Ace (Uncommon)  | Mera Fragment|
 
 Item Rewards: 400 Belly<br>
 Bounty Reward: 400,000
@@ -150,6 +150,7 @@ Bounty Reward: 400,000
 | Dealer (5000 Belly)     | Gambling                                |
 | Dealer (10000 Belly)    | Gambling                                |
 | Dealer (100000 Belly)   | Gambling                                |
+| Doctor                  | Healer                                  |
 
 ### Treasure Hunt
 

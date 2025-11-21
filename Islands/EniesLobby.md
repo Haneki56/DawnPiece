@@ -40,39 +40,39 @@ Note: Completing this quest unlocks Thriller Bark. Speak to Luffy (EL) or the Te
 
 ### Main Quest Boss Drops
 
-| Boss Name                 | Belly     | Orb      | Weapon                      | Armor Set | Other                                |
-|---------------------------|-----------|----------|-----------------------------|-----------|--------------------------------------|
-| Captain T Bone            | 300 Belly | Uncommon | Bamboo (Uncommon)           |           |                                      |  
-| Jerry (CP6)               | 300 Belly | Uncommon | Red Boxing Glove (Uncommon) |           |                                      |
-| Wanze (CP7)               | 300 Belly | Uncommon |                             |           |                                      |
-| Corgi                     | 50 Belly  | Common   |                             |           |                                      |
-| Nero (CP9)                | 250 Belly | Uncommon |                             |           |                                      |
-| Kashii                    | 400 Belly | Uncommon | Giant Broad Axe (Uncommon)  |           |                                      |
-| Oimo                      | 400 Belly | Uncommon | Giant Wooden Club (Uncommon)|           |                                      |
-| Seaman Apprentice         | 50 Belly  | Common   | Marine Sword (Common)       |           |                                      |
-| Cipher Pol Agent          | 50 Belly  | Common   |                             |           |                                      |
-| Watchdog Soldier          | 50 Belly  | Common   |                             |           |                                      |
-| Jurymen                   | 50 Belly  | Common   |                             |           |                                      |
-| Baskerville               | 300 Belly | Uncommon | Cutlass (Uncommon)          |           |                                      |
-| Blueno (CP9)              | 500 Belly | Rare     |                             |           | Doa Fragment                         |
-| Fukurou (CP9)             | 400 Belly | Rare     |                             |           |                                      |
-| Kumadori (CP9)            | 500 Belly | Rare     | Khakkhara (Uncommon)        |           |                                      |
-| Kaku (CP9)                | 500 Belly | Rare     | Shirasaya (Rare)            |           | Giraffe Fragment<br>Handcuff Key 5   |
-| Monster Chopper           | 100 Belly | Uncommon |                             |           | Hito Fragment                        |
-| Jabra (CP9)               | 100 Belly |          |                             |           |                                      |
-| Jabra Hybrid Point (CP9)  | 350 Belly | Rare     |                             |           | Wolf Fragment                        |
-| Kalifa (CP9)              | 200 Belly | Uncommon |                             |           | Awa Fragment                         |
-| Rob Lucci (CP9)           | 100 Belly |          |                             |           |                                      |
-| Lucci Hybrid Point (CP9)  | 400 Belly | Rare     |                             |           | Leopard Fragment                     |
-| Spandam                   | 120 Belly | Uncommon | Funkfreed (Uncommon)        |           | Zou Fragment                         |
-| Captain Shu               | 300 Belly | Uncommon |                             |           |                                      |
-| Captain Very Good         | 300 Belly | Uncommon |                             |           |                                      |
-| Captain Sharinguru        | 300 Belly | Uncommon |                             |           |                                      |
-| Vice Admiral Strawberry   | 300 Belly | Uncommon | Strawberry Sword (Uncommon) |           |                                      |
-| Vice Admiral Yamakaji     | 300 Belly | Uncommon | Green Katana (Uncommon)     |           |                                      |
-| Vice Admiral Onigumo      | 300 Belly | Uncommon | Cutlass (Uncommon)          |           |                                      |
-| Vice Admiral Doberman     | 300 Belly | Uncommon | Blue Katana (Uncommon)      |           |                                      |
-| Vice Admiral Momonga      | 300 Belly | Uncommon | Brown Katana (Uncommon)     |           |                                      |
+| Boss Name                 | Belly     | Orb      | Weapon                      | Armor Set            | Other                                |
+|---------------------------|-----------|----------|-----------------------------|-----------           |--------------------------------------|
+| Captain T Bone            | 300 Belly | Uncommon | Bamboo (Uncommon)           |                      |                                      |  
+| Jerry (CP6)               | 300 Belly | Uncommon | Red Boxing Glove (Uncommon) | Cipher Pol (Uncommon)|                                      |
+| Wanze (CP7)               | 300 Belly | Uncommon |                             | Cipher Pol (Uncommon)|                                      |
+| Corgi                     | 50 Belly  | Common   |                             |                      |                                      |
+| Nero (CP9)                | 250 Belly | Uncommon |                             | Cipher Pol (Uncommon)|                                      |
+| Kashii                    | 400 Belly | Uncommon | Giant Broad Axe (Uncommon)  |                      |                                      |
+| Oimo                      | 400 Belly | Uncommon | Giant Wooden Club (Uncommon)|                      |                                      |
+| Seaman Apprentice         | 50 Belly  | Common   | Marine Sword (Common)       | Marine (Common)      |                                      |
+| Cipher Pol Agent          | 50 Belly  | Common   |                             | Cipher Pol (Common)  |                                      |
+| Watchdog Soldier          | 50 Belly  | Common   |                             |                      |                                      |
+| Jurymen                   | 50 Belly  | Common   |                             |                      |                                      |
+| Baskerville               | 300 Belly | Uncommon | Cutlass (Uncommon)          |                      |                                      |
+| Blueno (CP9)              | 500 Belly | Rare     |                             | Cipher Pol (Uncommon)| Doa Fragment                         |
+| Fukurou (CP9)             | 400 Belly | Rare     |                             | Cipher Pol (Uncommon)|                                      |
+| Kumadori (CP9)            | 500 Belly | Rare     | Khakkhara (Uncommon)        | Cipher Pol (Uncommon)|                                      |
+| Kaku (CP9)                | 500 Belly | Rare     | Shirasaya (Uncommon)        | Cipher Pol (Uncommon)| Giraffe Fragment<br>Handcuff Key 5   |
+| Monster Chopper           | 100 Belly | Uncommon |                             |                      | Hito Fragment                        |
+| Jabra (CP9)               | 100 Belly |          |                             |                      |                                      |
+| Jabra Hybrid Point (CP9)  | 350 Belly | Rare     |                             | Cipher Pol (Uncommon)| Wolf Fragment                        |
+| Kalifa (CP9)              | 200 Belly | Uncommon |                             | Cipher Pol (Uncommon)| Awa Fragment                         |
+| Rob Lucci (CP9)           | 100 Belly |          |                             |                      |                                      |
+| Lucci Hybrid Point (CP9)  | 400 Belly | Rare     |                             | Cipher Pol (Uncommon)| Leopard Fragment                     |
+| Spandam                   | 120 Belly | Uncommon | Funkfreed (Uncommon)        | Cipher Pol (Uncommon)| Zou Fragment                         |
+| Captain Shu               | 300 Belly | Uncommon |                             |                      |                                      |
+| Captain Very Good         | 300 Belly | Uncommon |                             |                      |                                      |
+| Captain Sharinguru        | 300 Belly | Uncommon |                             |                      |                                      |
+| Vice Admiral Strawberry   | 300 Belly | Uncommon | Strawberry Sword (Uncommon) |                      |                                      |
+| Vice Admiral Yamakaji     | 300 Belly | Uncommon | Green Katana (Uncommon)     |                      |                                      |
+| Vice Admiral Onigumo      | 300 Belly | Uncommon | Cutlass (Uncommon)          |                      |                                      |
+| Vice Admiral Doberman     | 300 Belly | Uncommon | Blue Katana (Uncommon)      |                      |                                      |
+| Vice Admiral Momonga      | 300 Belly | Uncommon | Brown Katana (Uncommon)     |                      |                                      |
 
 ### Essential NPCs
 
@@ -80,3 +80,4 @@ Note: Completing this quest unlocks Thriller Bark. Speak to Luffy (EL) or the Te
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (EL)  | Teleport to any unlocked Enies Lobby POI   |
+| Doctor           | Healer                                     |

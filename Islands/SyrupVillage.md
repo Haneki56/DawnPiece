@@ -25,15 +25,15 @@ Note: Completing this quest unlocks the Island of Rare Animals. Speak to Merry (
 
 ### Main Quest Boss Drops
 
-| Boss Name | Belly    | Orb    | Weapon                 | Armor Set | Other     |
-|-----------|----------|--------|------------------------|-----------|-----------|
-| Tamanegi  | 5 Belly  | Common |                        |           |           |
-| Piiman    | 5 Belly  | Common |                        |           |           |
-| Ninjin    | 5 Belly  | Common |                        |           |           |
-| Sham      | 25 Belly | Common | Left Cat Claw (Common) |           |           |
-| Buchi     | 25 Belly | Common | Right Cat Claw (Common)|           |           |
-| Jango     | 40 Belly | Common | Chakram (Common)       |           |           |
-| Kuro      | 70 Belly | Common | Tekko Kagi (Common)    |           |           |
+| Boss Name | Belly    | Orb    | Weapon                 | Armor Set    | Other     |
+|-----------|----------|--------|------------------------|-----------   |-----------|
+| Tamanegi  | 5 Belly  | Common |                        |              |           |
+| Piiman    | 5 Belly  | Common |                        |              |           |
+| Ninjin    | 5 Belly  | Common |                        |              |           |
+| Sham      | 25 Belly | Common | Left Cat Claw (Common) |              |           |
+| Buchi     | 25 Belly | Common | Right Cat Claw (Common)|              |           |
+| Jango     | 40 Belly | Common | Chakram (Common)       |              |           |
+| Kuro      | 70 Belly | Common | Tekko Kagi (Common)    | Kuro (Common)|           |
 
 ### Essential NPCs
 
@@ -41,3 +41,4 @@ Note: Completing this quest unlocks the Island of Rare Animals. Speak to Merry (
 |-------------     |-----------                         |
 | Teleporter       | Teleport to any unlocked location  |
 | Blacksmith       | Custom Gear Information            |
+| Doctor           | Healer                             |

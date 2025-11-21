@@ -1,6 +1,6 @@
 # Onigashima Island Guide
 
-Once the Wano Kuni Main Questline is complete, speak to Speak to Nami (ONG) or the Teleporter to warp to Whole Cake Island and begin questing!
+Once the Wano Kuni Main Questline is complete, speak to Speak to Denjiro (WK) or the Teleporter to warp to Onigashima and begin questing!
 
 ### Main Quest
 
@@ -42,7 +42,7 @@ To start the Main Quest, speak to Nami (ONI) near the island teleport location.
 Item Rewards: 92,250 Belly<br>
 Bounty Reward: 92,250,000
 
-Note: This is the final quest in the Main Story until we release further islands. 
+Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Teleporter at any location to access the next island.
 
 ### Main Quest Boss Drops
 

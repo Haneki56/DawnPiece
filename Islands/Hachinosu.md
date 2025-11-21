@@ -1,16 +1,19 @@
-# Don Krieg's Hideout Guide
+# Hachinosu Guide
 
-This island is accessible from the Side Island Menu in the Teleporter after completing the Island or Rare Animals.
+This island is accessible from the Side Island Menu in the Teleporter after completing Egghead.
 
 ### A Quest
 
-To start the A Quest, speak to Krieg (DKH) near the island teleport location.
+To start the A Quest, speak to Garp (HN) near the island teleport location.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|
-| A01       | Don Krieg’s Test!         |Defeat Kagikko, Hustle and Ideaman on the ship.|
-| A02       | Hold Off Hawk Eyes!       |Talk to Gin (DKH) on the ship to complete the quest.|
-| A03       | The Strongest Swordsman!  |Defeat Mihawk on the ship to complete the questline.|
+| A01       | Old Foes In The New World!||
+| A02       | A Marine Captured!        ||
+| A03       | The Blackbeard Pirates!   ||
+| A04       | Elite Pirates!            ||
+| A05       | Pure Darkness!            ||
+| A06       | A Sacrifice!              ||
 
 Item Rewards: 240 Belly<br>
 Bounty Reward: 240,000

@@ -28,3 +28,4 @@ Bounty Reward: 350,000
 |-------------          |-----------                                |
 | Teleporter            | Teleport to any unlocked location         |
 | Blacksmith            | Custom Gear Information                   |
+| Doctor                | Healer                                    |

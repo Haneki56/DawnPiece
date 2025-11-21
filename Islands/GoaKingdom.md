@@ -100,5 +100,5 @@ Bounty Reward: 550,000
 | Bank Teller           | Currency Exchange                         |
 | Bank Teller (Bulk)    | Currency Exchange                         |
 | Devil Fruit Remover   | Remove your Devil Fruit                   |
-| Doctor                | Healer                         |
+| Doctor                | Healer                                    |
 | Policeman             | Server Rules and Jail Tutorial            |

@@ -17,7 +17,7 @@ Please see the sections below regarding the information you need to know for the
 |-----------            |-----------        |-----------            |
 | Warlord               | 1,000,000,000     | 7                     |
 | Yonko                 | 2,000,000,000     | 4                     |   
-| King of the Pirates   | 4,000,000,000     | 1                     |
+| Pirate King		    | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 

@@ -1,6 +1,6 @@
 # Wano Kuni Island Guide
 
-Once the Whole Cake Island Main Questline is complete, speak to Speak to Nami (WCI) or the Teleporter to warp to Whole Cake Island and begin questing!
+Once the Whole Cake Island Main Questline is complete, speak to Speak to Nami (WCI) or the Teleporter to warp to Wano Kuni and begin questing!
 
 ### Main Quest
 
@@ -70,3 +70,4 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (WK)  | Teleport to any unlocked Wano Kuni POI     |
+| Doctor           | Healer                                     |

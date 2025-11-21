@@ -78,3 +78,4 @@ Note: Completing this quest unlocks Wano Kuni. Speak to Nami (WCI) or the Telepo
 |-------------     |-----------                                     |
 | Teleporter       | Teleport to any unlocked location              |
 | Teleporter (WCI) | Teleport to any unlocked Whole Cake Island POI |
+| Doctor           | Healer                                         |

@@ -35,22 +35,22 @@ Note: Completing this quest unlocks Dressrosa. Speak to Brook (PH) or the Telepo
 
 ### Main Quest Boss Drops
 
-| Boss Name            | Belly      | Orb      | Weapon                 | Armor Set | Other             |
-|----------------------|----------- |----------|------------------------|-----------|-------------------|
-| Artificial Dragon    | 400 Belly  | Rare     |                        |           |                   |
-| Centaur              | 200 Belly  | Uncommon |                        |           |                   |
-| Brownbeard           | 1300 Belly | Epic     |                        |           |                   |
-| G-5 Marine           | 150 Belly  | Uncommon | Marine Sword (Uncommon)|           |                   |
-| Captain Tashigi      | 800 Belly  | Rare     | Shigure (Rare)         |           |                   |
-| Vice-Admiral Smoker  | 1500 Belly | Epic     | Jitte (Rare)           |           | Moku Fragment     |
-| Giant Child          | 150 Belly  | Uncommon |                        |           |                   |
-| Rock                 | 500 Belly  | Rare     |                        |           |                   |
-| Scotch               | 500 Belly  | Rare     |                        |           |                   |
-| Scientist            | 100 Belly  | Uncommon |                        |           |                   |
-| Vergo                | 1300 Belly | Epic     |                        |           |                   |
-| Monet                | 1500 Belly | Epic     |                        |           | Yuki Fragment     |
-| Caesar Clown         | 1700 Belly | Epic     |                        |           | Gasu Fragment     |
-| Smiley               | 500 Belly  | Rare     |                        |           | Axolotl Fragment  |
+| Boss Name            | Belly      | Orb      | Weapon                 | Armor Set     | Other             |
+|----------------------|----------- |----------|------------------------|-----------    |-------------------|
+| Artificial Dragon    | 400 Belly  | Rare     |                        |               |                   |
+| Centaur              | 200 Belly  | Uncommon |                        |               |                   |
+| Brownbeard           | 1300 Belly | Epic     |                        |               |                   |
+| G-5 Marine           | 150 Belly  | Uncommon | Marine Sword (Uncommon)|               |                   |
+| Captain Tashigi      | 800 Belly  | Rare     | Shigure (Rare)         |               |                   |
+| Vice-Admiral Smoker  | 1500 Belly | Epic     | Jitte (Rare)           | Smoker (Rare) | Moku Fragment     |
+| Giant Child          | 150 Belly  | Uncommon |                        |               |                   |
+| Rock                 | 500 Belly  | Rare     |                        |               |                   |
+| Scotch               | 500 Belly  | Rare     |                        |               |                   |
+| Scientist            | 100 Belly  | Uncommon |                        |               |                   |
+| Vergo                | 1300 Belly | Epic     |                        |               |                   |
+| Monet                | 1500 Belly | Epic     |                        |               | Yuki Fragment     |
+| Caesar Clown         | 1700 Belly | Epic     |                        |               | Gasu Fragment     |
+| Smiley               | 500 Belly  | Rare     |                        |               | Axolotl Fragment  |
 
 ### Essential NPCs
 

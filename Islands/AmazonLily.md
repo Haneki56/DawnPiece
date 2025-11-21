@@ -46,3 +46,4 @@ Note: Completing this quest unlocks Impel Down. Speak to Boa Hancock (AL) or the
 | NPC Name         | Purpose                                        |
 |-------------     |-----------                                     |
 | Teleporter       | Teleport to any unlocked location              |
+| Doctor           | Healer                                         |

@@ -74,3 +74,4 @@ Bounty Reward: 240,000
 | NPC Name         | Purpose                                        |
 |-------------     |-----------                                     |
 | Teleporter       | Teleport to any unlocked location              |
+| Doctor           | Healer                                         |

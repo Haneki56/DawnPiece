@@ -26,16 +26,16 @@ Note: Completing this quest unlocks Little Garden. Speak to Miss All-Sunday (WP)
 
 ### Main Quest Boss Drops
 
-| Boss Name     | Belly    | Orb    | Weapon            | Armor Set | Other           |
-|---------------|----------|--------|-------------------|-----------|-----------------|
-| Million       | 20 Belly | Common |                   |           |                 |
-| Miss Catherina| 25 Belly | Common | Cross (Common)    |           |                 |
-| Mr. Beans     | 10 Belly | Common |                   |           |                 |
-| Mr. Shimizu   | 30 Belly | Common |                   |           |                 |
-| Miss Monday   | 60 Belly | Common |                   |           |                 |
-| Mr. 8         | 15 Belly | Common |                   |           |                 |
-| Miss Valentine| 50 Belly | Common | Umbrella (Common) |           | Kilo Fragment   |
-| Mr. 5         | 70 Belly | Common |                   |           | Bomu Fragment   |
+| Boss Name     | Belly    | Orb    | Weapon            | Armor Set         | Other           |
+|---------------|----------|--------|-------------------|-----------        |-----------------|
+| Million       | 20 Belly | Common |                   |                   |                 |
+| Miss Catherina| 25 Belly | Common | Cross (Common)    |                   |                 |
+| Mr. Beans     | 10 Belly | Common |                   |                   |                 |
+| Mr. Shimizu   | 30 Belly | Common |                   |                   |                 |
+| Miss Monday   | 60 Belly | Common |                   |                   |                 |
+| Mr. 8         | 15 Belly | Common |                   |                   |                 |
+| Miss Valentine| 50 Belly | Common | Umbrella (Common) | Mikita (Common)   | Kilo Fragment   |
+| Mr. 5         | 70 Belly | Common |                   | Gem (Common)      | Bomu Fragment   |
 
 
 ### Essential NPCs
@@ -43,3 +43,4 @@ Note: Completing this quest unlocks Little Garden. Speak to Miss All-Sunday (WP)
 | NPC Name         | Purpose                                        |
 |-------------     |-----------                                     |
 | Teleporter       | Teleport to any unlocked location              |
+| Doctor           | Healer                                         |

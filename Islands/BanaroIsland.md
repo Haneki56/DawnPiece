@@ -16,12 +16,12 @@ Bounty Reward: 2,050,000
 
 ### A Quest Boss Drops
 
-| Boss Name     | Belly     | Orb      | Weapon                 | Armor Set | Other        |
-|-----------    |-----------|----------|-----------             |-----------|-----------   |
-| Fire Fist Ace | 700 Belly | Rare     | Ace Knife (Rare)       |           | Mera Fragment|
-| Teach         | 700 Belly | Rare     | Darkness Fist (Rare)   |           | Yami Fragment|
-| Burgess       | 500 Belly | Rare     | Green Dagger (Uncommon)|           |              |
-| Augur         | 150 Belly | Uncommon |                        |           |              |
+| Boss Name     | Belly     | Orb      | Weapon                 | Armor Set     | Other        |
+|-----------    |-----------|----------|-----------             |-----------    |-----------   |
+| Fire Fist Ace | 700 Belly | Rare     | Ace Knife (Rare)       | Ace (Rare)    | Mera Fragment|
+| Teach         | 700 Belly | Rare     | Darkness Fist (Rare)   | Teach (Rare)  | Yami Fragment|
+| Burgess       | 500 Belly | Rare     | Green Dagger (Uncommon)|               |              |
+| Augur         | 150 Belly | Uncommon |                        |               |              |
 
 ### Essential NPCs
 

@@ -70,4 +70,5 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (WK)  | Teleport to any unlocked Wano Kuni POI     |
+| Blacksmith       | Custom Gear Information                    |
 | Doctor           | Healer                                     |

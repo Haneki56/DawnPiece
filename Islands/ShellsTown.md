@@ -32,8 +32,11 @@ Note: Completing this quest unlocks Orange Town. Speak to Ririka (ST) or the Tel
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                            |
-|-------------     |-----------                         |
-| Teleporter       | Teleport to any unlocked location  |
-| Blacksmith       | Custom Gear Information            |
-| Doctor           | Healer                             |
+| NPC Name              | Purpose                                   |
+|-------------          |-----------                                |
+| Teleporter            | Teleport to any unlocked location         |
+| Blacksmith            | Custom Gear Information                   |
+| Doctor                | Healer                                    |
+| Banker                | Storage Tutorial                          |
+| Bank Teller           | Currency Exchange                         |
+| Bank Teller (Bulk)    | Currency Exchange                         |

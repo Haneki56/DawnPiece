@@ -70,4 +70,5 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (DR)  | Teleport to any unlocked Dressrosa POI     |
+| Blacksmith       | Custom Gear Information                    |
 | Doctor           | Healer                                     |

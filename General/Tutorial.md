@@ -17,7 +17,7 @@ Scroll through this page to see a basic guide based on our most frequently asked
 
 1. [Download 64-Bit Java for Minecraft](https://java-for-minecraft.com/en/). 
 2. Download Minecraft Version 1.16.5 and Forge Version 36.2.39 in your Minecraft Launcher.
-3. [Download](lhttps://www.dropbox.com/scl/fi/f9xwjk3y0puynjc68snm6/opaaspack.zip?rlkey=0sy6pzc015nqa0n3oagwdixbn&st=6c1fnpp2&dl=0) all of the mods and add them to your mods folder.
+3. [Download](https://www.dropbox.com/scl/fi/vwtjpvgjusj2dl46on3ig/opaaspack.zip?rlkey=qel3ziebbz0eo0xxft50smlg2&st=urqmhedz&dl=0) all of the mods and add them to your mods folder.
 4. Make sure that you have enough RAM allocated to the launcher.
 5. Load up the mod pack and join in on the fun! The IP and server are already included in the mod pack.
 

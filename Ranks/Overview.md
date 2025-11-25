@@ -4,7 +4,7 @@ There are various life paths that you can choose by typing /dp ranks in game. Si
 
 ### General Ranks & Bounty
 
-The balance you see by using the command /dp bounty represents the bounty you’ve accumulated so far on the server. This bounty is used to upgrade ⁠ranks depending on which life path you choose. You accumulate bounty by completing quests and winning events! Once you achieve the required bounty to rank up, you will see your suffix change in game along with a message in chat. Each rankup will give you a bonus. If you want to see how you fare compared to the rest of the server, type /dp bounty list for the rankings.
+The balance you see by using the command /dp bounty check represents the bounty you’ve accumulated so far on the server. This bounty is used to upgrade ⁠ranks depending on which life path you choose. You accumulate bounty by completing quests and winning events! Once you achieve the required bounty to rank up, you will see your suffix change in game along with a message in chat. Each rankup will give you a bonus. If you want to see how you fare compared to the rest of the server, type /dp bounty list for the rankings.
 
 | Rank Type     | Rank Bonus                    |
 |-----------    |-----------                    |
@@ -19,9 +19,9 @@ Legacy Ranks are special ranks in game that can only be occupied by one player a
 
 | Legacy Rank Type  | Rank Bonus                    | Rank Kit  | Required Tribute  |
 |-----------        |-----------                    |-----------|-----------        |
-| 1,000,000,000     | Increase MMNM Damage by 50%   | ?         | ?         |
-| 2,000,000,000     | Increase MMNM Damage by 75%   | ?         | ?         |
-| 4,000,000,000     | Increase MMNM Damage by 100%  | ?         | ?         |
+| 1,000,000,000     | Increase MMNM Damage by 50%   | ?         | ?                 |
+| 2,000,000,000     | Increase MMNM Damage by 75%   | ?         | ?                 |
+| 4,000,000,000     | Increase MMNM Damage by 100%  | ?         | ?                 |
 
 ### Rules For Legacy Ranks
 

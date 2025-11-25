@@ -11,9 +11,9 @@ All melee weapons will have base Damage stats for dealing raw damage and an Atta
 | Common    | 6             | 6             | 7                 | 8             | 8             | 1.5           |
 | Uncommon  | 12            | 13            | 14                | 15            | 16            | 1.75          |
 | Rare      | 24            | 26            | 28                | 30            | 32            | 2             |
-| Epic      | 48            | 52            | 56                | 60            | 64            | 2.25          |
-| Legendary | 96            | 104           | 112               | 120           | 128           | 2.5           |
-| Mythical  | 192           | 208           | 224               | 240           | 256           | 2.75          |
+| Epic      | 44            | 47            | 50                | 53            | 56            | 2.25          |
+| Legendary | 80            | 84            | 88                | 92            | 94            | 2.5           |
+| Mythical  | 120           | 126           | 132               | 138           | 144           | 2.75          |
 
 ### Weapon Types
 
@@ -30,15 +30,15 @@ There are 6 types of melee weapons below. Some armor set bonuses will give damag
 
 ### Weapon Upgrading
 
-To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage dealt with the weapon, and insert the required upgrade orb. These values are different depending on the weapon tier and class, however if you place your weapon inside the slot, the upgrade table interface will tell you what you need for the upgrade. Please see the following chart for a reference. Mythical weapons cannot be upgraded since it is the final tier.
+To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage dealt with the weapon, and insert the required upgrade orbs. These values are different depending on the weapon tier and class, however if you place your weapon inside the slot, the upgrade table interface will tell you what you need for the upgrade. Please see the following chart for a reference. Mythical weapons cannot be upgraded since it is the final tier.
 
-| Tier      | Damage Dealt  | Orb Needed| Basic Cost| Grade Cost| Skillful Cost | Great Cost| Supreme Cost  |
-|-----------|---------------|-----------|-----------|-----------|---------------|-----------|---------------|
-| Common    | 4,000         | Uncommon  | 3,200     | 3,400     | 3,600         | 3,800     | 4,000         |
-| Uncommon  | 20,000        | Rare      | 16,000    | 17,000    | 18,000        | 19,000    | 20,000        |
-| Rare      | 100,000       | Epic      | 80,000    | 85,000    | 90,000        | 95,000    | 100,000       |
-| Epic      | 500,000       | Legendary | 400,000   | 425,000   | 450,000       | 475,000   | 500,000       |
-| Legendary | 2,500,000     | Mythical  | 2,000,000 | 2,125,000 | 2,250,000     | 2,375,000 | 2,500,000     |
+| Tier      | Damage Dealt  | Orb Needed    | Basic Cost| Grade Cost| Skillful Cost | Great Cost| Supreme Cost  |
+|-----------|---------------|---------------|-----------|-----------|---------------|-----------|---------------|
+| Common    | 10,000        | Uncommon (1x) | 3,200     | 3,400     | 3,600         | 3,800     | 4,000         |
+| Uncommon  | 50,000        | Rare (2x)     | 16,000    | 17,000    | 18,000        | 19,000    | 20,000        |
+| Rare      | 500,000       | Epic (3x)     | 80,000    | 85,000    | 90,000        | 95,000    | 100,000       |
+| Epic      | 5,000,000     | Legendary (4x)| 400,000   | 425,000   | 450,000       | 475,000   | 500,000       |
+| Legendary | 25,000,000    | Mythical (5x) | 2,000,000 | 2,125,000 | 2,250,000     | 2,375,000 | 2,500,000     |
 
 ### Weapon Repairing
 

@@ -15,55 +15,46 @@ We have a variety of bosses that give haki experience to players upon defeating 
 | Rob Lucci Hybrid Point (CP9)  | Enies Lobby           | Observation   | 1.0               |
 | Gecko Moria                   | Thriller Bark         | Armament      | 1.4               |
 | Kizaru                        | Sabaody Archipelago   | Observation   | 1.4               |
-| Kaku (CP9)                    | Enies Lobby           | Armament      | 1.0               |
-
-
-
-saeboady 
-law luffy                     1 buso             4.5k
-kid                                 1 ken                4.5k
-Kuma                            1.2 ken               6k hp 
-amazon lilly
-boa hancock                  1.4 ken              7k hp
-impel down
-Magllan                             1.6 buso             8k hp
-marineford 
-Whitebeard                           3 buso               15k hp 
-marco                                        2 ken                 10k hp 
-vista                                         1.6 buso              8k hp
-Akainu                                        3 ken                  15k hp
-aokiji + kizaru                             2.6 buso            13k hp 
-Sengoku+garp                               1.6 ken               8k
-Moria                                                1.4 ken                       7k
-doflamingo                                       1.8 buso                 9
-Mihawk                                              2 ken                     10k
-hancock                                              1.6 ken                  8k
-kuma                                                    1.2 buso                6k
-Jozu                                                         1.8 buso              9k
-Law                                                          1.6 ken                  8k
-Escapee Luffy                                         1.8  buso             9k 
-jinbe                                                          1.6 ken                    7k
-crocodile                                                    1.6 ken                   8k
-Punk hazard
-Vergo                                                          2.6 buso                  13k
-Monet                                                         3 ken                        15k 
-smoker                                                         3 ken                     15k
-Caesar Clown                                             3.4 buso                17k
-dresrosa 
-folamingo                                                    5 buso                  25k
-Lao G                                                             2.8 ken                14k
-Gladius                                                          2.4 ken               12k 
-Pica                                                                 2.4 buso           12k 
-Dimante                                                        3 ken                     15k 
-whole cake
-katakuri                                                         5 ken                     25k 
-Charlotte Linlin                                           7 buso                    35k 
-cracker                                                           5 buso                    25k
-vinsmook sanji                                              2.4 ken                   12k
-Charlotte Smoothie                                     5 ken                      25k
-Charlotte Oven                                              4.4  buso                22k 
-wano kuni 
-all star queen                                                 6 buso                   33k
-all star king                                                      6.4 ken                  33k
-all star jack                                                      6 buso                    30k
-kaido                                                                   10 buso                   50k hp
+| Monkey D. Luffy               | Sabaody Archipelago   | Armament      | 1.0               |
+| Trafalgar Law                 | Sabaody Archipelago   | Armament      | 1.0               |
+| Eustass Kid                   | Sabaody Archipelago   | Observation   | 1.0               |
+| Kuma                          | Sabaody Archipelago   | Observation   | 1.2               |
+| Boa Hancock                   | Amazon Lily           | Observation   | 1.4               |
+| Magellan                      | Impel Down            | Armament      | 1.6               |
+| Warlord Hancock               | Marineford            | Observation   | 1.6               |
+| Warlord Kuma                  | Marineford            | Armament      | 1.2               |
+| Warlord Mihawk                | Marineford            | Observation   | 2.0               |
+| Warlord Doflamingo            | Marineford            | Armament      | 1.8               |
+| Warlord Moria                 | Marineford            | Observation   | 1.4               |
+| Vice-Admiral Garp             | Marineford            | Observation   | 1.6               |
+| Fleet Admiral Sengoku         | Marineford            | Observation   | 1.6               |
+| Admiral Aokiji                | Marineford            | Armament      | 2.6               |
+| Admiral Kizaru                | Marineford            | Armament      | 2.6               |
+| Admiral Akainu                | Marineford            | Observation   | 3.0               |
+| Vista                         | Marineford            | Armament      | 1.6               |
+| Jozu                          | Marineford            | Armament      | 1.8               |
+| Marco                         | Marineford            | Observation   | 2.0               |
+| Whitebeard                    | Marineford            | Armament      | 3.0               |
+| Ex-Warlord Crocodile          | Marineford            | Observation   | 1.6               |
+| Ex-Warlord Jinbe              | Marineford            | Observation   | 1.6               |
+| Escapee Luffy                 | Marineford            | Armament      | 1.8               |
+| Trafalgar Water Law           | Marineford            | Observation   | 1.6               |
+| Vergo                         | Punk Hazard           | Armament      | 2.6               |
+| Monet                         | Punk Hazard           | Observation   | 3.0               |
+| Smoker                        | Punk Hazard           | Observation   | 3.0               |
+| Caesar Clown                  | Punk Hazard           | Armament      | 3.4               |
+| Lao G                         | Dressrosa             | Observation   | 2.8               |
+| Galdius                       | Dressrosa             | Observation   | 2.4               |
+| Pica                          | Dressrosa             | Armament      | 2.4               |
+| Diamante                      | Dressrosa             | Observation   | 3.0               |
+| Donquixote Doflamingo         | Dressrosa             | Armament      | 5.0               |
+| Vinsmoke Sanji                | Whole Cake Island     | Observation   | 2.4               |
+| Charlotte Oven                | Whole Cake Island     | Armament      | 4.4               |
+| Charlotte Smoothie            | Whole Cake Island     | Observation   | 5.0               |
+| Charlotte Cracker             | Whole Cake Island     | Armament      | 5.0               |
+| Charlotte Katakuri            | Whole Cake Island     | Observation   | 5.0               |
+| Charlotte Linlin              | Whole Cake Island     | Armament      | 7.0               |
+| All Star Jack                 | Onigashima            | Armament      | 6.0               |
+| All Star Queen                | Onigashima            | Armament      | 6.0               |
+| All Star King                 | Onigashima            | Observation   | 6.4               |
+| Kaido                         | Onigashima            | Armament      | 10.0              |

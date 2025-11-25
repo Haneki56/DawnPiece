@@ -17,15 +17,15 @@ All armor will have Armor stats for basic protection and Toughness stats that ac
 
 ### Armor Upgrading
 
-To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage recieved with the armor, and insert the required upgrade orb. These values are different depending on the armor tier, however if you place your armor inside the slot, the upgrade table interface will tell you what you need for the upgrade. Please see the following chart for a reference. Mythical armor cannot be upgraded since it is the final tier.
+To upgrade your gear, you need to pay a certain amount of belly, have a certain amount of damage recieved with the armor, and insert the required upgrade orbs. These values are different depending on the armor tier, however if you place your armor inside the slot, the upgrade table interface will tell you what you need for the upgrade. Please see the following chart for a reference. Mythical armor cannot be upgraded since it is the final tier.
 
-| Tier      | Damage Recieved   | Orb Needed| Belly Cost    |
-|-----------|-------------------|-----------|---------------|
-| Common    | 4,000             | Uncommon  | 4,000         |
-| Uncommon  | 20,000            | Rare      | 20,000        |
-| Rare      | 100,000           | Epic      | 100,000       |
-| Epic      | 500,000           | Legendary | 500,000       |
-| Legendary | 2,500,000         | Mythical  | 2,500,000     |
+| Tier      | Damage Recieved   | Orb Needed    | Belly Cost    |
+|-----------|-------------------|---------------|---------------|
+| Common    | 10,000            | Uncommon (1x) | 4,000         |
+| Uncommon  | 50,000            | Rare (2x)     | 20,000        |
+| Rare      | 500,000           | Epic (3x)     | 100,000       |
+| Epic      | 5,000,000         | Legendary (4x)| 500,000       |
+| Legendary | 25,000,000        | Mythical (5x) | 2,500,000     |
 
 ### Armor Repairing
 

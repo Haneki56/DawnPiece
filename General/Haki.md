@@ -58,3 +58,5 @@ We have a variety of bosses that give haki experience to players upon defeating 
 | All Star Queen                | Onigashima            | Armament      | 6.0               |
 | All Star King                 | Onigashima            | Observation   | 6.4               |
 | Kaido                         | Onigashima            | Armament      | 10.0              |
+| Kuzan                         | Hachinosu             | Armament      | 8.0               |
+| Marshall D. Teach             | Hachinosu             | Observation   | 8.0               |

@@ -97,7 +97,7 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 | Fourtricks                | 1500 Belly | Epic    |                      |           |                               |
 | Hamlet                    | 1500 Belly | Epic    |                      |           |                               |
 | Poker                     | 1500 Belly | Epic    |                      |           |                               |
-| All-Star Jack             | 3000 Belly |Legendary|                      |           |                               |
+| All-Star Jack             | 3000 Belly |Legendary|                      |           | Mammoth Fragment              |
 | All-Star Queen            | 1000 Belly |         |                      |           |                               |
 | All-Star Queen Beast Form | 2250 Belly |Legendary|                      |           | Brachiosaurus Fragment        |
 | All-Star King             | 1000 Belly |         |                      |           |                               |

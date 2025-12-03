@@ -74,3 +74,5 @@ Note: This is the final quest in the Main Story until we release further islands
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (EGG) | Teleport to any unlocked Egghead POI       |
+| Blacksmith       | Custom Gear Information                    |
+| Doctor           | Healer                                     |

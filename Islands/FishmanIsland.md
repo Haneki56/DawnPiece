@@ -60,3 +60,5 @@ Note: Completing this quest unlocks Punk Hazard. Speak to Pekoms (FI) or the Tel
 | NPC Name         | Purpose                                    |
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
+| Blacksmith       | Custom Gear Information                    |
+| Doctor           | Healer                                     |

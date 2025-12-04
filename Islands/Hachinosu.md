@@ -31,12 +31,12 @@ Bounty Reward: 36,750,000
 | Catarina Devon        | 2000 Belly | Epic      |                                                      |                   | Kyubi no Kitsune Fragment      |
 | Laffitte              | 2000 Belly | Epic      |                                                      |                   |                                |
 | Vasco Shot            | 2000 Belly | Epic      |                                                      |                   |                                |
-| Van Augur             | 3000 Belly | Legendary |                                                      |                   | Wapu Fragment                  |
-| Jesus Burgess         | 3000 Belly | Legendary | Green Dagger (Epic)                                  |                   | Riki Fragment                  |
+| Van Augur             | 3000 Belly | Epic      |                                                      |                   | Wapu Fragment                  |
+| Jesus Burgess         | 3000 Belly | Epic      | Green Dagger (Epic)                                  |                   | Riki Fragment                  |
 | Avalo Pizarro         | 2000 Belly | Epic      |                                                      |                   |                                |
-| Shiryu                | 3000 Belly | Legendary | Raiu (Epic)                                          |                   | Suke Fragment                  |
-| Kuzan                 | 4000 Belly | Mythical  | Ice Saber (Legendary)                                | Aokiji (Legendary)| Hie Fragment                   |
-| Marshall D.Teach      | 4000 Belly | Mythical  | Darkness First (Legendary)                           | Teach (Legendary) | Yami Fragment<br>Gura Fragment |
+| Shiryu                | 3000 Belly | Epic      | Raiu (Epic)                                          |                   | Suke Fragment                  |
+| Kuzan                 | 4000 Belly | Legendary | Ice Saber (Epic)                                     | Aokiji (Epic)     | Hie Fragment                   |
+| Marshall D.Teach      | 4000 Belly | Legendary | Darkness First (Epic)                                | Teach (Epic)      | Yami Fragment<br>Gura Fragment |
 
 ### Essential NPCs
 

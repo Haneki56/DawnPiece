@@ -61,8 +61,8 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 | Dobon                 | 2000 Belly | Epic     |                      |           |                        |
 | Daifugo               | 2500 Belly | Epic     |                      |           |                        |
 | Babanuki              | 2000 Belly | Epic     |                      |           |                        |
-| Queen                 | 3000 Belly | Legendary|                      |           | Brachiosaurus Fragment |
-| Kanjuro The Traitor   | 2500 Belly | Legendary|                      |           |                        |
+| Queen                 | 3000 Belly | Epic     |                      |           | Brachiosaurus Fragment |
+| Kanjuro The Traitor   | 2500 Belly | Epic     |                      |           |                        |
 
 ### Essential NPCs
 

@@ -62,7 +62,7 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 | Marine Lieutenant    | 400 Belly  | Rare      | Marine Sword (Uncommon)  | Marine (Uncommon)  |               |
 | Vice Admiral Maynard | 1200 Belly | Rare      |                          |                    |               |
 | Vice Admiral Bastille| 1200 Belly | Rare      | Samekiri Bocho (Rare)    |                    |               |
-| Donquixote Doflamingo| 2500 Belly | Legendary | Strings (Epic)           | Doflamingo (Epic)  | Ito Fragment  |
+| Donquixote Doflamingo| 2500 Belly | Epic      | Strings (Epic)           | Doflamingo (Epic)  | Ito Fragment  |
 
 ### Essential NPCs
 

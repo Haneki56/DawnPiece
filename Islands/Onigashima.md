@@ -69,13 +69,13 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 | Wanyudo                   | 200 Belly  | Uncommon|                      |           |                               |
 | Black Maria               | 2200 Belly | Epic    |                      |           | Rosamygale Grauvogeli Fragment|
 | Diez Drake                | 1000 Belly |         |                      |           |                               |
-| Diez Drake Beast Form     | 1500 Belly |Legendary| X Rapier (Epic) <br> X Axe (Epic)|           | Allosaurus Fragment|
+| Diez Drake Beast Form     | 1500 Belly | Epic    | X Rapier (Epic) <br> X Axe (Epic)|           | Allosaurus Fragment|
 | Sasaki                    | 1000 Belly |         |                      |           |                               |
-| Sasaki Beast Form         | 1500 Belly |Legendary|                      |           | Triceratops Fragment          |
+| Sasaki Beast Form         | 1500 Belly | Epic    |                      |           | Triceratops Fragment          |
 | Who’s Who                 | 1500 Belly |         |                      |           |                               |
-| Who’s Who Hybrid Form     | 1000 Belly |Legendary|                      |           | Saber Tiger Fragment          |
+| Who’s Who Hybrid Form     | 1000 Belly | Epic    |                      |           | Saber Tiger Fragment          |
 | Page One                  | 1000 Belly |         |                      |           |                               |
-| Page One Beast Form       | 1500 Belly |Legendary|                      |           | Spinosaurus Fragment          |
+| Page One Beast Form       | 1500 Belly | Epic    |                      |           | Spinosaurus Fragment          |
 | Ulti                      | 2000 Belly | Epic    |                      |           | Pachycephalosaurus Fragment   |
 | Snakeman                  | 1500 Belly | Epic    |                      |           |                               |
 | Rabbitman                 | 1500 Belly | Epic    |                      |           |                               |
@@ -97,14 +97,14 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 | Fourtricks                | 1500 Belly | Epic    |                      |           |                               |
 | Hamlet                    | 1500 Belly | Epic    |                      |           |                               |
 | Poker                     | 1500 Belly | Epic    |                      |           |                               |
-| All-Star Jack             | 3000 Belly |Legendary|                      |           | Mammoth Fragment              |
+| All-Star Jack             | 3000 Belly | Epic    |                      |           | Mammoth Fragment              |
 | All-Star Queen            | 1000 Belly |         |                      |           |                               |
-| All-Star Queen Beast Form | 2250 Belly |Legendary|                      |           | Brachiosaurus Fragment        |
+| All-Star Queen Beast Form | 2250 Belly | Epic    |                      |           | Brachiosaurus Fragment        |
 | All-Star King             | 1000 Belly |         |                      |           |                               |
-| All-Star King Beast Form  | 2500 Belly |Legendary| King Sword (Epic)    |           | Pteranodon Fragment           |
-| O-Lin                     | 4000 Belly |Mythical | Napoleon (Legendary) |           |                               |
+| All-Star King Beast Form  | 2500 Belly | Epic    | King Sword (Epic)    |           | Pteranodon Fragment           |
+| O-Lin                     | 4000 Belly |Legendary| Napoleon (Epic)      |           |                               |
 | Kaido                     | 3000 Belly |         |                      |           |                               |
-| Kaido Man-Beast Form      | 2000 Belly |Mythical | Hassaikai (Legendary)|           | Seiryu Fragment               |
+| Kaido Man-Beast Form      | 2000 Belly |Legendary| Hassaikai (Epic)     |           | Seiryu Fragment               |
 
 ### Essential NPCs
 

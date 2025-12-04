@@ -133,6 +133,13 @@ To start the D Quest, speak to White Chase Smoker (AB) in Katorea.
 Item Rewards: 400 Belly<br>
 Bounty Reward: 400,000
 
+### Merchants
+
+| Merchant Name           | Merchandise                             |
+|-------------            |-----------                              |
+| Joseph Chroback         | Gambling Winnings Merchant              |
+| Bartender               | Drinks Merchant                         |
+
 ### Essential NPCs
 
 | NPC Name                | Purpose                                 |
@@ -140,17 +147,13 @@ Bounty Reward: 400,000
 | Teleporter              | Teleport to any unlocked location       |
 | Teleporter (AB)         | Teleport to any unlocked Alabasta POI   |
 | Blacksmith              | Custom Gear Information                 |
+| Doctor                  | Healer                                  |
 | Bank Teller             | Currency Exchange                       |
 | Bank Teller (Bulk)      | Currency Exchange                       |
-| Dealer (10 Belly)       | Gambling                                |
-| Dealer (50 Belly)       | Gambling                                |
-| Dealer (100 Belly)      | Gambling                                |
-| Dealer (500 Belly)      | Gambling                                |
-| Dealer (1000 Belly)     | Gambling                                |
-| Dealer (5000 Belly)     | Gambling                                |
-| Dealer (10000 Belly)    | Gambling                                |
-| Dealer (100000 Belly)   | Gambling                                |
-| Doctor                  | Healer                                  |
+| Casino Chip Trader      | Exchange Belly For Chips To Gamble      |
+| Blackjack Dealer        | Gambling                                |
+
+Note: While they are not NPC's, there are scripted blocks at the Casino that you can interact with to win belly similar to the old gambling NPCs.
 
 ### Treasure Hunt
 

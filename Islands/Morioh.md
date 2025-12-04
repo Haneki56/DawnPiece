@@ -73,7 +73,7 @@ Bounty Reward: 16,850,000
 | Enigma                        | 2000 Belly | Epic     |                      |           |                               |
 | Cheap Trick                   | 600 Belly  | Rare     |                      |           |                               |
 | Killer Queen                  | 1000 Belly |          |                      |           |                               |
-| Killer Queen Bites The Dust   | 1500 Belly | Legendary|                      |           |                               |
+| Killer Queen Bites The Dust   | 1500 Belly | Epic     |                      |           |                               |
 | Sheer Heart Attack            | 20 Belly   | Common   |                      |           |                               |
 
 ### Essential NPCs

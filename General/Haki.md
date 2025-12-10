@@ -43,6 +43,7 @@ We have a variety of bosses that give haki experience to players upon defeating 
 | Monet                         | Punk Hazard           | Observation   | 3.0               |
 | Smoker                        | Punk Hazard           | Observation   | 3.0               |
 | Caesar Clown                  | Punk Hazard           | Armament      | 3.4               |
+| Fujitora                      | Dressrosa             | Observation   | 6.0               |
 | Lao G                         | Dressrosa             | Observation   | 2.8               |
 | Galdius                       | Dressrosa             | Observation   | 2.4               |
 | Pica                          | Dressrosa             | Armament      | 2.4               |

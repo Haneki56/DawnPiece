@@ -70,7 +70,7 @@ Note: Completing this quest unlocks Wano Kuni. Speak to Nami (WCI) or the Telepo
 | Charlotte Katakuri    | 2500 Belly | Epic     | Mogura (Epic)        |           | Mochi Fragment|
 | Zeus                  | 300 Belly  | Uncommon |                      |           |               |
 | Prometheus            | 300 Belly  | Uncommon |                      |           |               |
-| Charlotte Linlin      | 3500 Belly | Epic     | Napoleon (Epic)      |           |               |
+| Charlotte Linlin      | 3500 Belly | Epic     | Napoleon (Epic)      |           | Soru Fragment |
 
 ### Essential NPCs
 

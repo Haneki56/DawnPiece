@@ -19,7 +19,7 @@ Bounty Reward: 2,050,000
 | Boss Name     | Belly     | Orb      | Weapon                 | Armor Set     | Other        |
 |-----------    |-----------|----------|-----------             |-----------    |-----------   |
 | Fire Fist Ace | 700 Belly | Rare     | Ace Knife (Rare)       | Ace (Rare)    | Mera Fragment|
-| Teach         | 700 Belly | Rare     | Darkness Fist (Rare)   | Teach (Rare)  | Yami Fragment|
+| Teach         | 700 Belly | Rare     | Darkness Fist (Rare)   | Teach (Rare)  |              |
 | Burgess       | 500 Belly | Rare     | Green Dagger (Uncommon)|               |              |
 | Augur         | 150 Belly | Uncommon |                        |               |              |
 

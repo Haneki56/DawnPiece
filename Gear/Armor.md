@@ -4,16 +4,35 @@ The DawnPiece mod has custom armor that drops from NPCs. As you progress through
 
 ### Armor Stats
 
-All armor will have Armor stats for basic protection and Toughness stats that act as extra protection for heavy hits only. There are 6 Tiers for Gear: Common, Uncommon, Rare, Epic, Legendary and Mythical. You can increase the tier of the weapon by upgrading them at an upgrade table. There are no gear classes and every single piece will have fixed armor and toughness stats. All stats will spread evenly among each piece and will not be weighted like vanilla.  
+All armor will have a basic percentage for protection that mitigates damage. There are 6 Tiers for Gear: Common, Uncommon, Rare, Epic, Legendary and Mythical. You can increase the tier of the weapon by upgrading them at an upgrade table. There are no gear classes and every single piece will have a fixed percentage so you can mix and match pieces from different tiers to get a protection boost.<br> 
+<br>
+To create a noticeable difference between tiers at lower damage levels and prevent invincibility, we have introduced a Damage Reduction Floor (F) and Damage Thresholds. Thresholds are at the point where the actual percent and the floor protection are equal, so after this threshold is met the percentage will take over since it offers more protection. The equation and charts are below:<br> 
+<br>
+Protection = min(max(F,P), D−1)<br>
+<br>
+D: Incoming Damage<br>
+F: Damage Floor Per Piece<br>
+P: Damage Reduction Percent Per Piece<br>
 
-| Tier      | Armor Total   | Armor Per Piece   | Toughness Total   | Toughness Per Piece   | Damage Reduction  | 
-|-----------|---------------|-------------------|-------------------|-----------------------|---------------    |
-| Common    | 8             | 2                 | 0                 | 0                     | 6.4%              | 
-| Uncommon  | 16            | 4                 | 4                 | 1                     | 12.8%             | 
-| Rare      | 24            | 6                 | 8                 | 2                     | 19.2%             | 
-| Epic      | 28            | 7                 | 12                | 3                     | 32%               | 
-| Legendary | 32            | 8                 | 16                | 4                     | 61.33%            | 
-| Mythical  | 40            | 10                | 20                | 5                     | 80%               | 
+| Tier      | Damage Reduction Per Set | Reduction Per Piece | Floor Per Piece |
+|-----------|-------------------       |-------------------  |---------------  |
+| Common    | 12%                      | 3%                  | 0.25            |
+| Uncommon  | 20%                      | 5%                  | 0.50            |
+| Rare      | 28%                      | 7%                  | 0.75            |
+| Epic      | 40%                      | 10%                 | 1.00            |
+| Legendary | 56%                      | 14%                 | 1.25            |
+| Mythical  | 76%                      | 19%                 | 1.50            |
+
+<div style="display: flex; gap: 12px; align-items: flex-start; justify-content: center;">
+	<figure style="flex: 1; margin: 0;">
+		<img src="/Assets/Design/damage_chart_10.png" alt="Damage Chart (10 Damage)" style="max-width: 100%; height: 300px; object-fit: contain;" />
+		<figcaption style="text-align: center; font-size: 0.9em; color: #666;">Damage Floor Chart</figcaption>
+	</figure>
+	<figure style="flex: 1; margin: 0;">
+		<img src="/Assets/Design/damage_chart_100.png" alt="Damage Chart (100 Damage)" style="max-width: 100%; height: 300px; object-fit: contain;" />
+		<figcaption style="text-align: center; font-size: 0.9em; color: #666;">General Damage Chart</figcaption>
+	</figure>
+</div>
 
 ### Armor Upgrading
 
@@ -21,11 +40,11 @@ To upgrade your gear, you need to pay a certain amount of belly, have a certain 
 
 | Tier      | Damage Recieved   | Orb Needed    | Belly Cost    |
 |-----------|-------------------|---------------|---------------|
-| Common    | 10,000            | Uncommon (1x) | 4,000         |
-| Uncommon  | 50,000            | Rare (2x)     | 20,000        |
-| Rare      | 500,000           | Epic (3x)     | 100,000       |
-| Epic      | 5,000,000         | Legendary (4x)| 500,000       |
-| Legendary | 25,000,000        | Mythical (5x) | 2,500,000     |
+| Common    | 1,000             | Uncommon (1x) | 4,000         |
+| Uncommon  | 5,000             | Rare (2x)     | 20,000        |
+| Rare      | 25,000            | Epic (3x)     | 100,000       |
+| Epic      | 125,000           | Legendary (4x)| 500,000       |
+| Legendary | 500,000           | Mythical (5x) | 2,500,000     |
 
 ### Armor Repairing
 

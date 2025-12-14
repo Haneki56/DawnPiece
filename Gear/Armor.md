@@ -25,11 +25,11 @@ P: Damage Reduction Percent Per Piece<br>
 
 <div style="display: flex; gap: 12px; align-items: flex-start; justify-content: center;">
 	<figure style="flex: 1; margin: 0;">
-		<img src="/Assets/Design/damage_chart_10.png" alt="Damage Chart (10 Damage)" style="max-width: 100%; height: 300px; object-fit: contain;" />
+		<img src="../Assets/Design/damage_chart_10.png" alt="Damage Floor Chart" style="max-width: 100%; height: 300px; object-fit: contain;" />
 		<figcaption style="text-align: center; font-size: 0.9em; color: #666;">Damage Floor Chart</figcaption>
 	</figure>
 	<figure style="flex: 1; margin: 0;">
-		<img src="/Assets/Design/damage_chart_100.png" alt="Damage Chart (100 Damage)" style="max-width: 100%; height: 300px; object-fit: contain;" />
+		<img src="../Assets/Design/damage_chart_100.png" alt="General Damage Chart" style="max-width: 100%; height: 300px; object-fit: contain;" />
 		<figcaption style="text-align: center; font-size: 0.9em; color: #666;">General Damage Chart</figcaption>
 	</figure>
 </div>

@@ -67,7 +67,7 @@ To start the Baroque Works Trials Questline, speak to X (Trials) on X.
   
 </table>
 
-Note: The player must complete Onigashima to be have access to this questline. This questline can only be completed once.
+Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops
 

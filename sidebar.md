@@ -73,6 +73,7 @@
   * [Life Path Overview](Ranks/Overview.md)
   * [Pirate Life Path](Ranks/PirateLifePath.md)
   * [Marine Life Path](Ranks/MarineLifePath.md)
+  * [Scientist Life Path](Ranks/ScientistLifePath.md)
   * [Revolutionary Life Path](Ranks/RevolutionaryLifePath.md)
   * [Samurai Life Path](Ranks/SamuraiLifePath.md)
   * [World Government Life Path](Ranks/WorldGovernmentLifePath.md)

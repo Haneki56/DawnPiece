@@ -1,27 +1,27 @@
-# Samurai Life Path
+# Scientist Life Path
 
 Please see the sections below regarding the information you need to know for the Samurai Life Path.
 
 ### General Ranks
 
-| Rank Name     | Rank Type     |
-|-----------    |-----------    |
-| Samurai       | Starting      |
-| Ronin         | 50,000,000    |
-| Yakuza        | 200,000,000   |
-| Akazaya       | 500,000,000   |
+| Rank Name         | Rank Type     |
+|-----------        |-----------    |
+| Scientist         | Starting      |
+| Shipwright        | 50,000,000    |
+| Combat Chemist    | 200,000,000   |
+| Cyborg Engineer   | 500,000,000   |
 
 ### Legacy Ranks
 
 | Rank Name             | Legacy Rank Type  | Positions Available   |
 |-----------            |-----------        |-----------            |
-| Daimyo                | 1,000,000,000     | 5                     |
-| Shogun                | 2,000,000,000     | 1                     |   
-| Sword God             | 4,000,000,000     | 1                     |
+| Weather Wizard        | 1,000,000,000     | 2                     |
+| MADS                  | 2,000,000,000     | 4                     |   
+| Absolute Mind         | 4,000,000,000     | 1                     |
 
 ### Trials Quest
 
-To start the Samurai Trials Questline, speak to X (Trials) on X.
+To start the Scientist Trials Questline, speak to X (Trials) on X.
 
 <table>
 	<thead>

@@ -17,11 +17,11 @@ The balance you see by using the command /dp bounty check represents the bounty 
 
 Legacy Ranks are special ranks in game that can only be occupied by one player at a time. There are various ranks depending on the life path of the player. Each Legacy Rank requires the completion of a trials questline tied to that rank and a tribute given to a staff member. Legacy Rank Holders receive a kit specific to their rank and well as bonus similar to the general ranks. To see specific information for each life path including trials quests and bosses, refer to their respective pages.
 
-| Legacy Rank Type  | Rank Bonus                    | Rank Kit  | Required Tribute  |
-|-----------        |-----------                    |-----------|-----------        |
-| 1,000,000,000     | Increase MMNM Damage by 50%   | ?         | ?                 |
-| 2,000,000,000     | Increase MMNM Damage by 75%   | ?         | ?                 |
-| 4,000,000,000     | Increase MMNM Damage by 100%  | ?         | ?                 |
+| Legacy Rank Type  | Rank Bonus                    | Rank Kit  | Required Tribute                          |
+|-----------        |-----------                    |-----------|-----------                                |
+| 1,000,000,000     | Increase MMNM Damage by 50%   | ?         | 2 Epic and 1 Legendary Devil Fruits       |
+| 2,000,000,000     | Increase MMNM Damage by 75%   | ?         | 2 Legendary and 1 Mythical Devil Fruits   |
+| 4,000,000,000     | Increase MMNM Damage by 100%  | ?         | 3 Mythical Devil Fruits                   |
 
 ### Rules For Legacy Ranks
 
@@ -44,6 +44,7 @@ Please see the following list for information regarding each life path we have o
 
 [Pirate Life Path](Ranks/PirateLifePath.md)<br>
 [Marine Life Path](Ranks/MarineLifePath.md)<br>
+[Scientist Life Path](Ranks/ScientistLifePath.md)<br>
 [Revolutionary Life Path](Ranks/RevolutionaryLifePath.md)<br>
 [Samurai Life Path](Ranks/SamuraiLifePath.md)<br>
 [World Government Life Path](Ranks/WorldGovernmentLifePath.md)<br>

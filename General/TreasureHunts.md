@@ -8,7 +8,7 @@ Each island contains a variety of Treasure Hunt NPCs. These NPCs provide clues, 
 
 ### Dynamic Dialogues
 
-Certain dialogues are only available during specific in-game hours, so timing matters! Each NPC also has multiple dialogs so make sure to talk to them more than once. Additionally, some treasure locations may turn out to be decoys, hiding nothing of value. However, each site can contain multiple chests, so search thoroughly.
+Certain dialogues are only available during specific in-game or real life hours of the day or days of the week, so timing matters! Each NPC also has multiple dialogs so make sure to talk to them more than once. Additionally, some treasure locations may turn out to be decoys, hiding nothing of value. However, each site may contain multiple chests, so search thoroughly.
 
 ### Chests & Clues
 
@@ -20,7 +20,7 @@ All treasure locations are well hidden so simply flying around won’t help. Ent
 
 ### Treasures
 
-Every island will have a 100,000 Belly Bag, a Runic Stone, and an Island Specific Treasure. The belly can be spent as usual once found, while the runic stones will be required to be collected to access the Black Market and Island Specific Treasures can be sold on the Black Market for a high value!
+Every island will have a 100,000 Belly Bag, a Runic Stone, and an Island Specific Treasure. The belly can be spent as usual once found, while the runic stones will be required to access the Black Market and Island Specific Treasures can be sold on the Black Market for a high value!
 
 |Treasure Image | Treasure Name | Location |
 |:-------------:|---------------|----------|

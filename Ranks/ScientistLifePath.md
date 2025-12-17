@@ -43,7 +43,7 @@ To start the Scientist Trials Questline, speak to X (Trials) on X.
 			<td>P04</td><td></td><td></td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Daimyo Trials have been completed! Speak to X (Trials) again to start the Shogun Trials.</em></td>
+			<td colspan="3"><em>The Weather Wizard Trials have been completed! Speak to X (Trials) again to start the MADS Trials.</em></td>
 		</tr>
 		<tr>
 			<td>P05</td><td></td><td></td>
@@ -55,7 +55,7 @@ To start the Scientist Trials Questline, speak to X (Trials) on X.
 			<td>P07</td><td></td><td></td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Shogun Trials have been completed! Speak to X (Trials) again to start the Sword God Trials.</em></td>
+			<td colspan="3"><em>The MADS Trials have been completed! Speak to X (Trials) again to start the Absolute Mind Trials.</em></td>
 		</tr>
 		<tr>
 			<td>P08</td><td></td><td></td>

@@ -9,6 +9,7 @@ We have a variety of bosses that give haki experience to players upon defeating 
 
 | Boss Name                     | Boss Location         | Haki Type     | Haki Experience   |
 |-----------                    |-----------            |-----------    |-----------        |
+| Enel                          | Skypiea               | Observation   | 1.0               |
 | Blueno (CP9)                  | Enies Lobby           | Armament      | 1.0               |
 | Kumadori (CP9)                | Enies Lobby           | Armament      | 1.0               |
 | Kaku (CP9)                    | Enies Lobby           | Armament      | 1.0               |

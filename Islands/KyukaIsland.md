@@ -13,7 +13,7 @@ To start the A Quest, speak to Miss Valentine (KYK) near the island teleport loc
 | A03       | Marines On Vacation!          |Defeat Marine Fullbody, Marine Jango and Marine Hina on the streets of Kyuka Island.|
 | A04       | Mr. 2 To The Rescue!          |Talk to Mr. 2 (KYK) near the dock to complete the questline.|
 
-Item Rewards: 400 Belly<br>
+Item Rewards: 400 Belly, Common Shard<br>
 Bounty Reward: 400,000
 
 ### A Quest Boss Drops

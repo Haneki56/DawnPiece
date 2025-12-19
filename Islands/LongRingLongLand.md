@@ -18,7 +18,7 @@ To start the Main Quest, speak to Chopper (LRLL) near the island teleport locati
 | A08       | The Ice Admiral!          |Defeat Aokiji behind Tonjit's house.|
 | A09       | We Need To Get Stronger!  |Talk to Luffy (LRLL) in front of Tonjit's house to complete the questline.|
 
-Item Rewards: 2,000 Belly<br>
+Item Rewards: 2,000 Belly, Uncommon Shard<br>
 Bounty Reward: 2,000,000
 
 Note: Completing this quest unlocks the Shift Station. Speak to Luffy (LRLL) or the Teleporter at any location to access the next island.

@@ -19,7 +19,7 @@ To start the A Quest, speak to Luffy (GK) in front of Dadan's House.
 | A08       | Stop Bluejam!                 |Defeat 3 Bluejam Pirates and Bluejam in the Gray Terminal.|
 | A09       | For Our Dreams!               |Talk to Young Luffy (GK) by the city gate to complete the questline.|
 
-Item Rewards: 550 Belly<br>
+Item Rewards: 550 Belly, Common Shard<br>
 Bounty Reward: 550,000
 
 ### A Quest Boss Drops

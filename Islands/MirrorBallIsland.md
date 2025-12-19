@@ -13,7 +13,7 @@ To start the A Quest, speak to Jango (MBI) near the island teleport location.
 | A03       | The Tulip Pirates!   |Defeat 5 Tulip Pirates and Yurikah scattered around the town.|
 | A04       | Hostages Saved!      |Talk to Fullbody (MBI) by the dock to complete the questline.|
 
-Item Rewards: 350 Belly<br>
+Item Rewards: 350 Belly, Common Shard<br>
 Bounty Reward: 350,000
 
 ### A Quest Boss Drops

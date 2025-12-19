@@ -11,7 +11,7 @@ To start the A Quest, speak to Usopp (BA) near the island teleport location.
 | A01       | The Strange Warrior!  |Talk to Heracles (BA) nearby to complete the quest.|
 | A02       | Giant Insects!        |Defeat 10 Giant Insects around the island to complete the questline.|
 
-Item Rewards: 1,000 Belly<br>
+Item Rewards: 1,000 Belly, Uncommon Shard<br>
 Bounty Reward: 1,000,000
 
 ### A Quest Boss Drops

@@ -17,7 +17,7 @@ To start the Main Quest, speak to Nami (OT) near the island teleport location.
 | A07       | Buggy The Clown!          |Defeat 3 Clown Pirates and Buggy at the bar in town.|
 | A08       | Sailing Off To The Sunset!|Talk to Luffy (OT) outside the bar to complete the questline.|
 
-Item Rewards: 195 Belly<br>
+Item Rewards: 195 Belly, Common Shard<br>
 Bounty Reward: 195,000
 
 Note: Completing this quest unlocks Syrup Village. Speak to Luffy (OT) or the Teleporter at any location to access the next island.

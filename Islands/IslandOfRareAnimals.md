@@ -14,7 +14,7 @@ To start the Main Quest, speak to Usopp (IORA) near the island teleport location
 | A04       | The Empty Treasure!       |Talk to Luffy (IORA) at the top of the red rock to complete the quest.|
 | A05       | Parting Ways With Gaimon! |Talk to Nami (IORA) at the base of the red rocks to complete the questline.|
 
-Item Rewards: 30 Belly<br>
+Item Rewards: 30 Belly, Common Shard<br>
 Bounty Reward: 30,000
 
 Note: Completing this quest unlocks the Island of Rare Animals. Speak to Merry (SV) or the Teleporter at any location to access the next island.

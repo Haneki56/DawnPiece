@@ -11,7 +11,7 @@ To start the A Quest, speak to Franky (KKI) near the island teleport location.
 | A01       | Defeat The Cyborgs!   |Defeat 10 Cyborgs around the laboratory.|
 | A02       | Vegapunk’s Lab!       |Talk to Kitton (KKI) in front of the lab to complete the questline.|
 
-Item Rewards: 1,000 Belly<br>
+Item Rewards: 1,000 Belly, Uncommon Shard<br>
 Bounty Reward: 1,000,000
 
 ### A Quest Boss Drops

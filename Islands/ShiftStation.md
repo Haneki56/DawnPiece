@@ -10,7 +10,7 @@ To start the Main Quest, speak to Kokoro (SS) near the island teleport location.
 |-----------|-----------          |-----------|
 | A01       | In Need Of Repairs! |Talk to Kokoro (SS) at the Shift Station to complete the quest.|
 
-Item Rewards: 10 Belly<br>
+Item Rewards: 10 Belly, Common Shard<br>
 Bounty Reward: 10,000
 
 Note: Completing this quest unlocks Water 7. Speak to Kokoro (SS) or the Teleporter at any location to access the next island.
@@ -25,7 +25,7 @@ To start the B Quest, speak to Chimney (SS) near the island teleport location.
 | B02       | The Groggy Monsters!          |Defeat Four Footed Dash Freak Hamburg, Tackle Machine Pickles and Big Pan The Wotan on Foxy's Ship.|
 | B03       | Captain Foxy!                 |Defeat Foxy The Silver Fox on Foxy's Ship to complete the questline.|
 
-Item Rewards: 2,650 Belly<br>
+Item Rewards: 2,650 Belly, Uncommon Shard<br>
 Bounty Reward: 2,650,000
 
 ### B Quest Boss Drops

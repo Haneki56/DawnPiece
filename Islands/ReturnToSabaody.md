@@ -26,7 +26,7 @@ To start the Main Quest, speak to Shakky (RTS) near the island teleport location
 | A16       | Return To The Sunny!  |Talk to Rayleigh (RTS) by the Thousand Sunny to complete the questline.|
 
 
-Item Rewards: 3,300 Belly<br>
+Item Rewards: 3,300 Belly, Uncommon Shard<br>
 Bounty Reward: 3,300,000
 
 Note: Completing this quest unlocks Fishman Island. Speak to Rayleigh (RTS) or the Teleporter at any location to access the next island.

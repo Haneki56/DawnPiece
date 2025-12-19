@@ -15,7 +15,7 @@ To start the A Quest, speak to Garp (HN) near the island teleport location.
 | A05       | Pure Darkness!            |Defeat Shiryu, Kuzan and Marshall D.Teach inside the Skull.|
 | A06       | A Sacrifice!              |Talk to Koby (HN) in the Skull to complete the questline.|
 
-Item Rewards: 36,750 Belly<br>
+Item Rewards: 36,750 Belly, Epic Shard<br>
 Bounty Reward: 36,750,000
 
 ### A Quest Boss Drops

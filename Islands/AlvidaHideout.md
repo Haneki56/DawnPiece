@@ -13,7 +13,7 @@ To start the Main Quest, speak to Koby (AH) near the island teleport location.
 | A03       | For Koby’s Dream!         |Defeat Alvida on the ship's deck.|
 | A04       | Get Koby A Boat!          |Talk to Alvida Pirate (AH) on the ship's deck to complete the questline.|
 
-Item Rewards: 65 Belly<br>
+Item Rewards: 65 Belly, Common Shard<br>
 Bounty Reward: 65,000
 
 Note: Completing this quest unlocks Shells Town. Speak to Alvida Pirate (AH) or the Teleporter at any location to access the next island.

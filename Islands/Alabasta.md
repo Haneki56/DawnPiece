@@ -31,7 +31,7 @@ To start the Main Quest, speak to Luffy (AB) near the island teleport location.
 | A21       | Farewell, Nakama!          |Talk to Vivi (AB) on the island in the river delta east of Nanohana to complete the quest.|
 | A22       | A New Nakama?!             |Talk to Nico Robin (AB) on the Going Merry to complete the questline.|
 
-Item Rewards: 1,690 Belly<br>
+Item Rewards: 1,690 Belly, Uncommon Shard<br>
 Bounty Reward: 1,690,000
 
 Note: Completing this quest unlocks Jaya. Speak to Nico Robin (AB) or the Teleporter at any location to access the next island.
@@ -69,7 +69,7 @@ To start the B Quest, speak to Leader (AB) in Katorea.
 | B07       | The Royal Guardians!          |Defeat Igaram, Chaka and Pell inside the palace.|
 | B08       | Long Live The Revolution!     |Defeat Princess Vivi and King Cobra inside the palace.|
 
-Item Rewards: 1,110 Belly<br>
+Item Rewards: 1,110 Belly, Uncommon Shard<br>
 Bounty Reward: 1,110,000
 
 ### B Quest Boss Drops
@@ -100,7 +100,7 @@ To start the C Quest, speak to Dr. Ho (AB) in the Alubarna Palace.
 | C04       | The Suna Suna Rebels! |Defeat Okame, Erik and Kebi in the palace square.|
 | C05       | Squash The Rebellion! |Defeat Koza in the palace square.|
 
-Item Rewards: 530 Belly<br>
+Item Rewards: 530 Belly, Common Shard<br>
 Bounty Reward: 530,000
 
 ### C Quest Boss Drops
@@ -130,7 +130,7 @@ To start the D Quest, speak to White Chase Smoker (AB) in Katorea.
 |-----------|-----------|------|----------------------|-----------      |--------------|
 | Ace       | 400 Belly | Rare | Ace Knife (Uncommon) | Ace (Uncommon)  | Mera Fragment|
 
-Item Rewards: 400 Belly<br>
+Item Rewards: 400 Belly, Common Shard<br>
 Bounty Reward: 400,000
 
 ### Merchants

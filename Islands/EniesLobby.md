@@ -33,7 +33,7 @@ To start the Main Quest, speak to Sanji (EL) near the island teleport location.
 | A23       | Escape From Enies Lobby!      |Talk to Nami (EL) on the Going Merry to complete the quest.|
 | A24       | Parting Ways With Merry!      |Talk to Luffy (EL) on the ship near the Burning Merry to complete the questline.|
 
-Item Rewards: 9,000 Belly<br>
+Item Rewards: 9,000 Belly, Rare Shard<br>
 Bounty Reward: 9,000,000
 
 Note: Completing this quest unlocks Thriller Bark. Speak to Luffy (EL) or the Teleporter at any location to access the next island.

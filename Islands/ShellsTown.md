@@ -15,7 +15,7 @@ To start the Main Quest, speak to Koby (ST) near the island teleport location.
 | A05       | The Captain & His Weak Son!   |Defeat Helmeppo and Axe-Hand Morgan in the Marine Base.|
 | A06       | Morgan’s Reign Is Over!       |Talk to Ririka (ST) at her restaurant on the main street to complete the questline.|
 
-Item Rewards: 90 Belly<br>
+Item Rewards: 90 Belly, Common Shard<br>
 Bounty Reward: 90,000
 
 Note: Completing this quest unlocks Orange Town. Speak to Ririka (ST) or the Teleporter at any location to access the next island.

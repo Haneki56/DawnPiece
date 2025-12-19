@@ -11,7 +11,7 @@ To start the A Quest, speak to Banaro Citizen (BN) near the island teleport loca
 | A01       | The Fire Fist!            |Defeat Fire Fist Ace in town.|
 | A02       | The Blackbeard Pirates!   |Defeat Teach, Burgess and Augur in town to complete the questline.|
 
-Item Rewards: 2,050 Belly<br>
+Item Rewards: 2,050 Belly, Uncommon Shard<br>
 Bounty Reward: 2,050,000
 
 ### A Quest Boss Drops

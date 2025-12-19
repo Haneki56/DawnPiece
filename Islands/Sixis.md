@@ -12,7 +12,7 @@ To start the A Quest, speak to Zoro (SXS) near the island teleport location.
 | A02       | A Stranded Explorer!          |Talk to Explorer (SXS) on the west side of the mountain to complete the quest.|
 | A03       | Spade Pirates!                |Defeat Portgas D. Ace and Masked Deuce on the north side of the mountain to complete the questline.|
 
-Item Rewards: 200 Belly<br>
+Item Rewards: 200 Belly, Common Shard<br>
 Bounty Reward: 200,000
 
 ### A Quest Boss Drops

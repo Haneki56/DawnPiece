@@ -12,7 +12,7 @@ To start the A Quest, speak to Sanji (MI) near the island teleport location.
 | A02       | Get Me Out Of Here!  |Talk to Caroline (MI) in the north central part of the island to complete the quest.|
 | A03       | Defeat The Queen!    |Defeat Caroline in the north central part of the island to complete the questline.|
 
-Item Rewards: 2,500 Belly<br>
+Item Rewards: 2,500 Belly, Uncommon Shard<br>
 Bounty Reward: 2,500,000
 
 ### A Quest Boss Drops

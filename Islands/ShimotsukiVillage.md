@@ -12,7 +12,7 @@ To start the A Quest, speak to Young Zoro (STV) near the island teleport locatio
 | A02       | Defeat Kuina!                 |Defeat Kuina in the Dojo.|
 | A03       | A Dream For The Both Of Us!   |Talk to Young Zoro (STV) at the Dojo entrance to complete the questline.|
 
-Item Rewards: 350 Belly<br>
+Item Rewards: 350 Belly, Common Shard<br>
 Bounty Reward: 350,000
 
 ### A Quest Boss Drops

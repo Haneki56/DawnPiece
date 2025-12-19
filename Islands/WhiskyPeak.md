@@ -19,7 +19,7 @@ To start the Main Quest, speak to Nami (WP) near the island teleport location.
 | A09       | The Baroque Works Scheme! |Talk to Vivi (WP) behind the town to complete the quest.|
 | A10       | Miss All-Sunday?!         |Talk to Miss All-Sunday (WP) on the Going Merry to complete the questline.|
 
-Item Rewards: 280 Belly<br>
+Item Rewards: 280 Belly, Common Shard<br>
 Bounty Reward: 280,000
 
 Note: Completing this quest unlocks Little Garden. Speak to Miss All-Sunday (WP) or the Teleporter at any location to access the next island.

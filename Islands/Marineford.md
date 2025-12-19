@@ -26,7 +26,7 @@ To start the Main Quest, speak to Marco (MF) near the island teleport location.
 | A16 | Mission Failed!               |Talk to Jinbei (MF) at the bottom of the execution platform to complete the questline.|
 
 
-Item Rewards: 18,800 Belly<br>
+Item Rewards: 18,800 Belly, Rare Shard<br>
 Bounty Reward: 18,800,000
 
 Note: Completing this quest unlocks Rusukaina. Speak to Jinbe (MF) or the Teleporter at any location to access the next island.
@@ -91,7 +91,7 @@ To start the B Quest, speak to Sengoku (MF) in the corner of the western wing of
 | B10       | The Last Of The Sons! |Defeat A O, Marco and Squard on the ice of Marineford.|
 | B11       | The Father!           |Defeat Whitebeard on the Moby Dick.|
 
-Item Rewards: 12,600 Belly<br>
+Item Rewards: 12,600 Belly, Rare Shard<br>
 Bounty Reward: 12,600,000
 
 ### B Quest Boss Drops
@@ -143,7 +143,7 @@ To start the C Quest, speak to Koby (MF) in the corner of the eastern wing of Ma
 | C05       | The Heart Pirates Arrive! |Defeat Shachi and Penguin on the southwest side of Marineford near the Polar Tang.|
 | C06       | Stop The Heart Pirates!   |Defeat Jean Bart, Bepo The Mink and Trafalgar Water Law on the Polar Tang.|
 
-Item Rewards: 7,600 Belly<br>
+Item Rewards: 7,600 Belly, Rare Shard<br>
 Bounty Reward: 7,600,000
 
 ### C Quest Boss Drops

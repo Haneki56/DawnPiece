@@ -12,7 +12,7 @@ To start the A Quest, speak to Krieg (DKH) near the island teleport location.
 | A02       | Hold Off Hawk Eyes!       |Talk to Gin (DKH) on the ship to complete the quest.|
 | A03       | The Strongest Swordsman!  |Defeat Mihawk on the ship to complete the questline.|
 
-Item Rewards: 240 Belly<br>
+Item Rewards: 240 Belly, Common Shard<br>
 Bounty Reward: 240,000
 
 ### A Quest Boss Drops

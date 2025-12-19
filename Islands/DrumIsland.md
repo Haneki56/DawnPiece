@@ -15,7 +15,7 @@ To start the Main Quest, speak to Vivi (DI) near the island teleport location.
 | A05       | A Crew Of Monsters!           |Talk to Kureha (DI) in the castle to complete the quest.|
 | A06       | Cherry Blossoms In The Snow!  |Talk to Chopper (DI) in the castle to complete the questline.|
 
-Item Rewards: 450 Belly<br>
+Item Rewards: 450 Belly, Common Shard<br>
 Bounty Reward: 450,000
 
 Note: Completing this quest unlocks Alabasta. Speak to Chopper (DI) or the Teleporter at any location to access the next island.

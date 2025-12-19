@@ -30,7 +30,7 @@ To start the Main Quest, speak to Nami (FI) near the island teleport location.
 | A20       | Big Mom Pirates!              |Talk to Pekoms (FI) in front of the Candy Factory to complete the questline.|
 
 
-Item Rewards: 17,000 Belly<br>
+Item Rewards: 17,000 Belly, Rare Shard<br>
 Bounty Reward: 17,000,000
 
 Note: Completing this quest unlocks Punk Hazard. Speak to Pekoms (FI) or the Teleporter at any location to access the next island.

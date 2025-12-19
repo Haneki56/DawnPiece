@@ -15,7 +15,7 @@ To start the Main Quest, speak to Luffy (BR) near the island teleport location.
 | A05       | Seek Me Out In The Grand Line!|Talk to Mihawk (BR) outside the restaurant to complete the quest.|
 | A06       | A New Cook!                   |Talk to Zeff (BR) outside the restaurant to complete the questline.|
 
-Item Rewards: 170 Belly<br>
+Item Rewards: 170 Belly, Common Shard<br>
 Bounty Reward: 170,000
 
 Note: Completing this quest unlocks Cocoyashi Village. Speak to Zeff (BR) or the Teleporter at any location to access the next island.

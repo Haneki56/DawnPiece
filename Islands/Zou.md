@@ -20,7 +20,7 @@ To start the Main Quest, speak to Nami (ZOU) near the island teleport location.
 | A10       | The Ninja-Pirate-Mink-Samurai Alliance!|Talk to Luffy (ZOU) inside the Whale Tree to complete the questline.|
 
 
-Item Rewards: 7,900 Belly<br>
+Item Rewards: 7,900 Belly, Rare Shard<br>
 Bounty Reward: 7,900,000
 
 Note: Completing this quest unlocks Whole Cake Island. Speak to Luffy (ZOU) or the Teleporter at any location to access the next island.

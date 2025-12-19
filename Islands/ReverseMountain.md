@@ -13,7 +13,7 @@ To start the Main Quest, speak to Luffy (RM) near the island teleport location.
 | A03       | What’s Baroque Works?!    |Defeat Mr. 9 and Miss Wednesday by the south lighthouse.|
 | A04       | The Log Pose!             |Talk to Nami (RM) by the south lighthouse to complete the questline.|
 
-Item Rewards: 80 Belly<br>
+Item Rewards: 80 Belly, Common Shard<br>
 Bounty Reward: 80,000
 
 Note: Completing this quest unlocks Whisky Peak. Speak to Nami (RM) or the Teleporter at any location to access the next island.

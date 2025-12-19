@@ -36,7 +36,7 @@ To start the Main Quest, speak to Luffy (WK) near the island teleport location.
 | A26       | The Raid Begins!                  |Talk to Denjiro (WK) at the Tokage Port to complete the questline.|
 
 
-Item Rewards: 51,100 Belly<br>
+Item Rewards: 51,100 Belly, Legendary Shard<br>
 Bounty Reward: 51,100,000
 
 Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Teleporter at any location to access the next island.

@@ -18,7 +18,7 @@ To start the Main Quest, speak to Usopp (SV) near the island teleport location.
 | A08       | Kuro Of 1000 Plans!           |Defeat Kuro at the east coast.|
 | A09       | A New Ship & Crewmate!        |Talk to Merry (SV) in front of Kaya's mansion to complete the quest.|
 
-Item Rewards: 175 Belly<br>
+Item Rewards: 175 Belly, Common Shard<br>
 Bounty Reward: 175,000
 
 Note: Completing this quest unlocks the Island of Rare Animals. Speak to Merry (SV) or the Teleporter at any location to access the next island.

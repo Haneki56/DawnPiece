@@ -19,7 +19,7 @@ To start the Main Quest, speak to Usopp (MT) near the island teleport location.
 | A09       | The Bellamy Pirates!      |Defeat Bellamy and Sarquiss in Mock Town.|
 | A10       | Setting Sail For The Sky! |Talk to Luffy (MT) on the Going Merry to complete the questline.|
 
-Item Rewards: 500 Belly<br>
+Item Rewards: 500 Belly, Common Shard<br>
 Bounty Reward: 500,000
 
 Note: Completing this quest unlocks the Knock Up Stream. Speak to Luffy (MT) or the Teleporter at any location to access the next island.

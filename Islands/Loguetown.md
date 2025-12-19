@@ -17,7 +17,7 @@ To start the Main Quest, speak to Zoro (LGT) near the island teleport location.
 | A07       | The Smoke Man!                |Defeat Smoker and Tashigi in the town square.|
 | A08       | The Storm Approaches!         |Talk to Dragon (LGT) by the entrance of the town square to complete the questline.|
 
-Item Rewards: 245 Belly<br>
+Item Rewards: 245 Belly, Common Shard<br>
 Bounty Reward: 245,000
 
 Note: Completing this quest unlocks Reverse Mountain. Speak to Dragon (LGT) or the Teleporter at any location to access the next island.

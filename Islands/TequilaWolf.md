@@ -11,7 +11,7 @@ To start the A Quest, speak to Robin (TW) near the island teleport location.
 | A01       | The Infinite Bridge!  |Defeat 10 Slavers around the camp on the bridge.|
 | A02       | The Revolutionaries!  |Talk to Koala (TW) at the end of the camp to complete the questline.|
 
-Item Rewards: 1,000 Belly<br>
+Item Rewards: 1,000 Belly, Uncommon Shard<br>
 Bounty Reward: 1,000,000
 
 ### A Quest Boss Drops

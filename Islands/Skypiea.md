@@ -27,7 +27,7 @@ To start the Main Quest, speak to Luffy (SP) near the island teleport location.
 | A17       | Ring The Bell!                |Find the Golden Bell near the Ark Maxim.|
 | A18       | Back To The Blue Sea!         |Talk to Sanji (SP) at Angel Beach to complete the questline.|
 
-Item Rewards: 4,150 Belly<br>
+Item Rewards: 4,150 Belly, Uncommon Shard<br>
 Bounty Reward: 4,150,000
 
 Note: Completing this quest unlocks Long Ring Long Land. Speak to Sanji (SP) or the Teleporter at any location to access the next island.
@@ -66,7 +66,7 @@ To start the B Quest, speak to the Blue Sea Archeologist (SP) in the City of Gol
 | B02       | Discover The Golden Statues!  |Find Golden Statue 1, Golden Statue 2 and Golden Statue 3 in the City of Gold.|
 | B03       | Discover The Shandian Gods!   |Find Nola, Kashigami and Kashigami Jr underneath the clouds and in the forest to complete the questline.|
 
-Item Rewards: 200 Belly<br>
+Item Rewards: 200 Belly, Common Shard<br>
 Bounty Reward: 200,000
 
 ### Essential NPCs

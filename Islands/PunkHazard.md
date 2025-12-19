@@ -28,7 +28,7 @@ To start the Main Quest, speak to Luffy (PH) near the island teleport location.
 | A18       | Escape The Island!                |Talk to Brook (PH) nearby Smiley to complete the questline.|
 
 
-Item Rewards: 13,800 Belly<br>
+Item Rewards: 13,800 Belly, Rare Shard<br>
 Bounty Reward: 13,800,000
 
 Note: Completing this quest unlocks Dressrosa. Speak to Brook (PH) or the Teleporter at any location to access the next island.

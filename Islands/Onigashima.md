@@ -39,7 +39,7 @@ To start the Main Quest, speak to Nami (ONI) near the island teleport location.
 | A29       | Wano Kuni Is Free!            |Talk to Momonosuke (ONG) on the rooftop of Onigashima to complete the questline.|
 
 
-Item Rewards: 92,250 Belly<br>
+Item Rewards: 92,250 Belly, Legendary Shard<br>
 Bounty Reward: 92,250,000
 
 Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Teleporter at any location to access the next island.

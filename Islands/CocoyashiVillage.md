@@ -17,7 +17,7 @@ To start the Main Quest, speak to Johnny (CV) near the island teleport location.
 | A07       | Which One Of You Is Arlong?!  |Defeat Momoo, Hatchan and Arlong in Arlong Park.|
 | A08       | Nami's Freedom!               |Talk to Genzo (CV) at Bellemere's Grave behind the Cocoyashi Village warp point to complete the quest.|
 
-Item Rewards: 380 Belly<br>
+Item Rewards: 380 Belly, Common Shard<br>
 Bounty Reward: 380,000
 
 Note: Completing this quest unlocks Loguetown. Speak to Genzo (CV) or the Teleporter at any location to access the next island.
@@ -46,7 +46,7 @@ To start the B Quest, speak to Chabo (CV) in Gosa Village.
 | B02       | Wood For The Village!     |Bring Chabo (CV) 64 Birch Wood Planks, 64 Jungle Wood Planks and 64 Spruce Wood Planks.|
 | B03       | Stone For The Village!    |Bring Chabo (CV) 64 Cobblestone, 64 Stone and 64 Clay to complete the questline.|
 
-Item Rewards: 180 Belly<br>
+Item Rewards: 180 Belly, Common Shard<br>
 Bounty Reward: 180,000
 
 ### C Quest
@@ -58,7 +58,7 @@ To start the C Quest, speak to the Angry Fisherman (CV) in the Marshlands near A
 | C01       | Stinkin' Fishmen! |Defeat 3 Salmon Fishman, 3 Puffer Fishman and 3 Clown Fishman in the marshlands by Arlong Park.|
 | C02       | Reel In The Catch!|Bring the Angry Fisherman (CV) 2 Raw Salmon, 2 Pufferfish and 2 Tropical Fish to complete the questline.|
 
-Item Rewards: 150 Belly<br>
+Item Rewards: 150 Belly, Common Shard<br>
 Bounty Reward: 150,000
 
 ### C Quest Boss Drops

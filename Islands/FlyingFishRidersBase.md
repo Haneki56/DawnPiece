@@ -15,7 +15,7 @@ To start the Main Quest, speak to Caimie (FFR) near the island teleport location
 | A05       | Iron Mask Duval!          |Defeat Duval in his house.|
 | A06       | The Rosy Life Riders!     |Talk to Duval (FFR) in front of his house to complete the questline.|
 
-Item Rewards: 1,850 Belly<br>
+Item Rewards: 1,850 Belly, Uncommon Shard<br>
 Bounty Reward: 1,850,000
 
 Note: Completing this quest unlocks Sabaody Archipelago. Speak to Duval (FFR) or the Teleporter at any location to access the next island.

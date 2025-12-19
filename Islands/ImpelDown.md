@@ -25,7 +25,7 @@ To start the Main Quest, speak to Luffy (ID) near the island teleport location.
 | A15       | The Greatest Nakama!          |Talk to Jinbe (ID) on the ship in front of Impel Down to complete the questline.|
 
 
-Item Rewards: 4,200 Belly<br>
+Item Rewards: 4,200 Belly, Uncommon Shard<br>
 Bounty Reward: 4,200,000
 
 Note: Completing this quest unlocks Marineford. Speak to Jinbe (ID) or the Teleporter at any location to access the next island.

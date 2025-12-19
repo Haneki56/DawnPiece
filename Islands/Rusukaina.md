@@ -15,7 +15,7 @@ To start the Main Quest, speak to Rayleigh (RK) near the island teleport locatio
 | A05       | Kong Gun!              |Defeat 5 Giant Gorillas in the north east corner of the island.|
 | A06       | 3D2Y!                  |Talk to Luffy (RK) by the tree to complete the questline.|
 
-Item Rewards: 14,000 Belly<br>
+Item Rewards: 14,000 Belly, Rare Shard<br>
 Bounty Reward: 14,000,000
 
 Note: Completing this quest unlocks Return To Sabaody. Speak to Luffy (RK) or the Teleporter at any location to access the next island.

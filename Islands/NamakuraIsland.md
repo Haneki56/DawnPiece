@@ -11,7 +11,7 @@ To start the A Quest, speak to Brook (NKI) near the island teleport location.
 | A01       | Demon Summoning Ritual!   |Talk to Pekkori (NKI) by the summoning circle to complete the quest.|
 | A02       | Defeat The Longarms!      |Defeat 10 Longarms around the village to complete the questline.|
 
-Item Rewards: 1,000 Belly<br>
+Item Rewards: 1,000 Belly, Uncommon Shard<br>
 Bounty Reward: 1,000,000
 
 ### A Quest Boss Drops

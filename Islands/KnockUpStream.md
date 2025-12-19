@@ -14,7 +14,7 @@ To start the Main Quest, speak to Sanji (KUS) near the island teleport location.
 | A04       | To The Gate!              |Talk to Usopp (KUS) on the ship deck to complete the quest.|
 | A05       | Through Heaven's Gate!    |Talk to Amazon (KUS) by the gate to complete the questline.|
 
-Item Rewards: 50 Belly<br>
+Item Rewards: 50 Belly, Common Shard<br>
 Bounty Reward: 50,000
 
 Note: Completing this quest unlocks Skypiea. Speak to Amazon (KUS) or the Teleporter at any location to access the next island.

@@ -30,7 +30,7 @@ To start the Main Quest, speak to Jinbe (EGG) near the island teleport location.
 | A20       | Escape To Elbaph!         |Talk to Brogy (EGG) along the western road of the island to complete the questline.|
 
 
-Item Rewards: 54,800 Belly<br>
+Item Rewards: 54,800 Belly, Legendary Shard<br>
 Bounty Reward: 54,800,000
 
 Note: This is the final quest in the Main Story until we release further islands. 

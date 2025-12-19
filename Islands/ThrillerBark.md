@@ -27,7 +27,7 @@ To start the Main Quest, speak to Usopp (TB) near the island teleport location.
 | A17       | The King Of The Shadows!      |Defeat Doppelman and Gecko Moria at the top of the mansion.|
 | A18       | Escape From Thriller Bark!    |Talk to Kuma (TB) by the mansion entrance to complete the questline.|
 
-Item Rewards: 6,600 Belly<br>
+Item Rewards: 6,600 Belly, Rare Shard<br>
 Bounty Reward: 6,600,000
 
 Note: Completing this quest unlocks the Flying Fish Riders Base. Speak to Kuma (TB) or the Teleporter at any location to access the next island.
@@ -73,7 +73,7 @@ To start the B Quest, speak to Lola (TB) in the Mansion above the entrance.
 | B08       | Search For Luffy! |Talk to Luffy (TB) in the mansion above the kitchen to complete the quest.|
 | B09       | Luffy’s Shadow!   |Bring Luffy (TB) his shadow to complete the questline. You can get it by defeating Oars.|
 
-Item Rewards: 1,600 Belly<br>
+Item Rewards: 1,600 Belly, Uncommon Shard<br>
 Bounty Reward: 1,600,000
 
 ### Essential NPCs

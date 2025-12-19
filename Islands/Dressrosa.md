@@ -35,7 +35,7 @@ To start the Main Quest, speak to Nami (DR) near the island teleport location.
 | A25       | Dressrosa Avenged!            |Talk to Kyros (DR) in front of the Dressrosa Palace to complete the questline.|
 
 
-Item Rewards: 25,400 Belly<br>
+Item Rewards: 25,400 Belly, Epic Shard<br>
 Bounty Reward: 25,400,000
 
 Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter at any location to access the next island.

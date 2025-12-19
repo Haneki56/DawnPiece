@@ -17,7 +17,7 @@ To start the Main Quest, speak to Luffy (AL) near the island teleport location.
 | A07       | The Pirate Empress!       |Defeat Boa Hancock in the palace.|
 | A08       | The Truth About The Mark! |Talk to Boa Hancock (AL) in the palace to complete the questline.|
 
-Item Rewards: 3,700 Belly<br>
+Item Rewards: 3,700 Belly, Uncommon Shard<br>
 Bounty Reward: 3,700,000
 
 Note: Completing this quest unlocks Impel Down. Speak to Boa Hancock (AL) or the Teleporter at any location to access the next island.

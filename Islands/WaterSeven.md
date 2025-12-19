@@ -28,7 +28,7 @@ To start the Main Quest, speak to Nami (W7) near the island teleport location.
 | A18       | Escape From Water 7!          |Talk to Chopper (W7) by the Galley-La Company to complete the quest.|
 | A19       | The Sea Train To Enies Lobby! |Talk to Sanji (W7) by the sea train tracks on the south side of the island to complete the questline.|
 
-Item Rewards: 2,850 Belly<br>
+Item Rewards: 2,850 Belly, Uncommon Shard<br>
 Bounty Reward: 2,850,000
 
 Note: Completing this quest unlocks Enies Lobby. Speak to Sanji (W7) or the Teleporter at any location to access the next island.
@@ -65,7 +65,7 @@ To start the B Quest, speak to Michael (W7) on the Southeast Island Town of Wate
 | B06       | Water 7 Needs Supplies!   |Talk to Dr. Kyukyu (W7) in the wooden house on the southwest island town of Water 7 to complete the quest.|
 | B07       | Preparing For The Worst!  |Bring Dr. Kyukyu (W7) 64 Oak Doors, 64 Oak Stairs and 64 Oak Slabs to complete the questline.|
 
-Item Rewards: 240 Belly<br>
+Item Rewards: 240 Belly, Common Shard<br>
 Bounty Reward: 240,000
 
 

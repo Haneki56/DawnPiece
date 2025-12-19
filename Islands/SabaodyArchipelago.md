@@ -26,7 +26,7 @@ To start the Main Quest, speak to Nami (SA) near the island teleport location.
 | A16       | The Warlord!                  |Defeat Kuma on the west side of the north grove.|
 | A17       | The Straw Hats Separated!     |Talk to Zoro (SA) on the west side of the north grove to complete the questline.|
 
-Item Rewards: 7,100 Belly<br>
+Item Rewards: 7,100 Belly, Rare Shard<br>
 Bounty Reward: 7,100,000
 
 Note: Completing this quest unlocks Amazon Lily. Speak to Zoro (SA) or the Teleporter at any location to access the next island.

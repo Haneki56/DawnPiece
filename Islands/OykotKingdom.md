@@ -12,7 +12,7 @@ To start the A Quest, speak to Marine (OYK) near the island teleport location.
 | A02       | Search For Survivors!|Find the Oykot Survivors somewhere in the destroyed town.|
 | A03       | A New Family!        |Talk to Bellemere (OYK) in the destroyed town to complete the questline.|
 
-Item Rewards: 350 Belly<br>
+Item Rewards: 350 Belly, Common Shard<br>
 Bounty Reward: 350,000
 
 ### A Quest Boss Drops

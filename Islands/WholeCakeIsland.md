@@ -33,7 +33,7 @@ To start the Main Quest, speak to Luffy (WCI) near the island teleport location.
 | A23       | Escape To Wano!           |Talk Nami (WCI) on the Thousand Sunny to complete the questline.|
 
 
-Item Rewards: 43,100 Belly<br>
+Item Rewards: 43,100 Belly, Legendary Shard<br>
 Bounty Reward: 43,100,000
 
 Note: Completing this quest unlocks Wano Kuni. Speak to Nami (WCI) or the Teleporter at any location to access the next island.

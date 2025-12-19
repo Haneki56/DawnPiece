@@ -48,7 +48,7 @@ To start the A Quest, speak to Jotaro Kujo (JJ4) near the island teleport locati
 | A38       | Killer Queen!             |Defeat Yoshikage Kira’s stand Killer Queen in the park west of the town square to complete the quest.|
 | A39       | Rest In Peace!            |Talk to Reimi (JJ4) in the Ghost Alley to complete the questline.|
 
-Item Rewards: 16,850 Belly<br>
+Item Rewards: 16,850 Belly, Rare Shard<br>
 Bounty Reward: 16,850,000
 
 ### A Quest Boss Drops

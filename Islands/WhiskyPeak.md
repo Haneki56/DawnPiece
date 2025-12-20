@@ -40,8 +40,10 @@ Note: Completing this quest unlocks Little Garden. Speak to Miss All-Sunday (WP)
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                        |
-|-------------     |-----------                                     |
-| Teleporter       | Teleport to any unlocked location              |
-| Blacksmith       | Custom Gear Information                        |
-| Doctor           | Healer                                         |
+| NPC Name              | Purpose                            |
+|-------------          |-----------                         |
+| Teleporter            | Teleport to any unlocked location  |
+| Blacksmith            | Custom Gear Information            |
+| Doctor                | Healer                             |
+| Bank Teller           | Currency Exchange                  |
+| Bank Teller (Bulk)    | Currency Exchange                  |

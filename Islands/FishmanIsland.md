@@ -62,3 +62,4 @@ Note: Completing this quest unlocks Punk Hazard. Speak to Pekoms (FI) or the Tel
 | Teleporter       | Teleport to any unlocked location          |
 | Blacksmith       | Custom Gear Information                    |
 | Doctor           | Healer                                     |
+| Fishman Surgeon  | Race Changer                               |

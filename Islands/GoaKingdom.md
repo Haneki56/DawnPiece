@@ -91,14 +91,27 @@ Bounty Reward: 550,000
 
 ### Essential NPCs
 
-| NPC Name              | Purpose                                   |
-|-------------          |-----------                                |
-| Teleporter            | Teleport to any unlocked location         |
-| Teleporter (GK)       | Teleport to any unlocked Goa Kingdom POI  |
-| Blacksmith            | Custom Gear Information                   |
-| Banker                | Storage Tutorial                          |
-| Bank Teller           | Currency Exchange                         |
-| Bank Teller (Bulk)    | Currency Exchange                         |
-| Devil Fruit Remover   | Remove your Devil Fruit                   |
-| Doctor                | Healer                                    |
-| Policeman             | Server Rules and Jail Tutorial            |
+| NPC Name                  | Purpose                                   |
+|-------------              |-----------                                |
+| Teleporter                | Teleport to any unlocked location         |
+| Teleporter (GK)           | Teleport to any unlocked Goa Kingdom POI  |
+| Blacksmith                | Custom Gear Information                   |
+| Banker                    | Storage Tutorial                          |
+| Bank Teller               | Currency Exchange                         |
+| Bank Teller (Bulk)        | Currency Exchange                         |
+| Devil Fruit Remover       | Remove your Devil Fruit                   |
+| Doctor                    | Healer                                    |
+| Policeman                 | Server Rules and Jail Tutorial            |
+| Black Leg Trainer         | Class Changer                             |
+| Bludgeon Trainer          | Class Changer                             |
+| Brawler Trainer           | Class Changer                             |
+| Castle Breaker Trainer    | Class Changer                             |
+| Dagger Trainer            | Class Changer                             |
+| Ryusoken Trainer          | Class Changer                             |
+| Twin Barrel Trainer       | Class Changer                             |
+| Sniper Trainer            | Class Changer                             |
+| Doctor Trainer            | Class Changer                             |
+| Hasshoken Trainer         | Class Changer                             |
+| Swordsman Trainer         | Class Changer                             |
+| Nitoryu Trainer           | Class Changer                             |
+| Santoryu Trainer          | Class Changer                             |

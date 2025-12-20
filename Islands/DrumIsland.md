@@ -33,9 +33,12 @@ Note: Completing this quest unlocks Alabasta. Speak to Chopper (DI) or the Telep
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                    |
-|-------------     |-----------                                 |
-| Teleporter       | Teleport to any unlocked location          |
-| Teleporter (DI)  | Teleport to any unlocked Drum Island POI   |
-| Blacksmith       | Custom Gear Information                    |
-| Doctor           | Healer                                     |
+| NPC Name              | Purpose                                   |
+|-------------          |-----------                                |
+| Teleporter            | Teleport to any unlocked location         |
+| Teleporter (DI)       | Teleport to any unlocked Drum Island POI  |
+| Blacksmith            | Custom Gear Information                   |
+| Doctor                | Healer                                    |
+| Banker                | Storage Tutorial                          |
+| Bank Teller           | Currency Exchange                         |
+| Bank Teller (Bulk)    | Currency Exchange                         |

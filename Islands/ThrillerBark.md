@@ -81,3 +81,4 @@ Bounty Reward: 1,600,000
 | NPC Name         | Purpose                                        |
 |-------------     |-----------                                     |
 | Teleporter       | Teleport to any unlocked location              |
+| Zombie Surgeon   | Race Changer                                   |

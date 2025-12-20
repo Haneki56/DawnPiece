@@ -35,3 +35,4 @@ Note: Completing this quest unlocks Return To Sabaody. Speak to Luffy (RK) or th
 | NPC Name         | Purpose                                        |
 |-------------     |-----------                                     |
 | Teleporter       | Teleport to any unlocked location              |
+| Rayleigh         | Haki Experience Checker                        |

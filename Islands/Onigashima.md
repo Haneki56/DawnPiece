@@ -112,3 +112,5 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 |-------------     |-----------                                 |
 | Teleporter       | Teleport to any unlocked location          |
 | Teleporter (ONI) | Teleport to any unlocked Onigashima POI    |
+| Lunarian Surgeon | Race Changer                               |
+| Oni Surgeon      | Race Changer                               |

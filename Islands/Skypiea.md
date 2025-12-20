@@ -77,3 +77,7 @@ Bounty Reward: 200,000
 | Teleporter (SP)         | Teleport to any unlocked Skypiea POI   |
 | Blacksmith              | Custom Gear Information                |
 | Doctor                  | Healer                                 |
+| Banker                  | Storage Tutorial                       |
+| Bank Teller             | Currency Exchange                      |
+| Bank Teller (Bulk)      | Currency Exchange                      |
+| Sky Folk Surgeon        | Race Changer                           |

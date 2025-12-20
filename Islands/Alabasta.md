@@ -148,6 +148,7 @@ Bounty Reward: 400,000
 | Teleporter (AB)         | Teleport to any unlocked Alabasta POI   |
 | Blacksmith              | Custom Gear Information                 |
 | Doctor                  | Healer                                  |
+| Banker                  | Storage Tutorial                        |
 | Bank Teller             | Currency Exchange                       |
 | Bank Teller (Bulk)      | Currency Exchange                       |
 | Casino Chip Trader      | Exchange Belly For Chips To Gamble      |

@@ -48,9 +48,12 @@ Note: Completing this quest unlocks Marineford. Speak to Jinbe (ID) or the Telep
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                    |
-|-------------     |-----------                                 |
-| Teleporter       | Teleport to any unlocked location          |
-| Teleporter (ID)  | Teleport to any unlocked Impel Down POI    |
-| Blacksmith       | Custom Gear Information                    |
-| Doctor           | Healer                                     |
+| NPC Name              | Purpose                                   |
+|-------------          |-----------                                |
+| Teleporter            | Teleport to any unlocked location         |
+| Teleporter (ID)       | Teleport to any unlocked Impel Down POI   |
+| Blacksmith            | Custom Gear Information                   |
+| Doctor                | Healer                                    |
+| Banker                | Storage Tutorial                          |
+| Bank Teller           | Currency Exchange                         |
+| Bank Teller (Bulk)    | Currency Exchange                         |

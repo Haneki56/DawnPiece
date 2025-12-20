@@ -41,3 +41,4 @@ Note: Completing this quest unlocks Whole Cake Island. Speak to Luffy (ZOU) or t
 | Teleporter (ZOU) | Teleport to any unlocked Zou POI           |
 | Blacksmith       | Custom Gear Information                    |
 | Doctor           | Healer                                     |
+| Mink Surgeon     | Race Changer                               |

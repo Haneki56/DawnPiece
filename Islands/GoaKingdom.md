@@ -45,6 +45,7 @@ Bounty Reward: 550,000
 | MMNM Swords               | Modded Swords             |
 | MMNM Ranged               | Modded Ranged Weapons     |
 | MMNM Ability Items        | Modded Ability Items      |
+| Brawler Damage Upgrader   | Charms                    |
 | Waiter                    | Food                      |
 | Chef                      | Sea King Meat             |
 | Wool                      | Wool Blocks               |

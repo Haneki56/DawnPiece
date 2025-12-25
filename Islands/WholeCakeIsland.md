@@ -44,8 +44,8 @@ Note: Completing this quest unlocks Wano Kuni. Speak to Nami (WCI) or the Telepo
 |-----------            |----------- |--------  |-----------           |-----------|-----------    |
 | Tree Homie            | 400 Belly  | Rare     |                      |           |               |
 | Candy Homie           | 400 Belly  | Rare     |                      |           |               |
-| Randolph              | 1400 Belly | Epic     |                      |           |               |
-| Charlotte Brûlée      | 1700 Belly | Epic     |                      |           |               |
+| Randolph              | 1400 Belly | Epic     | Cavalry Spear (Rare) |           |               |
+| Charlotte Brûlée      | 1700 Belly | Epic     | Black Scythe (Rare)  |           |               |
 | Cracker               | 500 Belly  |          |                      |           |               |
 | Charlotte Cracker     | 2000 Belly | Epic     | Pretzel (Epic)       |           | Bisu Fragment |
 | Advanced Bisu Hei     | 50 Belly   |          |                      |           |               |
@@ -53,18 +53,18 @@ Note: Completing this quest unlocks Wano Kuni. Speak to Nami (WCI) or the Telepo
 | Vinsmoke Sanji        | 1200 Belly | Rare     |                      |           |               |
 | Chess Soldier         | 200 Belly  | Uncommon |                      |           |               |
 | Charlotte Galette     | 1700 Belly | Epic     |                      |           |               |
-| Charlotte Amande      | 1700 Belly | Epic     |                      |           |               |
+| Charlotte Amande      | 1700 Belly | Epic     | Shirauo (Rare)       |           |               |
 | Charlotte Counter     | 800 Belly  | Rare     |                      |           |               |
 | Charlotte Cadenza     | 800 Belly  | Rare     |                      |           |               |
 | Charlotte Cabaletta   | 800 Belly  | Rare     |                      |           |               |
 | Charlotte Pudding     | 1500 Belly | Epic     |                      |           |               |
 | Charlotte Opera       | 2400 Belly | Epic     |                      |           |               |
 | Charlotte Mont-D'or   | 1800 Belly | Epic     |                      |           |               |
-| Charlotte Smoothie    | 2500 Belly | Epic     |                      |           |               |
-| Baron Tamago          | 1800 Belly | Epic     |                      |           |               |
-| Charlotte Oven        | 2200 Belly | Epic     |                      |           | Netsu Fragment|
+| Charlotte Smoothie    | 2500 Belly | Epic     | Shiboriken (Epic)    |           | Shibo Fragment|
+| Baron Tamago          | 1800 Belly | Epic     | Shikomizue (Rare)    |           |               |
+| Charlotte Oven        | 2200 Belly | Epic     | Nagitana (Epic)      |           | Netsu Fragment|
 | Charlotte Daifuku     | 1200 Belly | Epic     |                      |           | Hoya Fragment |
-| Majin                 | 800 Belly  |          |                      |           |               |
+| Majin                 | 800 Belly  |          | Halberd (Rare)       |           |               |
 | Charlotte Perospero   | 2500 Belly | Epic     | Candy Staff (Epic)   |           | Pero Fragment |
 | Charlotte Flampe      | 1200 Belly | Rare     |                      |           |               |
 | Charlotte Katakuri    | 2500 Belly | Epic     | Mogura (Epic)        |           | Mochi Fragment|

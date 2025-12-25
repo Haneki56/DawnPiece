@@ -25,11 +25,11 @@ Bounty Reward: 36,750,000
 | Pearl The Iron Wall   | 1250 Belly | Rare      |                                                      |                   |                                |
 | Gin The Man Demon     | 1000 Belly | Rare      | Tonfa (Rare)                                         |                   |                                |
 | Foul Play Krieg       | 1500 Belly | Epic      | Diaseno (Rare)                                       | Krieg (Rare)      |                                |
-| Doc Q                 | 2000 Belly | Epic      |                                                      |                   | Shiku Fragment                 |
+| Doc Q                 | 2000 Belly | Epic      | Double Bladed Scythe (Epic)                          |                   | Shiku Fragment                 |
 | Stronger              | 1000 Belly | Rare      |                                                      |                   | Pegasus Fragment               |
 | Sanjuan Wolf          | 2000 Belly | Epic      |                                                      |                   | Deka Fragment                  |
-| Catarina Devon        | 2000 Belly | Epic      |                                                      |                   | Kyubi no Kitsune Fragment      |
-| Laffitte              | 2000 Belly | Epic      |                                                      |                   |                                |
+| Catarina Devon        | 2000 Belly | Epic      | Mikazukiken (Epic)                                   |                   | Kyubi no Kitsune Fragment      |
+| Laffitte              | 2000 Belly | Epic      | Cane (Epic)                                          |                   |                                |
 | Vasco Shot            | 2000 Belly | Epic      |                                                      |                   |                                |
 | Van Augur             | 3000 Belly | Epic      |                                                      |                   | Wapu Fragment                  |
 | Jesus Burgess         | 3000 Belly | Epic      | Green Dagger (Epic)                                  |                   | Riki Fragment                  |

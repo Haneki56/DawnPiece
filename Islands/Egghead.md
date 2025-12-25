@@ -53,13 +53,13 @@ Note: This is the final quest in the Main Story until we release further islands
 | Pacifista Mark III| 1000 Belly | Rare     |                           |                   |                   |
 | Doberman          | 1000 Belly | Rare     | Blue Katana (Rare)        |                   |                   |
 | Doll              | 1000 Belly | Rare     |                           |                   |                   |
-| Red King          | 1000 Belly | Rare     |                           |                   |                   |
+| Red King          | 1000 Belly | Rare     | Steam Knuckle (Rare)      |                   |                   |
 | Bluegrass         | 1000 Belly | Rare     |                           |                   |                   |
 | Hound             | 1000 Belly | Rare     |                           |                   |                   |
-| Pomsky            | 1000 Belly | Rare     |                           |                   |                   |
-| Urban             | 1000 Belly | Rare     |                           |                   |                   |
+| Pomsky            | 1000 Belly | Rare     | Seashell Polearm (Rare)   |                   |                   |
+| Urban             | 1000 Belly | Rare     | Fleece Staff (Rare)       |                   |                   |
 | Tosa              | 1000 Belly | Rare     |                           |                   |                   |
-| Guillotine        | 1000 Belly | Rare     |                           |                   |                   |
+| Guillotine        | 1000 Belly | Rare     | Machete Sword (Rare)      |                   |                   |
 | Saturn            | 4000 Belly | Legendary|                           |                   | Gyuki Fragment    |
 | Mars              | 4000 Belly | Legendary|                           |                   | Itsumade Fragment |
 | Warcury           | 4000 Belly | Legendary|                           |                   | Fengxi Fragment   |

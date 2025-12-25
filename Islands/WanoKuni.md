@@ -52,17 +52,17 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 | Gazelleman            | 1500 Belly | Epic     |                      |           |                        |
 | Mouseman              | 1500 Belly | Epic     |                      |           |                        |
 | Speed                 | 1800 Belly | Epic     |                      |           |                        |
-| Urashima              | 1800 Belly | Epic     |                      |           |                        |
-| Holdem                | 2000 Belly | Epic     |                      |           |                        |
+| Urashima              | 1800 Belly | Epic     | Green Katana (Rare)  |           |                        |
+| Holdem                | 2000 Belly | Epic     | Karakuri Sword (Epic)|           |                        |
 | Waiter                | 500 Belly  | Rare     |                      |           |                        |
 | Pleasure              | 500 Belly  | Rare     |                      |           |                        |
-| Alpacaman             | 2000 Belly | Epic     |                      |           |                        |
+| Alpacaman             | 2000 Belly | Epic     | Brown Saber (Epic)   |           |                        |
 | Madilloman            | 2000 Belly | Epic     |                      |           |                        |
-| Dobon                 | 2000 Belly | Epic     |                      |           |                        |
-| Daifugo               | 2500 Belly | Epic     |                      |           |                        |
+| Dobon                 | 2000 Belly | Epic     | Orange Dagger (Epic) |           |                        |
+| Daifugo               | 2500 Belly | Epic     | Green Katana (Epic)  |           |                        |
 | Babanuki              | 2000 Belly | Epic     |                      |           |                        |
-| Queen                 | 3000 Belly | Epic     |                      |           | Brachiosaurus Fragment |
-| Kanjuro The Traitor   | 2500 Belly | Epic     |                      |           |                        |
+| Queen                 | 3000 Belly | Epic     | Dao Sword (Epic)     |           | Brachiosaurus Fragment |
+| Kanjuro The Traitor   | 2500 Belly | Epic     | Tsuji Shibai (Epic)  |           |                        |
 
 ### Essential NPCs
 

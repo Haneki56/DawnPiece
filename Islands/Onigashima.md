@@ -46,65 +46,65 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 
 ### Main Quest Boss Drops
 
-| Boss Name                 | Belly      | Orb     | Weapon               | Armor Set | Other                         |
-|-----------                |----------- |-------- |-----------           |-----------|-----------                    |
-| Pleasure                  | 500 Belly  | Rare    |                      |           |                               |
-| Waiter                    | 500 Belly  | Rare    |                      |           |                               |
-| Beast Pirate Hawkins      | 1800 Belly | Epic    | Warabide Sword (Rare)|           | Wara Fragment                 |
-| Strawman                  | 500 Belly  | Rare    |                      |           |                               |
-| Beast Pirate Apoo         | 1800 Belly | Epic    | Tonfa Baton (Rare)   |           | Oto Fragment                  |
-| Inbi                      | 1500 Belly | Epic    |                      |           |                               |
-| Fuga                      | 1500 Belly | Epic    |                      |           |                               |
-| Zanki                     | 1500 Belly | Epic    |                      |           |                               |
-| Jaki                      | 1500 Belly | Epic    |                      |           |                               |
-| Goki                      | 1500 Belly | Epic    |                      |           |                               |
-| Rokki                     | 1500 Belly | Epic    |                      |           |                               |
-| Nangi                     | 1500 Belly | Epic    |                      |           |                               |
-| Hatcha                    | 1500 Belly | Epic    |                      |           |                               |
-| Kunyun                    | 1500 Belly | Epic    |                      |           |                               |
-| Juki                      | 1500 Belly | Epic    |                      |           |                               |
-| Tenjo-Sagari              | 1500 Belly | Epic    |                      |           |                               |
-| Sarahebi                  | 1500 Belly | Epic    |                      |           |                               |
-| Bao-Huang                 | 1500 Belly | Epic    |                      |           |                               |
-| Wanyudo                   | 200 Belly  | Uncommon|                      |           |                               |
-| Black Maria               | 2200 Belly | Epic    |                      |           | Rosamygale Grauvogeli Fragment|
-| Diez Drake                | 1000 Belly |         |                      |           |                               |
-| Diez Drake Beast Form     | 1500 Belly | Epic    | X Rapier (Epic) <br> X Axe (Epic)|           | Allosaurus Fragment|
-| Sasaki                    | 1000 Belly |         |                      |           |                               |
-| Sasaki Beast Form         | 1500 Belly | Epic    |                      |           | Triceratops Fragment          |
-| Who’s Who                 | 1500 Belly |         |                      |           |                               |
-| Who’s Who Hybrid Form     | 1000 Belly | Epic    |                      |           | Saber Tiger Fragment          |
-| Page One                  | 1000 Belly |         |                      |           |                               |
-| Page One Beast Form       | 1500 Belly | Epic    |                      |           | Spinosaurus Fragment          |
-| Ulti                      | 2000 Belly | Epic    |                      |           | Pachycephalosaurus Fragment   |
-| Snakeman                  | 1500 Belly | Epic    |                      |           |                               |
-| Rabbitman                 | 1500 Belly | Epic    |                      |           |                               |
-| Dachoman                  | 1500 Belly | Epic    |                      |           |                               |
-| Beegirl                   | 1500 Belly | Epic    |                      |           |                               |
-| Battaman                  | 1500 Belly | Epic    |                      |           |                               |
-| Beetleman                 | 1500 Belly | Epic    |                      |           |                               |
-| Saitank                   | 1500 Belly | Epic    |                      |           |                               |
-| Scorpionlady              | 1500 Belly | Epic    |                      |           |                               |
-| Ginrummy                  | 1500 Belly | Epic    |                      |           |                               |
-| Solitaire                 | 1500 Belly | Epic    |                      |           |                               |
-| Usonoru                   | 1500 Belly | Epic    |                      |           |                               |
-| Nokokuwa Police           | 1500 Belly | Epic    |                      |           |                               |
-| Briscola                  | 1500 Belly | Epic    |                      |           |                               |
-| Bisley                    | 1000 Belly | Rare    |                      |           |                               |
-| Doubt Brother 1           | 1500 Belly | Epic    |                      |           |                               |
-| Doubt Brother 2           | 1500 Belly | Epic    |                      |           |                               |
-| Mizerka                   | 1500 Belly | Epic    |                      |           |                               |
-| Fourtricks                | 1500 Belly | Epic    |                      |           |                               |
-| Hamlet                    | 1500 Belly | Epic    |                      |           |                               |
-| Poker                     | 1500 Belly | Epic    |                      |           |                               |
-| All-Star Jack             | 3000 Belly | Epic    |                      |           | Mammoth Fragment              |
-| All-Star Queen            | 1000 Belly |         |                      |           |                               |
-| All-Star Queen Beast Form | 2250 Belly | Epic    |                      |           | Brachiosaurus Fragment        |
-| All-Star King             | 1000 Belly |         |                      |           |                               |
-| All-Star King Beast Form  | 2500 Belly | Epic    | King Sword (Epic)    |           | Pteranodon Fragment           |
-| O-Lin                     | 4000 Belly |Legendary| Napoleon (Epic)      |           | Soru Fragment                 |
-| Kaido                     | 3000 Belly |         |                      |           |                               |
-| Kaido Man-Beast Form      | 2000 Belly |Legendary| Hassaikai (Epic)     |           | Seiryu Fragment               |
+| Boss Name                 | Belly      | Orb     | Weapon                             | Armor Set | Other                         |
+|-----------                |----------- |-------- |-----------                         |-----------|-----------                    |
+| Pleasure                  | 500 Belly  | Rare    |                                    |           |                               |
+| Waiter                    | 500 Belly  | Rare    |                                    |           |                               |
+| Beast Pirate Hawkins      | 1800 Belly | Epic    | Warabide Sword (Rare)              |           | Wara Fragment                 |
+| Strawman                  | 500 Belly  | Rare    |                                    |           |                               |
+| Beast Pirate Apoo         | 1800 Belly | Epic    | Tonfa Baton (Rare)                 |           | Oto Fragment                  |
+| Inbi                      | 1500 Belly | Epic    |                                    |           |                               |
+| Fuga                      | 1500 Belly | Epic    | Black Kanabo (Rare)                |           |                               |
+| Zanki                     | 1500 Belly | Epic    | Brown Katana (Rare)                |           |                               |
+| Jaki                      | 1500 Belly | Epic    | Black Kanabo (Rare)                |           |                               |
+| Goki                      | 1500 Belly | Epic    | Blue Kanabo (Rare)                 |           |                               |
+| Rokki                     | 1500 Belly | Epic    | Morning Star (Rare)                |           |                               |
+| Nangi                     | 1500 Belly | Epic    | Bronze Kanabo (Rare)               |           |                               |
+| Hatcha                    | 1500 Belly | Epic    | Black Kanabo (Rare)                |           |                               |
+| Kunyun                    | 1500 Belly | Epic    |                                    |           |                               |
+| Juki                      | 1500 Belly | Epic    |                                    |           |                               |
+| Tenjo-Sagari              | 1500 Belly | Epic    |                                    |           |                               |
+| Sarahebi                  | 1500 Belly | Epic    |                                    |           |                               |
+| Bao-Huang                 | 1500 Belly | Epic    |                                    |           |                               |
+| Wanyudo                   | 200 Belly  | Uncommon|                                    |           |                               |
+| Black Maria               | 2200 Belly | Epic    | Brass Knuckles (Epic)              |           | Rosamygale Grauvogeli Fragment|
+| Diez Drake                | 1000 Belly |         |                                    |           |                               |
+| Diez Drake Beast Form     | 1500 Belly | Epic    | X Rapier (Epic) <br> X Axe (Epic)  |           | Allosaurus Fragment           |
+| Sasaki                    | 1000 Belly |         |                                    |           |                               |
+| Sasaki Beast Form         | 1500 Belly | Epic    | Karakuri Rasento (Epic)            |           | Triceratops Fragment          |
+| Who’s Who                 | 1500 Belly |         |                                    |           |                               |
+| Who’s Who Hybrid Form     | 1000 Belly | Epic    | Short Katana (Epic)                |           | Saber Tiger Fragment          |
+| Page One                  | 1000 Belly |         |                                    |           |                               |
+| Page One Beast Form       | 1500 Belly | Epic    |                                    |           | Spinosaurus Fragment          |
+| Ulti                      | 2000 Belly | Epic    | Morning Star (Epic)                |           | Pachycephalosaurus Fragment   |
+| Snakeman                  | 1500 Belly | Epic    | Brown Katana (Rare)                |           |                               |
+| Rabbitman                 | 1500 Belly | Epic    |                                    |           |                               |
+| Dachoman                  | 1500 Belly | Epic    |                                    |           |                               |
+| Beegirl                   | 1500 Belly | Epic    | Black Whip (Rare)                  |           |                               |
+| Battaman                  | 1500 Belly | Epic    |                                    |           |                               |
+| Beetleman                 | 1500 Belly | Epic    | Purple Katana (Rare)               |           |                               |
+| Saitank                   | 1500 Belly | Epic    |                                    |           |                               |
+| Scorpionlady              | 1500 Belly | Epic    |                                    |           |                               |
+| Ginrummy                  | 1500 Belly | Epic    |                                    |           |                               |
+| Solitaire                 | 1500 Belly | Epic    | Black Katana (Rare)                |           |                               |
+| Usonoro                   | 1500 Belly | Epic    | Double Edged Axe (Rare)            |           |                               |
+| Nokokuwa Police           | 1500 Belly | Epic    | Sawtooth Katana (Rare)             |           |                               |
+| Briscola                  | 1500 Belly | Epic    | Double Edged Axe (Rare)            |           |                               |
+| Bisley                    | 1000 Belly | Rare    |                                    |           |                               |
+| Doubt Brother 1           | 1500 Belly | Epic    |                                    |           |                               |
+| Doubt Brother 2           | 1500 Belly | Epic    |                                    |           |                               |
+| Mizerka                   | 1500 Belly | Epic    |                                    |           |                               |
+| Fourtricks                | 1500 Belly | Epic    | Bisento (Rare)                     |           |                               |
+| Hamlet                    | 1500 Belly | Epic    | Brown Saber (Rare)                 |           |                               |
+| Poker                     | 1500 Belly | Epic    |                                    |           |                               |
+| All-Star Jack             | 3000 Belly | Epic    | Shotel (Epic)                      |           | Mammoth Fragment              |
+| All-Star Queen            | 1000 Belly |         |                                    |           |                               |
+| All-Star Queen Beast Form | 2250 Belly | Epic    | Dao Sword (Epic)                   |           | Brachiosaurus Fragment        |
+| All-Star King             | 1000 Belly |         |                                    |           |                               |
+| All-Star King Beast Form  | 2500 Belly | Epic    | King Sword (Epic)                  |           | Pteranodon Fragment           |
+| O-Lin                     | 4000 Belly |Legendary| Napoleon (Epic)                    |           | Soru Fragment                 |
+| Kaido                     | 3000 Belly |         |                                    |           |                               |
+| Kaido Man-Beast Form      | 2000 Belly |Legendary| Hassaikai (Epic)                   |           | Seiryu Fragment               |
 
 ### Essential NPCs
 

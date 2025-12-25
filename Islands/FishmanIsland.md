@@ -37,23 +37,23 @@ Note: Completing this quest unlocks Punk Hazard. Speak to Pekoms (FI) or the Tel
 
 ### Main Quest Boss Drops
 
-| Boss Name            | Belly      | Orb    | Weapon               | Armor Set | Other        |
-|-----------           |----------- |--------|-----------           |-----------|-----------   |
-| Ankoro               | 400 Belly  | Rare   |                      |           |              |
-| Wadatsumi            | 1000 Belly | Rare   |                      |           |              |
-| Vander Decken IX     | 1200 Belly | Rare   |                      |           | Mato Fragment|
-| Hammond              | 1200 Belly | Rare   |                      |           |              |
-| Kasagoba             | 1200 Belly | Rare   |                      |           |              |
-| Jean Noueilles       | 1200 Belly | Rare   |                      |           |              |
-| Ammo Knight          | 400 Belly  | Rare   |                      |           |              |
-| Fishman              | 10 Belly   |        |                      |           |              |
-| Dosun                | 1400 Belly | Epic   |                      |           |              |
-| Daruma               | 600 Belly  | Rare   |                      |           |              |
-| Ikaros Much          | 1400 Belly | Epic   |                      |           |              |
-| Zeo                  | 1400 Belly | Epic   |                      |           |              |
-| Hyouzou              | 1500 Belly | Epic   |                      |           |              |
-| Hody Jones           | 1000 Belly |        |                      |           |              |
-| Roid Rage Hody Jones | 1000 Belly | Epic   |                      |           |              |
+| Boss Name            | Belly      | Orb    | Weapon                               | Armor Set | Other        |
+|-----------           |----------- |--------|-----------                           |-----------|-----------   |
+| Ankoro               | 400 Belly  | Rare   |                                      |           |              |
+| Wadatsumi            | 1000 Belly | Rare   |                                      |           |              |
+| Vander Decken IX     | 1200 Belly | Rare   | Double Edged Axe (Rare)              |           | Mato Fragment|
+| Hammond              | 1200 Belly | Rare   |                                      |           |              |
+| Kasagoba             | 1200 Belly | Rare   | Pike (Rare)                          |           |              |
+| Jean Noueilles       | 1200 Belly | Rare   |                                      |           |              |
+| Ammo Knight          | 400 Belly  | Rare   | Bronze Trident (Uncommon)            |           |              |
+| Fishman              | 10 Belly   |        |                                      |           |              |
+| Dosun                | 1400 Belly | Epic   | Papara Hammer (Rare)                 |           |              |
+| Daruma               | 600 Belly  | Rare   |                                      |           |              |
+| Ikaros Much          | 1400 Belly | Epic   | Surume Ika No Yari (Rare)            |           |              |
+| Zeo                  | 1400 Belly | Epic   | Weighted Chain (Rare)                |           |              |
+| Hyouzou              | 1500 Belly | Epic   | Orange Katana (Rare)                 |           |              |
+| Hody Jones           | 1000 Belly |        |                                      |           |              |
+| Roid Rage Hody Jones | 1000 Belly | Epic   | Red Trident (Epic)<br>Kirisame (Epic)|           |              |
 
 ### Essential NPCs
 

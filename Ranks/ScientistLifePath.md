@@ -1,6 +1,6 @@
 # Scientist Life Path
 
-Please see the sections below regarding the information you need to know for the Samurai Life Path.
+Please see the sections below regarding the information you need to know for the Scientist Life Path.
 
 ### General Ranks
 

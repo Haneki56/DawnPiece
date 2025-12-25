@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Pirate Trials Questline, speak to X (Trials) on X.
+To start the Pirate Trials Questline, speak to Shanks (Trials) on X.
 
 <table>
 	<thead>
@@ -43,7 +43,7 @@ To start the Pirate Trials Questline, speak to X (Trials) on X.
 			<td>P04</td><td></td><td></td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Warlord Trials have been completed! Speak to X (Trials) again to start the Yonko Trials.</em></td>
+			<td colspan="3"><em>The Warlord Trials have been completed! Speak to Shanks (Trials) again to start the Yonko Trials.</em></td>
 		</tr>
 		<tr>
 			<td>P05</td><td></td><td></td>
@@ -55,7 +55,7 @@ To start the Pirate Trials Questline, speak to X (Trials) on X.
 			<td>P07</td><td></td><td></td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Yonko Trials have been completed! Speak to X (Trials) again to start the King Of The Pirates Trials.</em></td>
+			<td colspan="3"><em>The Yonko Trials have been completed! Speak to Shanks (Trials) again to start the Pirate King Trials.</em></td>
 		</tr>
 		<tr>
 			<td>P08</td><td></td><td></td>
@@ -71,42 +71,42 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
+| Boss Name 			| Belly      | Orb      | Weapon    											| Armor Set 			| Other     									|
+|-----------------------|------------|----------|-----------											|-----------			|-----------									|
+| Pirate Empress		| 4000 Belly | Mythical |           											|           			| Mero Fragment<br>Boss Soul					|
+| Tyrant Kuma			| 4000 Belly | Mythical |           											|           			| Nikyu Fragment<br>Boss Soul					|
+| King Of The Shadows	| 4000 Belly | Mythical | Scissors (Legendary)									| Moria (Legendary) 	| Kage Fragment<br>Boss Soul					|
+| Heavenly Demon		| 5000 Belly | Mythical | Strings (Legendary)									| Doflamingo (Legendary)| Ito Fragment<br>Boss Soul						|
+| First Son Of The Sea	| 4000 Belly | Mythical |           											|           			| Boss Soul										|
+| Surgeon Of Death		| 5000 Belly | Mythical | Kikoku (Legendary)									| Law (Legendary)		| Ope Fragment<br>Boss Soul						|
+| Buggy The Star Clown	| 4000 Belly | Mythical | Clown Knives (Legendary)								| Buggy (Legendary) 	| Bara Fragment<br>Boss Soul					|
+| Hawk Eyes				| 6500 Belly | Mythical | Yoru (Legendary)<br> Kogatana (Legendary) 			| Mihawk (Legendary) 	| Boss Soul 									|
+| Hero Of Alabasta		| 6000 Belly | Mythical | Hook (Legendary)										| Crocodile (Legendary) | Suna Fragment<br>Boss Soul					|
+| Big Mom				| 6000 Belly | Mythical | Napoleon (Legendary)									|           			| Soru Fragment<br>Boss Soul					|
+| Strongest Creature	| 6000 Belly | Mythical | Hassaikai (Legendary)									|           			| Seiryu Fragment<br>Boss Soul					|
+| World's Strongest Man | 6000 Belly | Mythical | Murakumogiri (Legendary)<br> Tremor Fist (Legendary)  |           			| Gura Fragment<br>Boss Soul					|
+| Red Haired Shanks		| 6000 Belly | Mythical | Gryphon (Legendary)			          				|           			| Boss Soul 									|
+| Blackbeard			| 6000 Belly | Mythical | Darkness Fist (Legendary)<br> Tremor Fist (Legendary) | Teach (Legendary) 	| Yami Fragment<br>Gura Fragment<br>Boss Soul	|
+| Sun God Nika			| 6500 Belly | Mythical |           											| Luffy (Legendary) 	| Gomu Fragment<br>Boss Soul					|
+| Pirate King Roger		| 6500 Belly | Mythical | Ace (Legendary)          								|          		 		| Advanced Haki Fragment<br>Boss Soul 			|
 
 ### Trials Quest Boss Locations
 
-| Boss Name | Island        | Sub-Location  | 
-|-----------|-----------    |-----------    |
-|           |               |               |
-|           |               |               | 
-|           |               |               |
-|           |               |               |  
-|           |               |               |     
-|           |               |               |     
-|           |               |               | 
-|           |               |               |  
-|           |               |               |  
-|           |               |               | 
-|           |               |               | 
-|           |               |               | 
-|           |               |               |
-|           |               |               |
-|           |               |               |
-|           |               |               |
+| Boss Name 			| Island        | Sub-Location  | 
+|-----------------------|-----------    |-----------    |
+| Pirate Empress		|               |               |
+| Tyrant Kuma			|               |               | 
+| King Of The Shadows	|               |               |
+| Heavenly Demon		|               |               |  
+| First Son Of The Sea	|               |               |     
+| Surgeon Of Death		|               |               |     
+| Buggy The Star Clown	|               |               | 
+| Hawk Eyes				|               |               |  
+| Hero Of Alabasta		|               |               |  
+| Big Mom				|               |               | 
+| Strongest Creature	|               |               | 
+| World's Strongest Man |               |               | 
+| Red Haired Shanks		|               |               |
+| Blackbeard			|               |               |
+| Sun God Nika			|               |               |
+| Pirate King Roger		|               |               |

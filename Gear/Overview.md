@@ -7,4 +7,5 @@ The server contains an entire gear system that was created in the DawnPiece Mod.
 [Gear Guide Overview](Gear/Overview.md)<br>
 [Blacksmiths](Gear/Blacksmith.md)<br>
 [Armor](Gear/Armor.md)<br>
+[Set Bonus](Gear/SetBonus.md)<br>
 [Melee Weapons](Gear/MeleeWeapons.md)<br>

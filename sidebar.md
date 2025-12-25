@@ -67,6 +67,7 @@
   * [Gear Guide Overview](Gear/Overview.md)
   * [Blacksmiths](Gear/Blacksmith.md)
   * [Armor](Gear/Armor.md)
+  * [Set Bonus](Gear/SetBonus.md)
   * [Melee Weapons](Gear/MeleeWeapons.md)
 
 * **Life Path Guide**

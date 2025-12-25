@@ -63,4 +63,4 @@ Every time you are hit by an entity, the durability decreases by one. To repair 
 
 ### Gear Set Bonuses
 
-All gear sets will have set bonuses when wearing every piece of the same set. If you mix and match different tiers in the same set, the set bonus will reflect the lowest tier bonus. The tooltip in game will show the set bonus you have. If you are not wearing pieces of the same set, the set bonus will say inactive. Weapons are not a part of the set bonus, only the four armor pieces are required. Please see the table below for the set bonuses we have in game.
+All gear sets will have set bonuses when wearing every piece of the same set. If you mix and match different tiers in the same set, the set bonus will reflect the lowest tier bonus. The tooltip in game will show the set bonus you have. If you are not wearing pieces of the same set, the set bonus will say inactive. Weapons are not a part of the set bonus, only the four armor pieces are required. Please check the [Set Bonus Page](https://haneki56.github.io/DawnPiece/#/Gear/SetBonus) for a list of all of the bonuses we have in game and what they do.

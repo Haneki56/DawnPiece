@@ -61,6 +61,7 @@
   * [36. Onigashima](Islands/Onigashima.md)
   * [37. Egghead](Islands/Egghead.md)
   * [37.1 Hachinosu](Islands/Hachinosu.md)
+  * [38.1 God Valley](Islands/GodValley.md)
   * [D1. Morioh](Islands/Morioh.md)
 
 * **Gear Guide**

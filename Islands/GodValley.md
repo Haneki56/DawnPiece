@@ -26,8 +26,8 @@ Bounty Reward: 25,000,000
 | Manmayer Gunko        | 4000 Belly | Epic      |                                                      |                   |                                |
 | Satchels Maffey       | 3000 Belly | Epic      |                                                      |                   |                                |
 | Figarland Garling     | 4500 Belly | Legendary |                                                      |                   |                                |
-| Imu (Saturn)          | 5000 Belly | Mythical  |                                                      |                   | Gyuki Fragment                 |
-| Monkey D. Garp        | 5000 Belly | Mythical  | Galaxy Fist (Legendary)                              | Garp (Legendary)  |                                |
+| Imu (Saturn)          | 5000 Belly | Legendary |                                                      |                   | Gyuki Fragment                 |
+| Monkey D. Garp        | 5000 Belly | Legendary | Galaxy Fist (Legendary)                              | Garp (Legendary)  |                                |
 
 ### B Quest
 
@@ -45,20 +45,20 @@ Bounty Reward: 44,500,000
 
 ### B Quest Boss Drops
 
-| Boss Name             | Belly      | Orb       | Weapon                                               | Armor Set         | Other                          |
-|-----------            |----------- |-----------|-----------                                           |-----------        |-----------                     |
-| Gil Bastar            | 1500 Belly | Epic      |                                                      |                   |                                |
-| Barbell               | 2000 Belly | Epic      |                                                      |                   |                                |
-| Ganzui                | 3000 Belly | Epic      |                                                      |                   |                                |
-| Ochoku                | 3000 Belly | Epic      |                                                      |                   |                                |
-| Captain John          | 3000 Belly | Epic      |                                                      |                   | Jiki Fragment                  |
-| Kyo                   | 3000 Belly | Epic      |                                                      |                   |                                |
-| Young Kaido           | 5000 Belly | Legendary | Hassaikai (Legendary)                                |                   | Seiryu Fragment                |
-| Newgate               | 5000 Belly | Legendary | Murakumogiri (Legendary)<br>Tremor Fist (Legendary)  |                   | Gura Fragment                  |
-| Linlin                | 5000 Belly | Legendary | Napoleon (Legendary)                                 |                   | Soru Fragment                  |
-| Shiki                 | 5000 Belly | Legendary |                                                      |                   | Fuwa Fragment                  |
-| Don Marlon            | 4000 Belly | Legendary |                                                      |                   |                                |
-| Xebec                 | 5000 Belly | Mythical  | Saber Of Xebec (Legendary)                           |                   |                                |
+| Boss Name             | Belly      | Orb       | Weapon                                       | Armor Set         | Other                          |
+|-----------            |----------- |-----------|-----------                                   |-----------        |-----------                     |
+| Gil Bastar            | 1500 Belly | Epic      |                                              |                   | Horo Fragment                  |
+| Barbell               | 2000 Belly | Epic      |                                              |                   |                                |
+| Ganzui                | 3000 Belly | Epic      |                                              |                   | Bomu Fragment                  |
+| Ochoku                | 3000 Belly | Epic      |                                              |                   |                                |
+| Captain John          | 3000 Belly | Epic      | Metal Arm (Epic)                             |                   | Jiki Fragment                  |
+| Kyo                   | 3000 Belly | Epic      |                                              |                   |                                |
+| Young Kaido           | 5000 Belly | Legendary | Hassaikai (Epic)                             |                   | Seiryu Fragment                |
+| Newgate               | 5000 Belly | Legendary | Murakumogiri (Epic)<br>Tremor Fist (Epic)    |                   | Gura Fragment                  |
+| Linlin                | 5000 Belly | Legendary | Napoleon (Epic)                              |                   | Soru Fragment                  |
+| Shiki                 | 5000 Belly | Legendary |                                              |                   | Fuwa Fragment                  |
+| Don Marlon            | 4000 Belly | Legendary |                                              |                   |                                |
+| Xebec                 | 5000 Belly | Legendary | Saber Of Xebec (Legendary)                   |                   | Advanced Haki Fragment         |
 
 ### C Quest
 
@@ -84,8 +84,8 @@ Bounty Reward: 29,500,000
 | Moon Issac Jr.        | 3000 Belly | Epic      |                                                      |                   |                                |
 | Sunbell               | 3000 Belly | Epic      |                                                      |                   |                                |
 | Scopper Gaban         | 4500 Belly | Legendary |                                                      |                   |                                |
-| Silvers Rayleigh      | 4500 Belly | Legendary | Meio Sword (Legendary)                               |                   |                                |
-| Gol D. Roger          | 5000 Belly | Mythical  | Ace (Legendary)                                      |                   | Advanced Haki Fragment         |
+| Silvers Rayleigh      | 4500 Belly | Legendary | Meio Sword (Epic)                                    |                   |                                |
+| Gol D. Roger          | 5000 Belly | Legendary | Ace (Legendary)                                      |                   | Advanced Haki Fragment         |
 
 ### Essential NPCs
 

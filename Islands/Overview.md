@@ -66,6 +66,7 @@ The island guide is a collection of pages describing the contents of each island
 [36. Onigashima](Islands/Onigashima.md)<br>
 [37. Egghead](Islands/Egghead.md)<br>
 [37.1 Hachinosu](Islands/Hachinosu.md)<br>
+[38.1 God Valley](Islands/GodValley.md)<br>
 
 ### Donation Islands
 

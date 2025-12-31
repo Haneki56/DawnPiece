@@ -35,4 +35,5 @@ Note: This quest can only be completed once.
 | Gameplay Tutorial     | Basic Server Information          |
 | Markets Tutorial      | Basic Server Information          |
 | Abilities Tutorial    | Basic Server Information          |
+| Recruiter             | Life Path Selector                |
 | Monkey D. Luffy       | New Player Guide                  |

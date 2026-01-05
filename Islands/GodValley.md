@@ -26,8 +26,8 @@ Bounty Reward: 25,000,000
 | Manmayer Gunko        | 4000 Belly | Epic      |                                                      |                   |                                |
 | Satchels Maffey       | 3000 Belly | Epic      |                                                      |                   |                                |
 | Figarland Garling     | 4500 Belly | Legendary |                                                      |                   |                                |
-| Imu (Saturn)          | 5000 Belly | Legendary |                                                      |                   | Gyuki Fragment                 |
-| Monkey D. Garp        | 5000 Belly | Legendary | Galaxy Fist (Legendary)                              | Garp (Legendary)  |                                |
+| Imu (Saturn)          | 8000 Belly | Legendary |                                                      |                   | Gyuki Fragment                 |
+| Monkey D. Garp        | 8000 Belly | Legendary | Galaxy Fist (Legendary)                              | Garp (Legendary)  |                                |
 
 ### B Quest
 
@@ -58,7 +58,7 @@ Bounty Reward: 44,500,000
 | Linlin                | 5000 Belly | Legendary | Napoleon (Epic)                              |                   | Soru Fragment                  |
 | Shiki                 | 5000 Belly | Legendary |                                              |                   | Fuwa Fragment                  |
 | Don Marlon            | 4000 Belly | Legendary |                                              |                   |                                |
-| Xebec                 | 5000 Belly | Legendary | Saber Of Xebec (Legendary)                   |                   | Advanced Haki Fragment         |
+| Xebec                 | 10000 Belly| Legendary | Saber Of Xebec (Legendary)                   |                   | Advanced Haki Fragment         |
 
 ### C Quest
 
@@ -85,7 +85,7 @@ Bounty Reward: 29,500,000
 | Sunbell               | 3000 Belly | Epic      |                                                      |                   |                                |
 | Scopper Gaban         | 4500 Belly | Legendary |                                                      |                   |                                |
 | Silvers Rayleigh      | 4500 Belly | Legendary | Meio Sword (Epic)                                    |                   |                                |
-| Gol D. Roger          | 5000 Belly | Legendary | Ace (Legendary)                                      |                   | Advanced Haki Fragment         |
+| Gol D. Roger          | 8000 Belly | Legendary | Ace (Legendary)                                      |                   | Advanced Haki Fragment         |
 
 ### Essential NPCs
 

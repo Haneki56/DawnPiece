@@ -71,42 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name 			| Belly      | Orb      | Weapon    											| Armor Set 			| Other     									|
-|-----------------------|------------|----------|-----------											|-----------			|-----------									|
-| Pirate Empress		| 4000 Belly | Mythical |           											|           			| Mero Fragment<br>Boss Soul					|
-| Tyrant Kuma			| 4000 Belly | Mythical |           											|           			| Nikyu Fragment<br>Boss Soul					|
-| King Of The Shadows	| 4000 Belly | Mythical | Scissors (Legendary)									| Moria (Legendary) 	| Kage Fragment<br>Boss Soul					|
-| Heavenly Demon		| 5000 Belly | Mythical | Strings (Legendary)									| Doflamingo (Legendary)| Ito Fragment<br>Boss Soul						|
-| First Son Of The Sea	| 4000 Belly | Mythical |           											|           			| Boss Soul										|
-| Surgeon Of Death		| 5000 Belly | Mythical | Kikoku (Legendary)									| Law (Legendary)		| Ope Fragment<br>Boss Soul						|
-| Buggy The Star Clown	| 4000 Belly | Mythical | Clown Knives (Legendary)								| Buggy (Legendary) 	| Bara Fragment<br>Boss Soul					|
-| Hawk Eyes				| 6500 Belly | Mythical | Yoru (Legendary)<br> Kogatana (Legendary) 			| Mihawk (Legendary) 	| Boss Soul 									|
-| Hero Of Alabasta		| 6000 Belly | Mythical | Hook (Legendary)										| Crocodile (Legendary) | Suna Fragment<br>Boss Soul					|
-| Big Mom				| 6000 Belly | Mythical | Napoleon (Legendary)									|           			| Soru Fragment<br>Boss Soul					|
-| Strongest Creature	| 6000 Belly | Mythical | Hassaikai (Legendary)									|           			| Seiryu Fragment<br>Boss Soul					|
-| World's Strongest Man | 6000 Belly | Mythical | Murakumogiri (Legendary)<br> Tremor Fist (Legendary)  |           			| Gura Fragment<br>Boss Soul					|
-| Red Haired Shanks		| 6000 Belly | Mythical | Gryphon (Legendary)			          				|           			| Boss Soul 									|
-| Blackbeard			| 6000 Belly | Mythical | Darkness Fist (Legendary)<br> Tremor Fist (Legendary) | Teach (Legendary) 	| Yami Fragment<br>Gura Fragment<br>Boss Soul	|
-| Sun God Nika			| 6500 Belly | Mythical |           											| Luffy (Legendary) 	| Gomu Fragment<br>Boss Soul					|
-| Pirate King Roger		| 6500 Belly | Mythical | Ace (Legendary)          								|          		 		| Advanced Haki Fragment<br>Boss Soul 			|
+| Boss Name 			| Belly      | Weapon    											| Armor Set 			| Other     						|
+|-----------------------|------------|-----------											|-----------			|-----------						|
+| Pirate Empress		| 6000 Belly |            											|           			| Mero Fragment						|
+| Tyrant Kuma			| 6000 Belly |            											|           			| Nikyu Fragment					|
+| King Of The Shadows	| 6000 Belly | Scissors (Legendary)									| Moria (Legendary) 	| Kage Fragment						|
+| Heavenly Demon		| 7000 Belly | Strings (Legendary)									| Doflamingo (Legendary)| Ito Fragment						|
+| First Son Of The Sea	| 6000 Belly |           											|           			| 									|
+| Surgeon Of Death		| 7000 Belly | Kikoku (Legendary)									| Law (Legendary)		| Ope Fragment						|
+| Buggy The Star Clown	| 6000 Belly | Clown Knives (Legendary)								| Buggy (Legendary) 	| Bara Fragment						|
+| Hawk Eyes				| 10000 Belly| Yoru (Legendary)<br>Kogatana (Legendary) 			| Mihawk (Legendary) 	| 									|
+| Hero Of Alabasta		| 8000 Belly | Hook (Legendary)										| Crocodile (Legendary) | Suna Fragment						|
+| Big Mom				| 10000 Belly| Napoleon (Legendary)									|           			| Soru Fragment						|
+| Strongest Creature	| 10000 Belly| Hassaikai (Legendary)								|           			| Seiryu Fragment					|
+| World's Strongest Man | 10000 Belly| Murakumogiri (Legendary)<br>Tremor Fist (Legendary)  |           			| Gura Fragment						|
+| Red Haired Shanks		| 10000 Belly| Gryphon (Legendary)			          				|           			| Advanced Haki Fragment 			|
+| Blackbeard			| 10000 Belly| Darkness Fist (Legendary)<br>Tremor Fist (Legendary) | Teach (Legendary) 	| Yami Fragment<br>Gura Fragment	|
+| Sun God Nika			| 10000 Belly|		           										| Luffy (Legendary) 	| Gomu Fragment						|
+| Pirate King Roger		| 10000 Belly| Ace (Legendary)          							|          		 		| Advanced Haki Fragment 			|
+
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name 			| Island        | Sub-Location  | 
-|-----------------------|-----------    |-----------    |
-| Pirate Empress		|               |               |
-| Tyrant Kuma			|               |               | 
-| King Of The Shadows	|               |               |
-| Heavenly Demon		|               |               |  
-| First Son Of The Sea	|               |               |     
-| Surgeon Of Death		|               |               |     
-| Buggy The Star Clown	|               |               | 
-| Hawk Eyes				|               |               |  
-| Hero Of Alabasta		|               |               |  
-| Big Mom				|               |               | 
-| Strongest Creature	|               |               | 
-| World's Strongest Man |               |               | 
-| Red Haired Shanks		|               |               |
-| Blackbeard			|               |               |
-| Sun God Nika			|               |               |
-| Pirate King Roger		|               |               |
+| Boss Name 			| Island        	| Sub-Location  				| 
+|-----------------------|-----------    	|-----------    				|
+| Pirate Empress		| Amazon Lily		| Kuja Pirates Ship 			|
+| Tyrant Kuma			| Thriller Bark   	| Northwest Forest Clearing		| 
+| King Of The Shadows	| Thriller Bark     | Northeast Forest Clearing		|
+| Heavenly Demon		| Punk Hazard		| Numancia Flamingo				|  
+| First Son Of The Sea	| Fishman Island	| Eastern Corals				|     
+| Surgeon Of Death		| Wano Kuni			| Behind Flower Capital Palace	|     
+| Buggy The Star Clown	| Impel Down	 	| Level 2						| 
+| Hawk Eyes				| Kuraigana		 	| Mihawk's Castle				|  
+| Hero Of Alabasta		| Alabasta			| Rain Dinners Basement			|  
+| Big Mom				| Whole Cake Island | Queen Mama Chanter			| 
+| Strongest Creature	| Knock Up Stream	| Top of the Waterfall			| 
+| World's Strongest Man | Sphinx			| North Side of Sphinx			| 
+| Red Haired Shanks		| Foosha Village 	| Red Force					    |
+| Blackbeard			| Hachinosu			| Saber of Xebec				|
+| Sun God Nika			| Onigashima		| Top Of The Exterior Skull		|
+| Pirate King Roger		| Jaya          	| Oro Jackson					|

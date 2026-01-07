@@ -14,6 +14,9 @@ Guard Sets provide an extra protection value based on the source of damage. The 
 | Elemental Guard   | Elemental Damage Reduction    | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
 | Slash Guard       | Slash Weapon Damage Reduction | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 | Impact Guard      | Impact Weapon Damage Reduction| 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Bludgeon Guard    | Impact Weapon Damage Reduction| 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Pull Guard        | Slash Weapon Damage Reduction | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Float Guard       | Slash Weapon Damage Reduction | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 
 
 Please keep in mind that these bonuses are applied after the original armor value protection damages are taken into account. The equation and final damage example chart based on an original damage of 100 is below:<br> 
@@ -31,6 +34,9 @@ Final Damage values without set bonus are 88%, 80%, 72%, 60%, 44%, 24% from Comm
 | Elemental Guard   | 87.1%  | 78.4%    | 69.1% | 55.2% | 36.9%     | 16.3%    |
 | Slash Guard       | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
 | Impact Guard      | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
+| Bludgeon Guard    | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
+| Pull Guard        | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
+| Float Guard       | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
 
 ### Damage Sets
 
@@ -43,8 +49,13 @@ Damage Sets provide an extra amount of damage based on the source of damage or t
 | Bludgeon Mastery  | Bludgeon Weapon Damage Buff                           | +1     | +2       | +4  | +8   | +14       | +22      |
 | Pull Mastery      | Pull Weapon Damage Buff                               | +1     | +2       | +4  | +8   | +14       | +22      |
 | Float Mastery     | Float Weapon Damage Buff                              | +1     | +2       | +4  | +8   | +14       | +22      |
+| Martial Artist    | Fist Damage Buff                                      | +1     | +2       | +4  | +8   | +14       | +22      |
 | Battle Cry        | Damage Buff for Other Players in a 10 Block Radius    | +1     | +2       | +4  | +8   | +14       | +22      |
 | Chain Lightning   | Transfers Damage to all Entities in a 10 Block Radius | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
+| Berserk           | Damage Increase when HP falls below 15%               | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
+| Decisive Shot     | Increases Damage for Critical Hits                    | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
+| Damage Reflection | Chance of Damage Received Being Inflicted Back        | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
+| Paralyze Strike   | Chance of Stunning the Enemy for 2 Seconds            | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
 
 ### Immunity Sets
 
@@ -55,6 +66,7 @@ Immunity Sets provide a set chance to block a certain effect, reduce damage of a
 | Poison Immunity   | Chance to Block Posion Effects        | 5%     | 10%      | 20%   | 35%   | 60%       | 100%     |
 | Slowness Immunity | Chance to Block Slowness Effects      | 5%     | 10%      | 20%   | 35%   | 60%       | 100%     |
 | Blindness Immunity| Chance to Block Blindness Effects     | 5%     | 10%      | 20%   | 35%   | 60%       | 100%     |
+| Critical Immunity | Chance to Block Critical Hits         | 5%     | 10%      | 20%   | 35%   | 60%       | 100%     |
 | Iron Stomach      | Increases Length of Hunger Reduction  | 2x     | 5x       | 10x   | 20x   | 50x       | Infinite |
 | Water Breathing   | Increases Length of Underwater Breath | 1 min  | 2 min    | 5 min | 10 min| 20 min    | Infinite |
 | Feather Falling   | Reduces Fall Damage                   | 5%     | 10%      | 20%   | 35%   | 60%       | 100%     |
@@ -64,12 +76,14 @@ Immunity Sets provide a set chance to block a certain effect, reduce damage of a
 
 Ability Sets provide bonuses that either grant an ability or enchance an already existing ability in game. The types of set bonuses, a description on what they do, and the set bonus buffs for each tier is listed below. 
 
-| Set Bonus    | Description                     | Common     | Uncommon  | Rare      | Epic      | Legendary | Mythical |
-|-----------   |---------------                  |--------    |---------- |-----      |------     |-----------|----------|
-| Swift Stride | Increases Movement Speed        | 5%         | 10%       | 20%       | 35%       | 60%       | 100%     |
-| Water Stride | Increases Swimming Speed        | 10%        | 20%       | 40%       | 80%       | 150%      | 300%     |
-| Jump Boost   | Increases Jump Height (Blocks)  | +1         | +2        | +3        | +4        | +5        | +6       |
-| Flash Step   | Shift + Right Click to Teleport | 1x per 60s | 1x per 55s| 1x per 45s| 1x per 30s| 1x per 10s| Infinite |
-| Frost Walker | Freezes Water Underneath Player | Radius: 1  | Radius: 2 | Radius: 3 | Radius: 4 | Radius: 5 | Radius: 6|
+| Set Bonus    | Description                            | Common     | Uncommon  | Rare      | Epic      | Legendary | Mythical |
+|-----------   |---------------                         |--------    |---------- |-----      |------     |-----------|----------|
+| Swift Stride | Increases Ground Movement Speed        | 5%         | 10%       | 20%       | 35%       | 60%       | 100%     |
+| Swift Wings  | Increases Flying Speed                 | 5%         | 10%       | 20%       | 35%       | 60%       | 100%     |
+| Water Stride | Increases Swimming Speed               | 10%        | 20%       | 40%       | 80%       | 150%      | 300%     |
+| Jump Boost   | Increases Jump Height (Blocks)         | +1         | +2        | +3        | +4        | +5        | +6       |
+| Flash Step   | Shift + Right Click to Teleport        | 1x per 60s | 1x per 55s| 1x per 45s| 1x per 30s| 1x per 10s| Infinite |
+| Frost Walker | Freezes Water Underneath Player        | Radius: 1  | Radius: 2 | Radius: 3 | Radius: 4 | Radius: 5 | Radius: 6|
+| Life Steal   | 20% Chance to Receive Health per Hit   | +1         | +2        | +4        | +8        | +14       | +22      |
 
 Frost Walker: As tiers increase, there are additional bonuses. Every tier increase sees melt time increase, Rare and above are boat safe, Epic and Above can freeze flowing water, and Legendary and above has a speed bonus when on ice.

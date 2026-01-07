@@ -26,8 +26,8 @@ Note: Completing this quest unlocks Alabasta. Speak to Chopper (DI) or the Telep
 |-----------                |----------- |----------|-----------                 |-----------       |-----------      |
 | Drum Island Militia Guard | 20 Belly   | Common   |                            |                  |                 |
 | Dalton                    | 100 Belly  | Uncommon | Spade (Uncommon)           |                  | Bison Fragment  |
-| Chess                     | 50 Belly   | Common   | Black Boxing Glove (Common)|                  |                 |
-| Kuromarimo                | 50 Belly   | Common   |                            |                  |                 |
+| Chess                     | 50 Belly   | Common   |                            |                  |                 |
+| Kuromarimo                | 50 Belly   | Common   | Black Boxing Glove (Common)|                  |                 |
 | Wapol                     | 150 Belly  | Uncommon |                            | Wapol (Unommon)  | Baku Fragment   |
 
 

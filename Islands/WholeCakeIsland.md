@@ -80,4 +80,7 @@ Note: Completing this quest unlocks Wano Kuni. Speak to Nami (WCI) or the Telepo
 | Teleporter (WCI)      | Teleport to any unlocked Whole Cake Island POI |
 | Blacksmith            | Custom Gear Information                        |
 | Doctor                | Healer                                         |
+| Banker                | Storage Tutorial                               |
+| Bank Teller           | Currency Exchange                              |
+| Bank Teller (Bulk)    | Currency Exchange                              |
 | Modified Human Surgeon| Race Changer                                   |

@@ -70,9 +70,12 @@ Note: This is the final quest in the Main Story until we release further islands
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                    |
-|-------------     |-----------                                 |
-| Teleporter       | Teleport to any unlocked location          |
-| Teleporter (EGG) | Teleport to any unlocked Egghead POI       |
-| Blacksmith       | Custom Gear Information                    |
-| Doctor           | Healer                                     |
+| NPC Name              | Purpose                                    |
+|-------------          |-----------                                 |
+| Teleporter            | Teleport to any unlocked location          |
+| Teleporter (EGG)      | Teleport to any unlocked Egghead POI       |
+| Blacksmith            | Custom Gear Information                    |
+| Doctor                | Healer                                     |
+| Banker                | Storage Tutorial                           |
+| Bank Teller           | Currency Exchange                          |
+| Bank Teller (Bulk)    | Currency Exchange                          |

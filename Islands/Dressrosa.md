@@ -66,10 +66,13 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 
 ### Essential NPCs
 
-| NPC Name          | Purpose                                    |
-|-------------      |-----------                                 |
-| Teleporter        | Teleport to any unlocked location          |
-| Teleporter (DR)   | Teleport to any unlocked Dressrosa POI     |
-| Blacksmith        | Custom Gear Information                    |
-| Doctor            | Healer                                     |
-| Tontatta Surgeon  | Race Changer                               |
+| NPC Name              | Purpose                                    |
+|-------------          |-----------                                 |
+| Teleporter            | Teleport to any unlocked location          |
+| Teleporter (DR)       | Teleport to any unlocked Dressrosa POI     |
+| Blacksmith            | Custom Gear Information                    |
+| Doctor                | Healer                                     |
+| Banker                | Storage Tutorial                           |
+| Bank Teller           | Currency Exchange                          |
+| Bank Teller (Bulk)    | Currency Exchange                          |
+| Tontatta Surgeon      | Race Changer                               |

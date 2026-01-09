@@ -66,9 +66,12 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                    |
-|-------------     |-----------                                 |
-| Teleporter       | Teleport to any unlocked location          |
-| Teleporter (WK)  | Teleport to any unlocked Wano Kuni POI     |
-| Blacksmith       | Custom Gear Information                    |
-| Doctor           | Healer                                     |
+| NPC Name              | Purpose                                    |
+|-------------          |-----------                                 |
+| Teleporter            | Teleport to any unlocked location          |
+| Teleporter (WK)       | Teleport to any unlocked Wano Kuni POI     |
+| Blacksmith            | Custom Gear Information                    |
+| Doctor                | Healer                                     |
+| Banker                | Storage Tutorial                           |
+| Bank Teller           | Currency Exchange                          |
+| Bank Teller (Bulk)    | Currency Exchange                          |

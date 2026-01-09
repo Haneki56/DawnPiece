@@ -55,7 +55,7 @@ Damage Sets provide an extra amount of damage based on the source of damage or t
 | Berserk           | Damage Increase when HP falls below 15%               | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
 | Decisive Shot     | Increases Damage for Critical Hits                    | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
 | Damage Reflection | Chance of Damage Received Being Inflicted Back        | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
-| Paralyze Strike   | Chance of Stunning the Enemy for 2 Seconds            | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
+| Paralyze Strike   | Chance of Stunning the Enemy for 1 Second             | 1%     | 2%       | 4%  | 8%   | 14%       | 22%      |
 
 ### Immunity Sets
 

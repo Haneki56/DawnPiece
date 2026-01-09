@@ -43,11 +43,12 @@ Note: Completing this quest unlocks Impel Down. Speak to Boa Hancock (AL) or the
 
 ### Essential NPCs
 
-| NPC Name              | Purpose                                |
-|-------------          |-----------                             |
-| Teleporter            | Teleport to any unlocked location      |
-| Blacksmith            | Custom Gear Information                |
-| Doctor                | Healer                                 |
-| Banker                | Storage Tutorial                       |
-| Bank Teller           | Currency Exchange                      |
-| Bank Teller (Bulk)    | Currency Exchange                      |
+| NPC Name              | Purpose                                   |
+|-------------          |-----------                                |
+| Teleporter            | Teleport to any unlocked location         |
+| Teleporter (AL)       | Teleport to any unlocked Amazon Lily POI  |
+| Blacksmith            | Custom Gear Information                   |
+| Doctor                | Healer                                    |
+| Banker                | Storage Tutorial                          |
+| Bank Teller           | Currency Exchange                         |
+| Bank Teller (Bulk)    | Currency Exchange                         |

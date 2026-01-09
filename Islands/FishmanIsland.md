@@ -57,9 +57,12 @@ Note: Completing this quest unlocks Punk Hazard. Speak to Pekoms (FI) or the Tel
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                    |
-|-------------     |-----------                                 |
-| Teleporter       | Teleport to any unlocked location          |
-| Blacksmith       | Custom Gear Information                    |
-| Doctor           | Healer                                     |
-| Fishman Surgeon  | Race Changer                               |
+| NPC Name              | Purpose                                   |
+|-------------          |-----------                                |
+| Teleporter            | Teleport to any unlocked location         |
+| Blacksmith            | Custom Gear Information                   |
+| Doctor                | Healer                                    |
+| Banker                | Storage Tutorial                          |
+| Bank Teller           | Currency Exchange                         |
+| Bank Teller (Bulk)    | Currency Exchange                         |
+| Fishman Surgeon       | Race Changer                              |

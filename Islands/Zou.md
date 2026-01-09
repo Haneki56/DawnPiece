@@ -35,10 +35,13 @@ Note: Completing this quest unlocks Whole Cake Island. Speak to Luffy (ZOU) or t
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                    |
-|-------------     |-----------                                 |
-| Teleporter       | Teleport to any unlocked location          |
-| Teleporter (ZOU) | Teleport to any unlocked Zou POI           |
-| Blacksmith       | Custom Gear Information                    |
-| Doctor           | Healer                                     |
-| Mink Surgeon     | Race Changer                               |
+| NPC Name              | Purpose                                   |
+|-------------          |-----------                                |
+| Teleporter            | Teleport to any unlocked location         |
+| Teleporter (ZOU)      | Teleport to any unlocked Zou POI          |
+| Blacksmith            | Custom Gear Information                   |
+| Doctor                | Healer                                    |
+| Banker                | Storage Tutorial                          |
+| Bank Teller           | Currency Exchange                         |
+| Bank Teller (Bulk)    | Currency Exchange                         |
+| Mink Surgeon          | Race Changer                              |

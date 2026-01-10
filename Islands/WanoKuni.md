@@ -43,26 +43,26 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 
 ### Main Quest Boss Drops
 
-| Boss Name             | Belly      | Orb      | Weapon               | Armor Set | Other                  |
-|-----------            |----------- |--------  |-----------           |-----------|-----------             |
-| Hawkins               | 1500 Belly | Epic     | Warabide Sword (Rare)|           | Wara Fragment          |
-| Straw Monster         | 500 Belly  |          |                      |           |                        |
-| Hawkins Pirate        | 1000 Belly | Rare     |                      |           |                        |
-| Batman                | 1500 Belly | Epic     |                      |           |                        |
-| Gazelleman            | 1500 Belly | Epic     |                      |           |                        |
-| Mouseman              | 1500 Belly | Epic     |                      |           |                        |
-| Speed                 | 1800 Belly | Epic     |                      |           |                        |
-| Urashima              | 1800 Belly | Epic     | Green Katana (Rare)  |           |                        |
-| Holdem                | 2000 Belly | Epic     | Karakuri Sword (Epic)|           |                        |
-| Waiter                | 500 Belly  | Rare     |                      |           |                        |
-| Pleasure              | 500 Belly  | Rare     |                      |           |                        |
-| Alpacaman             | 2000 Belly | Epic     | Brown Saber (Epic)   |           |                        |
-| Madilloman            | 2000 Belly | Epic     |                      |           |                        |
-| Dobon                 | 2000 Belly | Epic     | Orange Dagger (Epic) |           |                        |
-| Daifugo               | 2500 Belly | Epic     | Green Katana (Epic)  |           |                        |
-| Babanuki              | 2000 Belly | Epic     |                      |           |                        |
-| Queen                 | 3000 Belly | Epic     | Dao Sword (Epic)     |           | Brachiosaurus Fragment |
-| Kanjuro The Traitor   | 2500 Belly | Epic     | Tsuji Shibai (Epic)  |           |                        |
+| Boss Name             | Belly      | Orb      | Weapon               | Armor Set      | Other                  |
+|-----------            |----------- |--------  |-----------           |-----------     |-----------             |
+| Hawkins               | 1500 Belly | Epic     | Warabide Sword (Rare)| Hawkins (Rare) | Wara Fragment          |
+| Straw Monster         | 500 Belly  |          |                      |                |                        |
+| Hawkins Pirate        | 1000 Belly | Rare     |                      |                |                        |
+| Batman                | 1500 Belly | Epic     |                      |                |                        |
+| Gazelleman            | 1500 Belly | Epic     |                      |                |                        |
+| Mouseman              | 1500 Belly | Epic     |                      |                |                        |
+| Speed                 | 1800 Belly | Epic     |                      |                |                        |
+| Urashima              | 1800 Belly | Epic     | Green Katana (Rare)  | Urashima (Rare)|                        |
+| Holdem                | 2000 Belly | Epic     | Karakuri Sword (Epic)|                |                        |
+| Waiter                | 500 Belly  | Rare     |                      |                |                        |
+| Pleasure              | 500 Belly  | Rare     |                      |                |                        |
+| Alpacaman             | 2000 Belly | Epic     | Brown Saber (Epic)   |                |                        |
+| Madilloman            | 2000 Belly | Epic     |                      |                |                        |
+| Dobon                 | 2000 Belly | Epic     | Orange Dagger (Epic) |                |                        |
+| Daifugo               | 2500 Belly | Epic     | Green Katana (Epic)  | Daifugo (Epic) |                        |
+| Babanuki              | 2000 Belly | Epic     |                      |                |                        |
+| Queen                 | 3000 Belly | Epic     | Dao Sword (Epic)     | Queen (Epic)   | Brachiosaurus Fragment |
+| Kanjuro The Traitor   | 2500 Belly | Epic     | Tsuji Shibai (Epic)  |                |                        |
 
 ### Essential NPCs
 

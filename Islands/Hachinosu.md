@@ -22,7 +22,7 @@ Bounty Reward: 36,750,000
 
 | Boss Name             | Belly      | Orb       | Weapon                                               | Armor Set         | Other                          |
 |-----------            |----------- |-----------|-----------                                           |-----------        |-----------                     |
-| Pearl The Iron Wall   | 1250 Belly | Rare      |                                                      |                   |                                |
+| Pearl The Iron Wall   | 1250 Belly | Rare      |                                                      | Pearl (Rare)      |                                |
 | Gin The Man Demon     | 1000 Belly | Rare      | Tonfa (Rare)                                         |                   |                                |
 | Foul Play Krieg       | 1500 Belly | Epic      | Diaseno (Rare)                                       | Krieg (Rare)      |                                |
 | Doc Q                 | 2000 Belly | Epic      | Double Bladed Scythe (Epic)                          |                   | Shiku Fragment                 |
@@ -31,8 +31,8 @@ Bounty Reward: 36,750,000
 | Catarina Devon        | 2000 Belly | Epic      | Mikazukiken (Epic)                                   |                   | Kyubi no Kitsune Fragment      |
 | Laffitte              | 2000 Belly | Epic      | Cane (Epic)                                          |                   |                                |
 | Vasco Shot            | 2000 Belly | Epic      |                                                      |                   |                                |
-| Van Augur             | 3000 Belly | Epic      |                                                      |                   | Wapu Fragment                  |
-| Jesus Burgess         | 3000 Belly | Epic      | Green Dagger (Epic)                                  |                   | Riki Fragment                  |
+| Van Augur             | 3000 Belly | Epic      |                                                      | Van Augur (Epic)  | Wapu Fragment                  |
+| Jesus Burgess         | 3000 Belly | Epic      | Green Dagger (Epic)                                  | Burgess (Epic)    | Riki Fragment                  |
 | Avalo Pizarro         | 2000 Belly | Epic      |                                                      |                   |                                |
 | Shiryu                | 3000 Belly | Epic      | Raiu (Epic)                                          |                   | Suke Fragment                  |
 | Kuzan                 | 4000 Belly | Legendary | Ice Saber (Epic)                                     | Aokiji (Epic)     | Hie Fragment                   |

@@ -78,13 +78,13 @@ Note: The player must complete Egghead to be have access to this questline. This
 | G-1 Commander Momonga		| 6000 Belly | Brown Katana (Legendary) 	|           			|           		|
 | Warden Magellan 			| 6000 Belly |           					| Magellan (Legendary)  | Doku Fragment		|
 | Great Staff Officer Tsuru	| 6000 Belly |           					|           			|           		|
-| Demon Bamboo Vergo		| 7000 Belly |           					|           			|           		|	
+| Demon Bamboo Vergo		| 7000 Belly |           					| Vergo (Legendary)		|           		|	
 | White Hunter Smoker		| 7000 Belly | Jitte (Legendary)        	| Smoker (Legendary)   	| Moku Fragment 	|
 | Pink Rabbit				| 7000 Belly |           					|           			|           		|
 | Brown Pig					| 8000 Belly |           					|           			|           		|
 | Hero Of The Marines		| 10000 Belly| Galaxy Fist (Legendary)  	| Garp (Legendary)  	|           		|
 | Yellow Monkey				| 10000 Belly| Ama No Murakumo (Legendary)  | Kizaru (Legendary)    | Pika Fragment 	|
-| Wisteria Tiger			| 10000 Belly| Yakuza Kasen (Legendary)     |                    	| Zushi Fragment	|
+| Wisteria Tiger			| 10000 Belly| Yakuza Kasen (Legendary)     | Fujitora (Legendary) 	| Zushi Fragment	|
 | Green Bull				| 10000 Belly|           					|           			| Mori Fragment 	|
 | Blue Pheasant				| 10000 Belly| Ice Saber (Legendary)        | Aokiji (Legendary)    | Hie Fragment      |
 | Red Dog					| 10000 Belly| Magma Fist (Legendary)       | Akainu (Legendary)    | Magu Fragment     |
@@ -95,21 +95,21 @@ Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls an
 
 ### Trials Quest Boss Locations
 
-| Boss Name 				| Island        | Sub-Location  | 
-|-----------				|-----------    |-----------    |
-| Hero Koby 				|               |               |
-| G-1 Commander Momonga		|               |               | 
-| Warden Magellan 			|               |               |
-| Great Staff Officer Tsuru	|               |               |  
-| Demon Bamboo Vergo		|               |               |     
-| White Hunter Smoker		|               |               |     
-| Pink Rabbit				|               |               | 
-| Brown Pig					|               |               |  
-| Hero Of The Marines		|               |               |  
-| Yellow Monkey				|               |               | 
-| Wisteria Tiger			|               |               | 
-| Green Bull				|               |               | 
-| Blue Pheasant				|               |               |
-| Red Dog					|               |               |
-| Sengoku The Buddha		|               |               |
-| Marine Commander Kong		|               |               |
+| Boss Name 				| Island        	| Sub-Location  				| 
+|-----------				|-----------    	|-----------    				|
+| Hero Koby 				| Alvida's Hideout	| Main Island					|
+| G-1 Commander Momonga		| Marineford    	| Main Building First Level		| 
+| Warden Magellan 			| Impel Down		| Level 4       				|
+| Great Staff Officer Tsuru	| New Marineford	| Rooftop South Side			|  
+| Demon Bamboo Vergo		| New Marineford	| Rooftop North Side			|     
+| White Hunter Smoker		| Loguetown			| Island North Side Grass Patch |     
+| Pink Rabbit				| New Marineford	| Rooftop West Side				| 
+| Brown Pig					| New Marineford	| Rooftop East Side				|  
+| Hero Of The Marines		| New Marineford	| Rooftop Center Room			|  
+| Yellow Monkey				| Impel Down		| Sea Level						| 
+| Wisteria Tiger			| Dressrosa    		| Eastmost Side of Town			| 
+| Green Bull				| Wano Kuni		   	| Udon North of Prison			| 
+| Blue Pheasant				| Punk Hazard     	| Ice Side West of Lab			|
+| Red Dog					| Punk Hazard     	| Fire Side East of Dragon		|
+| Sengoku The Buddha		| Marineford	   	| Main Building Second Level	|
+| Marine Commander Kong		| Marineford    	| Main Building Top Level		|

@@ -6,17 +6,17 @@ Set Bonuses are active when you have a full set of the same character's gear equ
 
 Guard Sets provide an extra protection value based on the source of damage. The types of set bonuses, a description on what they do, and the set bonus buffs for each tier is listed below. 
 
-| Set Bonus         | Description                   | Common | Uncommon | Rare| Epic | Legendary | Mythical |
-|-----------        |---------------                |--------|----------|-----|------|-----------|----------|
-| Melee Guard       | Melee Damage Reduction        | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
-| Projectile Guard  | Projectile Damage Reduction   | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
-| Blast Guard       | Blast Damage Reduction        | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
-| Elemental Guard   | Elemental Damage Reduction    | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
-| Slash Guard       | Slash Weapon Damage Reduction | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
-| Impact Guard      | Impact Weapon Damage Reduction| 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
-| Bludgeon Guard    | Impact Weapon Damage Reduction| 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
-| Pull Guard        | Slash Weapon Damage Reduction | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
-| Float Guard       | Slash Weapon Damage Reduction | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Set Bonus         | Description                       | Common | Uncommon | Rare| Epic | Legendary | Mythical |
+|-----------        |---------------                    |--------|----------|-----|------|-----------|----------|
+| Melee Guard       | Melee Damage Reduction            | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
+| Projectile Guard  | Projectile Damage Reduction       | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
+| Blast Guard       | Blast Damage Reduction            | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
+| Elemental Guard   | Elemental Damage Reduction        | 1%     | 2%       | 4%  | 8%   | 16%       | 32%      |
+| Slash Guard       | Slash Weapon Damage Reduction     | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Impact Guard      | Impact Weapon Damage Reduction    | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Bludgeon Guard    | Bludgeon Weapon Damage Reduction  | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Pull Guard        | Pull Weapon Damage Reduction      | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Float Guard       | Float Weapon Damage Reduction     | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 
 
 Please keep in mind that these bonuses are applied after the original armor value protection damages are taken into account. The equation and final damage example chart based on an original damage of 100 is below:<br> 

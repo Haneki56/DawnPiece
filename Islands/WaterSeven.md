@@ -35,21 +35,21 @@ Note: Completing this quest unlocks Enies Lobby. Speak to Sanji (W7) or the Tele
 
 ### Main Quest Boss Drops
 
-| Boss Name     | Belly     | Orb      | Weapon                        | Armor Set | Other     |
-|---------------|-----------|----------|-------------------------------|-----------|-----------|
-| Kop           | 200 Belly | Uncommon | Franky Family Sword (Uncommon)|           |           |
-| Schollzo      | 200 Belly | Uncommon | Franky Family Sword (Uncommon)|           |           |
-| Kiev          | 200 Belly | Uncommon | Franky Family Sword (Uncommon)|           |           |
-| Tamagon       | 250 Belly | Uncommon | Franky Family Sword (Uncommon)|           |           |
-| Mozu          | 150 Belly | Uncommon | Square Sword (Uncommon)       |           |           |
-| Kiwi          | 150 Belly | Uncommon | Square Sword (Uncommon)       |           |           |
-| Zambai        | 250 Belly | Uncommon | Franky Family Sword (Uncommon)|           |           |
-| Cutty Flam    | 300 Belly | Uncommon |                               |           |           |
-| Deserter Usopp| 50 Belly  | Common   |                               |           |           |
-| Tilestone     | 300 Belly | Uncommon | Shipwright Hammer (Uncommon)  |           |           |
-| Peepley Lulu  | 300 Belly | Uncommon | Shipwright Sword (Uncommon)   |           |           |
-| Paulie        | 350 Belly | Uncommon | Rope (Uncommon)               |           |           |
-| Iceberg       | 150 Belly | Uncommon |                               |           |           |
+| Boss Name     | Belly     | Orb      | Weapon                        | Armor Set          | Other     |
+|---------------|-----------|----------|-------------------------------|-----------         |-----------|
+| Kop           | 200 Belly | Uncommon | Franky Family Sword (Uncommon)|                    |           |
+| Schollzo      | 200 Belly | Uncommon | Franky Family Sword (Uncommon)|                    |           |
+| Kiev          | 200 Belly | Uncommon | Franky Family Sword (Uncommon)|                    |           |
+| Tamagon       | 250 Belly | Uncommon | Franky Family Sword (Uncommon)|                    |           |
+| Mozu          | 150 Belly | Uncommon | Square Sword (Uncommon)       |                    |           |
+| Kiwi          | 150 Belly | Uncommon | Square Sword (Uncommon)       |                    |           |
+| Zambai        | 250 Belly | Uncommon | Franky Family Sword (Uncommon)|                    |           |
+| Cutty Flam    | 300 Belly | Uncommon |                               | Franky (Uncommon)  |           |
+| Deserter Usopp| 50 Belly  | Common   |                               |                    |           |
+| Tilestone     | 300 Belly | Uncommon | Shipwright Hammer (Uncommon)  |                    |           |
+| Peepley Lulu  | 300 Belly | Uncommon | Shipwright Sword (Uncommon)   |                    |           |
+| Paulie        | 350 Belly | Uncommon | Rope (Uncommon)               |                    |           |
+| Iceberg       | 150 Belly | Uncommon |                               |                    |           |
 
 ### B Quest
 

@@ -36,24 +36,24 @@ Note: Completing this quest unlocks Amazon Lily. Speak to Zoro (SA) or the Telep
 | Boss Name         | Belly     | Orb      | Weapon                                                                     | Armor Set         | Other              |
 |-------------------|-----------|----------|----------------------------------------------------------------------------|-----------        |--------------------|
 | Capone Bege       | 400 Belly | Rare     |                                                                            |                   | Shiro Fragment     |
-| Jewelry Bonney    | 200 Belly | Uncommon |                                                                            |                   |                    |
-| Basil Hawkins     | 400 Belly | Rare     | Warabide Sword (Uncommon)                                                  |                   | Wara Fragment      |
+| Jewelry Bonney    | 200 Belly | Uncommon |                                                                            | Bonney (Uncommon) |                    |
+| Basil Hawkins     | 400 Belly | Rare     | Warabide Sword (Uncommon)                                                  | Hawkins (Uncommon)| Wara Fragment      |
 | Scratchmen Apoo   | 400 Belly | Rare     | Tonfa Baton (Uncommon)                                                     |                   | Oto Fragment       |
-| Urouge            | 400 Belly | Rare     | Pillar (Uncommon)                                                          |                   | Karu Fragment      |
+| Urouge            | 400 Belly | Rare     | Pillar (Uncommon)                                                          | Urouge (Uncommon) | Karu Fragment      |
 | X Drake           | 400 Belly | Rare     | X Axe (Uncommon)<br>X Rapier (Uncommon)                                    |                   | Allosaurus Fragment|
 | Saint Charlos     | 1 Belly   |          |                                                                            |                   |                    |
 | Roronoa Zolo      | 400 Belly | Rare     | Wado Ichimonji (Uncommon)<br>Shusui (Uncommon)<br>Sandai Kitetsu (Uncommon)| Zoro (Uncommon)   |                    |
 | Killer            | 400 Belly | Rare     | Punisher (Uncommon)                                                        |                   |                    |
 | Bepo              | 200 Belly | Uncommon |                                                                            |                   |                    |
-| Eustass Kid       | 450 Belly | Rare     | Metal Arm (Uncommon)                                                       |                   | Jiki Fragment      |
+| Eustass Kid       | 450 Belly | Rare     | Metal Arm (Uncommon)                                                       | Kid (Uncommon)    | Jiki Fragment      |
 | Trafalgar Law     | 450 Belly | Rare     | Kikoku (Uncommon)                                                          | Law (Uncommon)    | Ope Fragment       |
 | Monkey D. Luffy   | 450 Belly | Rare     |                                                                            | Luffy (Uncommon)  | Gomu Fragment      |
 | Seaman Apprentice | 10 Belly  |          | Marine Sword (Common)                                                      | Marine (Common)   |                    |
 | Kizaru            | 700 Belly | Rare     | Ama No Murakumo (Rare)                                                     | Kizaru (Rare)     |                    |
-| PX-1              | 200 Belly | Uncommon |                                                                            |                   |                    |
-| PX-4              | 200 Belly | Uncommon |                                                                            |                   |                    |
+| PX-1              | 200 Belly | Uncommon |                                                                            | Kuma (Uncommon)   |                    |
+| PX-4              | 200 Belly | Uncommon |                                                                            | Kuma (Uncommon)   |                    |
 | Sentomaru         | 350 Belly | Uncommon | Masakari (Uncommon)                                                        |                   |                    |
-| Kuma              | 600 Belly | Rare     |                                                                            |                   | Nikyu Fragment     |
+| Kuma              | 600 Belly | Rare     |                                                                            | Kuma (Uncommon)   | Nikyu Fragment     |
 
 ### Essential NPCs
 

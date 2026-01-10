@@ -37,3 +37,4 @@ Note: This quest can only be completed once.
 | Abilities Tutorial    | Basic Server Information          |
 | Recruiter             | Life Path Selector                |
 | Monkey D. Luffy       | New Player Guide                  |
+| Haki Reset            | Haki Meter Reset NPC              |

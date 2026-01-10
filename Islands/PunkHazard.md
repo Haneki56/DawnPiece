@@ -41,15 +41,15 @@ Note: Completing this quest unlocks Dressrosa. Speak to Brook (PH) or the Telepo
 | Centaur              | 200 Belly  | Uncommon |Centaur Sword (Uncommon)|               |                   |
 | Brownbeard           | 1300 Belly | Epic     | Centaur Sword (Rare)   |               |                   |
 | G-5 Marine           | 150 Belly  | Uncommon | Marine Sword (Uncommon)|               |                   |
-| Captain Tashigi      | 800 Belly  | Rare     | Shigure (Rare)         |               |                   |
+| Captain Tashigi      | 800 Belly  | Rare     | Shigure (Rare)         | Tashigi (Rare)|                   |
 | Vice-Admiral Smoker  | 1500 Belly | Epic     | Jitte (Rare)           | Smoker (Rare) | Moku Fragment     |
 | Giant Child          | 150 Belly  | Uncommon |                        |               |                   |
 | Rock                 | 500 Belly  | Rare     |                        |               |                   |
 | Scotch               | 500 Belly  | Rare     |                        |               |                   |
 | Scientist            | 100 Belly  | Uncommon |                        |               |                   |
-| Vergo                | 1300 Belly | Epic     | Oni Take (Rare)        |               |                   |
-| Monet                | 1500 Belly | Epic     | Ice Pick (Rare)        |               | Yuki Fragment     |
-| Caesar Clown         | 1700 Belly | Epic     | Blue Sword (Rare)      |               | Gasu Fragment     |
+| Vergo                | 1300 Belly | Epic     | Oni Take (Rare)        | Vergo (Rare)  |                   |
+| Monet                | 1500 Belly | Epic     | Ice Pick (Rare)        | Monet (Rare)  | Yuki Fragment     |
+| Caesar Clown         | 1700 Belly | Epic     | Blue Sword (Rare)      | Caesar (Rare) | Gasu Fragment     |
 | Smiley               | 500 Belly  | Rare     |                        |               | Axolotl Fragment  |
 
 ### Essential NPCs

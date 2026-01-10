@@ -27,11 +27,11 @@ Note: Completing this quest unlocks Whole Cake Island. Speak to Luffy (ZOU) or t
 
 ### Main Quest Boss Drops
 
-| Boss Name | Belly      | Orb    | Weapon               | Armor Set | Other            |
-|-----------|------------|--------|-----------           |-----------|-----------       |
-| Gifter    | 800 Belly  | Rare   |                      |           |                  |
-| Sheepshead| 1600 Belly | Epic   | Longsword (Rare)     |           |                  |
-| Jack      | 2300 Belly | Epic   | Shotel (Epic)        |           | Mammoth Fragment |
+| Boss Name | Belly      | Orb    | Weapon               | Armor Set    | Other            |
+|-----------|------------|--------|-----------           |-----------   |-----------       |
+| Gifter    | 800 Belly  | Rare   |                      |              |                  |
+| Sheepshead| 1600 Belly | Epic   | Longsword (Rare)     |              |                  |
+| Jack      | 2300 Belly | Epic   | Shotel (Epic)        | Jack (Epic)  | Mammoth Fragment |
 
 ### Essential NPCs
 

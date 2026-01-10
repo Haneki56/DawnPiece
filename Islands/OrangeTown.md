@@ -26,7 +26,7 @@ Note: Completing this quest unlocks Syrup Village. Speak to Luffy (OT) or the Te
 
 | Boss Name   | Belly    | Orb    | Weapon                | Armor Set       | Other         |
 |-------------|----------|--------|-----------------------|-----------      |-----------    |
-| Mohji       | 30 Belly | Common | Tamer Whip (Common)   |                 |               |
+| Mohji       | 30 Belly | Common | Tamer Whip (Common)   | Mohji (Common)  |               |
 | Richie      | 10 Belly | Common |                       |                 |               |
 | Cabaji      | 40 Belly | Common | Acrobat Sword (Common)|                 |               |
 | Clown Pirate| 20 Belly | Common |                       |                 |               |

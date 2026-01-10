@@ -42,15 +42,15 @@ Note: This is the final quest in the Main Story until we release further islands
 | S-Flamingo        | 1500 Belly | Epic     | Strings (Rare)            | Doflamingo (Rare) | Ito Fragment      |
 | S-Bat             | 1500 Belly | Epic     | Scissors (Rare)           | Moria (Rare)      | Kage Fragment     |
 | S-Crocodile       | 1500 Belly | Epic     | Hook (Rare)               | Crocodile (Rare)  | Suna Fragment     |
-| S-Bear            | 1500 Belly | Epic     |                           |                   | Nikyu Fragment    |
-| S-Shark           | 1500 Belly | Epic     |                           |                   | Sui Fragment      |
-| S-Snake           | 1500 Belly | Epic     |                           |                   | Mero Fragment     |
+| S-Bear            | 1500 Belly | Epic     |                           | Kuma (Rare)       | Nikyu Fragment    |
+| S-Shark           | 1500 Belly | Epic     |                           | Jinbe (Rare)      | Sui Fragment      |
+| S-Snake           | 1500 Belly | Epic     |                           | Hancock (Rare)    | Mero Fragment     |
 | S-Hawk            | 2000 Belly | Epic     | S-Hawk Sword (Epic)       | Mihawk (Epic)     | Supa Fragment     |
 | Rob Lucci (CP0)   | 2500 Belly | Epic     |                           | Cipher Pol (Epic) | Leopard Fragment  |
 | Kaku (CP0)        | 2300 Belly | Epic     | Shirasaya (Epic)          | Cipher Pol (Epic) | Giraffe Fragment  |
 | Stussy (CP0)      | 2000 Belly | Epic     |                           | Cipher Pol (Epic) | Batto Fragment    |
 | Borsalino         | 3000 Belly | Epic     | Ama No Murakumo (Epic)    | Kizaru (Epic)     | Pika Fragment     |
-| Pacifista Mark III| 1000 Belly | Rare     |                           |                   |                   |
+| Pacifista Mark III| 1000 Belly | Rare     |                           | Kuma (Rare)       |                   |
 | Doberman          | 1000 Belly | Rare     | Blue Katana (Rare)        |                   |                   |
 | Doll              | 1000 Belly | Rare     |                           |                   |                   |
 | Red King          | 1000 Belly | Rare     | Steam Knuckle (Rare)      |                   |                   |

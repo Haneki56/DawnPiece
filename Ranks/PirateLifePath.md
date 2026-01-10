@@ -73,22 +73,22 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 | Boss Name 			| Belly      | Weapon    											| Armor Set 			| Other     						|
 |-----------------------|------------|-----------											|-----------			|-----------						|
-| Pirate Empress		| 6000 Belly |            											|           			| Mero Fragment						|
-| Tyrant Kuma			| 6000 Belly |            											|           			| Nikyu Fragment					|
+| Pirate Empress		| 6000 Belly |            											| Hancock (Legendary)	| Mero Fragment						|
+| Tyrant Kuma			| 6000 Belly |            											| Kuma (Legendary)		| Nikyu Fragment					|
 | King Of The Shadows	| 6000 Belly | Scissors (Legendary)									| Moria (Legendary) 	| Kage Fragment						|
 | Heavenly Demon		| 7000 Belly | Strings (Legendary)									| Doflamingo (Legendary)| Ito Fragment						|
-| First Son Of The Sea	| 6000 Belly |           											|           			| 									|
+| First Son Of The Sea	| 6000 Belly |           											| Jinbe (Legendary) 	| 									|
 | Surgeon Of Death		| 7000 Belly | Kikoku (Legendary)									| Law (Legendary)		| Ope Fragment						|
 | Buggy The Star Clown	| 6000 Belly | Clown Knives (Legendary)								| Buggy (Legendary) 	| Bara Fragment						|
 | Hawk Eyes				| 10000 Belly| Yoru (Legendary)<br>Kogatana (Legendary) 			| Mihawk (Legendary) 	| 									|
 | Hero Of Alabasta		| 8000 Belly | Hook (Legendary)										| Crocodile (Legendary) | Suna Fragment						|
-| Big Mom				| 10000 Belly| Napoleon (Legendary)									|           			| Soru Fragment						|
-| Strongest Creature	| 10000 Belly| Hassaikai (Legendary)								|           			| Seiryu Fragment					|
+| Big Mom				| 10000 Belly| Napoleon (Legendary)									| Linlin (Legendary)	| Soru Fragment						|
+| Strongest Creature	| 10000 Belly| Hassaikai (Legendary)								| Kaido (Legendary)		| Seiryu Fragment					|
 | World's Strongest Man | 10000 Belly| Murakumogiri (Legendary)<br>Tremor Fist (Legendary)  |           			| Gura Fragment						|
-| Red Haired Shanks		| 10000 Belly| Gryphon (Legendary)			          				|           			| Advanced Haki Fragment 			|
+| Red Haired Shanks		| 10000 Belly| Gryphon (Legendary)			          				| Shanks (Legendary)	| Advanced Haki Fragment 			|
 | Blackbeard			| 10000 Belly| Darkness Fist (Legendary)<br>Tremor Fist (Legendary) | Teach (Legendary) 	| Yami Fragment<br>Gura Fragment	|
 | Sun God Nika			| 10000 Belly|		           										| Luffy (Legendary) 	| Gomu Fragment						|
-| Pirate King Roger		| 10000 Belly| Ace (Legendary)          							|          		 		| Advanced Haki Fragment 			|
+| Pirate King Roger		| 10000 Belly| Ace (Legendary)          							| Roger (Legendary)		| Advanced Haki Fragment 			|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

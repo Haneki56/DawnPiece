@@ -45,20 +45,20 @@ Note: Completing this quest unlocks Zou. Speak to Kyros (DR) or the Teleporter a
 | Boss Name            | Belly      | Orb       | Weapon                                    | Armor Set          | Other         |
 |-----------           |----------- |--------   |-----------                                |-----------         |-----------    |
 | Donquixote Pirate    | 400 Belly  | Rare      | Cutlass (Uncommon)                        |                    |               |
-| Fujitora             | 1700 Belly | Epic      | Yakuza Kasen (Rare)                       |                    | Zushi Fragment|
+| Fujitora             | 1700 Belly | Epic      | Yakuza Kasen (Rare)                       | Fujitora (Rare)    | Zushi Fragment|
 | Giolla               | 700 Belly  | Rare      |                                           |                    |               |
 | Bellamy The Hyena    | 1000 Belly | Rare      |                                           | Bellamy (Rare)     | Bane Fragment |
-| Dellinger            | 1200 Belly | Rare      |                                           |                    |               |
-| Machvise             | 1300 Belly | Epic      |                                           |                    |               |
-| Gladius              | 1200 Belly | Rare      |                                           |                    |               |
+| Dellinger            | 1200 Belly | Rare      |                                           | Dellinger (Rare)   |               |
+| Machvise             | 1300 Belly | Epic      |                                           | Machvise (Rare)    |               |
+| Gladius              | 1200 Belly | Rare      |                                           | Gladius (Rare)     |               |
 | Sugar                | 100 Belly  | Uncommon  |                                           |                    |               |
-| Lao G                | 1400 Belly | Epic      |                                           |                    |               |
+| Lao G                | 1400 Belly | Epic      |                                           | Lao G (Rare)       |               |
 | Buffalo              | 1200 Belly | Rare      |                                           |                    |               |
 | Baby 5               | 1100 Belly | Epic      | Arm Sword (Rare)                          |                    |               |
-| Senor Pink           | 1500 Belly | Epic      |                                           |                    | Sui Fragment  |
+| Senor Pink           | 1500 Belly | Epic      |                                           | Senor Pink (Rare)  | Sui Fragment  |
 | Trebol               | 1400 Belly | Epic      | Club Staff (Rare)                         |                    | Beta Fragment |
-| Diamante             | 1500 Belly | Epic      | Flag Sword (Rare)<br>Iron Umbrella (Rare) |                    |               |
-| Pica                 | 1200 Belly | Rare      | Oversized Sword (Rare)                    |                    | Ishi Fragment |
+| Diamante             | 1500 Belly | Epic      | Flag Sword (Rare)<br>Iron Umbrella (Rare) | Diamante (Rare)    |               |
+| Pica                 | 1200 Belly | Rare      | Oversized Sword (Rare)                    | Pica (Rare)        | Ishi Fragment |
 | Marine Lieutenant    | 400 Belly  | Rare      | Marine Sword (Uncommon)                   | Marine (Uncommon)  |               |
 | Vice Admiral Maynard | 1200 Belly | Rare      | Knife (Rare)                              |                    |               |
 | Vice Admiral Bastille| 1200 Belly | Rare      | Samekiri Bocho (Rare)                     |                    |               |

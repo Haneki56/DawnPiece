@@ -48,10 +48,10 @@ Note: Completing this quest unlocks the Flying Fish Riders Base. Speak to Kuma (
 | Inuppe          | 200 Belly | Uncommon |                          |                   | Sanji's Shadow  |
 | Jigoro          | 300 Belly | Uncommon | Cutlass (Uncommon)       |                   | Zoro's Shadow   |
 | Tararan         | 350 Belly | Uncommon |                          |                   |                 |
-| John            | 350 Belly | Uncommon | Cutlass (Uncommon)       |                   |                 |
+| John            | 350 Belly | Uncommon | Cutlass (Uncommon)       | John (Uncommon)   |                 |
 | Ryuma           | 400 Belly | Rare     | Shusui (Uncommon)        | Ryuma (Uncommon)  | Brook's Shadow  |
 | Kumashi         | 200 Belly | Uncommon |                          |                   |                 |
-| Perona          | 400 Belly | Rare     | Horo Umbrella (Uncommon) |                   | Horo Fragment   |
+| Perona          | 400 Belly | Rare     | Horo Umbrella (Uncommon) | Perona (Uncommon) | Horo Fragment   |
 | Nightmare Luffy | 450 Belly | Rare     |                          | Luffy (Uncommon)  | Gomu Fragment   |
 | Oars            | 300 Belly | Uncommon |                          |                   | Luffy's Shadow  |
 | Doppelman       | 50 Belly  | Common   |                          |                   |                 |

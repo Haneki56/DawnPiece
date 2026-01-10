@@ -28,7 +28,7 @@ Note: Completing this quest unlocks Reverse Mountain. Speak to Dragon (LGT) or t
 |-------------------|----------- |-----------|----------------------|-----------        |--------------|
 | Buggy The Clown   | 65 Belly   | Common    | Clown Knives (Common)| Buggy (Common)    | Bara Fragment|
 | Smooth Alvida     | 40 Belly   | Common    | Iron Mace (Common)   | Alvida (Common)   | Sube Fragment|
-| Tashigi           | 40 Belly   | Common    | Shigure (Common)     |                   |              |
+| Tashigi           | 40 Belly   | Common    | Shigure (Common)     | Tashigi (Common)  |              |
 | Smoker            | 100 Belly  | Uncommon  | Jitte (Uncommon)     | Smoker (Uncommon) |              |
 
 ### Essential NPCs

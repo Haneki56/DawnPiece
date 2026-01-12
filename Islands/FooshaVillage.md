@@ -26,8 +26,10 @@ Note: Completing this quest unlocks Alvida's Hideout. Speak to Shanks (FV) or th
 ### Merchants
 
 | Merchant Name    | Merchandise |
-|-------------     |-----------|
-| Makino           | Drinks |
+|-------------     |-----------  |
+| Makino           | Drinks      |
+| Baker            | Food        |
+| Pizzaiolo        | Food        |
 
 ### Essential NPCs
 

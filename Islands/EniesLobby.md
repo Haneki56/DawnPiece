@@ -76,10 +76,13 @@ Note: Completing this quest unlocks Thriller Bark. Speak to Luffy (EL) or the Te
 
 ### Essential NPCs
 
-| NPC Name         | Purpose                                    |
-|-------------     |-----------                                 |
-| Teleporter       | Teleport to any unlocked location          |
-| Teleporter (EL)  | Teleport to any unlocked Enies Lobby POI   |
-| Blacksmith       | Custom Gear Information                    |
-| Doctor           | Healer                                     |
-| Human Surgeon    | Race Changer                               |
+| NPC Name              | Purpose                                    |
+|-------------          |-----------                                 |
+| Teleporter            | Teleport to any unlocked location          |
+| Teleporter (EL)       | Teleport to any unlocked Enies Lobby POI   |
+| Blacksmith            | Custom Gear Information                    |
+| Doctor                | Healer                                     |
+| Banker                | Storage Tutorial                           |
+| Bank Teller           | Currency Exchange                          |
+| Bank Teller (Bulk)    | Currency Exchange                          |
+| Human Surgeon         | Race Changer                               |

@@ -47,7 +47,7 @@ Bounty Reward: 550,000
 | MMNM Ability Items        | Modded Ability Items      |
 | Brawler Damage Upgrader   | Charms                    |
 | Waiter                    | Food                      |
-| Chef                      | Sea King Meat             |
+| Butcher                   | Food                      |
 | Wool                      | Wool Blocks               |
 | Powdered Concrete         | Powdered Concrete Blocks  |
 | Concrete                  | Concrete Blocks           |

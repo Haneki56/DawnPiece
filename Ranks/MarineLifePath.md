@@ -109,7 +109,7 @@ Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls an
 | Yellow Monkey				| Impel Down		| Sea Level						| 
 | Wisteria Tiger			| Dressrosa    		| Eastmost Side of Town			| 
 | Green Bull				| Wano Kuni		   	| Udon North of Prison			| 
-| Blue Pheasant				| Punk Hazard     	| Ice Side West of Lab			|
-| Red Dog					| Punk Hazard     	| Fire Side East of Dragon		|
+| Blue Pheasant				| Punk Hazard     	| Ice Side South of Lab			|
+| Red Dog					| Punk Hazard     	| Fire Side North of Dragon		|
 | Sengoku The Buddha		| Marineford	   	| Main Building Second Level	|
 | Marine Commander Kong		| Marineford    	| Main Building Top Level		|

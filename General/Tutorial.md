@@ -70,7 +70,7 @@ The main currency is Belly. It is used to purchase items or commodities from a v
 1. Buying Devil Fruits: You can use in-game currency that you get from killing enemies and completing quests to buy Crate Keys from the merchants at Goa Kingdom which you can then use to roll for a random fruit depending on it's tier. 
 2. Earning Devil Fruits: Some bosses have a low chance of dropping fragments of their devil fruits. You can farm these bosses and trade their fragments in for the entire fruit to the fragment traders at Goa Kingdom.
 3. Trading Devil Fruits: Trading with or buying fruits from other players in the Market Channels on Discord or in game is a great way to get a devil fruit. You can also sell your possessions to other players to save up for a fruit or even a crate key.
-4. Winning Devil Fruits: There may be occasional events and giveaways where you can win a devil fruit! We don't do these often and they come at random times so keep an eye out on the [Item Search Channel](https://discord.com/channels/1385526041807949855/1388360081640521850) in the Discord.
+4. Winning Devil Fruits: There may be occasional events and giveaways where you can win a devil fruit! We don't do these often and they come at random times so keep an eye out on the [Events Channel](https://discord.com/channels/1385526041807949855/1388360081640521850) in the Discord.
 5. Removing Your Devil Fruit: You can talk to the Devil Fruit Remover at Goa Kingdom to remove your devil fruit for a price. Be sure that you want to remove your fruit because the change is permanent. If you have a Yami Yami No Mi combination with another fruit, both fruits will be removed in this process.
 
 ## Faction World

@@ -4,7 +4,9 @@ Players will be able to choose a class that they will like to play as in game. T
 
 ### Class Leveling
 
-Class leveling is tied to the amount of damage dealt by the player when using any class move. Each class will have its own level save data, so if a player changes their class, they start the new class at level 0. If they change back to a class they used before, then they return to that class’s level save data. A mythical class will require more experience points to level up compared to a common class.<br>
+Class leveling is tied to the amount of experience points by the player when using any class move. Experience points are tied to damage dealt for damage moves, damage recieved for armor moves, health regeneration for heal moves, distance traveled for speed moves, and so on and so forth.<br>
+
+Each class will have its own level save data, so if a player changes their class, they start the new class at level 0. If they change back to a class they used before, then they return to that class’s level save data. A mythical class will require more experience points to level up compared to a common class.<br>
 
 Every level up will increase damage, protection, range or other positive stats depending on the move. For example, a damage move will start with original damage and when it reaches level 10 it will do 100% of the damage. Every level up will also decrease cooldown, debuffs, and other negative stats depending on the move. For example, a move may have a cooldown of 15 seconds and when its level 10 it drops to 5 seconds losing 1 second per level.
 
@@ -12,17 +14,33 @@ Every level up will increase damage, protection, range or other positive stats d
 
 Each class will start with two moves and every two levels, you unlock a class move for a maximum of 7 moves.
 
+### Class Lines
+
+There will be 7 class lines that will be geared towards certain weapons of your choice, and as a result will buff their respective weapon damage output. Each class line will have its own progression system, so reaching max level on one class will only unlock one of the classes in the next tier. The following class lines are below.
+
+1. Slash Line: Focused on Slash Weapon Related Styles
+2. Bludgeon Line: Focused on Bludgeon Weapon Related Styles
+3. Impact Line: Focused on Impact Weapon Related Styles
+4. Pierce Line: Focused on Pierce Weapon Related Styles
+5. Ranged Line: Focused on Ranged Weapon Related Styles
+6. Martial Artist Line: Focused on Fist Related Styles
+7. Special Line: Varied Style Classes
+
 ### Common Class
 
 Common classes are the classes that you have automatically unlocked at the beginning of the game. The following links take you to each specific common class in the game. 
 
-1. 
-2. 
-3. 
+1. Swordsman (Random Characters Sword, Saber, etc.)
+2. Bruiser (Random Characters Mace, Axe, Tofa, Pipe, etc.)
+3. Brawler (Random Characters punching moves like Boxers, Fighters, etc.)
+4. Scout (Random Characters Knife, Dagger, etc.)
+5. Gunslinger (Random Characters Pistol, Slingshot, etc.)
+6. Martial Artist (Random Characters kicking moves)
+7. Doctor 
 
 Every common class levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 25,000                 | 25,000                  |
@@ -38,15 +56,19 @@ Every common class levels up based on the following experience system.
 
 ### Uncommon Class
 
-Uncommon classes require that you achieve the max level of two common classes to unlock. The following links take you to each specific uncommon class in the game. 
+Uncommon classes require that you achieve the max level of the common class type of the same number to unlock. The following links take you to each specific uncommon class in the game. 
 
-1. 
-2. 
-3. 
+1. Duelist (Random Characters Sword, Saber, etc.) 
+2. Raider (Random Characters Mace, Axe, Tofa, Pipe etc.)
+3. Ramen Kenpo (Cipher Pol Wanze Style)
+4. Chef (Random Character Knife, Dagger, Culinary, etc.)
+5. Trick Shooter (Usopp)
+6. Okama Kenpo (Bon Clay, etc.)
+7. Rope Action 
 
 Every uncommon class levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 50,000                 | 50,000                  |
@@ -62,15 +84,19 @@ Every uncommon class levels up based on the following experience system.
 
 ### Rare Class
 
-Rare classes require that you achieve the max level of two uncommon classes to unlock. The following links take you to each specific rare class in the game. 
+Rare classes require that you achieve the max level of the uncommon class type of the same number to unlock. The following links take you to each specific rare class in the game. 
 
-1. 
-2. 
-3. 
+1. Foxfire (Flame Sword attacks from Kin'emon, Zoro, Fossa, etc.)
+2. Skullsplitter (Random Characters Mace, Axe, Tofa, Pipe, etc.)
+3. Geo Fist (Lao G Style)
+4. Vanguard (Random Character Knife, Dagger, Lance, etc.)
+5. Ace Gunner (Random Characters like Baby 5 Gatling, etc)
+6. Fishman Karate (Hack, Arlong, etc.)
+7. Colors Trap
 
 Every rare class levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 75,000                 | 75,000                  |
@@ -86,15 +112,19 @@ Every rare class levels up based on the following experience system.
 
 ### Epic Class
 
-Epic classes require that you achieve the max level of two rare classes to unlock. The following links take you to each specific epic class in the game. 
+Epic classes require that you achieve the max level of the rare class type of the same number to unlock. The following links take you to each specific epic class in the game. 
 
-1. 
-2. 
-3. 
+1. Itoryu (One Sword Style Based on Zoro, Mihawk, Vista, etc.)
+2. Executioner (Random Characters Mace, Axe, Tofa, Pipe, etc.)
+3. Dragon Claw Fist (Sabo Style)
+4. Harpooner (Random Character Lance, Trident, etc.)
+5. Twin Barrel (Izou and other dual weapon users)
+6. Fishman Jujitsu (Jinbe)
+7. Parasol
 
 Every epic class levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 100,000                | 100,000                 |
@@ -110,15 +140,19 @@ Every epic class levels up based on the following experience system.
 
 ### Legendary Class
 
-Legendary classes require that you achieve the max level of two epic classes to unlock. The following links take you to each specific legendary class in the game. 
+Legendary classes require that you achieve the max level of the legendary class type of the same number to unlock. The following links take you to each specific legendary class in the game. 
 
-1. 
-2. 
-3. 
+1. Nitoryu (Two Sword Style based on Zoro, Oden, etc.)
+2. Twin Executioner (Gaban Dual Axe)
+3. Eight Impact Fist (Don Chinjao Style)
+4. Dragon Fang (Likely Custom Moves)
+5. Sharpshooter (Likely Custom Moves but want to be based on Yassop, Van Augur)
+6. Life Return (Lucci, Kumadori)
+7. Art of Weather
 
 Every legendary class levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 150,000                | 150,000                 |
@@ -134,15 +168,19 @@ Every legendary class levels up based on the following experience system.
 
 ### Mythical Class
 
-Mythical classes require that you achieve the max level of two legendary classes to unlock. The following links take you to each specific mythical class in the game. 
+Mythical classes require that you achieve the max level of the legendary class type of the same number to unlock. The following links take you to each specific mythical class in the game. 
 
-1. 
-2. 
-3. 
+1. Santoryu (Three Sword Style based on Zoro)
+2. Drunken Dragon Bagua (Kaido)
+3. Absolute Fist (Garp/Koby Style)
+4. Heaven Piercer (Likely Custom Moves)
+5. Deadeye (Likely Custom Moves but want to be based on Benn Beckman)
+6. Black Leg (Sanji)
+7. Puppeteer 
 
 Every mythical class levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 200,000                | 200,000                 |

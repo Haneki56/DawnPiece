@@ -4,7 +4,9 @@ Players will be able to choose a race that they will like to play as in game. To
 
 ### Race Leveling
 
-Race leveling is tied to the amount of damage dealt by the player when using any race move. Each race will have its own level save data, so if a player changes their race, they start the new race at level 0. If they change back to a race they used before, then they return to that race’s level save data. A mythical race will require more experience points to level up compared to a common race.<br>
+Race leveling is tied to the amount of experience points by the player when using any race move. Experience points are tied to damage dealt for damage moves, damage recieved for armor moves, health regeneration for heal moves, distance traveled for speed moves, and so on and so forth.<br>
+
+Each race will have its own level save data, so if a player changes their race, they start the new race at level 0. If they change back to a race they used before, then they return to that race’s level save data. A mythical race will require more experience points to level up compared to a common race.<br>
 
 Every level up will increase damage, protection, range or other positive stats depending on the move. For example, a damage move will start with original damage and when it reaches level 10 it will do 100% of the damage. Every level up will also decrease cooldown, debuffs, and other negative stats depending on the move. For example, a move may have a cooldown of 15 seconds and when its level 10 it drops to 5 seconds losing 1 second per level.
 
@@ -16,13 +18,13 @@ Each race will have passive abilities that will be available at all times. Some 
 
 Common races are the races that you have automatically unlocked at the beginning of the game. The following links take you to each specific common race in the game. 
 
-1. 
-2. 
-3. 
+1. Human
+2. Fishman
+3. Sky Folk
 
 Every common race levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 25,000                 | 25,000                  |
@@ -40,13 +42,13 @@ Every common race levels up based on the following experience system.
 
 Uncommon races require that you achieve the max level of two common races to unlock. The following links take you to each specific uncommon race in the game. 
 
-1. 
-2. 
-3. 
+1. Long Limb
+2. Merfolk
+3. Cyborg
 
 Every uncommon race levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 50,000                 | 50,000                  |
@@ -64,13 +66,13 @@ Every uncommon race levels up based on the following experience system.
 
 Rare races require that you achieve the max level of two uncommon races to unlock. The following links take you to each specific rare race in the game. 
 
-1. 
-2. 
-3. 
+1. Pacifista
+2. Wotan
+3. Tontatta
 
 Every rare race levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 75,000                 | 75,000                  |
@@ -88,13 +90,13 @@ Every rare race levels up based on the following experience system.
 
 Epic races require that you achieve the max level of two rare races to unlock. The following links take you to each specific epic race in the game. 
 
-1. 
-2. 
-3. 
+1. Buccaneer
+2. Modified Human
+3. Mink
 
 Every epic race levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 100,000                | 100,000                 |
@@ -112,13 +114,13 @@ Every epic race levels up based on the following experience system.
 
 Legendary races require that you achieve the max level of two epic races to unlock. The following links take you to each specific legendary race in the game. 
 
-1. 
-2. 
-3. 
+1. Giant
+2. Oni
+3. Seraphim
 
 Every legendary race levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 150,000                | 150,000                 |
@@ -136,13 +138,13 @@ Every legendary race levels up based on the following experience system.
 
 Mythical races require that you achieve the max level of two legendary races to unlock. The following links take you to each specific mythical race in the game. 
 
-1. 
-2. 
-3. 
+1. Lunarian
+2. Ancient Giant
+3. Demon
 
 Every mythical race levels up based on the following experience system.
 
-| Level     | Damage Dealt Per Level | Cumulative Damage Dealt |
+| Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
 | 0         | 0                      | 0                       |
 | 1         | 200,000                | 200,000                 |

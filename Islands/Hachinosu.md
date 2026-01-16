@@ -23,7 +23,7 @@ Bounty Reward: 36,750,000
 | Boss Name             | Belly      | Orb       | Weapon                                               | Armor Set         | Other                          |
 |-----------            |----------- |-----------|-----------                                           |-----------        |-----------                     |
 | Pearl The Iron Wall   | 1250 Belly | Rare      |                                                      | Pearl (Rare)      |                                |
-| Gin The Man Demon     | 1000 Belly | Rare      | Tonfa (Rare)                                         |                   |                                |
+| Gin The Man Demon     | 1000 Belly | Rare      | Tonfa (Rare)                                         | Gin (Rare)        |                                |
 | Foul Play Krieg       | 1500 Belly | Epic      | Diaseno (Rare)                                       | Krieg (Rare)      |                                |
 | Doc Q                 | 2000 Belly | Epic      | Double Bladed Scythe (Epic)                          |                   | Shiku Fragment                 |
 | Stronger              | 1000 Belly | Rare      |                                                      |                   | Pegasus Fragment               |

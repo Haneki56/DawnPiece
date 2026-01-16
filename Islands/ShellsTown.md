@@ -27,7 +27,7 @@ Note: Completing this quest unlocks Orange Town. Speak to Ririka (ST) or the Tel
 | Ukkari         | 15 Belly | Common | Marine Sword (Common)| Marine (Common)   |           |
 | Rokkaku        | 15 Belly | Common | Marine Sword (Common)| Marine (Common)   |           |
 | Ripper         | 15 Belly | Common | Marine Sword (Common)| Marine (Common)   |           |
-| Helmeppo       | 5 Belly  | Common |                      |                   |           |
+| Helmeppo       | 5 Belly  | Common |                      | Helmeppo (Common) |           |
 | Axe-Hand Morgan| 40 Belly | Common | Axe Hand (Common)    | Morgan (Common)   |           |
 
 ### Essential NPCs

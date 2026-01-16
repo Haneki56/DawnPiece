@@ -84,7 +84,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Hero Of Alabasta		| 8000 Belly | Hook (Legendary)										| Crocodile (Legendary) | Suna Fragment						|
 | Big Mom				| 10000 Belly| Napoleon (Legendary)									| Linlin (Legendary)	| Soru Fragment						|
 | Strongest Creature	| 10000 Belly| Hassaikai (Legendary)								| Kaido (Legendary)		| Seiryu Fragment					|
-| World's Strongest Man | 10000 Belly| Murakumogiri (Legendary)<br>Tremor Fist (Legendary)  |           			| Gura Fragment						|
+| World's Strongest Man | 10000 Belly| Murakumogiri (Legendary)<br>Tremor Fist (Legendary)  | Newgate (Legendary)	| Gura Fragment						|
 | Red Haired Shanks		| 10000 Belly| Gryphon (Legendary)			          				| Shanks (Legendary)	| Advanced Haki Fragment 			|
 | Blackbeard			| 10000 Belly| Darkness Fist (Legendary)<br>Tremor Fist (Legendary) | Teach (Legendary) 	| Yami Fragment<br>Gura Fragment	|
 | Sun God Nika			| 10000 Belly|		           										| Luffy (Legendary) 	| Gomu Fragment						|
@@ -108,7 +108,7 @@ Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls an
 | Big Mom				| Whole Cake Island | Queen Mama Chanter			| 
 | Strongest Creature	| Knock Up Stream	| Top of the Waterfall			| 
 | World's Strongest Man | Sphinx			| North Side of Sphinx			| 
-| Red Haired Shanks		| Foosha Village 	| Red Force					    |
+| Red Haired Shanks		| Marineford	 	| Red Force					    |
 | Blackbeard			| Hachinosu			| Saber of Xebec				|
 | Sun God Nika			| Onigashima		| Top Of The Exterior Skull		|
 | Pirate King Roger		| Jaya          	| Oro Jackson					|

@@ -74,22 +74,22 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 | Boss Name 				| Belly      | Weapon    					| Armor Set 			| Other     		|
 |-----------				|----------- |-----------					|-----------			|-----------		|
-| Hero Koby 				| 6000 Belly |           					|           			|           		|
-| G-1 Commander Momonga		| 6000 Belly | Brown Katana (Legendary) 	|           			|           		|
+| Hero Koby 				| 6000 Belly |           					| Koby (Legendary)		|           		|
+| G-1 Commander Momonga		| 6000 Belly | Brown Katana (Legendary) 	| Momonga (Legendary)	|           		|
 | Warden Magellan 			| 6000 Belly |           					| Magellan (Legendary)  | Doku Fragment		|
-| Great Staff Officer Tsuru	| 6000 Belly |           					|           			|           		|
+| Great Staff Officer Tsuru	| 6000 Belly |           					| Tsuru (Legendary)		|           		|
 | Demon Bamboo Vergo		| 7000 Belly |           					| Vergo (Legendary)		|           		|	
 | White Hunter Smoker		| 7000 Belly | Jitte (Legendary)        	| Smoker (Legendary)   	| Moku Fragment 	|
-| Pink Rabbit				| 7000 Belly |           					|           			|           		|
-| Brown Pig					| 8000 Belly |           					|           			|           		|
+| Pink Rabbit				| 7000 Belly |           					| Momousagi (Legendary)	|           		|
+| Brown Pig					| 8000 Belly |           					| Chaton (Legendary)	|           		|
 | Hero Of The Marines		| 10000 Belly| Galaxy Fist (Legendary)  	| Garp (Legendary)  	|           		|
 | Yellow Monkey				| 10000 Belly| Ama No Murakumo (Legendary)  | Kizaru (Legendary)    | Pika Fragment 	|
 | Wisteria Tiger			| 10000 Belly| Yakuza Kasen (Legendary)     | Fujitora (Legendary) 	| Zushi Fragment	|
-| Green Bull				| 10000 Belly|           					|           			| Mori Fragment 	|
+| Green Bull				| 10000 Belly|           					| Ryokugyu (Legendary)	| Mori Fragment 	|
 | Blue Pheasant				| 10000 Belly| Ice Saber (Legendary)        | Aokiji (Legendary)    | Hie Fragment      |
 | Red Dog					| 10000 Belly| Magma Fist (Legendary)       | Akainu (Legendary)    | Magu Fragment     |
-| Sengoku The Buddha		| 10000 Belly|           					|           			| Daibutsu Fragment |
-| Marine Commander Kong		| 10000 Belly|           					|           			|           		|
+| Sengoku The Buddha		| 10000 Belly|           					| Sengoku (Legendary)	| Daibutsu Fragment |
+| Marine Commander Kong		| 10000 Belly|           					| Koong (Legendary)		|           		|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

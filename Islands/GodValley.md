@@ -54,9 +54,9 @@ Bounty Reward: 44,500,000
 | Captain John          | 3000 Belly | Epic      | Metal Arm (Epic)                             | John (Epic)       | Jiki Fragment                  |
 | Kyo                   | 3000 Belly | Epic      |                                              |                   |                                |
 | Young Kaido           | 5000 Belly | Legendary | Hassaikai (Epic)                             | Kaido (Epic)      | Seiryu Fragment                |
-| Newgate               | 5000 Belly | Legendary | Murakumogiri (Epic)<br>Tremor Fist (Epic)    |                   | Gura Fragment                  |
+| Newgate               | 5000 Belly | Legendary | Murakumogiri (Epic)<br>Tremor Fist (Epic)    | Newgate (Epic)    | Gura Fragment                  |
 | Linlin                | 5000 Belly | Legendary | Napoleon (Epic)                              | Linlin (Epic)     | Soru Fragment                  |
-| Shiki                 | 5000 Belly | Legendary |                                              |                   | Fuwa Fragment                  |
+| Shiki                 | 5000 Belly | Legendary |                                              | Shiki (Epic)      | Fuwa Fragment                  |
 | Don Marlon            | 4000 Belly | Legendary |                                              |                   |                                |
 | Xebec                 | 10000 Belly| Legendary | Saber Of Xebec (Legendary)                   | Xebec (Legendary) | Advanced Haki Fragment         |
 
@@ -83,8 +83,8 @@ Bounty Reward: 29,500,000
 | Crocus                | 3000 Belly | Epic      |                                                      |                   |                                |
 | Moon Issac Jr.        | 3000 Belly | Epic      |                                                      |                   |                                |
 | Sunbell               | 3000 Belly | Epic      |                                                      |                   |                                |
-| Scopper Gaban         | 4500 Belly | Legendary |                                                      |                   |                                |
-| Silvers Rayleigh      | 4500 Belly | Legendary | Meio Sword (Epic)                                    |                   |                                |
+| Scopper Gaban         | 4500 Belly | Legendary |                                                      | Gaban (Epic)      |                                |
+| Silvers Rayleigh      | 4500 Belly | Legendary | Meio Sword (Epic)                                    | Rayleigh (Epic)   |                                |
 | Gol D. Roger          | 8000 Belly | Legendary | Ace (Legendary)                                      | Roger (Legendary) | Advanced Haki Fragment         |
 
 ### Essential NPCs

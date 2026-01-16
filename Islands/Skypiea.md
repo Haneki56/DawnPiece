@@ -34,27 +34,27 @@ Note: Completing this quest unlocks Long Ring Long Land. Speak to Sanji (SP) or 
 
 ### Main Quest Boss Drops
 
-| Boss Name        | Belly     | Orb      | Weapon                   | Armor Set        | Other           |
-|------------------|-----------|----------|--------------------------|-----------       |-----------------|
-| White Beret      | 50 Belly  | Common   |                          |                  |                 |
-| Captain McKinley | 100 Belly | Uncommon |                          |                  |                 |
-| Shandian Warrior | 50 Belly  | Common   |                          |                  |                 |
-| Genbo            | 100 Belly | Uncommon |                          |                  |                 |
-| Braham           | 100 Belly | Uncommon |                          |                  |                 |
-| Kamakiri         | 150 Belly | Uncommon | Burn Blade (Uncommon)    |                  |                 |
-| Raki             | 150 Belly | Uncommon |                          |                  |                 |
-| Wyper            | 200 Belly | Uncommon |                          |                  |                 |
-| Divine Soldier   | 50 Belly  | Common   |                          |                  |                 |
-| Yama             | 200 Belly | Uncommon |                          |                  |                 |
-| Hotori           | 100 Belly | Uncommon | Impact Gloves (Uncommon) | Hotori (Uncommon)|                 |
-| Kotori           | 100 Belly | Uncommon | Impact Gloves (Uncommon) | Kotori (Uncommon)|                 |
-| Satori           | 250 Belly | Uncommon | Impact Gloves (Uncommon) | Satori (Uncommon)|                 |
-| Shura            | 200 Belly | Uncommon | Heat Javelin (Uncommon)  |                  |                 |
-| Holy             | 50 Belly  | Common   |                          |                  |                 |
-| Ohm              | 300 Belly | Uncommon | Eisen Whip (Uncommon)    |                  |                 |
-| Gedatsu          | 350 Belly | Uncommon |                          |                  |                 |
-| Gan Fall         | 400 Belly | Uncommon | Skypiean Lance (Uncommon)|                  |                 |
-| Enel             | 650 Belly | Rare     | Nonosama Bo (Uncommon)   | Enel (Uncommon)  | Goro Fragment   |
+| Boss Name        | Belly     | Orb      | Weapon                   | Armor Set                | Other           |
+|------------------|-----------|----------|--------------------------|-----------               |-----------------|
+| White Beret      | 50 Belly  | Common   |                          | White Beret (Common)     |                 |
+| Captain McKinley | 100 Belly | Uncommon |                          | White Beret (Uncommon)   |                 |
+| Shandian Warrior | 50 Belly  | Common   |                          |                          |                 |
+| Genbo            | 100 Belly | Uncommon |                          |                          |                 |
+| Braham           | 100 Belly | Uncommon |                          |                          |                 |
+| Kamakiri         | 150 Belly | Uncommon | Burn Blade (Uncommon)    |                          |                 |
+| Raki             | 150 Belly | Uncommon |                          |                          |                 |
+| Wyper            | 200 Belly | Uncommon |                          |                          |                 |
+| Divine Soldier   | 50 Belly  | Common   |                          |                          |                 |
+| Yama             | 200 Belly | Uncommon |                          | Yama (Uncommon)          |                 |
+| Hotori           | 100 Belly | Uncommon | Impact Gloves (Uncommon) | Hotori (Uncommon)        |                 |
+| Kotori           | 100 Belly | Uncommon | Impact Gloves (Uncommon) | Kotori (Uncommon)        |                 |
+| Satori           | 250 Belly | Uncommon | Impact Gloves (Uncommon) | Satori (Uncommon)        |                 |
+| Shura            | 200 Belly | Uncommon | Heat Javelin (Uncommon)  | Shura (Uncommon)         |                 |
+| Holy             | 50 Belly  | Common   |                          |                          |                 |
+| Ohm              | 300 Belly | Uncommon | Eisen Whip (Uncommon)    | Ohm (Uncommon)           |                 |
+| Gedatsu          | 350 Belly | Uncommon |                          | Gedatsu (Uncommon)       |                 |
+| Gan Fall         | 400 Belly | Uncommon | Skypiean Lance (Uncommon)| Gan Fall (Uncommon)      |                 |
+| Enel             | 650 Belly | Rare     | Nonosama Bo (Uncommon)   | Enel (Uncommon)          | Goro Fragment   |
 
 ### B Quest
 

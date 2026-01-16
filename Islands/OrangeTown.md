@@ -28,7 +28,7 @@ Note: Completing this quest unlocks Syrup Village. Speak to Luffy (OT) or the Te
 |-------------|----------|--------|-----------------------|-----------      |-----------    |
 | Mohji       | 30 Belly | Common | Tamer Whip (Common)   | Mohji (Common)  |               |
 | Richie      | 10 Belly | Common |                       |                 |               |
-| Cabaji      | 40 Belly | Common | Acrobat Sword (Common)|                 |               |
+| Cabaji      | 40 Belly | Common | Acrobat Sword (Common)| Cabaji (Common) |               |
 | Clown Pirate| 20 Belly | Common |                       |                 |               |
 | Buggy       | 55 Belly | Common | Clown Knives (Common) | Buggy (Common)  | Bara Fragment |
 

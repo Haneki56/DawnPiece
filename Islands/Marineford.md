@@ -42,7 +42,7 @@ Note: Completing this quest unlocks Rusukaina. Speak to Jinbe (MF) or the Telepo
 | Vice-Admiral Yamakaji         | 400 Belly  | Rare      | Green Katana (Uncommon)    |                     |                   |
 | Vice-Admiral Onigumo          | 400 Belly  | Rare      | Cutlass (Uncommon)         |                     |                   |
 | Vice-Admiral Comil            | 400 Belly  | Rare      | Brown Katana (Uncommon)    |                     |                   |
-| Vice-Admiral Momonga          | 400 Belly  | Rare      | Brown Katana (Uncommon)    |                     |                   |
+| Vice-Admiral Momonga          | 400 Belly  | Rare      | Brown Katana (Uncommon)    | Momonga (Uncommon)  |                   |
 | Vice-Admiral Doberman         | 400 Belly  | Rare      | Blue Katana (Uncommon)     |                     |                   |
 | Vice-Admiral John Giant       | 400 Belly  | Rare      | Clover Katana (Uncommon)   |                     |                   |
 | Vice-Admiral Lacroix          | 400 Belly  | Rare      | Marine Sword (Uncommon)    |                     |                   |
@@ -63,15 +63,15 @@ Note: Completing this quest unlocks Rusukaina. Speak to Jinbe (MF) or the Telepo
 | Warlord Mihawk                | 1000 Belly | Rare      | Yoru (Rare)                | Mihawk (Rare)       |                   |
 | Warlord Moria                 | 700 Belly  | Rare      | Scissors (Rare)            | Moria (Rare)        | Kage Fragment     |
 | Warlord Doflamingo            | 900 Belly  | Rare      | Strings (Rare)             | Doflamingo (Rare)   | Ito Fragment      |
-| Petty Officer Koby            | 200 Belly  | Uncommon  |                            |                     |                   |
-| Petty Officer Helmeppo        | 150 Belly  | Uncommon  | Kukri (Uncommon)           |                     |                   |
+| Petty Officer Koby            | 200 Belly  | Uncommon  |                            | Koby (Uncommon)     |                   |
+| Petty Officer Helmeppo        | 150 Belly  | Uncommon  | Kukri (Uncommon)           | Helmeppo (Uncommon) |                   |
 | Vice-Admiral Garp             | 800 Belly  | Rare      | Galaxy Fist (Rare)         | Garp (Rare)         |                   |
-| Vice-Admiral Tsuru            | 300 Belly  | Uncommon  |                            |                     |                   |
+| Vice-Admiral Tsuru            | 300 Belly  | Uncommon  |                            | Tsuru (Uncommon)    |                   |
 | Vice-Admiral Bastille         | 400 Belly  | Rare      | Samekiri Bocho (Uncommon)  |                     |                   |
 | Admiral Kizaru                | 1300 Belly | Epic      | Ama No Murakumo (Rare)     | Kizaru (Rare)       | Pika Fragment     |
 | Admiral Aokiji                | 1300 Belly | Epic      | Ice Saber (Rare)           | Aokiji (Rare)       | Hie Fragment      |
 | Admiral Akainu                | 1500 Belly | Epic      | Magma Fist (Rare)          | Akainu (Rare)       | Magu Fragment     |
-| Fleet Admiral Sengoku         | 800 Belly  | Rare      |                            |                     | Daibutsu Fragment |
+| Fleet Admiral Sengoku         | 800 Belly  | Rare      |                            | Sengoku (Rare)      | Daibutsu Fragment |
 
 ### B Quest
 
@@ -126,9 +126,9 @@ Bounty Reward: 12,600,000
 | Ramba              | 300 Belly | Uncommon | Long Rapier (Uncommon)                    |                       |                 |
 | Jozu               | 900 Belly | Rare     | Diamond Fist (Rare)                       |                       | Kira Fragment   |
 | A O                | 300 Belly | Uncommon | Cutlass (Uncommon)                        |                       |                 |
-| Marco              | 1000 Belly| Rare     |                                           |                       | Phoenix Fragment|
+| Marco              | 1000 Belly| Rare     |                                           | Marco (Rare)          | Phoenix Fragment|
 | Squard             | 400 Belly | Uncommon | Oversized Katana (Uncommon)               |                       |                 |
-| Whitebeard         | 1500 Belly| Epic     | Murakumogiri (Rare)<br>Tremor Fist (Rare) |                       |                 |
+| Whitebeard         | 1500 Belly| Epic     | Murakumogiri (Rare)<br>Tremor Fist (Rare) | Newgate (Rare)        |                 |
 
 ### C Quest
 

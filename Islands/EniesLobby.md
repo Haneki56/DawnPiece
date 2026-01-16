@@ -72,7 +72,7 @@ Note: Completing this quest unlocks Thriller Bark. Speak to Luffy (EL) or the Te
 | Vice Admiral Yamakaji     | 300 Belly | Uncommon | Green Katana (Uncommon)     |                      |                                      |
 | Vice Admiral Onigumo      | 300 Belly | Uncommon | Cutlass (Uncommon)          |                      |                                      |
 | Vice Admiral Doberman     | 300 Belly | Uncommon | Blue Katana (Uncommon)      |                      |                                      |
-| Vice Admiral Momonga      | 300 Belly | Uncommon | Brown Katana (Uncommon)     |                      |                                      |
+| Vice Admiral Momonga      | 300 Belly | Uncommon | Brown Katana (Uncommon)     | Momonga (Uncommon)   |                                      |
 
 ### Essential NPCs
 

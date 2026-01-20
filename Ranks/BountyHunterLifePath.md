@@ -71,42 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
+| Boss Name 				| Belly     | Weapon    				| Armor Set 			| Other     			|
+|-----------				|-----------|-----------				|-----------			|-----------			|
+| Vista Of The Flower Swords|           | Rose Sword (Legendary) 	| Vista (Legendary)  	|           			|
+| Diamond Jozu				|           | Diamond Fist (Legendary)  |                       | Kira Fragment   		|
+| Marco The Phoenix			|           |           				| Marco (Legendary)     | Phoenix Fragment		|
+| Sweet Commander Katakuri	|           | Mogura (Legendary)        |                		| Mochi Fragment		|
+| Sweet Commander Smoothie	|           | Shiboriken (Legendary)    |                		| Shibo Fragment		|	
+| Sweet Commander Cracker	|           | Pretzel (Legendary)       | Cracker (Legendary) 	| Bisu Fragment 		|
+| Jack The Drought			|           | Shotel (Legendary)        | Jack (Legendary)   	| Mammoth Fragment  	|
+| Queen The Plague			|           | Dao Sword (Legendary)     | Queen (Legendary)  	| Brachiosaurus Fragment|
+| King The Wildfire			|           | King Sword (Legendary)    | King (Legendary)   	| Pteranodon Fragment	|
+| Lucky Roux The Cook		|           |           				|           			|           			|
+| Chaser Yasopp				|           |           				|           			|           			|
+| First Mate Benn Beckman	|           |           				|           			|           			|
+| Champion Jesus Burgess	|           | Green Dagger (Legendary)  | Burgess (Legendary)   | Riki Fragment 		|
+| Shiryu Of The Rain		|           | Raiu (Legendary)          |                   	| Suke Fragment			|
+| The Supersonic			|           |           				| Van Augur (Legendary) | Wapu Fragment 		|
+| Eustass “Captain” Kid		|           | Metal Arm (Legendary)     | Kid (Legendary)    	| Jiki Fragment			|
+
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name | Island        | Sub-Location  | 
-|-----------|-----------    |-----------    |
-|           |               |               |
-|           |               |               | 
-|           |               |               |
-|           |               |               |  
-|           |               |               |     
-|           |               |               |     
-|           |               |               | 
-|           |               |               |  
-|           |               |               |  
-|           |               |               | 
-|           |               |               | 
-|           |               |               | 
-|           |               |               |
-|           |               |               |
-|           |               |               |
-|           |               |               |
+| Boss Name 				| Island        | Sub-Location  | 
+|-----------				|-----------    |-----------    |
+| Vista Of The Flower Swords|               |               |
+| Diamond Jozu				|               |               | 
+| Marco The Phoenix			|               |               |
+| Sweet Commander Katakuri	|               |               |  
+| Sweet Commander Smoothie	|               |               |     
+| Sweet Commander Cracker	|               |               |     
+| Jack The Drought			|               |               | 
+| Queen The Plague			|               |               |  
+| King The Wildfire			|               |               |  
+| Lucky Roux The Cook		|               |               | 
+| Chaser Yasopp				|               |               | 
+| First Mate Benn Beckman	|               |               | 
+| Champion Jesus Burgess	|               |               |
+| Shiryu Of The Rain		|               |               |
+| The Supersonic			|               |               |
+| Eustass “Captain” Kid		|               |               |

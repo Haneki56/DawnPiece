@@ -12,19 +12,20 @@ Every level up will increase damage, protection, range or other positive stats d
 
 ### Class Abilities
 
-Each class will start with two moves and every two levels, you unlock a class move for a maximum of 7 moves.
+Each class will have passive abilities that will be available at all times. Some of these passives will include buffs and debuffs depending on the race. You start with two moves and every two levels, you unlock a class move for a maximum of 7 moves.
 
 ### Class Lines
 
-There will be 7 class lines that will be geared towards certain weapons of your choice, and as a result will buff their respective weapon damage output. Each class line will have its own progression system, so reaching max level on one class will only unlock one of the classes in the next tier. The following class lines are below.
+There will be 8 class lines that will be geared towards certain weapons of your choice, and as a result will buff their respective weapon damage output. Each class line will have its own progression system, so reaching max level on one class will only unlock one of the classes in the next tier. The following class lines are below.
 
 1. Slash Line: Focused on Slash Weapon Related Styles
 2. Bludgeon Line: Focused on Bludgeon Weapon Related Styles
 3. Impact Line: Focused on Impact Weapon Related Styles
 4. Pierce Line: Focused on Pierce Weapon Related Styles
-5. Ranged Line: Focused on Ranged Weapon Related Styles
-6. Martial Artist Line: Focused on Fist Related Styles
-7. Special Line: Varied Style Classes
+5. Pull Line: Focused on Pull Weapon Related Styles
+6. Float Line: Focused on Float Weapon Related Styles
+7. Ranged Line: Focused on Ranged Weapon Related Styles
+8. Martial Artist Line: Focused on Weaponless Related Styles
 
 ### Common Class
 
@@ -34,9 +35,10 @@ Common classes are the classes that you have automatically unlocked at the begin
 2. Bruiser (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Brawler (Random Characters punching moves like Boxers, Fighters, etc.)
 4. Scout (Random Characters Knife, Dagger, etc.)
-5. Gunslinger (Random Characters Pistol, Slingshot, etc.)
-6. Martial Artist (Random Characters kicking moves)
-7. Doctor 
+5. Binder (Random Characters Binding & Whipping Techniques)
+6. Glider (Random Characters Floating and Air Burst Techniques)
+7. Gunslinger (Random Characters Pistol, Slingshot, etc.)
+8. Martial Artist (Random Characters kicking moves)
 
 Every common class levels up based on the following experience system.
 
@@ -62,9 +64,10 @@ Uncommon classes require that you achieve the max level of the common class type
 2. Raider (Random Characters Mace, Axe, Tofa, Pipe etc.)
 3. Ramen Kenpo (Cipher Pol Wanze Style)
 4. Chef (Random Character Knife, Dagger, Culinary, etc.)
-5. Trick Shooter (Usopp)
-6. Okama Kenpo (Bon Clay, etc.)
-7. Rope Action 
+5. Rope Action Style (Paulie)
+6. Parasol Style (Miss Valentine, etc.)
+7. Trick Shooter (Usopp)
+8. Okama Kenpo (Bon Clay, etc.)
 
 Every uncommon class levels up based on the following experience system.
 
@@ -86,13 +89,14 @@ Every uncommon class levels up based on the following experience system.
 
 Rare classes require that you achieve the max level of the uncommon class type of the same number to unlock. The following links take you to each specific rare class in the game. 
 
-1. Foxfire (Flame Sword attacks from Kin'emon, Zoro, Fossa, etc.)
+1. Foxfire Style (Flame Sword attacks from Kin'emon, Zoro, Fossa, etc.)
 2. Skullsplitter (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Geo Fist (Lao G Style)
 4. Vanguard (Random Character Knife, Dagger, Lance, etc.)
-5. Ace Gunner (Random Characters like Baby 5 Gatling, etc)
-6. Fishman Karate (Hack, Arlong, etc.)
-7. Colors Trap
+5. Chain Warden (Prison Guards, Zeo, etc.)
+6. Wind Rider (Skypiea, Dial Based Users)
+7. Ace Gunner (Random Characters like Baby 5 Gatling, etc)
+8. Fishman Karate (Hack, Arlong, etc.)
 
 Every rare class levels up based on the following experience system.
 
@@ -118,9 +122,10 @@ Epic classes require that you achieve the max level of the rare class type of th
 2. Executioner (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Dragon Claw Fist (Sabo Style)
 4. Harpooner (Random Character Lance, Trident, etc.)
-5. Twin Barrel (Izou and other dual weapon users)
-6. Fishman Jujitsu (Jinbe)
-7. Parasol
+5. Whip Master (Sadi, Domino, Mohji, etc)
+6. Air Raider (Air Based Combat like Cipher Pol and Modified Humans)
+7. Twin Barrel (Izou and other dual weapon users)
+8. Fishman Jujitsu (Jinbe)
 
 Every epic class levels up based on the following experience system.
 
@@ -146,9 +151,10 @@ Legendary classes require that you achieve the max level of the legendary class 
 2. Twin Executioner (Gaban Dual Axe)
 3. Eight Impact Fist (Don Chinjao Style)
 4. Dragon Fang (Likely Custom Moves)
-5. Sharpshooter (Likely Custom Moves but want to be based on Yassop, Van Augur)
-6. Life Return (Lucci, Kumadori)
-7. Art of Weather
+5. Weaver (Black Maria, etc.)
+6. High Flyer (Similar to Shiki based Fruit)
+7. Sharpshooter (Likely Custom Moves but want to be based on Yassop, Van Augur)
+8. Life Return (Lucci, Kumadori)
 
 Every legendary class levels up based on the following experience system.
 
@@ -174,9 +180,10 @@ Mythical classes require that you achieve the max level of the legendary class t
 2. Drunken Dragon Bagua (Kaido)
 3. Absolute Fist (Garp/Koby Style)
 4. Heaven Piercer (Likely Custom Moves)
-5. Deadeye (Likely Custom Moves but want to be based on Benn Beckman)
-6. Black Leg (Sanji)
-7. Puppeteer 
+5. Puppeteer (Doflamingo)
+6. Sky Sovereign (Likely Custom Moves with many air based/flying abilities)
+7. Deadeye (Likely Custom Moves but want to be based on Benn Beckman)
+8. Black Leg Style (Sanji)
 
 Every mythical class levels up based on the following experience system.
 
@@ -193,3 +200,12 @@ Every mythical class levels up based on the following experience system.
 | 8         | 1,600,000              | 7,200,000               |
 | 9         | 1,800,000              | 9,000,000               |
 | 10        | 2,000,000              | 11,000,000              |
+
+### Special Classes
+
+Special Classes are bonus non-linear classes with no set tier that are maninly focused on status type moves. They can be unlocked through various means in the game.
+
+1. Art of Weather (Nami, Weather Wizards)
+2. Colors Trap (Miss Goldenweek)
+3. Doctor (Law, Chopper, Healing Moves) 
+4. Hypnotist (Jango Related along with some custom status moves) 

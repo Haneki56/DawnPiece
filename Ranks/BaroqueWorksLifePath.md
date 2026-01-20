@@ -71,42 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
+| Boss Name 		| Belly     | Weapon    					| Armor Set 					| Other     	|
+|-----------		|-----------|-----------					|-----------					|-----------	|
+| Nefertari Vivi	|           | Peacock Slasher (Legendary) 	| Vivi (Legendary)  			|           	|
+| Mister Nine		|           | Metal Bat (Legendary)       	| Mr. 9 (Legendary) 			|           	|
+| Sister   			|           | Cross (Legendary)    			|           					|           	|
+| Ms. Father’s Day  |           |           					| Miss Fathers Day (Legendary)  |           	|
+| Mister Seven  	|           |           					| Mr. Seven (Legendary)			|           	|
+| Mikita  			|           | Umbrella (Legendary)    		| Mikita (Legendary)   			| Kilo Fragment |
+| Gem      			|           |           					| Gem (Legendary)      			| Bomu Fragment |
+| Drophy   			|           | Mole Claw (Legendary)   		| Drophy (Legendary)            | Mogu Fragment	|
+| Babe     			|           | Steel Bat (Legendary)   		| Babe (Legendary) 				|           	|
+| Marianne  		|           | Paintbrush (Legendary)  		| Marianne (Legendary) 			|           	|
+| Galdino   		|           | Wax Sword (Legendary)   		| Galdino (Legendary)  			| Doru Fragment |
+| Bentham   		|           |           					| Bentham (Legendary)         	| Mane Fragment |
+| Zala     			|           |           					| Zala (Legendary)				|           	|
+| Daz Bones   		|           | Arm Sword (Legendary) 		| Daz Bones (Legendary)       	| Supa Fragment	|
+| Nico Robin   		|           |           					|           					| Hana Fragment |
+| Crocodile 		|           | Hook (Legendary)      		| Crocodile (Legendary)  		| Suna Fragment	|
+
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name | Island        | Sub-Location  | 
-|-----------|-----------    |-----------    |
-|           |               |               |
-|           |               |               | 
-|           |               |               |
-|           |               |               |  
-|           |               |               |     
-|           |               |               |     
-|           |               |               | 
-|           |               |               |  
-|           |               |               |  
-|           |               |               | 
-|           |               |               | 
-|           |               |               | 
-|           |               |               |
-|           |               |               |
-|           |               |               |
-|           |               |               |
+| Boss Name 		| Island        | Sub-Location  | 
+|-----------		|-----------    |-----------    |
+| Nefertari Vivi	|               |               |
+| Mister Nine		|               |               | 
+| Sister   			|               |               |
+| Ms. Father’s Day  |               |               |  
+| Mister Seven  	|               |               |     
+| Mikita  			|               |               |     
+| Gem      			|               |               | 
+| Drophy   			|               |               |  
+| Babe     			|               |               |  
+| Marianne  		|               |               | 
+| Galdino   		|               |               | 
+| Bentham   		|               |               | 
+| Zala     			|               |               |
+| Daz Bones   		|               |               |
+| Nico Robin   		|               |               |
+| Crocodile 		|               |               |

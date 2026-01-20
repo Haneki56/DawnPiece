@@ -71,42 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
+| Boss Name 				| Belly     	| Weapon    		| Armor Set 		| Other     	|
+|-----------				|-----------	|-----------		|-----------		|-----------	|
+| East Army Captain Ginny	| 6000 Belly	|           		|           		|           	|
+| Army Commander Kuma		| 6000 Belly	|           		| Kuma (Legendary)	| Nikyu Fragment|
+| Instructor Koala			| 6000 Belly	|           		|           		|           	|
+| East Army Deputy			| 6000 Belly	|           		|           		|           	|
+| West Army Deputy			| 6000 Belly	|           		|           		|           	|
+| South Army Deputy			| 6000 Belly	|           		|           		|           	|
+| North Army Deputy			| 6000 Belly	|           		|           		|           	|
+| G Army Deputy				| 8000 Belly	|           		|           		|           	|
+| Hundredth-Degree Hack		| 8000 Belly	|           		|           		|           	|
+| East Army Commander		| 10000 Belly	|           		|           		|           	|
+| West Army Commander		| 10000 Belly	|           		|           		|           	|
+| South Army Commander		| 10000 Belly	|           		|           		|           	|
+| North Army Commander		| 10000 Belly	|           		|           		| Susu Fragment |
+| G Army Commander			| 10000 Belly	|           		|           		|           	|
+| Chief Of Staff			| 10000 Belly	| Pipe (Legendary)	| Sabo (Legendary)	| Mera Fragment	|
+| Most Wanted Man			| 10000 Belly	|           		|           		|           	|
+
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name | Island        | Sub-Location  | 
-|-----------|-----------    |-----------    |
-|           |               |               |
-|           |               |               | 
-|           |               |               |
-|           |               |               |  
-|           |               |               |     
-|           |               |               |     
-|           |               |               | 
-|           |               |               |  
-|           |               |               |  
-|           |               |               | 
-|           |               |               | 
-|           |               |               | 
-|           |               |               |
-|           |               |               |
-|           |               |               |
-|           |               |               |
+| Boss Name 				| Island        | Sub-Location  | 
+|-----------				|-----------    |-----------    |
+| East Army Captain Ginny	|               |               |
+| Army Commander Kuma		|               |               | 
+| Instructor Koala			|               |               |
+| East Army Deputy			|               |               |  
+| West Army Deputy			|               |               |
+| South Army Deputy			|               |               |     
+| North Army Deputy			|               |               |     
+| G Army Deputy				|               |               | 
+| Hundredth-Degree Hack		|               |               |  
+| East Army Commander		|               |               |  
+| West Army Commander		|               |               | 
+| South Army Commander		|               |               | 
+| North Army Commander		|               |               | 
+| G Army Commander			|               |               |
+| Chief Of Staff			|               |               |
+| Most Wanted Man			|               |               |

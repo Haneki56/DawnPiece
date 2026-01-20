@@ -58,7 +58,7 @@ Bounty Reward: 44,500,000
 | Linlin                | 5000 Belly | Legendary | Napoleon (Epic)                              | Linlin (Epic)     | Soru Fragment                  |
 | Shiki                 | 5000 Belly | Legendary |                                              | Shiki (Epic)      | Fuwa Fragment                  |
 | Don Marlon            | 4000 Belly | Legendary |                                              |                   |                                |
-| Xebec                 | 10000 Belly| Legendary | Saber Of Xebec (Legendary)                   | Xebec (Legendary) | Advanced Haki Fragment         |
+| Xebec                 | 10000 Belly| Legendary | Saber Of Xebec (Legendary)                   | Xebec (Legendary) | Xebec Advanced Haki Fragment   |
 
 ### C Quest
 
@@ -85,7 +85,7 @@ Bounty Reward: 29,500,000
 | Sunbell               | 3000 Belly | Epic      |                                                      |                   |                                |
 | Scopper Gaban         | 4500 Belly | Legendary |                                                      | Gaban (Epic)      |                                |
 | Silvers Rayleigh      | 4500 Belly | Legendary | Meio Sword (Epic)                                    | Rayleigh (Epic)   |                                |
-| Gol D. Roger          | 8000 Belly | Legendary | Ace (Legendary)                                      | Roger (Legendary) | Advanced Haki Fragment         |
+| Gol D. Roger          | 8000 Belly | Legendary | Ace (Legendary)                                      | Roger (Legendary) | Roger Advanced Haki Fragment   |
 
 ### Essential NPCs
 

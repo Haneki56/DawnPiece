@@ -88,7 +88,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Red Haired Shanks		| 10000 Belly| Gryphon (Legendary)			          				| Shanks (Legendary)	| Advanced Haki Fragment 			|
 | Blackbeard			| 10000 Belly| Darkness Fist (Legendary)<br>Tremor Fist (Legendary) | Teach (Legendary) 	| Yami Fragment<br>Gura Fragment	|
 | Sun God Nika			| 10000 Belly|		           										| Luffy (Legendary) 	| Gomu Fragment						|
-| Pirate King Roger		| 10000 Belly| Ace (Legendary)          							| Roger (Legendary)		| Advanced Haki Fragment 			|
+| Pirate King Roger		| 10000 Belly| Ace (Legendary)          							| Roger (Legendary)		| Roger Advanced Haki Fragment 		|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
@@ -102,9 +102,9 @@ Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls an
 | Heavenly Demon		| Punk Hazard		| Numancia Flamingo				|  
 | First Son Of The Sea	| Fishman Island	| Eastern Corals				|     
 | Surgeon Of Death		| Wano Kuni			| Behind Flower Capital Palace	|     
-| Buggy The Star Clown	| Impel Down	 	| Level 2						| 
+| Buggy The Star Clown	| Impel Down	 	| Level 2						|
+| Hero Of Alabasta		| Alabasta			| Rain Dinners Basement			|   
 | Hawk Eyes				| Kuraigana		 	| Mihawk's Castle				|  
-| Hero Of Alabasta		| Alabasta			| Rain Dinners Basement			|  
 | Big Mom				| Whole Cake Island | Queen Mama Chanter			| 
 | Strongest Creature	| Knock Up Stream	| Top of the Waterfall			| 
 | World's Strongest Man | Sphinx			| North Side of Sphinx			| 

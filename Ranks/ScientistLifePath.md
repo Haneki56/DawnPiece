@@ -71,42 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
+| Boss Name 		| Belly     | Weapon    				| Armor Set 			| Other     		|
+|-----------		|-----------|-----------				|-----------			|-----------		|
+| PX-0     			|           |           				| Kuma (Legendary)		| Nikyu Fragment	|
+| Master Clown  	|           | Blue Sword (Legendary)	| Caesar (Legendary) 	| Gasu Fragment 	|
+| Seraphim Flamingo	|           | Strings (Legendary)       | Doflamingo (Legendary)| Ito Fragment      |
+| Seraphim Bat		|           | Scissors (Legendary)      | Moria (Legendary)     | Kage Fragment     |
+| Seraphim Crocodile|           | Hook (Legendary)          | Crocodile (Legendary) | Suna Fragment     |
+| Seraphim Bear		|           |           				| Kuma (Legendary)		| Nikyu Fragment	|
+| Seraphim Shark	|           |           				| Jinbe (Legendary)     | Sui Fragment      |
+| Seraphim Snake	|           |           				| Hancock (Legendary)   | Mero Fragment     |
+| Seraphim Hawk		|           | S-Hawk Sword (Legendary)  | Mihawk (Legendary)    | Supa Fragment     |
+| Poison Pink		|           |           				|           			|           		|
+| Winch Green		|           |           				|           			|           		|
+| Stealth Black		|           |           				| Sanji (Legendary)		|           		|
+| Dengeki Blue		|           |           				|           			|           		|
+| Sparking Red		|           |           				|           			|           		|
+| Germa 66 King		|           |           				|           			|           		|
+| Stella    		|           |           				|           			|           		|
+
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name | Island        | Sub-Location  | 
-|-----------|-----------    |-----------    |
-|           |               |               |
-|           |               |               | 
-|           |               |               |
-|           |               |               |  
-|           |               |               |     
-|           |               |               |     
-|           |               |               | 
-|           |               |               |  
-|           |               |               |  
-|           |               |               | 
-|           |               |               | 
-|           |               |               | 
-|           |               |               |
-|           |               |               |
-|           |               |               |
-|           |               |               |
+| Boss Name 		| Island        | Sub-Location  | 
+|-----------		|-----------    |-----------    |
+| PX-0       		|               |               |
+| Master Clown 		|               |               | 
+| Seraphim Flamingo	|               |               |
+| Seraphim Bat		|               |               |  
+| Seraphim Crocodile|               |               |     
+| Seraphim Bear		|               |               |     
+| Seraphim Shark	|               |               | 
+| Seraphim Snake	|               |               |  
+| Seraphim Hawk		|               |               |  
+| Poison Pink		|               |               | 
+| Winch Green		|               |               | 
+| Stealth Black		|               |               | 
+| Dengeki Blue		|               |               |
+| Sparking Red		|               |               |
+| Germa 66 King		|               |               |
+| Stella    		|               |               |

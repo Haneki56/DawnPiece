@@ -71,42 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
+| Boss Name 					| Belly     	| Weapon    				| Armor Set 			| Other     		|
+|-----------					|-----------	|-----------				|-----------			|-----------		|
+| Masked Agent Gismonda			| 6000 Belly	|           				| Cipher Pol (Legendary)|           		|
+| Queen Of The Pleasure District| 6000 Belly	|           				| Cipher Pol (Legendary)| Batto Fragment	|
+| Masked Agent Guernika			| 6000 Belly	|           				| Cipher Pol (Legendary)|           		|
+| Yamakaze Kaku					| 6000 Belly	| Shirasaya (Legendary)     | Cipher Pol (Legendary)| Giraffe Fragment  |
+| Massacre Weapon Lucci			| 7000 Belly	|           				| Cipher Pol (Legendary)| Leopard Fragment  |
+| Saint Manmayer Gunko			| 10000 Belly	|           				|           			|           		|
+| Saint Shepherd Sommers		| 9000 Belly	|           				|           			|           		|
+| Saint Rimoshifu Killingham	| 10000 Belly	|           				|           			| Kirin Fragment    |
+| Saint Figarland Shamrock		| 10000 Belly	|           				|           			| Cerberus Fragment |
+| Saint Jaygarcia Saturn		| 10000 Belly	|           				|           			| Gyuki Fragment    |
+| Saint Topman Warcury			| 10000 Belly	|           				|           			| Fengxi Fragment   |
+| Saint Marcus Mars				| 10000 Belly	|           				|           			| Itsumade Fragment |
+| Saint Figarland Garling		| 10000 Belly	|           				|           			|           		|
+| Saint Shepherd Ju Peter		| 10000 Belly	|           				|           			| Sandworm Fragment |
+| Saint Ethanbaron V. Nusjuro	| 10000 Belly	| Shodai Kitetsu (Legendary)|           			| Bakotsu Fragment  |
+| King Of The World				| 10000 Belly	|           				|           			|           		|
+
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name | Island        | Sub-Location  | 
-|-----------|-----------    |-----------    |
-|           |               |               |
-|           |               |               | 
-|           |               |               |
-|           |               |               |  
-|           |               |               |     
-|           |               |               |     
-|           |               |               | 
-|           |               |               |  
-|           |               |               |  
-|           |               |               | 
-|           |               |               | 
-|           |               |               | 
-|           |               |               |
-|           |               |               |
-|           |               |               |
-|           |               |               |
+| Boss Name 					| Island        | Sub-Location  | 
+|-----------					|-----------    |-----------    |
+| Masked Agent Gismonda			|               |               |
+| Queen Of The Pleasure District|               |               | 
+| Masked Agent Guernika			|               |               |
+| Yamakaze Kaku					|               |               |  
+| Massacre Weapon Lucci			|               |               |     
+| Saint Manmayer Gunko			|               |               |     
+| Saint Shepherd Sommers		|               |               | 
+| Saint Rimoshifu Killingham	|               |               |  
+| Saint Figarland Shamrock		|               |               |  
+| Saint Jaygarcia Saturn		|               |               | 
+| Saint Topman Warcury			|               |               | 
+| Saint Marcus Mars				|               |               | 
+| Saint Figarland Garling		|               |               |
+| Saint Shepherd Ju Peter		|               |               |
+| Saint Ethanbaron V. Nusjuro	|               |               |
+| King Of The World				|               |               |

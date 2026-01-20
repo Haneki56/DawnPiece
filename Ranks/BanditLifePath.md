@@ -71,42 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name | Belly     | Orb       | Weapon    | Armor Set | Other     |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
-|           |           |           |           |           |           |
+| Boss Name 				| Belly     | Weapon    								| Armor Set 			| Other     					|
+|-----------				|-----------|-----------								|-----------			|-----------					|
+| Higuma The Bear			|           | Bandit Sword (Legendary)					| Bandit (Legendary)   	|           					|
+| Iron Mace Alvida			|           | Iron Mace (Legendary)   					| Alvida (Legendary)   	| Sube Fragment					|
+| Kuro Of 1000 Plans		|           | Tekko Kagi (Legendary)    				| Kuro (Legendary)		|           					|
+| Sawtooth Arlong			|           | Kiribachi (Legendary) 					| Arlong (Legendary) 	|           					|
+| Tin Plate Wapol			|           |           								| Wapol (Legendary) 	| Baku Fragment					|
+| Silver Fox Foxy			|           | Noro Noro Beam Sword (Legendary)			| Foxy (Legendary)   	| Noro Fragment					|
+| Genius Surgeon Hogback	|           |           								|           			|          						|	
+| Ghost Princess Perona 	|           | Horo Umbrella (Legendary) 				| Perona (Legendary) 	| Horo Fragment 				|
+| Absalom Of The Graveyard	|           |           								|           			| Suke Fragment					|
+| Capone “Gang” Bege		|           |           								|           			| Shiro Fragment				|
+| Big Eater Bonney			|           |           								| Bonney (Legendary)	|           					|
+| Mad Monk Urouge			|           | Pillar (Legendary)                 		| Urouge (Legendary) 	| Karu Fragment					|
+| Magician Hawkins			|           | Warabide Sword (Legendary)         		| Hawkins (Legendary)	| Wara Fragment 				|
+| Roar Of The Sea Apoo		|           | Tonfa Baton (Legendary)            		|                   	| Oto Fragment					|
+| Red Flag X Drake			|           | X Axe (Legendary)<br>X Rapier (Legendary) |                   	| Allosaurus Fragment			|
+| Rocks D. Xebec			|           | Saber Of Xebec (Legendary)                | Xebec (Legendary) 	| Xebec Advanced Haki Fragment  |
+
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name | Island        | Sub-Location  | 
-|-----------|-----------    |-----------    |
-|           |               |               |
-|           |               |               | 
-|           |               |               |
-|           |               |               |  
-|           |               |               |     
-|           |               |               |     
-|           |               |               | 
-|           |               |               |  
-|           |               |               |  
-|           |               |               | 
-|           |               |               | 
-|           |               |               | 
-|           |               |               |
-|           |               |               |
-|           |               |               |
-|           |               |               |
+| Boss Name 				| Island        | Sub-Location  | 
+|-----------				|-----------    |-----------    |
+| Higuma The Bear			|               |               |
+| Iron Mace Alvida			|               |               | 
+| Kuro Of 1000 Plans		|               |               |
+| Sawtooth Arlong			|               |               |  
+| Tin Plate Wapol			|               |               |     
+| Silver Fox Foxy			|               |               |     
+| Genius Surgeon Hogback	|               |               | 
+| Ghost Princess Perona 	|               |               |  
+| Absalom Of The Graveyard	|               |               |  
+| Capone “Gang” Bege		|               |               | 
+| Big Eater Bonney			|               |               | 
+| Mad Monk Urouge			|               |               | 
+| Magician Hawkins			|               |               |
+| Roar Of The Sea Apoo		|               |               |
+| Red Flag X Drake			|               |               |
+| Rocks D. Xebec			|               |               |

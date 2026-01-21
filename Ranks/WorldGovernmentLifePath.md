@@ -79,7 +79,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Yamakaze Kaku					| 6000 Belly	| Shirasaya (Legendary)     | Cipher Pol (Legendary)| Giraffe Fragment  |
 | Massacre Weapon Lucci			| 7000 Belly	|           				| Cipher Pol (Legendary)| Leopard Fragment  |
 | Saint Manmayer Gunko			| 10000 Belly	|           				|           			|           		|
-| Saint Shepherd Sommers		| 9000 Belly	|           				|           			|           		|
+| Saint Shepherd Sommers		| 10000 Belly	|           				|           			|           		|
 | Saint Rimoshifu Killingham	| 10000 Belly	|           				|           			| Kirin Fragment    |
 | Saint Figarland Shamrock		| 10000 Belly	|           				|           			| Cerberus Fragment |
 | Saint Jaygarcia Saturn		| 10000 Belly	|           				|           			| Gyuki Fragment    |
@@ -94,21 +94,21 @@ Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls an
 
 ### Trials Quest Boss Locations
 
-| Boss Name 					| Island        | Sub-Location  | 
-|-----------					|-----------    |-----------    |
-| Masked Agent Gismonda			|               |               |
-| Queen Of The Pleasure District|               |               | 
-| Masked Agent Guernika			|               |               |
-| Yamakaze Kaku					|               |               |  
-| Massacre Weapon Lucci			|               |               |     
-| Saint Manmayer Gunko			|               |               |     
-| Saint Shepherd Sommers		|               |               | 
-| Saint Rimoshifu Killingham	|               |               |  
-| Saint Figarland Shamrock		|               |               |  
-| Saint Jaygarcia Saturn		|               |               | 
-| Saint Topman Warcury			|               |               | 
-| Saint Marcus Mars				|               |               | 
-| Saint Figarland Garling		|               |               |
-| Saint Shepherd Ju Peter		|               |               |
-| Saint Ethanbaron V. Nusjuro	|               |               |
-| King Of The World				|               |               |
+| Boss Name 					| Island        	| Sub-Location  								| 
+|-----------					|-----------    	|-----------    								|
+| Masked Agent Gismonda			| Wano Kuni			| Northern Exterior of the Flower Capital		|
+| Queen Of The Pleasure District| Whole Cake Island	| Top of the South Central Cake					| 
+| Masked Agent Guernika			| Wano Kuni			| Southwestern Exterior of the Flower Capital	|
+| Yamakaze Kaku					| Enies Lobby	    | Inside the Bridge of Hesitation				|  
+| Massacre Weapon Lucci			| Enies Lobby	    | Behind the Tower of Justice					|     
+| Saint Manmayer Gunko			| Elbaph		    | Western Side of the Underworld				|     
+| Saint Shepherd Sommers		| Elbaph		    | Eastern Side of the Underworld	            | 
+| Saint Rimoshifu Killingham	| Elbaph		    | Southern Side of the Underworld	            |  
+| Saint Figarland Shamrock		| Elbaph		    | Northern Side of the Underworld	            |  
+| Saint Jaygarcia Saturn		| Egghead	        | Along the Southern Exterior Road				| 
+| Saint Topman Warcury			| Egghead	        | Along the Southern Exterior Road				| 
+| Saint Marcus Mars				| Egghead	        | Along the Southern Exterior Road				| 
+| Saint Figarland Garling		| God Valley    	| Central Valley nearby the Town				|
+| Saint Shepherd Ju Peter		| Egghead	        | Along the Southern Exterior Road				|
+| Saint Ethanbaron V. Nusjuro	| Egghead	        | Along the Southern Exterior Road				|
+| King Of The World				| God Valley     	| Top of the Northeastern Plateau				|

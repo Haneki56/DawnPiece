@@ -40,7 +40,7 @@ Every common race levels up based on the following experience system.
 
 ### Uncommon Race
 
-Uncommon races require that you achieve the max level of two common races to unlock. The following links take you to each specific uncommon race in the game. 
+Uncommon races require that you achieve the max level of one common race to unlock. The following links take you to each specific uncommon race in the game. 
 
 1. Long Limb
 2. Merfolk
@@ -64,7 +64,7 @@ Every uncommon race levels up based on the following experience system.
 
 ### Rare Race
 
-Rare races require that you achieve the max level of two uncommon races to unlock. The following links take you to each specific rare race in the game. 
+Rare races require that you achieve the max level of one uncommon race to unlock. The following links take you to each specific rare race in the game. 
 
 1. Pacifista
 2. Wotan
@@ -88,7 +88,7 @@ Every rare race levels up based on the following experience system.
 
 ### Epic Race
 
-Epic races require that you achieve the max level of two rare races to unlock. The following links take you to each specific epic race in the game. 
+Epic races require that you achieve the max level of one rare race to unlock. The following links take you to each specific epic race in the game. 
 
 1. Buccaneer
 2. Modified Human
@@ -112,7 +112,7 @@ Every epic race levels up based on the following experience system.
 
 ### Legendary Race
 
-Legendary races require that you achieve the max level of two epic races to unlock. The following links take you to each specific legendary race in the game. 
+Legendary races require that you achieve the max level of one epic race to unlock. The following links take you to each specific legendary race in the game. 
 
 1. Giant
 2. Oni
@@ -136,7 +136,7 @@ Every legendary race levels up based on the following experience system.
 
 ### Mythical Race
 
-Mythical races require that you achieve the max level of two legendary races to unlock. The following links take you to each specific mythical race in the game. 
+Mythical races require that you achieve the max level of one legendary race to unlock. The following links take you to each specific mythical race in the game. 
 
 1. Lunarian
 2. Ancient Giant

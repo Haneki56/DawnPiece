@@ -209,3 +209,4 @@ Special Classes are bonus non-linear classes with no set tier that are maninly f
 2. Colors Trap (Miss Goldenweek)
 3. Doctor (Law, Chopper, Healing Moves) 
 4. Hypnotist (Jango Related along with some custom status moves) 
+5. Engineer (Trap Related Moves)

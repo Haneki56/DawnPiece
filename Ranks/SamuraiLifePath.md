@@ -71,24 +71,24 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name 			| Belly     | Weapon    										| Armor Set 		| Other     |
-|-----------			|-----------|-----------										|-----------		|-----------|
-| Akazaya Kanjuro 		|           | Tsuji Shibai (Legendary)							|           		|           |
-| Akazaya Kikunojo		|           |           										|           		|           |
-| Akazaya Raizo			|           |           										|           		|           |
-| Akazaya Inuarashi		|           |           										|           		|           |
-| Akazaya Nekomamushi	|           |           										|           		|           |
-| Akazaya Kawamatsu		|           | Soto Muso (Legendary)								|           		|           |
-| Akazaya Kin'emon		|           | Sukesan (Legendary)<br>Kakusan (Legendary)		|           		|           |
-| Akazaya Denjiro		|           | Denjiro Sword (Legendary)							|           		|           |
-| Akazaya Ashura Doji	|           |           										|           		|           |
-| Daimyo Yasuie			|           |           										|           		|           |
-| Daimyo Tempura		|           |           										|           		|           |
-| Daimyo Omusubi		|           |           										|           		|           |
-| Daimyo Ushimaru		|           |           										|           		|           |
-| Daimyo Oden			|           | Enma (Legendary)<br>Ame No Habakiri (Legendary)	|           		|           |
-| Shogun Sukiyaki		|           |           										|           		|           |
-| Sword God Ryuma		|           | Shusui (Legendary)        						| Ryuma (Legendary) |           |
+| Boss Name 			| Belly     | Weapon    										| Armor Set 				| Other     |
+|-----------			|-----------|-----------										|-----------				|-----------|
+| Akazaya Kanjuro 		|           | Tsuji Shibai (Legendary)							| Kanjuro (Legendary)		|           |
+| Akazaya Kikunojo		|           |           										| Kikunojo (Legendary)		|           |
+| Akazaya Raizo			|           |           										| Raizo (Legendary)			|           |
+| Akazaya Inuarashi		|           |           										| Inuarashi (Legendary)		|           |
+| Akazaya Nekomamushi	|           |           										| Nekomamushi (Legendary)	|           |
+| Akazaya Kawamatsu		|           | Soto Muso (Legendary)								| Kawamatsu (Legendary)		|           |
+| Akazaya Kin'emon		|           | Sukesan (Legendary)<br>Kakusan (Legendary)		| Kinemon (Legendary)		|           |
+| Akazaya Denjiro		|           | Akayaza Katana (Legendary)						| Denjiro (Legendary)		|           |
+| Akazaya Ashura Doji	|           |           										| Ashura Doji (Legendary)	|           |
+| Daimyo Yasuie			|           |           										| Yasuie (Legendary)		|           |
+| Daimyo Tempura		|           |           										| Tempura (Legendary)		|           |
+| Daimyo Omusubi		|           |           										| Omusubi (Legendary)		|           |
+| Daimyo Ushimaru		|           |           										| Ushimaru (Legendary)		|           |
+| Daimyo Oden			|           | Enma (Legendary)<br>Ame No Habakiri (Legendary)	| Oden (Legendary)			|           |
+| Shogun Sukiyaki		|           |           										| Sukiyaki (Legendary)		|           |
+| Sword God Ryuma		|           | Shusui (Legendary)        						| Ryuma (Legendary) 		|           |
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

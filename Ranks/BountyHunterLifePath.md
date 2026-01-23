@@ -74,10 +74,10 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Boss Name 				| Belly     | Weapon    				| Armor Set 			| Other     			|
 |-----------				|-----------|-----------				|-----------			|-----------			|
 | Vista Of The Flower Swords|           | Rose Sword (Legendary) 	| Vista (Legendary)  	|           			|
-| Diamond Jozu				|           | Diamond Fist (Legendary)  |                       | Kira Fragment   		|
+| Diamond Jozu				|           | Diamond Fist (Legendary)  | Jozu (Legendary)      | Kira Fragment   		|
 | Marco The Phoenix			|           |           				| Marco (Legendary)     | Phoenix Fragment		|
-| Sweet Commander Katakuri	|           | Mogura (Legendary)        |                		| Mochi Fragment		|
-| Sweet Commander Smoothie	|           | Shiboriken (Legendary)    |                		| Shibo Fragment		|	
+| Sweet Commander Katakuri	|           | Mogura (Legendary)        | Katakuri (Legendary)	| Mochi Fragment		|
+| Sweet Commander Smoothie	|           | Shiboriken (Legendary)    | Smoothie (Legendary)	| Shibo Fragment		|	
 | Sweet Commander Cracker	|           | Pretzel (Legendary)       | Cracker (Legendary) 	| Bisu Fragment 		|
 | Jack The Drought			|           | Shotel (Legendary)        | Jack (Legendary)   	| Mammoth Fragment  	|
 | Queen The Plague			|           | Dao Sword (Legendary)     | Queen (Legendary)  	| Brachiosaurus Fragment|
@@ -86,7 +86,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Chaser Yasopp				|           |           				|           			|           			|
 | First Mate Benn Beckman	|           |           				|           			|           			|
 | Champion Jesus Burgess	|           | Green Dagger (Legendary)  | Burgess (Legendary)   | Riki Fragment 		|
-| Shiryu Of The Rain		|           | Raiu (Legendary)          |                   	| Suke Fragment			|
+| Shiryu Of The Rain		|           | Raiu (Legendary)          | Shiryu (Legendary)	| Suke Fragment			|
 | The Supersonic			|           |           				| Van Augur (Legendary) | Wapu Fragment 		|
 | Eustass “Captain” Kid		|           | Metal Arm (Legendary)     | Kid (Legendary)    	| Jiki Fragment			|
 

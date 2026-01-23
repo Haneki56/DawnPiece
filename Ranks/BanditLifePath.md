@@ -79,15 +79,15 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Sawtooth Arlong			|           | Kiribachi (Legendary) 					| Arlong (Legendary) 	|           					|
 | Tin Plate Wapol			|           |           								| Wapol (Legendary) 	| Baku Fragment					|
 | Silver Fox Foxy			|           | Noro Noro Beam Sword (Legendary)			| Foxy (Legendary)   	| Noro Fragment					|
-| Genius Surgeon Hogback	|           |           								|           			|          						|	
+| Genius Surgeon Hogback	|           |           								| Hogback (Legendary)	|          						|	
 | Ghost Princess Perona 	|           | Horo Umbrella (Legendary) 				| Perona (Legendary) 	| Horo Fragment 				|
-| Absalom Of The Graveyard	|           |           								|           			| Suke Fragment					|
-| Capone “Gang” Bege		|           |           								|           			| Shiro Fragment				|
+| Absalom Of The Graveyard	|           |           								| Absalom (Legendary)	| Suke Fragment					|
+| Capone “Gang” Bege		|           |           								| Bege (Legendary)		| Shiro Fragment				|
 | Big Eater Bonney			|           |           								| Bonney (Legendary)	|           					|
 | Mad Monk Urouge			|           | Pillar (Legendary)                 		| Urouge (Legendary) 	| Karu Fragment					|
 | Magician Hawkins			|           | Warabide Sword (Legendary)         		| Hawkins (Legendary)	| Wara Fragment 				|
-| Roar Of The Sea Apoo		|           | Tonfa Baton (Legendary)            		|                   	| Oto Fragment					|
-| Red Flag X Drake			|           | X Axe (Legendary)<br>X Rapier (Legendary) |                   	| Allosaurus Fragment			|
+| Roar Of The Sea Apoo		|           | Tonfa Baton (Legendary)            		| Apoo (Legendary)		| Oto Fragment					|
+| Red Flag X Drake			|           | X Axe (Legendary)<br>X Rapier (Legendary) | Drake (Legendary)  	| Allosaurus Fragment			|
 | Rocks D. Xebec			|           | Saber Of Xebec (Legendary)                | Xebec (Legendary) 	| Xebec Advanced Haki Fragment  |
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.

@@ -75,7 +75,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 |-----------		|-----------|-----------					|-----------					|-----------	|
 | Nefertari Vivi	|           | Peacock Slasher (Legendary) 	| Vivi (Legendary)  			|           	|
 | Mister Nine		|           | Metal Bat (Legendary)       	| Mr. 9 (Legendary) 			|           	|
-| Sister   			|           | Cross (Legendary)    			|           					|           	|
+| Sister   			|           | Cross (Legendary)    			| Catherina (Legendary)			|           	|
 | Ms. Father’s Day  |           |           					| Miss Fathers Day (Legendary)  |           	|
 | Mister Seven  	|           |           					| Mr. Seven (Legendary)			|           	|
 | Mikita  			|           | Umbrella (Legendary)    		| Mikita (Legendary)   			| Kilo Fragment |
@@ -87,7 +87,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Bentham   		|           |           					| Bentham (Legendary)         	| Mane Fragment |
 | Zala     			|           |           					| Zala (Legendary)				|           	|
 | Daz Bones   		|           | Arm Sword (Legendary) 		| Daz Bones (Legendary)       	| Supa Fragment	|
-| Nico Robin   		|           |           					|           					| Hana Fragment |
+| Nico Robin   		|           |           					| Robin (Legendary)				| Hana Fragment |
 | Crocodile 		|           | Hook (Legendary)      		| Crocodile (Legendary)  		| Suna Fragment	|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.

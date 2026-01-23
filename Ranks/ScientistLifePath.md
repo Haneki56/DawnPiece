@@ -82,13 +82,13 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Seraphim Shark	|           |           				| Jinbe (Legendary)     | Sui Fragment      |
 | Seraphim Snake	|           |           				| Hancock (Legendary)   | Mero Fragment     |
 | Seraphim Hawk		|           | S-Hawk Sword (Legendary)  | Mihawk (Legendary)    | Supa Fragment     |
-| Poison Pink		|           |           				|           			|           		|
-| Winch Green		|           |           				|           			|           		|
+| Poison Pink		|           |           				| Reiju (Legendary)		|           		|
+| Winch Green		|           |           				| Yonji (Legendary)		|           		|
 | Stealth Black		|           |           				| Sanji (Legendary)		|           		|
-| Dengeki Blue		|           |           				|           			|           		|
-| Sparking Red		|           |           				|           			|           		|
-| Germa 66 King		|           |           				|           			|           		|
-| Stella    		|           |           				|           			|           		|
+| Dengeki Blue		|           |           				| Niji (Legendary)		|           		|
+| Sparking Red		|           |           				| Ichiji (Legendary)	|           		|
+| Germa 66 King		|           |           				| Judge (Legendary)		|           		|
+| Stella    		|           |           				| Vegapunk (Legendary)	|           		|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

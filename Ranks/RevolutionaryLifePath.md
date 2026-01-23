@@ -71,24 +71,24 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name 				| Belly     	| Weapon    		| Armor Set 		| Other     	|
-|-----------				|-----------	|-----------		|-----------		|-----------	|
-| East Army Captain Ginny	| 6000 Belly	|           		|           		|           	|
-| Army Commander Kuma		| 6000 Belly	|           		| Kuma (Legendary)	| Nikyu Fragment|
-| Instructor Koala			| 6000 Belly	|           		|           		|           	|
-| East Army Deputy			| 6000 Belly	|           		|           		|           	|
-| West Army Deputy			| 6000 Belly	|           		|           		|           	|
-| South Army Deputy			| 6000 Belly	|           		|           		|           	|
-| North Army Deputy			| 6000 Belly	|           		|           		|           	|
-| G Army Deputy				| 8000 Belly	|           		|           		|           	|
-| Hundredth-Degree Hack		| 8000 Belly	|           		|           		|           	|
-| East Army Commander		| 10000 Belly	|           		|           		|           	|
-| West Army Commander		| 10000 Belly	|           		|           		|           	|
-| South Army Commander		| 10000 Belly	|           		|           		|           	|
-| North Army Commander		| 10000 Belly	|           		|           		| Susu Fragment |
-| G Army Commander			| 10000 Belly	|           		|           		|           	|
-| Chief Of Staff			| 10000 Belly	| Pipe (Legendary)	| Sabo (Legendary)	| Mera Fragment	|
-| Most Wanted Man			| 10000 Belly	|           		|           		|           	|
+| Boss Name 				| Belly     	| Weapon    		| Armor Set 			| Other     	|
+|-----------				|-----------	|-----------		|-----------			|-----------	|
+| East Army Captain Ginny	| 6000 Belly	|           		| Ginny (Legendary)		|           	|
+| Army Commander Kuma		| 6000 Belly	|           		| Kuma (Legendary)		| Nikyu Fragment|
+| Instructor Koala			| 6000 Belly	|           		| Koala (Legendary) 	|           	|
+| East Army Deputy			| 6000 Belly	|           		| Ahiru (Legendary) 	|           	|
+| West Army Deputy			| 6000 Belly	|           		| Ushiano (Legendary)	|           	|
+| South Army Deputy			| 6000 Belly	|           		| Jiron (Legendary)		|           	|
+| North Army Deputy			| 6000 Belly	|           		| Gambo (Legendary)		|           	|
+| G Army Deputy				| 8000 Belly	|           		| Inazuma (Legendary)	|           	|
+| Hundredth-Degree Hack		| 8000 Belly	|           		| Hack (Legendary)		|           	|
+| East Army Commander		| 10000 Belly	|           		| Belo Betty (Legendary)|           	|
+| West Army Commander		| 10000 Belly	|           		| Morley (Legendary)	|           	|
+| South Army Commander		| 10000 Belly	|           		|           			|           	|
+| North Army Commander		| 10000 Belly	|           		| Karasu (Legendary)	| Susu Fragment |
+| G Army Commander			| 10000 Belly	|           		| Ivankov (Legendary)	|           	|
+| Chief Of Staff			| 10000 Belly	| Pipe (Legendary)	| Sabo (Legendary)		| Mera Fragment	|
+| Most Wanted Man			| 10000 Belly	|           		| Dragon (Legendary)	|           	|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

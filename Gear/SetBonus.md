@@ -15,6 +15,7 @@ Guard Sets provide an extra protection value based on the source of damage. The 
 | Slash Guard       | Slash Weapon Damage Reduction     | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 | Impact Guard      | Impact Weapon Damage Reduction    | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 | Bludgeon Guard    | Bludgeon Weapon Damage Reduction  | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
+| Pierce Guard      | Pierce Weapon Damage Reduction    | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 | Pull Guard        | Pull Weapon Damage Reduction      | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 | Float Guard       | Float Weapon Damage Reduction     | 2%     | 4%       | 8%  | 16%  | 32%       | 64%      |
 
@@ -35,6 +36,7 @@ Final Damage values without set bonus are 88%, 80%, 72%, 60%, 44%, 24% from Comm
 | Slash Guard       | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
 | Impact Guard      | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
 | Bludgeon Guard    | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
+| Pierce Guard      | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
 | Pull Guard        | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
 | Float Guard       | 86.2%  | 76.8%    | 66.2% | 50.4% | 29.9%     | 8.6%     |
 
@@ -44,13 +46,15 @@ Damage Sets provide an extra amount of damage based on the source of damage or t
 
 | Set Bonus         | Description                                           | Common | Uncommon | Rare| Epic | Legendary | Mythical |
 |-----------        |---------------                                        |--------|----------|-----|------|-----------|----------|
-| Slash Mastery     | Slash Weapon Damage Buff                              | +1     | +2       | +4  | +8   | +14       | +22      |
-| Impact Mastery    | Impact Weapon Damage Buff                             | +1     | +2       | +4  | +8   | +14       | +22      |
-| Bludgeon Mastery  | Bludgeon Weapon Damage Buff                           | +1     | +2       | +4  | +8   | +14       | +22      |
-| Pull Mastery      | Pull Weapon Damage Buff                               | +1     | +2       | +4  | +8   | +14       | +22      |
-| Float Mastery     | Float Weapon Damage Buff                              | +1     | +2       | +4  | +8   | +14       | +22      |
-| Martial Artist    | Fist Damage Buff                                      | +1     | +2       | +4  | +8   | +14       | +22      |
-| Battle Cry        | Damage Buff for Other Players in a 10 Block Radius    | +1     | +2       | +4  | +8   | +14       | +22      |
+| Slash Mastery     | Slash Weapon Damage Buff                              | +1     | +2       | +4  | +8   | +16       | +32      |
+| Impact Mastery    | Impact Weapon Damage Buff                             | +1     | +2       | +4  | +8   | +16       | +32      |
+| Bludgeon Mastery  | Bludgeon Weapon Damage Buff                           | +1     | +2       | +4  | +8   | +16       | +32      |
+| Pierce Mastery    | Pierce Weapon Damage Buff                             | +1     | +2       | +4  | +8   | +16       | +32      |
+| Pull Mastery      | Pull Weapon Damage Buff                               | +1     | +2       | +4  | +8   | +16       | +32      |
+| Float Mastery     | Float Weapon Damage Buff                              | +1     | +2       | +4  | +8   | +16       | +32      |
+| Martial Artist    | Fist Damage Buff                                      | +1     | +2       | +4  | +8   | +16       | +32      |
+| Lunar Blessing    | Damage Buff During the Night                          | +1     | +2       | +4  | +8   | +16       | +32      |
+| Battle Cry        | Damage Buff for Other Players in a 10 Block Radius    | +1     | +2       | +4  | +8   | +16       | +32      |
 | Chain Lightning   | Transfers Damage to all Entities in a 10 Block Radius | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
 | Berserk           | Damage Increase when HP falls below 15%               | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
 | Decisive Shot     | Increases Damage for Critical Hits                    | 5%     | 10%      | 20% | 35%  | 60%       | 100%     |
@@ -72,6 +76,9 @@ Immunity Sets provide a set chance to block a certain effect, reduce damage of a
 | Water Breathing   | Increases Length of Underwater Breath | 1 min  | 2 min    | 5 min | 10 min| 20 min    | Infinite |
 | Feather Falling   | Reduces Fall Damage                   | 5%     | 10%      | 20%   | 35%   | 60%       | 100%     |
 | Fireproof         | Reduces Fire Damage                   | 5%     | 10%      | 20%   | 35%   | 60%       | 100%     |
+| Iron Wall         | Reduces Knockback                     | 5%     | 10%      | 15%   | 20%   | 30%       | 40%      |
+
+Iron Wall: The [Gear Tier Bonus](https://haneki56.github.io/DawnPiece/#/Gear/Armor?id=gear-tier-bonuses) associated with epic sets and above adds to the total Knockback resistance so Epic will be 40%, Legendary will be 70% and Mythical will be 100%.
 
 ### Ability Sets
 

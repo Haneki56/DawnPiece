@@ -63,4 +63,8 @@ Every time you are hit by an entity, the durability decreases by one. To repair 
 
 ### Gear Set Bonuses
 
-All gear sets will have set bonuses when wearing every piece of the same set. If you mix and match different tiers in the same set, the set bonus will reflect the lowest tier bonus. The tooltip in game will show the set bonus you have. If you are not wearing pieces of the same set, the set bonus will say inactive. Weapons are not a part of the set bonus, only the four armor pieces are required. Please check the [Set Bonus Page](https://haneki56.github.io/DawnPiece/#/Gear/SetBonus) for a list of all of the bonuses we have in game and what they do.
+All gear sets will have set bonuses when wearing every piece of the same set. If you mix and match different tiers in the same set, the set bonus will reflect the lowest bonus of the lowest tier equipped. The tooltip in game will show the set bonus you have. If you are not wearing pieces of the same set, the set bonus will say inactive. Weapons are not a part of the set bonus, only the four armor pieces are required. Please check the [Set Bonus Page](https://haneki56.github.io/DawnPiece/#/Gear/SetBonus) for a list of all of the bonuses we have in game and what they do.
+
+### Gear Tier Bonuses
+
+Similar to set bonuses, gear will recieve a Knockback Resistance tier bonus. Gear pieces of the same set are not required to get a tier bonus, and the tier bonus will reflect the lowest tier equipped. Equipping a minimum Epic gear set will give you 20% Knockback Resistance, equipping a minimum Legendary gear set will give you 40% Knockback Resistance, and equipping a minimum Mythical gear set will give you 60% Knockback Resistance.

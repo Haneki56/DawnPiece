@@ -88,7 +88,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Magician Hawkins			|           | Warabide Sword (Legendary)         		| Hawkins (Legendary)	| Wara Fragment 				|
 | Roar Of The Sea Apoo		|           | Tonfa Baton (Legendary)            		| Apoo (Legendary)		| Oto Fragment					|
 | Red Flag X Drake			|           | X Axe (Legendary)<br>X Rapier (Legendary) | Drake (Legendary)  	| Allosaurus Fragment			|
-| Rocks D. Xebec			|           | Saber Of Xebec (Legendary)                | Xebec (Legendary) 	| Xebec Advanced Haki Fragment  |
+| Eustass “Captain” Kid		|           | Metal Arm (Legendary)     				| Kid (Legendary)    	| Jiki Fragment					|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
@@ -111,4 +111,4 @@ Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls an
 | Magician Hawkins			|               |               |
 | Roar Of The Sea Apoo		|               |               |
 | Red Flag X Drake			|               |               |
-| Rocks D. Xebec			|               |               |
+| Eustass “Captain” Kid		|               |               |

@@ -71,44 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name 		| Belly     | Weapon    					| Armor Set 					| Other     	|
-|-----------		|-----------|-----------					|-----------					|-----------	|
-| Nefertari Vivi	|           | Peacock Slasher (Legendary) 	| Vivi (Legendary)  			|           	|
-| Mister Nine		|           | Metal Bat (Legendary)       	| Mr. 9 (Legendary) 			|           	|
-| Sister   			|           | Cross (Legendary)    			| Catherina (Legendary)			|           	|
-| Ms. Father’s Day  |           |           					| Miss Fathers Day (Legendary)  |           	|
-| Mister Seven  	|           |           					| Mr. Seven (Legendary)			|           	|
-| Mikita  			|           | Umbrella (Legendary)    		| Mikita (Legendary)   			| Kilo Fragment |
-| Gem      			|           |           					| Gem (Legendary)      			| Bomu Fragment |
-| Drophy   			|           | Mole Claw (Legendary)   		| Drophy (Legendary)            | Mogu Fragment	|
-| Babe     			|           | Steel Bat (Legendary)   		| Babe (Legendary) 				|           	|
-| Marianne  		|           | Paintbrush (Legendary)  		| Marianne (Legendary) 			|           	|
-| Galdino   		|           | Wax Sword (Legendary)   		| Galdino (Legendary)  			| Doru Fragment |
-| Bentham   		|           |           					| Bentham (Legendary)         	| Mane Fragment |
-| Zala     			|           |           					| Zala (Legendary)				|           	|
-| Daz Bones   		|           | Arm Sword (Legendary) 		| Daz Bones (Legendary)       	| Supa Fragment	|
-| Nico Robin   		|           |           					| Robin (Legendary)				| Hana Fragment |
-| Crocodile 		|           | Hook (Legendary)      		| Crocodile (Legendary)  		| Suna Fragment	|
+| Boss Name 		| Belly       | Weapon    					| Armor Set 					| Other     	|
+|-----------		|-----------  |-----------					|-----------					|-----------	|
+| Nefertari Vivi	| 6000 Belly  | Peacock Slasher (Legendary) | Vivi (Legendary)  			|           	|
+| Mister Nine		| 6000 Belly  | Metal Bat (Legendary)       | Mr. Nine (Legendary) 			|           	|
+| Sister   			| 6000 Belly  | Cross (Legendary)    		| Catherina (Legendary)			|           	|
+| Ms. Father’s Day  | 6000 Belly  |           					| Miss Fathers Day (Legendary)  |           	|
+| Mister Seven  	| 6000 Belly  |           					| Mr. Seven (Legendary)			|           	|
+| Mikita  			| 8000 Belly  | Umbrella (Legendary)    	| Mikita (Legendary)   			| Kilo Fragment |
+| Gem      			| 8000 Belly  |           					| Gem (Legendary)      			| Bomu Fragment |
+| Drophy   			| 10000 Belly | Mole Claw (Legendary)   	| Drophy (Legendary)            | Mogu Fragment	|
+| Babe     			| 10000 Belly | Steel Bat (Legendary)   	| Babe (Legendary) 				|           	|
+| Marianne  		| 10000 Belly | Paintbrush (Legendary)  	| Marianne (Legendary) 			|           	|
+| Galdino   		| 10000 Belly | Wax Sword (Legendary)   	| Galdino (Legendary)  			| Doru Fragment |
+| Bentham   		| 10000 Belly |           					| Bentham (Legendary)         	| Mane Fragment |
+| Zala     			| 10000 Belly |           					| Zala (Legendary)				|           	|
+| Daz Bones   		| 10000 Belly | Arm Sword (Legendary) 		| Daz Bones (Legendary)       	| Supa Fragment	|
+| Nico Robin   		| 10000 Belly |           					| Robin (Legendary)				| Hana Fragment |
+| Crocodile 		| 10000 Belly | Hook (Legendary)      		| Crocodile (Legendary)  		| Suna Fragment	|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name 		| Island        | Sub-Location  | 
-|-----------		|-----------    |-----------    |
-| Nefertari Vivi	|               |               |
-| Mister Nine		|               |               | 
-| Sister   			|               |               |
-| Ms. Father’s Day  |               |               |  
-| Mister Seven  	|               |               |     
-| Mikita  			|               |               |     
-| Gem      			|               |               | 
-| Drophy   			|               |               |  
-| Babe     			|               |               |  
-| Marianne  		|               |               | 
-| Galdino   		|               |               | 
-| Bentham   		|               |               | 
-| Zala     			|               |               |
-| Daz Bones   		|               |               |
-| Nico Robin   		|               |               |
-| Crocodile 		|               |               |
+| Boss Name 		| Island        | Sub-Location  											| 
+|-----------		|-----------    |-----------    											|
+| Nefertari Vivi	| Whiskey Peak	| On top of the Eastern Cactus								|
+| Mister Nine		| Whiskey Peak	| On top of the Northeastern Cactus							| 
+| Sister   			| Whiskey Peak	| On top of the Northern Cactus								|
+| Ms. Father’s Day  | Whiskey Peak	| On top of the Northwestern Cactus							|  
+| Mister Seven  	| Whiskey Peak	| On top of the Western Cactus								|     
+| Mikita  			| Little Garden | On top of the Western Dinosaur Skeleton Southeast Corner	|     
+| Gem      			| Little Garden | On top of the Western Dinosaur Skeleton Southwest Corner	| 
+| Drophy   			| Little Garden | On top of the Western Dinosaur Skeleton South Central		|  
+| Babe     			| Little Garden | On top of the Western Dinosaur Skeleton North Central		|  
+| Marianne  		| Little Garden | On top of the Western Dinosaur Skeleton North Corner		| 
+| Galdino   		| Little Garden | On top of the Eastern Dinosaur Skeleton Southeast Corner	| 
+| Bentham   		| Little Garden | On top of the Eastern Dinosaur Skeleton Southwest Corner	| 
+| Zala     			| Little Garden | On top of the Eastern Dinosaur Skeleton South Central		|
+| Daz Bones   		| Little Garden | On top of the Eastern Dinosaur Skeleton North Central		|
+| Nico Robin   		| Little Garden | On top of the Eastern Dinosaur Skeleton North Corner		|
+| Crocodile 		| Alabasta		| On top of the Mountain East of the Bridge					|

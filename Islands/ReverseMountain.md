@@ -20,10 +20,10 @@ Note: Completing this quest unlocks Whisky Peak. Speak to Nami (RM) or the Telep
 
 ### Main Quest Boss Drops
 
-| Boss Name     | Belly    | Orb    | Weapon                   | Armor Set      | Other     |
-|---------------|----------|--------|--------------------------|-----------     |-----------|
-| Miss Wednesday| 40 Belly | Common | Peacock Slasher (Common) | Vivi (Common)  |           |
-| Mr. 9         | 40 Belly | Common | Metal Bat (Common)       | Mr. 9 (Common) |           |
+| Boss Name     | Belly    | Orb    | Weapon                   | Armor Set          | Other     |
+|---------------|----------|--------|--------------------------|-----------         |-----------|
+| Miss Wednesday| 40 Belly | Common | Peacock Slasher (Common) | Vivi (Common)      |           |
+| Mr. 9         | 40 Belly | Common | Metal Bat (Common)       | Mr. Nine (Common)  |           |
 
 ### Essential NPCs
 

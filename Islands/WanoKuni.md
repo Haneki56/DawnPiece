@@ -62,7 +62,7 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 | Daifugo               | 2500 Belly | Epic     | Green Katana (Epic)  | Daifugo (Epic) |                        |
 | Babanuki              | 2000 Belly | Epic     |                      |                |                        |
 | Queen                 | 3000 Belly | Epic     | Dao Sword (Epic)     | Queen (Epic)   | Brachiosaurus Fragment |
-| Kanjuro The Traitor   | 2500 Belly | Epic     | Tsuji Shibai (Epic)  |                |                        |
+| Kanjuro The Traitor   | 2500 Belly | Epic     | Tsuji Shibai (Epic)  | Kanjuro (Epic) |                        |
 
 ### Essential NPCs
 

@@ -22,11 +22,11 @@ Bounty Reward: 25,000,000
 
 | Boss Name             | Belly      | Orb       | Weapon                                               | Armor Set         | Other                          |
 |-----------            |----------- |-----------|-----------                                           |-----------        |-----------                     |
-| Shepherd Sommers      | 3500 Belly | Epic      |                                                      |                   |                                |
-| Manmayer Gunko        | 4000 Belly | Epic      |                                                      |                   |                                |
+| Shepherd Sommers      | 3500 Belly | Epic      |                                                      | Sommers (Epic)    |                                |
+| Manmayer Gunko        | 4000 Belly | Epic      |                                                      | Gunko (Epic)      |                                |
 | Satchels Maffey       | 3000 Belly | Epic      |                                                      |                   |                                |
-| Figarland Garling     | 4500 Belly | Legendary |                                                      |                   |                                |
-| Imu (Saturn)          | 8000 Belly | Legendary |                                                      |                   | Gyuki Fragment                 |
+| Figarland Garling     | 4500 Belly | Legendary |                                                      | Garling (Epic)    |                                |
+| Imu (Saturn)          | 8000 Belly | Legendary |                                                      | Saturn (Legendary)| Gyuki Fragment                 |
 | Monkey D. Garp        | 8000 Belly | Legendary | Galaxy Fist (Legendary)                              | Garp (Legendary)  |                                |
 
 ### B Quest

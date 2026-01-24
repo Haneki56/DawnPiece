@@ -60,11 +60,11 @@ Note: This is the final quest in the Main Story until we release further islands
 | Urban             | 1000 Belly | Rare     | Fleece Staff (Rare)       |                   |                   |
 | Tosa              | 1000 Belly | Rare     |                           |                   |                   |
 | Guillotine        | 1000 Belly | Rare     | Machete Sword (Rare)      |                   |                   |
-| Saturn            | 4000 Belly | Legendary|                           |                   | Gyuki Fragment    |
-| Mars              | 4000 Belly | Legendary|                           |                   | Itsumade Fragment |
-| Warcury           | 4000 Belly | Legendary|                           |                   | Fengxi Fragment   |
-| Nusjuro           | 4000 Belly | Legendary| Shodai Kitetsu (Epic)     |                   | Bakotsu Fragment  |
-| Ju Peter          | 4000 Belly | Legendary|                           |                   | Sandworm Fragment |
+| Saturn            | 4000 Belly | Legendary|                           | Saturn (Epic)     | Gyuki Fragment    |
+| Mars              | 4000 Belly | Legendary|                           | Mars (Epic)       | Itsumade Fragment |
+| Warcury           | 4000 Belly | Legendary|                           | Warcury (Epic)    | Fengxi Fragment   |
+| Nusjuro           | 4000 Belly | Legendary| Shodai Kitetsu (Epic)     | Nusjuro (Epic)    | Bakotsu Fragment  |
+| Ju Peter          | 4000 Belly | Legendary|                           | Ju Peter (Epic)   | Sandworm Fragment |
 
 
 

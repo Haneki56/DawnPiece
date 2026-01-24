@@ -29,7 +29,7 @@ Note: Completing this quest unlocks Little Garden. Speak to Miss All-Sunday (WP)
 | Boss Name     | Belly    | Orb    | Weapon            | Armor Set             | Other           |
 |---------------|----------|--------|-------------------|-----------            |-----------------|
 | Million       | 20 Belly | Common |                   |                       |                 |
-| Miss Catherina| 25 Belly | Common | Cross (Common)    |                       |                 |
+| Miss Catherina| 25 Belly | Common | Cross (Common)    | Catherina (Common)    |                 |
 | Mr. Beans     | 10 Belly | Common |                   |                       |                 |
 | Mr. Shimizu   | 30 Belly | Common |                   |                       |                 |
 | Miss Monday   | 60 Belly | Common |                   | Miss Monday (Common)  |                 |

@@ -87,7 +87,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Priest Gedatsu		| 10000 Belly 	|           				| Gedatsu (Legendary)		|       			|
 | Priest Ohm  			| 10000 Belly 	| Eisen Whip (Legendary)    | Ohm (Legendary)           |                 	|
 | God Gan Fall			| 10000 Belly 	| Skypiean Lance (Legendary)| Gan Fall (Legendary)      |	  				|
-| Demon Of Shandora		| 10000 Belly 	|           				|           				|           		|
+| Demon Of Shandora		| 10000 Belly 	|           				| Kalgara (Legendary)		|           		|
 | God Enel				| 10000 Belly 	| Nonosama Bo (Legendary)   | Enel (Legendary)          | Goro Fragment   	|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.

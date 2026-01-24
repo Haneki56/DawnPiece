@@ -78,17 +78,17 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Masked Agent Guernika			| 6000 Belly	|           				| Cipher Pol (Legendary)|           		|
 | Yamakaze Kaku					| 6000 Belly	| Shirasaya (Legendary)     | Cipher Pol (Legendary)| Giraffe Fragment  |
 | Massacre Weapon Lucci			| 7000 Belly	|           				| Cipher Pol (Legendary)| Leopard Fragment  |
-| Saint Manmayer Gunko			| 10000 Belly	|           				|           			|           		|
-| Saint Shepherd Sommers		| 10000 Belly	|           				|           			|           		|
-| Saint Rimoshifu Killingham	| 10000 Belly	|           				|           			| Kirin Fragment    |
-| Saint Figarland Shamrock		| 10000 Belly	|           				|           			| Cerberus Fragment |
-| Saint Jaygarcia Saturn		| 10000 Belly	|           				|           			| Gyuki Fragment    |
-| Saint Topman Warcury			| 10000 Belly	|           				|           			| Fengxi Fragment   |
-| Saint Marcus Mars				| 10000 Belly	|           				|           			| Itsumade Fragment |
-| Saint Figarland Garling		| 10000 Belly	|           				|           			|           		|
-| Saint Shepherd Ju Peter		| 10000 Belly	|           				|           			| Sandworm Fragment |
-| Saint Ethanbaron V. Nusjuro	| 10000 Belly	| Shodai Kitetsu (Legendary)|           			| Bakotsu Fragment  |
-| King Of The World				| 10000 Belly	|           				|           			|           		|
+| Saint Manmayer Gunko			| 10000 Belly	|           				| Gunko (Legendary)		|           		|
+| Saint Shepherd Sommers		| 10000 Belly	|           				| Sommers (Legendary)	|           		|
+| Saint Rimoshifu Killingham	| 10000 Belly	|           				| Killingham (Legendary)| Kirin Fragment    |
+| Saint Figarland Shamrock		| 10000 Belly	|           				| Shamrock (Legendary)	| Cerberus Fragment |
+| Saint Jaygarcia Saturn		| 10000 Belly	|           				| Saturn (Legendary)	| Gyuki Fragment    |
+| Saint Topman Warcury			| 10000 Belly	|           				| Warcury (Legendary)	| Fengxi Fragment   |
+| Saint Marcus Mars				| 10000 Belly	|           				| Mars (Legendary)		| Itsumade Fragment |
+| Saint Figarland Garling		| 10000 Belly	|           				| Garling (Legendary)	|           		|
+| Saint Shepherd Ju Peter		| 10000 Belly	|           				| Ju Peter (Legendary)	| Sandworm Fragment |
+| Saint Ethanbaron V. Nusjuro	| 10000 Belly	| Shodai Kitetsu (Legendary)| Nusjuro (Legendary)	| Bakotsu Fragment  |
+| King Of The World				| 10000 Belly	|           				| Imu (Legendary)		|           		|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

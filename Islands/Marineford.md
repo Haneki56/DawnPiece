@@ -124,7 +124,7 @@ Bounty Reward: 12,600,000
 | Delacuaji          | 300 Belly | Uncommon | Red Saber (Uncommon)                      |                       |                 |
 | Vista              | 800 Belly | Rare     | Rose Sword (Rare)                         | Vista (Rare)          |                 |
 | Ramba              | 300 Belly | Uncommon | Long Rapier (Uncommon)                    |                       |                 |
-| Jozu               | 900 Belly | Rare     | Diamond Fist (Rare)                       |                       | Kira Fragment   |
+| Jozu               | 900 Belly | Rare     | Diamond Fist (Rare)                       | Jozu (Rare)           | Kira Fragment   |
 | A O                | 300 Belly | Uncommon | Cutlass (Uncommon)                        |                       |                 |
 | Marco              | 1000 Belly| Rare     |                                           | Marco (Rare)          | Phoenix Fragment|
 | Squard             | 400 Belly | Uncommon | Oversized Katana (Uncommon)               |                       |                 |
@@ -154,7 +154,7 @@ Bounty Reward: 7,600,000
 | Usakkov               | 300 Belly | Uncommon |                          |                     |               |
 | Francois              | 300 Belly | Uncommon |                          |                     |               |
 | Captain Buggy         | 500 Belly | Rare     | Clown Knives (Uncommon)  | Buggy (Uncommon)    | Bara Fragment |
-| Emporio Ivankov       | 500 Belly | Rare     |                          |                     | Horu Fragment |
+| Emporio Ivankov       | 500 Belly | Rare     |                          | Ivankov (Uncommon)  | Horu Fragment |
 | Prisoner Galdino      | 500 Belly | Rare     | Wax Sword (Uncommon)     | Galdino (Uncommon)  | Doru Fragment |
 | Prisoner Daz Bones    | 500 Belly | Rare     | Arm Sword (Uncommon)     | Daz Bones (Uncommon)| Supa Fragment |
 | Ex-Warlord Crocodile  | 800 Belly | Rare     | Hook (Rare)              | Crocodile (Rare)    | Suna Fragment |

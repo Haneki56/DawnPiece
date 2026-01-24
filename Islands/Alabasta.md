@@ -51,7 +51,7 @@ Note: Completing this quest unlocks Jaya. Speak to Nico Robin (AB) or the Telepo
 | Royal Soldier        | 10 Belly  |          |                      |                            |              |
 | Mr. 7                | 90 Belly  | Common   |                      | Mr. Seven (Common)         |              |
 | Miss Father's Day    | 90 Belly  | Common   |                      | Miss Fathers Day (Common)  |              |
-| Miss All-Sunday      | 120 Belly | Uncommon |                      |                            | Hana Fragment|
+| Miss All-Sunday      | 120 Belly | Uncommon |                      | Robin (Uncommon)           | Hana Fragment|
 | Mr. 0                | 250 Belly | Uncommon | Hook (Uncommon)      | Crocodile (Uncommon)       | Suna Fragment|
 
 ### B Quest

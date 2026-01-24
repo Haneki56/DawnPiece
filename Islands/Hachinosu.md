@@ -34,7 +34,7 @@ Bounty Reward: 36,750,000
 | Van Augur             | 3000 Belly | Epic      |                                                      | Van Augur (Epic)  | Wapu Fragment                  |
 | Jesus Burgess         | 3000 Belly | Epic      | Green Dagger (Epic)                                  | Burgess (Epic)    | Riki Fragment                  |
 | Avalo Pizarro         | 2000 Belly | Epic      |                                                      |                   |                                |
-| Shiryu                | 3000 Belly | Epic      | Raiu (Epic)                                          |                   | Suke Fragment                  |
+| Shiryu                | 3000 Belly | Epic      | Raiu (Epic)                                          | Shiryu (Epic)     | Suke Fragment                  |
 | Kuzan                 | 4000 Belly | Legendary | Ice Saber (Epic)                                     | Aokiji (Epic)     | Hie Fragment                   |
 | Marshall D.Teach      | 4000 Belly | Legendary | Darkness First (Epic)                                | Teach (Epic)      | Yami Fragment<br>Gura Fragment |
 

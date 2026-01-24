@@ -60,14 +60,14 @@ Note: Completing this quest unlocks Wano Kuni. Speak to Nami (WCI) or the Telepo
 | Charlotte Pudding     | 1500 Belly | Epic     |                      |                |               |
 | Charlotte Opera       | 2400 Belly | Epic     |                      |                |               |
 | Charlotte Mont-D'or   | 1800 Belly | Epic     |                      |                |               |
-| Charlotte Smoothie    | 2500 Belly | Epic     | Shiboriken (Epic)    |                | Shibo Fragment|
+| Charlotte Smoothie    | 2500 Belly | Epic     | Shiboriken (Epic)    | Smoothie (Epic)| Shibo Fragment|
 | Baron Tamago          | 1800 Belly | Epic     | Shikomizue (Rare)    |                |               |
 | Charlotte Oven        | 2200 Belly | Epic     | Nagitana (Epic)      | Oven (Epic)    | Netsu Fragment|
 | Charlotte Daifuku     | 1200 Belly | Epic     |                      |                | Hoya Fragment |
 | Majin                 | 800 Belly  |          | Halberd (Rare)       |                |               |
 | Charlotte Perospero   | 2500 Belly | Epic     | Candy Staff (Epic)   |                | Pero Fragment |
 | Charlotte Flampe      | 1200 Belly | Rare     |                      |                |               |
-| Charlotte Katakuri    | 2500 Belly | Epic     | Mogura (Epic)        |                | Mochi Fragment|
+| Charlotte Katakuri    | 2500 Belly | Epic     | Mogura (Epic)        | Katakuri (Epic)| Mochi Fragment|
 | Zeus                  | 300 Belly  | Uncommon |                      |                |               |
 | Prometheus            | 300 Belly  | Uncommon |                      |                |               |
 | Charlotte Linlin      | 3500 Belly | Epic     | Napoleon (Epic)      | Linlin (Epic)  | Soru Fragment |

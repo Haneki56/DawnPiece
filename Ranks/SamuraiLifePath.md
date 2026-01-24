@@ -71,44 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name 			| Belly     | Weapon    										| Armor Set 				| Other     |
-|-----------			|-----------|-----------										|-----------				|-----------|
-| Akazaya Kanjuro 		|           | Tsuji Shibai (Legendary)							| Kanjuro (Legendary)		|           |
-| Akazaya Kikunojo		|           |           										| Kikunojo (Legendary)		|           |
-| Akazaya Raizo			|           |           										| Raizo (Legendary)			|           |
-| Akazaya Inuarashi		|           |           										| Inuarashi (Legendary)		|           |
-| Akazaya Nekomamushi	|           |           										| Nekomamushi (Legendary)	|           |
-| Akazaya Kawamatsu		|           | Soto Muso (Legendary)								| Kawamatsu (Legendary)		|           |
-| Akazaya Kin'emon		|           | Sukesan (Legendary)<br>Kakusan (Legendary)		| Kinemon (Legendary)		|           |
-| Akazaya Denjiro		|           | Akayaza Katana (Legendary)						| Denjiro (Legendary)		|           |
-| Akazaya Ashura Doji	|           |           										| Ashura Doji (Legendary)	|           |
-| Daimyo Yasuie			|           |           										| Yasuie (Legendary)		|           |
-| Daimyo Tempura		|           |           										| Tempura (Legendary)		|           |
-| Daimyo Omusubi		|           |           										| Omusubi (Legendary)		|           |
-| Daimyo Ushimaru		|           |           										| Ushimaru (Legendary)		|           |
-| Daimyo Oden			|           | Enma (Legendary)<br>Ame No Habakiri (Legendary)	| Oden (Legendary)			|           |
-| Shogun Sukiyaki		|           |           										| Sukiyaki (Legendary)		|           |
-| Sword God Ryuma		|           | Shusui (Legendary)        						| Ryuma (Legendary) 		|           |
+| Boss Name 			| Belly       | Weapon    										| Armor Set 				| Other     			|
+|-----------			|-----------  |-----------										|-----------				|-----------			|
+| Akazaya Kanjuro 		| 6000 Belly  | Tsuji Shibai (Legendary)						| Kanjuro (Legendary)		|           			|
+| Akazaya Kikunojo		| 6000 Belly  |           										| Kikunojo (Legendary)		|           			|
+| Akazaya Raizo			| 6000 Belly  |           										| Raizo (Legendary)			|           			|
+| Akazaya Inuarashi		| 6000 Belly  |           										| Inuarashi (Legendary)		|           			|
+| Akazaya Nekomamushi	| 6000 Belly  |           										| Nekomamushi (Legendary)	|           			|
+| Akazaya Kawamatsu		| 8000 Belly  | Soto Muso (Legendary)							| Kawamatsu (Legendary)		|           			|
+| Akazaya Kin'emon		| 8000 Belly  | Sukesan (Legendary)<br>Kakusan (Legendary)		| Kinemon (Legendary)		|           			|
+| Akazaya Denjiro		| 8000 Belly  | Akayaza Katana (Legendary)						| Denjiro (Legendary)		|           			|
+| Akazaya Ashura Doji	| 8000 Belly  |           										| Ashura Doji (Legendary)	|           			|
+| Daimyo Yasuie			| 10000 Belly |           										| Yasuie (Legendary)		|           			|
+| Daimyo Tempura		| 10000 Belly |           										| Tempura (Legendary)		|           			|
+| Daimyo Omusubi		| 10000 Belly |           										| Omusubi (Legendary)		|           			|
+| Daimyo Ushimaru		| 10000 Belly |           										| Ushimaru (Legendary)		|           			|
+| Daimyo Oden			| 10000 Belly | Enma (Legendary)<br>Ame No Habakiri (Legendary)	| Oden (Legendary)			| Oden Nitoryu Fragment	|
+| Shogun Sukiyaki		| 10000 Belly |           										| Sukiyaki (Legendary)		|           			|
+| Sword God Ryuma		| 10000 Belly | Shusui (Legendary)        						| Ryuma (Legendary) 		|           			|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name 			| Island        | Sub-Location  | 
-|-----------			|-----------    |-----------    |
-| Akazaya Kanjuro 		|               |               |
-| Akazaya Kikunojo		|               |               | 
-| Akazaya Raizo			|               |               |
-| Akazaya Inuarashi		|               |               |  
-| Akazaya Nekomamushi	|               |               |     
-| Akazaya Kawamatsu		|               |               |     
-| Akazaya Kin'emon		|               |               | 
-| Akazaya Denjiro		|               |               |  
-| Akazaya Ashura Doji	|               |               |  
-| Daimyo Yasuie			|               |               | 
-| Daimyo Tempura		|               |               | 
-| Daimyo Omusubi		|               |               | 
-| Daimyo Ushimaru		|               |               |
-| Daimyo Oden			|               |               |
-| Shogun Sukiyaki		|               |               |
-| Sword God Ryuma		|               |               |
+| Boss Name 			| Island    | Sub-Location  								| 
+|-----------			|-----------|-----------    								|
+| Akazaya Kanjuro 		| Wano Kuni | Southwest of the Amigasa Village Forest		|
+| Akazaya Kikunojo		| Wano Kuni | Valley South of the Northern Trees on Ringo	| 
+| Akazaya Raizo			| Wano Kuni | East of the Udon Prison						|
+| Akazaya Inuarashi		| Zou 		| Southern Plateau by the Day Village			|  
+| Akazaya Nekomamushi	| Zou		| Northern Plateau by the Night Village			|     
+| Akazaya Kawamatsu		| Wano Kuni | Forest Clearing on the North Side of Hakumai	|     
+| Akazaya Kin'emon		| Wano Kuni | Northwest Corner of Kuri						| 
+| Akazaya Denjiro		| Wano Kuni | Northwest Corner of Kibi						|  
+| Akazaya Ashura Doji	| Wano Kuni | North of Bakura Town in between the Mountains	|  
+| Daimyo Yasuie			| Wano Kuni | Inside the Hakumai Temple						| 
+| Daimyo Tempura		| Wano Kuni | Southern Edge of Udon							| 
+| Daimyo Omusubi		| Wano Kuni | Southern Edge of Kibi							| 
+| Daimyo Ushimaru		| Wano Kuni | Near the Southern Tree on Ringo				|
+| Daimyo Oden			| Wano Kuni | Behind the Kuri Castle Mountain				|
+| Shogun Sukiyaki		| Wano Kuni | North of the Amigasa Village Forest			|
+| Sword God Ryuma		| Wano Kuni | South of Kuri Castle in between the Mountains |

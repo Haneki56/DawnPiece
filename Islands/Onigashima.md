@@ -52,7 +52,7 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 | Waiter                    | 500 Belly  | Rare    |                                    |               |                               |
 | Beast Pirate Hawkins      | 1800 Belly | Epic    | Warabide Sword (Rare)              | Hawkins (Rare)| Wara Fragment                 |
 | Strawman                  | 500 Belly  | Rare    |                                    |               |                               |
-| Beast Pirate Apoo         | 1800 Belly | Epic    | Tonfa Baton (Rare)                 |               | Oto Fragment                  |
+| Beast Pirate Apoo         | 1800 Belly | Epic    | Tonfa Baton (Rare)                 | Apoo (Rare)   | Oto Fragment                  |
 | Inbi                      | 1500 Belly | Epic    |                                    |               |                               |
 | Fuga                      | 1500 Belly | Epic    | Black Kanabo (Rare)                |               |                               |
 | Zanki                     | 1500 Belly | Epic    | Brown Katana (Rare)                |               |                               |
@@ -69,7 +69,7 @@ Note: Completing this quest unlocks Egghead. Speak to Momonosuke (ONI) or the Te
 | Wanyudo                   | 200 Belly  | Uncommon|                                    |               |                               |
 | Black Maria               | 2200 Belly | Epic    | Brass Knuckles (Epic)              |               | Rosamygale Grauvogeli Fragment|
 | Diez Drake                | 1000 Belly |         |                                    |               |                               |
-| Diez Drake Beast Form     | 1500 Belly | Epic    | X Rapier (Epic) <br> X Axe (Epic)  |               | Allosaurus Fragment           |
+| Diez Drake Beast Form     | 1500 Belly | Epic    | X Rapier (Epic) <br> X Axe (Epic)  | Drake (Epic)  | Allosaurus Fragment           |
 | Sasaki                    | 1000 Belly |         |                                    |               |                               |
 | Sasaki Beast Form         | 1500 Belly | Epic    | Karakuri Rasento (Epic)            |               | Triceratops Fragment          |
 | Who’s Who                 | 1500 Belly |         |                                    |               |                               |

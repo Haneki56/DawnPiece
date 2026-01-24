@@ -35,12 +35,12 @@ Note: Completing this quest unlocks Amazon Lily. Speak to Zoro (SA) or the Telep
 
 | Boss Name         | Belly     | Orb      | Weapon                                                                     | Armor Set         | Other              |
 |-------------------|-----------|----------|----------------------------------------------------------------------------|-----------        |--------------------|
-| Capone Bege       | 400 Belly | Rare     |                                                                            |                   | Shiro Fragment     |
+| Capone Bege       | 400 Belly | Rare     |                                                                            | Bege (Uncommon)   | Shiro Fragment     |
 | Jewelry Bonney    | 200 Belly | Uncommon |                                                                            | Bonney (Uncommon) |                    |
 | Basil Hawkins     | 400 Belly | Rare     | Warabide Sword (Uncommon)                                                  | Hawkins (Uncommon)| Wara Fragment      |
-| Scratchmen Apoo   | 400 Belly | Rare     | Tonfa Baton (Uncommon)                                                     |                   | Oto Fragment       |
+| Scratchmen Apoo   | 400 Belly | Rare     | Tonfa Baton (Uncommon)                                                     | Apoo (Uncommon)   | Oto Fragment       |
 | Urouge            | 400 Belly | Rare     | Pillar (Uncommon)                                                          | Urouge (Uncommon) | Karu Fragment      |
-| X Drake           | 400 Belly | Rare     | X Axe (Uncommon)<br>X Rapier (Uncommon)                                    |                   | Allosaurus Fragment|
+| X Drake           | 400 Belly | Rare     | X Axe (Uncommon)<br>X Rapier (Uncommon)                                    | Drake (Uncommon)  | Allosaurus Fragment|
 | Saint Charlos     | 1 Belly   |          |                                                                            |                   |                    |
 | Roronoa Zolo      | 400 Belly | Rare     | Wado Ichimonji (Uncommon)<br>Shusui (Uncommon)<br>Sandai Kitetsu (Uncommon)| Zoro (Uncommon)   |                    |
 | Killer            | 400 Belly | Rare     | Punisher (Uncommon)                                                        |                   |                    |

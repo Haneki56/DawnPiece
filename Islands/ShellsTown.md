@@ -30,6 +30,13 @@ Note: Completing this quest unlocks Orange Town. Speak to Ririka (ST) or the Tel
 | Helmeppo       | 5 Belly  | Common |                      | Helmeppo (Common) |           |
 | Axe-Hand Morgan| 40 Belly | Common | Axe Hand (Common)    | Morgan (Common)   |           |
 
+### Merchants
+
+| Merchant Name    | Merchandise |
+|-------------     |-----------  |
+| Ryourinin        | Food        |
+| Patissier        | Food        |
+
 ### Essential NPCs
 
 | NPC Name              | Purpose                                   |

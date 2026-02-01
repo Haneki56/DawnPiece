@@ -31,42 +31,43 @@ To start the Pirate Trials Questline, speak to Shanks (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>P01</td><td>Warlord Trials!</td><td>Defeat Pirate Empress on Amazon Lily, Tyrant Kuma on Thriller Bark and King Of The Shadows on Thriller Bark.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>P02</td><td>Warlord Trials Continue!</td><td>Defeat Heavenly Demon on Punk Hazard, First Son Of The Sea on Fishman Island and Surgeon Of Death on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>P03</td><td>The Final Warlords!</td><td>Defeat Buggy The Star Clown on Impel Down, Hero of Alabasta on Alabasta and Hawk Eyes on Kuraigana.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>P04</td><td>Warlord Tribute!</td><td>Bring Shanks (Trials) 100,000 Belly to complete the Warlord Trials.</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>The Warlord Trials have been completed! Speak to Shanks (Trials) again to start the Yonko Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>P05</td><td>Yonko Trials!</td><td>Defeat Big Mom on Whole Cake Island, Strongest Creature on the Knock Up Stream and World’s Strongest Man on Sphinx.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>P06</td><td>The Final Yonko!</td><td>Defeat Red Haired Shanks on Marineford, Blackbeard on Hachinosu and Sun God Nika on Onigashima.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>P07</td><td>Yonko Tribute!</td><td>Bring Shanks (Trials) 200,000 Belly to complete the Yonko Trials.</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>The Yonko Trials have been completed! Speak to Shanks (Trials) again to start the Pirate King Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>P08</td><td>The King Of The Pirates!</td><td>Defeat Pirate King Roger on Jaya.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>P09</td><td>Pirate King Tribute!</td><td>Bring Shanks (Trials) 300,000 Belly to complete the Pirate King Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
+Item Rewards: Pirate Insignia, Mythical Shard<br>
 Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops

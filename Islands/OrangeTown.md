@@ -32,6 +32,12 @@ Note: Completing this quest unlocks Syrup Village. Speak to Luffy (OT) or the Te
 | Clown Pirate| 20 Belly | Common |                       |                 |               |
 | Buggy       | 55 Belly | Common | Clown Knives (Common) | Buggy (Common)  | Bara Fragment |
 
+### Merchants
+
+| Merchant Name    | Merchandise |
+|-------------     |-----------  |
+| Bartender        | Drinks      |
+
 ### Essential NPCs
 
 | NPC Name              | Purpose                                   |

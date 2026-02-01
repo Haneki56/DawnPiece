@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Revolutionary Trials Questline, speak to X (Trials) on X.
+To start the Revolutionary Trials Questline, speak to Sabo (Trials) on X.
 
 <table>
 	<thead>
@@ -31,42 +31,43 @@ To start the Revolutionary Trials Questline, speak to X (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>R01</td><td>Revolutionary Trials!</td><td>Defeat East Army Captain Ginny, Army Commander Kuma and Instructor Koala on Tequila Wolf.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>R02</td><td>The Deputy Commanders!</td><td>Defeat East Army Deputy, West Army Deputy and South Army Deputy on Tequila Wolf.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>R03</td><td>The Final Revolutionaries!</td><td>Defeat North Army Deputy, G Army Deputy and Hundredth-Degree Hack on Tequila Wolf.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>R04</td><td>Rev. Commander Tribute!</td><td>Bring Sabo (Trials) 100,000 Belly to complete the Revolutionary Commander Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Revolutionary Trials have been completed! Speak to X (Trials) again to start the Chief of Staff Trials.</em></td>
+			<td colspan="3"><em>The Revolutionary Trials have been completed! Speak to Sabo (Trials) again to start the Chief of Staff Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>R05</td><td>Chief Of Staff Trials!</td><td>Defeat East Army Commander, West Army Commander and South Army Commander on Tequila Wolf.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>R06</td><td>The Final Commanders!</td><td>Defeat North Army Commander on Tequila Wolf, G Army Commander on Tequila Wolf and Chief Of Staff on Baltigo.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>R07</td><td>Chief Of Staff Tribute!</td><td>Bring Sabo (Trials) 200,000 Belly to complete the Chief Of Staff Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Chief of Staff Trials have been completed! Speak to X (Trials) again to start the Most Wanted Trials.</em></td>
+			<td colspan="3"><em>The Chief of Staff Trials have been completed! Speak to Sabo (Trials) again to start the Most Wanted Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>R08</td><td>The Most Wanted Man!</td><td>Defeat the Most Wanted Man on Baltigo.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>R09</td><td>Most Wanted Tribute!</td><td>Bring Sabo (Trials) 300,000 Belly to complete the Most Wanted Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
+Item Rewards: Revolutionary Insignia, Mythical Shard<br>
 Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops

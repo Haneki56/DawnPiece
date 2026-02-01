@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the World Government Trials Questline, speak to X (Trials) on X.
+To start the World Government Trials Questline, speak to Garling (Trials) on X.
 
 <table>
 	<thead>
@@ -31,42 +31,43 @@ To start the World Government Trials Questline, speak to X (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>WG01</td><td>God’s Knight Commander Trials!</td><td>Defeat Masked Agent Gismonda on Wano-Kuni, Queen Of The Pleasure District on Whole Cake Island and Masked Agent Guernika on Wano-Kuni.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>WG02</td><td>The Cipher Pol Elite!</td><td>Defeat Yamakaze Kaku on Enies Lobby, Massacre Weapon Lucci on Enies Lobby and Saint Manmayer Gunko on Elbaph.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>WG03</td><td>The God’s Knights!</td><td>Defeat Saint Shepherd Sommers, Saint Rimoshifu Killingham and Saint Figarland Shamrock on Elbaph.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>WG04</td><td>God’s Knight Commander Tribute!</td><td>Bring Garling (Trials) 100,000 Belly to complete the God’s Knight Commander Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The God’s Knight Commander Trials have been completed! Speak to X (Trials) again to start the Gorosei Trials.</em></td>
+			<td colspan="3"><em>The God’s Knight Commander Trials have been completed! Speak to Garling (Trials) again to start the Gorosei Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>WG05</td><td>Gorosei Trials!</td><td>Defeat Saint Jaygarcia Saturn, Saint Topman Warcury and Saint Marcus Mars on Egghead.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>WG06</td><td>The Final Gorosei!</td><td>Defeat Saint Figarland Garling on God Valley, Saint Shepherd Ju Peter on Egghead and Saint Ethanbaron V. Nusjuro on Egghead.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>WG07</td><td>Gorosei Tribute!</td><td>Bring Garling (Trials) 200,000 Belly to complete the Gorosei Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Gorosei Trials have been completed! Speak to X (Trials) again to start the King Of The World Trials.</em></td>
+			<td colspan="3"><em>The Gorosei Trials have been completed! Speak to Garling (Trials) again to start the King Of The World Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>WG08</td><td>The King Of The World!</td><td>Defeat King Of The World on God Valley.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>WG09</td><td>King Of The World Tribute!</td><td>Bring Garling (Trials) 300,000 Belly to complete the King Of The World Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
+Item Rewards: World Government Insignia, Mythical Shard<br>
 Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops

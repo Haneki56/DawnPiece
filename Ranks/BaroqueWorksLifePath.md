@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Baroque Works Trials Questline, speak to X (Trials) on X.
+To start the Baroque Works Trials Questline, speak to Mr. 0 (Trials) on X.
 
 <table>
 	<thead>
@@ -31,42 +31,43 @@ To start the Baroque Works Trials Questline, speak to X (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>BW01</td><td>Unluckies Trials!</td><td>Defeat Nefertari Vivi, Mister Nine and Sister on Whisky Peak.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>BW02</td><td>The Frontier Agents!</td><td>Defeat Ms. Father’s Day on Whisky Peak, Mister Seven on Whisky Peak and Mikita on Little Garden.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>BW03</td><td>The Officer Agents!</td><td>Defeat Gem, Drophy and Babe on Little Garden.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>BW04</td><td>Unluckies Tribute!</td><td>Bring Mr. 0 (Trials) 100,000 Belly to complete the Unluckies Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Unluckies Trials have been completed! Speak to X (Trials) again to start the Officer Agent Trials.</em></td>
+			<td colspan="3"><em>The Unluckies Trials have been completed! Speak to Mr. 0 (Trials) again to start the Officer Agent Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>BW05</td><td>Officer Agent Trials!</td><td>Defeat Marianne, Galdino and Bentham on Little Garden.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>BW06</td><td>The Top Officer Agents!</td><td>Defeat Zala, Daz Bones and Nico Robin on Little Garden.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>BW07</td><td>Officer Agent Tribute!</td><td>Bring Mr. 0 (Trials) 200,000 Belly to complete the Officer Agent Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Officer Agent Trials have been completed! Speak to X (Trials) again to start the Baroque Works Leader Trials.</em></td>
+			<td colspan="3"><em>The Officer Agent Trials have been completed! Speak to Mr. 0 (Trials) again to start the Baroque Works Leader Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>BW08</td><td>The Top Of Baroque Works!</td><td>Defeat Crocodile on Alabasta.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>BW09</td><td>Baroque Works Leader Tribute!</td><td>Bring Mr. 0 (Trials) 300,000 Belly to complete the Baroque Works Leader Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
+Item Rewards: Baroque Works Insignia, Mythical Shard<br>
 Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops

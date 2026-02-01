@@ -71,44 +71,44 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Trials Quest Boss Drops
 
-| Boss Name 				| Belly     | Weapon    								| Armor Set 			| Other     					|
-|-----------				|-----------|-----------								|-----------			|-----------					|
-| Higuma The Bear			|           | Bandit Sword (Legendary)					| Bandit (Legendary)   	|           					|
-| Iron Mace Alvida			|           | Iron Mace (Legendary)   					| Alvida (Legendary)   	| Sube Fragment					|
-| Kuro Of 1000 Plans		|           | Tekko Kagi (Legendary)    				| Kuro (Legendary)		|           					|
-| Sawtooth Arlong			|           | Kiribachi (Legendary) 					| Arlong (Legendary) 	|           					|
-| Tin Plate Wapol			|           |           								| Wapol (Legendary) 	| Baku Fragment					|
-| Silver Fox Foxy			|           | Noro Noro Beam Sword (Legendary)			| Foxy (Legendary)   	| Noro Fragment					|
-| Genius Surgeon Hogback	|           |           								| Hogback (Legendary)	|          						|	
-| Ghost Princess Perona 	|           | Horo Umbrella (Legendary) 				| Perona (Legendary) 	| Horo Fragment 				|
-| Absalom Of The Graveyard	|           |           								| Absalom (Legendary)	| Suke Fragment					|
-| Capone “Gang” Bege		|           |           								| Bege (Legendary)		| Shiro Fragment				|
-| Big Eater Bonney			|           |           								| Bonney (Legendary)	|           					|
-| Mad Monk Urouge			|           | Pillar (Legendary)                 		| Urouge (Legendary) 	| Karu Fragment					|
-| Magician Hawkins			|           | Warabide Sword (Legendary)         		| Hawkins (Legendary)	| Wara Fragment 				|
-| Roar Of The Sea Apoo		|           | Tonfa Baton (Legendary)            		| Apoo (Legendary)		| Oto Fragment					|
-| Red Flag X Drake			|           | X Axe (Legendary)<br>X Rapier (Legendary) | Drake (Legendary)  	| Allosaurus Fragment			|
-| Eustass “Captain” Kid		|           | Metal Arm (Legendary)     				| Kid (Legendary)    	| Jiki Fragment					|
+| Boss Name 				| Belly     	| Weapon    								| Armor Set 			| Other     					|
+|-----------				|-----------	|-----------								|-----------			|-----------					|
+| Higuma The Bear			| 6000 Belly  	| Bandit Sword (Legendary)					| Bandit (Legendary)   	|           					|
+| Iron Mace Alvida			| 6000 Belly  	| Iron Mace (Legendary)   					| Alvida (Legendary)   	| Sube Fragment					|
+| Kuro Of 1000 Plans		| 6000 Belly  	| Tekko Kagi (Legendary)    				| Kuro (Legendary)		|           					|
+| Sawtooth Arlong			| 6000 Belly  	| Kiribachi (Legendary) 					| Arlong (Legendary) 	|           					|
+| Tin Plate Wapol			| 6000 Belly  	|           								| Wapol (Legendary) 	| Baku Fragment					|
+| Silver Fox Foxy			| 8000 Belly  	| Noro Noro Beam Sword (Legendary)			| Foxy (Legendary)   	| Noro Fragment					|
+| Genius Surgeon Hogback	| 8000 Belly  	|           								| Hogback (Legendary)	|          						|	
+| Ghost Princess Perona 	| 10000 Belly  	| Horo Umbrella (Legendary) 				| Perona (Legendary) 	| Horo Fragment 				|
+| Absalom Of The Graveyard	| 10000 Belly  	|           								| Absalom (Legendary)	| Suke Fragment					|
+| Capone “Gang” Bege		| 10000 Belly  	|           								| Bege (Legendary)		| Shiro Fragment				|
+| Big Eater Bonney			| 10000 Belly  	|           								| Bonney (Legendary)	|           					|
+| Mad Monk Urouge			| 10000 Belly  	| Pillar (Legendary)                 		| Urouge (Legendary) 	| Karu Fragment					|
+| Magician Hawkins			| 10000 Belly  	| Warabide Sword (Legendary)         		| Hawkins (Legendary)	| Wara Fragment 				|
+| Roar Of The Sea Apoo		| 10000 Belly  	| Tonfa Baton (Legendary)            		| Apoo (Legendary)		| Oto Fragment					|
+| Red Flag X Drake			| 10000 Belly  	| X Axe (Legendary)<br>X Rapier (Legendary) | Drake (Legendary)  	| Allosaurus Fragment			|
+| Eustass “Captain” Kid		| 10000 Belly  	| Metal Arm (Legendary)     				| Kid (Legendary)    	| Jiki Fragment					|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name 				| Island        | Sub-Location  | 
-|-----------				|-----------    |-----------    |
-| Higuma The Bear			|               |               |
-| Iron Mace Alvida			|               |               | 
-| Kuro Of 1000 Plans		|               |               |
-| Sawtooth Arlong			|               |               |  
-| Tin Plate Wapol			|               |               |     
-| Silver Fox Foxy			|               |               |     
-| Genius Surgeon Hogback	|               |               | 
-| Ghost Princess Perona 	|               |               |  
-| Absalom Of The Graveyard	|               |               |  
-| Capone “Gang” Bege		|               |               | 
-| Big Eater Bonney			|               |               | 
-| Mad Monk Urouge			|               |               | 
-| Magician Hawkins			|               |               |
-| Roar Of The Sea Apoo		|               |               |
-| Red Flag X Drake			|               |               |
-| Eustass “Captain” Kid		|               |               |
+| Boss Name 				| Island        		| Sub-Location  								| 
+|-----------				|-----------    		|-----------    								|
+| Higuma The Bear			| Foosha Village		| Northeast of the Village behind the Windmills	|
+| Iron Mace Alvida			| Loguetown				| Island Northeast Side Grass Patch 			| 
+| Kuro Of 1000 Plans		| Syrup Village			| On top of the Mansion							|
+| Sawtooth Arlong			| Cocoyashi Village 	| Inside Arlong Park 							|  
+| Tin Plate Wapol			| Drum Island			| On top of the Western Drum					|     
+| Silver Fox Foxy			| Long Ring Long Land	| Inside the Sexy Foxy							|     
+| Genius Surgeon Hogback	| Thriller Bark			| Northwest of the Church			            | 
+| Ghost Princess Perona 	| Kuraigana		 		| Inside the Castle								|  
+| Absalom Of The Graveyard	| Thriller Bark			| North of the Church							|  
+| Capone “Gang” Bege		| Sabaody Archipelago	| On the Southwest Grove						| 
+| Big Eater Bonney			| Sabaody Archipelago	| On the Southwest Grove						| 
+| Mad Monk Urouge			| Sabaody Archipelago	| On the Southwest Grove						| 
+| Magician Hawkins			| Sabaody Archipelago	| On the Southwest Grove						|
+| Roar Of The Sea Apoo		| Sabaody Archipelago	| On the Southwest Grove						|
+| Red Flag X Drake			| Sabaody Archipelago	| On the Southwest Grove						|
+| Eustass “Captain” Kid		| Sabaody Archipelago	| Behind the Auction House						|

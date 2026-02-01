@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Shandian Trials Questline, speak to X (Trials) on X.
+To start the Shandian Trials Questline, speak to Gan Fall (Trials) on X.
 
 <table>
 	<thead>
@@ -31,42 +31,43 @@ To start the Shandian Trials Questline, speak to X (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>S01</td><td>God’s Guard Trials!</td><td>Defeat White Beret McKinley, Shandian Genbo and Shandian Braham on Skypiea.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>S02</td><td>The Shandian Warriors!</td><td>Defeat Shandian Kamakiri, Shandian Raki and Berserker Wyper on Skypiea.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>S03</td><td>The Divine Soldiers!</td><td>Defeat Lieutenant Hotori, Lieutenant Kotori and Commander Yama on Skypiea.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>S04</td><td>God’s Guard Tribute!</td><td>Bring Gan Fall (Trials) 100,000 Belly to complete the God’s Guard Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The God’s Guard Trials have been completed! Speak to X (Trials) again to start the Divine Priest Trials.</em></td>
+			<td colspan="3"><em>The God’s Guard Trials have been completed! Speak to Gan Fall (Trials) again to start the Divine Priest Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>S05</td><td>Divine Priest Trials!</td><td>Defeat Priest Satori, Priest Shura and Priest Gedatsu on Skypiea.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>S06</td><td>The Divine Rulers!</td><td>Defeat Priest Ohm, God Gan Fall and Demon Of Shandora on Skypiea.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>S07</td><td>Divine Priest Tribute!</td><td>Bring Gan Fall (Trials) 200,000 Belly to complete the Divine Priest Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Divine Priest Trials have been completed! Speak to X (Trials) again to start the God Of Skypiea Trials.</em></td>
+			<td colspan="3"><em>The Divine Priest Trials have been completed! Speak to Gan Fall (Trials) again to start the God Of Skypiea Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>S08</td><td>The God Of Skypiea!</td><td>Defeat God Enel on Skypiea.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>S09</td><td>God Of Skypiea Tribute!</td><td>Bring Gan Fall (Trials) 300,000 Belly to complete the God Of Skypiea Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
+Item Rewards: Shandian Insignia, Mythical Shard<br>
 Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops

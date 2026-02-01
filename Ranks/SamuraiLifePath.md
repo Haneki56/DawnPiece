@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Samurai Trials Questline, speak to X (Trials) on X.
+To start the Samurai Trials Questline, speak to Momonosuke (Trials) on X.
 
 <table>
 	<thead>
@@ -31,42 +31,43 @@ To start the Samurai Trials Questline, speak to X (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>WS01</td><td>Samurai Trials!</td><td>Defeat Akazaya Kanjuro, Akazaya Kikunojo and Akazaya Raizo on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>WS02</td><td>The Akazaya Samurai!</td><td>Defeat Akazaya Inuarashi on Zou, Akazaya Nekomamushi on Zou and Akazaya Kawamatsu on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>WS03</td><td>The Final Akazaya!</td><td>Defeat Akazaya Kin'emon, Akazaya Denjiro and Akazaya Ashura Doji on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>WS04</td><td>Daimyo Tribute!</td><td>Bring Momonosuke (Trials) 100,000 Belly to complete the Daimyo Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Daimyo Trials have been completed! Speak to X (Trials) again to start the Shogun Trials.</em></td>
+			<td colspan="3"><em>The Daimyo Trials have been completed! Speak to Momonosuke (Trials) again to start the Shogun Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>WS05</td><td>Shogun Trials!</td><td>Defeat Daimyo Yasuie, Daimyo Tempura and Daimyo Omusubi on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>WS06</td><td>The Samurai Leaders!</td><td>Defeat Daimyo Ushimaru, Daimyo Oden and Shogun Sukiyaki on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>WS07</td><td>Shogun Tribute!</td><td>Bring Momonosuke (Trials) 200,000 Belly to complete the Shogun Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Shogun Trials have been completed! Speak to X (Trials) again to start the Sword God Trials.</em></td>
+			<td colspan="3"><em>The Shogun Trials have been completed! Speak to Momonosuke (Trials) again to start the Sword God Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>WS08</td><td>The Sword God!</td><td>Defeat Sword God Ryuma on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>WS09</td><td>Sword God Tribute!</td><td>Bring Momonosuke (Trials) 300,000 Belly to complete the Sword God Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
+Item Rewards: Samurai Insignia, Mythical Shard<br>
 Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops

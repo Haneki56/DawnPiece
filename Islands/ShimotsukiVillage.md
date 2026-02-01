@@ -22,6 +22,12 @@ Bounty Reward: 350,000
 | Isshin Dojo Student| 50 Belly  | Common |                         |           |           |
 | Kuina              | 100 Belly | Common | Wado Ichimonji (Common) |           |           |
 
+### Merchants
+
+| Merchant Name    | Merchandise |
+|-------------     |-----------  |
+| Farmer           | Food        |
+
 ### Essential NPCs
 
 | NPC Name              | Purpose                                   |

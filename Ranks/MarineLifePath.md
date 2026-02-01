@@ -32,42 +32,43 @@ To start the Marine Trials Questline, speak to Kong (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>M01</td><td>Admiral Trials!</td><td>Defeat Hero Koby on Alvida’s Hideout, G-1 Commander Momonga on Marineford and Warden Magellan on Impel Down.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>M02</td><td>Defeat The Vice Admirals!</td><td>Defeat Great Staff Officer Tsuru on New Marineford, Demon Bamboo Vergo on New Marineford and White Hunter Smoker on Loguetown.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>M03</td><td>The Final Vice Admirals!</td><td>Defeat Pink Rabbit on New Marineford, Brown Pig on New Marineford and Hero Of The Marines on New Marineford.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>M04</td><td>Admiral Tribute!</td><td>Bring Kong (Trials) 100,000 Belly to complete the Admiral Trials.</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>The Admiral Trials have been completed! Speak to Kong (Trials) again to start the Fleet Admiral Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>M05</td><td>Fleet Admiral Trials!</td><td>Defeat Yellow Monkey on Impel Down, Wisteria Tiger on Dressrosa and Green Bull on Wano Kuni.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>M06</td><td>The Final Admirals!</td><td>Defeat Blue Pheasant on Punk Hazard, Red Dog on Punk Hazard and Sengoku The Buddha on Marineford.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>M07</td><td>Fleet Admiral Tribute!</td><td>Bring Kong (Trials) 200,000 Belly to complete the Fleet Admiral Trials.</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>The Fleet Admiral Trials have been completed! Speak to Kong (Trials) again to start the Commander In Chief Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>M08</td><td>The Commander In Chief!</td><td>Defeat Marine Commander Kong on Marineford.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>M09</td><td>Commander In Chief Tribute!</td><td>Bring Kong (Trials) 300,000 Belly to complete the Commander In Chief Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
+Item Rewards: Marine Insignia, Mythical Shard<br>
 Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
 
 ### Trials Quest Boss Drops

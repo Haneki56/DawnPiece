@@ -69,7 +69,7 @@ To start the Marine Trials Questline, speak to Kong (Trials) on X.
 </table>
 
 Item Rewards: Marine Insignia, Mythical Shard<br>
-Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
+Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once. Insignias are used to unlock the [Black Market](https://haneki56.github.io/DawnPiece/#/Islands/BlackMarket) so make sure to store it safely since you only get one.
 
 ### Trials Quest Boss Drops
 
@@ -92,7 +92,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Sengoku The Buddha		| 10000 Belly|           					| Sengoku (Legendary)	| Daibutsu Fragment |
 | Marine Commander Kong		| 10000 Belly|           					| Koong (Legendary)		|           		|
 
-Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments. 
 
 ### Trials Quest Boss Locations
 

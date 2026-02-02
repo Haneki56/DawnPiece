@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Bandit Trials Questline, speak to X (Trials) on X.
+To start the Bandit Trials Questline, speak to Higuma (Trials) on X.
 
 <table>
 	<thead>
@@ -31,43 +31,43 @@ To start the Bandit Trials Questline, speak to X (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>P01</td><td>Crime Boss Trials!</td><td>Defeat Higuma The Bear on Foosha Village, Iron Mace Alvida on Loguetown and Kuro Of 1000 Plans on Syrup Village.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>P02</td><td>The Outlaws Unite!</td><td>Defeat Sawtooth Arlong on Cocoyashi Village, Tin Plate Wapol on Drum Island and Silver Fox Foxy on Long Ring Long Land.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>P03</td><td>The Crime Leaders!</td><td>Defeat Genius Surgeon Hogback on Thriller Bark, Ghost Princess Perona on Kuraigana and Absalom Of The Graveyard on Thriller Bark.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>P04</td><td>Crime Boss Tribute!</td><td>Bring Higuma (Trials) 100,000 Belly to complete the Crime Boss Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Crime Boss have been completed! Speak to X (Trials) again to start the Tyrant Trials.</em></td>
+			<td colspan="3"><em>The Crime Boss have been completed! Speak to Higuma (Trials) again to start the Tyrant Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>P05</td><td>Tyrant Trials!</td><td>Defeat Capone “Gang” Bege, Big Eater Bonney and Mad Monk Urouge on Sabaody Archipelago.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>P06</td><td>Tyrants Of The Sea!</td><td>Defeat Magician Hawkins, Roar Of The Sea Apoo and Red Flag X Drake on Sabaody Archipelago.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>P07</td><td>Tyrant Tribute!</td><td>Bring Higuma (Trials) 200,000 Belly to complete the Tyrant Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Tyrant Trials have been completed! Speak to X (Trials) again to start the Underworld Emperor Trials.</em></td>
+			<td colspan="3"><em>The Tyrant Trials have been completed! Speak to Higuma (Trials) again to start the Underworld Emperor Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>P08</td><td>The Deadliest Supernova!</td><td>Defeat Eustass “Captain” Kid on Sabaody Archipelago.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>P09</td><td>Underworld Emperor Tribute!</td><td>Bring Higuma (Trials) 300,000 Belly to complete the Underworld Emperor Trials.</td>
 		</tr>
 	</tbody>
-  
 </table>
 
-Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
+Item Rewards: Bandit Insignia, Mythical Shard<br>
+Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once. Insignias are used to unlock the [Black Market](https://haneki56.github.io/DawnPiece/#/Islands/BlackMarket) so make sure to store it safely since you only get one.
 
 ### Trials Quest Boss Drops
 

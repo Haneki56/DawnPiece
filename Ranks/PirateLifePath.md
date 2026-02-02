@@ -68,7 +68,7 @@ To start the Pirate Trials Questline, speak to Shanks (Trials) on X.
 </table>
 
 Item Rewards: Pirate Insignia, Mythical Shard<br>
-Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
+Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once. Insignias are used to unlock the [Black Market](https://haneki56.github.io/DawnPiece/#/Islands/BlackMarket) so make sure to store it safely since you only get one.
 
 ### Trials Quest Boss Drops
 

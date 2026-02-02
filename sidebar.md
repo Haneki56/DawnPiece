@@ -63,6 +63,7 @@
   * [37.1 Hachinosu](Islands/Hachinosu.md)
   * [38.1 God Valley](Islands/GodValley.md)
   * [D1. Morioh](Islands/Morioh.md)
+  * [E1. Black Market](Islands/BlackMarket.md)
 
 * **Gear Guide**
   * [Gear Guide Overview](Gear/Overview.md)
@@ -73,13 +74,13 @@
 
 * **Life Path Guide**
   * [Life Path Overview](Ranks/Overview.md)
-  * [Pirate Life Path](Ranks/PirateLifePath.md)
-  * [Marine Life Path](Ranks/MarineLifePath.md)
-  * [Scientist Life Path](Ranks/ScientistLifePath.md)
-  * [Revolutionary Life Path](Ranks/RevolutionaryLifePath.md)
-  * [Samurai Life Path](Ranks/SamuraiLifePath.md)
-  * [World Government Life Path](Ranks/WorldGovernmentLifePath.md)
-  * [Shandian Life Path](Ranks/ShandianLifePath.md)
+  * [Bandit Life Path](Ranks/BanditLifePath.md)
   * [Baroque Works Life Path](Ranks/BaroqueWorksLifePath.md)
   * [Bounty Hunter Life Path](Ranks/BountyHunterLifePath.md)
-  * [Bandit Life Path](Ranks/BanditLifePath.md)
+  * [Marine Life Path](Ranks/MarineLifePath.md)
+  * [Pirate Life Path](Ranks/PirateLifePath.md)
+  * [Revolutionary Life Path](Ranks/RevolutionaryLifePath.md)
+  * [Samurai Life Path](Ranks/SamuraiLifePath.md)
+  * [Scientist Life Path](Ranks/ScientistLifePath.md)
+  * [Shandian Life Path](Ranks/ShandianLifePath.md)
+  * [World Government Life Path](Ranks/WorldGovernmentLifePath.md)

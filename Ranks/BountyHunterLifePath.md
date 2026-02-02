@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Bounty Hunter Trials Questline, speak to X (Trials) on X.
+To start the Bounty Hunter Trials Questline, speak to Yosaku (Trials) on X.
 
 <table>
 	<thead>
@@ -31,43 +31,44 @@ To start the Bounty Hunter Trials Questline, speak to X (Trials) on X.
 	</thead>
 	<tbody>
 		<tr>
-			<td>P01</td><td></td><td></td>
+			<td>BH01</td><td>Warlord Hunter Trials!</td><td>Defeat Vista Of The Flower Swords, Diamond Jozu and Marco The Phoenix on Marineford.</td>
 		</tr>
 		<tr>
-			<td>P02</td><td></td><td></td>
+			<td>BH02</td><td>Reel In The Bounty!</td><td>Defeat Sweet Commander Katakuri, Sweet Commander Smoothie and Sweet Commander Cracker on Whole Cake Island.</td>
 		</tr>
 		<tr>
-			<td>P03</td><td></td><td></td>
+			<td>BH03</td><td>The Famed Beasts!</td><td>Defeat Jack The Drought, Queen The Plague and King The Wildfire on Zou.</td>
 		</tr>
 		<tr>
-			<td>P04</td><td></td><td></td>
+			<td>BH04</td><td>Warlord Hunter Tribute!</td><td>Bring Yosaku (Trials) 100,000 Belly to complete the Warlord Hunter Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Warlord Hunter Trials have been completed! Speak to X (Trials) again to start the Yonko Hunter Trials.</em></td>
+			<td colspan="3"><em>The Warlord Hunter Trials have been completed! Speak to Yosaku (Trials) again to start the Yonko Hunter Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P05</td><td></td><td></td>
+			<td>BH05</td><td>Yonko Hunter Trials!</td><td>Defeat Lucky Roux The Cook, Chaser Yasopp and First Mate Benn Beckman on Drum Island.</td>
 		</tr>
 		<tr>
-			<td>P06</td><td></td><td></td>
+			<td>BH06</td><td>Legendary Pirates!</td><td>Defeat Champion Jesus Burgess, Shiryu Of The Rain and The Supersonic on Impel Down.</td>
 		</tr>
 		<tr>
-			<td>P07</td><td></td><td></td>
+			<td>BH07</td><td>Yonko Hunter Tribute!</td><td>Bring Yosaku (Trials) 200,000 Belly to complete the Yonko Hunter Trials.</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>The Yonko Hunter Trials have been completed! Speak to X (Trials) again to start the World Seeker Trials.</em></td>
+			<td colspan="3"><em>The Yonko Hunter Trials have been completed! Speak to Yosaku (Trials) again to start the World Seeker Trials.</em></td>
 		</tr>
 		<tr>
-			<td>P08</td><td></td><td></td>
+			<td>BH08</td><td>The Scourge Of The Sea!</td><td>Defeat Rocks D. Xebec on Hachinosu.</td>
 		</tr>
 		<tr>
-			<td>P09</td><td></td><td></td>
+			<td>BH09</td><td>World Seeker Tribute!</td><td>Bring Yosaku (Trials) 300,000 Belly to complete the World Seeker Trials.</td>
 		</tr>
 	</tbody>
   
 </table>
 
-Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once.
+Item Rewards: Bounty Hunter Insignia, Mythical Shard<br>
+Note: The player must complete Egghead to be have access to this questline. This questline can only be completed once. Insignias are used to unlock the [Black Market](https://haneki56.github.io/DawnPiece/#/Islands/BlackMarket) so make sure to store it safely since you only get one.
 
 ### Trials Quest Boss Drops
 
@@ -89,7 +90,6 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Shiryu Of The Rain		| 10000 Belly | Raiu (Legendary)          	| Shiryu (Legendary)	| Suke Fragment					|
 | The Supersonic			| 10000 Belly |           					| Van Augur (Legendary) | Wapu Fragment 				|
 | Rocks D. Xebec			| 10000 Belly | Saber Of Xebec (Legendary)  | Xebec (Legendary) 	| Xebec Advanced Haki Fragment  |
-
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 

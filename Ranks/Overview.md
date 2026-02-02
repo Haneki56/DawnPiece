@@ -42,13 +42,13 @@ Legacy Ranks are special ranks in game that can only be occupied by one player a
 
 Please see the following list for information regarding each life path we have on the server and all associated information regarding these life paths inlcuding rank names, trials quest information and boss information.
 
-[Pirate Life Path](Ranks/PirateLifePath.md)<br>
-[Marine Life Path](Ranks/MarineLifePath.md)<br>
-[Scientist Life Path](Ranks/ScientistLifePath.md)<br>
-[Revolutionary Life Path](Ranks/RevolutionaryLifePath.md)<br>
-[Samurai Life Path](Ranks/SamuraiLifePath.md)<br>
-[World Government Life Path](Ranks/WorldGovernmentLifePath.md)<br>
-[Shandian Life Path](Ranks/ShandianLifePath.md)<br>
+[Bandit Life Path](Ranks/BanditLifePath.md)<br>
 [Baroque Works Life Path](Ranks/BaroqueWorksLifePath.md)<br>
 [Bounty Hunter Life Path](Ranks/BountyHunterLifePath.md)<br>
-[Bandit Life Path](Ranks/BanditLifePath.md)<br>
+[Marine Life Path](Ranks/MarineLifePath.md)<br>
+[Pirate Life Path](Ranks/PirateLifePath.md)<br>
+[Revolutionary Life Path](Ranks/RevolutionaryLifePath.md)<br>
+[Samurai Life Path](Ranks/SamuraiLifePath.md)<br>
+[Scientist Life Path](Ranks/ScientistLifePath.md)<br>
+[Shandian Life Path](Ranks/ShandianLifePath.md)<br>
+[World Government Life Path](Ranks/WorldGovernmentLifePath.md)<br>

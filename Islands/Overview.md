@@ -71,3 +71,7 @@ The island guide is a collection of pages describing the contents of each island
 ### Donation Islands
 
 [D1. Morioh](Islands/Morioh.md)<br>
+
+### Essential Islands
+
+[E1. Black Market](Islands/BlackMarket.md)<br>

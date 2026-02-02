@@ -91,7 +91,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Chief Of Staff			| 10000 Belly	| Pipe (Legendary)		| Sabo (Legendary)		| Mera Fragment	|
 | Most Wanted Man			| 10000 Belly	|           			| Dragon (Legendary)	|           	|
 
-Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
+Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments. Insignias are used to unlock the [Black Market](https://haneki56.github.io/DawnPiece/#/Islands/BlackMarket) so make sure to store it safely since you only get one.
 
 ### Trials Quest Boss Locations
 

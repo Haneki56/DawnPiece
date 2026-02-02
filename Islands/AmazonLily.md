@@ -40,7 +40,6 @@ Note: Completing this quest unlocks Impel Down. Speak to Boa Hancock (AL) or the
 | Boa Sandersonia   | 350 Belly  | Uncommon  |                       |                  | Anaconda Fragment   |
 | Boa Hancock       | 700 Belly  | Rare      |                       | Hancock (Rare)   | Mero Fragment       |
 
-
 ### Essential NPCs
 
 | NPC Name              | Purpose                                   |

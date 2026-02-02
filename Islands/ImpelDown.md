@@ -24,7 +24,6 @@ To start the Main Quest, speak to Luffy (ID) near the island teleport location.
 | A14       | An Unexpected Arrival!        |Talk to Blackbeard (ID) on the surface of Impel Down to complete the quest.|
 | A15       | The Greatest Nakama!          |Talk to Jinbe (ID) on the ship in front of Impel Down to complete the questline.|
 
-
 Item Rewards: 4,200 Belly, Uncommon Shard<br>
 Bounty Reward: 4,200,000
 
@@ -44,7 +43,6 @@ Note: Completing this quest unlocks Marineford. Speak to Jinbe (ID) or the Telep
 | Hannyabal     | 400 Belly | Uncommon | Kessui (Uncommon)                                   |                  |              |
 | Magellan      | 800 Belly | Rare     |                                                     | Magellan (Rare)  | Doku Fragment|
 | Wolf          | 50 Belly  | Common   |                                                     |                  |              |
-
 
 ### Essential NPCs
 

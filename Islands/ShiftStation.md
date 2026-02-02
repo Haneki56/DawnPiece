@@ -40,7 +40,6 @@ Bounty Reward: 2,650,000
 | Big Pan The Wotan             | 450 Belly | Rare     | Big Pan (Uncommon)             |                   |               |
 | Foxy The Silver Fox           | 500 Belly | Rare     | Noro Noro Beam Sword (Uncommon)| Foxy (Uncommon)   | Noro Fragment |
 
-
 ### Essential NPCs
 
 | NPC Name         | Purpose                                        |

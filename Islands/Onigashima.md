@@ -38,7 +38,6 @@ To start the Main Quest, speak to Nami (ONI) near the island teleport location.
 | A28       | For Wano Kuni!                |Defeat O-Lin and Kaido Man-Beast Form on the rooftop of Onigashima.|
 | A29       | Wano Kuni Is Free!            |Talk to Momonosuke (ONG) on the rooftop of Onigashima to complete the questline.|
 
-
 Item Rewards: 92,250 Belly, Legendary Shard<br>
 Bounty Reward: 92,250,000
 

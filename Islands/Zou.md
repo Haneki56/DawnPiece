@@ -19,7 +19,6 @@ To start the Main Quest, speak to Nami (ZOU) near the island teleport location.
 | A09       | The Elephants Screams!                 |Talk to Momonosuke (ZOU) inside the Whale Tree to complete the quest.|
 | A10       | The Ninja-Pirate-Mink-Samurai Alliance!|Talk to Luffy (ZOU) inside the Whale Tree to complete the questline.|
 
-
 Item Rewards: 7,900 Belly, Rare Shard<br>
 Bounty Reward: 7,900,000
 

@@ -33,7 +33,6 @@ Note: Completing this quest unlocks the Knock Up Stream. Speak to Luffy (MT) or 
 | Sarquiss  | 150 Belly | Uncommon | Big Knife (Uncommon) |                     |                 |
 | Bellamy   | 250 Belly | Uncommon |                      | Bellamy (Uncommon)  | Bane Fragment   |
 
-
 ### Essential NPCs
 
 | NPC Name              | Purpose                               |

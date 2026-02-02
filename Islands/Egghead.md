@@ -29,7 +29,6 @@ To start the Main Quest, speak to Jinbe (EGG) near the island teleport location.
 | A19       | The Demons That Rule!     |Defeat Nusjuro and Ju Peter along the western road of the island.|
 | A20       | Escape To Elbaph!         |Talk to Brogy (EGG) along the western road of the island to complete the questline.|
 
-
 Item Rewards: 54,800 Belly, Legendary Shard<br>
 Bounty Reward: 54,800,000
 
@@ -65,8 +64,6 @@ Note: This is the final quest in the Main Story until we release further islands
 | Warcury           | 4000 Belly | Legendary|                           | Warcury (Epic)    | Fengxi Fragment   |
 | Nusjuro           | 4000 Belly | Legendary| Shodai Kitetsu (Epic)     | Nusjuro (Epic)    | Bakotsu Fragment  |
 | Ju Peter          | 4000 Belly | Legendary|                           | Ju Peter (Epic)   | Sandworm Fragment |
-
-
 
 ### Essential NPCs
 

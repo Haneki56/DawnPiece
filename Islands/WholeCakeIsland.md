@@ -32,7 +32,6 @@ To start the Main Quest, speak to Luffy (WCI) near the island teleport location.
 | A22       | The Greatest Wedding Cake!|Defeat Charlotte Linlin, Zeus and Prometheus on the Wedding Cake.|
 | A23       | Escape To Wano!           |Talk Nami (WCI) on the Thousand Sunny to complete the questline.|
 
-
 Item Rewards: 43,100 Belly, Legendary Shard<br>
 Bounty Reward: 43,100,000
 

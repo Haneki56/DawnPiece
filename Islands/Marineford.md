@@ -25,7 +25,6 @@ To start the Main Quest, speak to Marco (MF) near the island teleport location.
 | A15 | The Fleet Admiral!            |Defeat Fleet Admiral Sengoku on the execution platform.|
 | A16 | Mission Failed!               |Talk to Jinbei (MF) at the bottom of the execution platform to complete the questline.|
 
-
 Item Rewards: 18,800 Belly, Rare Shard<br>
 Bounty Reward: 18,800,000
 

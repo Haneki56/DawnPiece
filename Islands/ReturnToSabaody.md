@@ -25,7 +25,6 @@ To start the Main Quest, speak to Shakky (RTS) near the island teleport location
 | A15       | The Pacifista!        |Defeat PX-5, PX-7 and Marine Officer Sentomaru on the east grove.|
 | A16       | Return To The Sunny!  |Talk to Rayleigh (RTS) by the Thousand Sunny to complete the questline.|
 
-
 Item Rewards: 3,300 Belly, Uncommon Shard<br>
 Bounty Reward: 3,300,000
 

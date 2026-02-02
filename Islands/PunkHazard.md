@@ -27,7 +27,6 @@ To start the Main Quest, speak to Luffy (PH) near the island teleport location.
 | A17       | Shinokuni!                        |Defeat Smiley on the fire side of Punk Hazard.|
 | A18       | Escape The Island!                |Talk to Brook (PH) nearby Smiley to complete the questline.|
 
-
 Item Rewards: 13,800 Belly, Rare Shard<br>
 Bounty Reward: 13,800,000
 

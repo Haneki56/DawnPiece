@@ -34,7 +34,6 @@ To start the Main Quest, speak to Nami (DR) near the island teleport location.
 | A24       | The Heavenly Demon!           |Defeat Donquixote Doflamingo in the Dressrosa Palace.|
 | A25       | Dressrosa Avenged!            |Talk to Kyros (DR) in front of the Dressrosa Palace to complete the questline.|
 
-
 Item Rewards: 25,400 Belly, Epic Shard<br>
 Bounty Reward: 25,400,000
 

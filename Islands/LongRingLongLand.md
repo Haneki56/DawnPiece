@@ -36,7 +36,6 @@ Note: Completing this quest unlocks the Shift Station. Speak to Luffy (LRLL) or 
 | Foxy      | 350 Belly | Uncommon | Noro Noro Beam Sword (Uncommon)| Foxy (Uncommon)   | Noro Fragment |
 | Aokiji    | 400 Belly | Rare     | Ice Saber (Uncommon)           | Aokiji (Uncommon) |               |
 
-
 ### Essential NPCs
 
 | NPC Name         | Purpose                                        |

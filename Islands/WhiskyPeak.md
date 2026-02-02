@@ -37,7 +37,6 @@ Note: Completing this quest unlocks Little Garden. Speak to Miss All-Sunday (WP)
 | Miss Valentine| 50 Belly | Common | Umbrella (Common) | Mikita (Common)       | Kilo Fragment   |
 | Mr. 5         | 70 Belly | Common |                   | Gem (Common)          | Bomu Fragment   |
 
-
 ### Essential NPCs
 
 | NPC Name              | Purpose                            |

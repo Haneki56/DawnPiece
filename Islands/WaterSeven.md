@@ -68,7 +68,6 @@ To start the B Quest, speak to Michael (W7) on the Southeast Island Town of Wate
 Item Rewards: 240 Belly, Common Shard<br>
 Bounty Reward: 240,000
 
-
 ### Essential NPCs
 
 | NPC Name              | Purpose                                    |

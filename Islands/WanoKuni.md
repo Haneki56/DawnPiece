@@ -35,7 +35,6 @@ To start the Main Quest, speak to Luffy (WK) near the island teleport location.
 | A25       | Defeat Kanjuro!                   |Defeat Kanjuro The Traitor at the Tokage Port.|
 | A26       | The Raid Begins!                  |Talk to Denjiro (WK) at the Tokage Port to complete the questline.|
 
-
 Item Rewards: 51,100 Belly, Legendary Shard<br>
 Bounty Reward: 51,100,000
 
@@ -63,6 +62,12 @@ Note: Completing this quest unlocks Onigashima. Speak to Denjiro (WK) or the Tel
 | Babanuki              | 2000 Belly | Epic     |                      |                |                        |
 | Queen                 | 3000 Belly | Epic     | Dao Sword (Epic)     | Queen (Epic)   | Brachiosaurus Fragment |
 | Kanjuro The Traitor   | 2500 Belly | Epic     | Tsuji Shibai (Epic)  | Kanjuro (Epic) |                        |
+
+### Merchants
+
+| Merchant Name     | Merchandise |
+|-------------      |-----------  |
+| X                 | X           |
 
 ### Essential NPCs
 

@@ -19,6 +19,6 @@ The following chart lists all of the DawnPiece Commands that you are able to use
 
 ### Other Mods & Plugins
 
-1. [Duels Plugin Commands](https://github.com/Realizedd/Duels/wiki/Commands): Type [/duel] in game to learn about our in game PvP system.
-2. Factions X Plugin Commands: Type [/f help] in game to learn about building crews in game.
-3. [Playtime Rewards Plus Plugin](https://nullforums.net/resources/playtimerewards-the-1-playtime-rewards-plugin.9617/): Type [/playtime help] in game to get started on claiming rewards.
+1. [Duels Plugin Commands](https://github.com/Realizedd/Duels/wiki/Commands): Type **/duel** in game to learn about our in game PvP system.
+2. Factions X Plugin Commands: Type **/f help** in game to learn about building crews in game.
+3. [Playtime Rewards Plus Plugin](https://nullforums.net/resources/playtimerewards-the-1-playtime-rewards-plugin.9617/): Type **/playtime help** in game to get started on claiming rewards.

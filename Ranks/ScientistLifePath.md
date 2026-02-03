@@ -79,37 +79,37 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Seraphim Flamingo	| 6000 Belly  	| Strings (Legendary)       | Doflamingo (Legendary)| Ito Fragment      |
 | Seraphim Bat		| 6000 Belly  	| Scissors (Legendary)      | Moria (Legendary)     | Kage Fragment     |
 | Seraphim Crocodile| 6000 Belly  	| Hook (Legendary)          | Crocodile (Legendary) | Suna Fragment     |
-| Seraphim Bear		| 6000 Belly  	|           				| Kuma (Legendary)		| Nikyu Fragment	|
-| Seraphim Shark	| 6000 Belly  	|           				| Jinbe (Legendary)     | Sui Fragment      |
-| Seraphim Snake	| 6000 Belly  	|           				| Hancock (Legendary)   | Mero Fragment     |
-| Seraphim Hawk		| 6000 Belly  	| S-Hawk Sword (Legendary)  | Mihawk (Legendary)    | Supa Fragment     |
-| Poison Pink		| 6000 Belly  	|           				| Reiju (Legendary)		|           		|
-| Winch Green		| 6000 Belly  	|           				| Yonji (Legendary)		|           		|
-| Stealth Black		| 6000 Belly  	|           				| Sanji (Legendary)		|           		|
-| Dengeki Blue		| 6000 Belly  	|           				| Niji (Legendary)		|           		|
-| Sparking Red		| 6000 Belly  	|           				| Ichiji (Legendary)	|           		|
-| Germa 66 King		| 6000 Belly  	|           				| Judge (Legendary)		|           		|
+| Seraphim Bear		| 8000 Belly  	|           				| Kuma (Legendary)		| Nikyu Fragment	|
+| Seraphim Shark	| 8000 Belly  	|           				| Jinbe (Legendary)     | Sui Fragment      |
+| Seraphim Snake	| 10000 Belly  	|           				| Hancock (Legendary)   | Mero Fragment     |
+| Seraphim Hawk		| 10000 Belly  	| S-Hawk Sword (Legendary)  | Mihawk (Legendary)    | Supa Fragment     |
+| Poison Pink		| 10000 Belly  	|           				| Reiju (Legendary)		|           		|
+| Winch Green		| 10000 Belly  	|           				| Yonji (Legendary)		|           		|
+| Stealth Black		| 10000 Belly  	|           				| Sanji (Legendary)		|           		|
+| Dengeki Blue		| 10000 Belly  	|           				| Niji (Legendary)		|           		|
+| Sparking Red		| 10000 Belly  	|           				| Ichiji (Legendary)	|           		|
+| Germa 66 King		| 10000 Belly  	|           				| Judge (Legendary)		|           		|
 | Stella    		| 10000 Belly  	|           				| Vegapunk (Legendary)	|           		|
 
 Note: All Trials Bosses also have a chance to drop Legendary Orbs, Boss Souls and Awakening Fragments.
 
 ### Trials Quest Boss Locations
 
-| Boss Name 		| Island        		| Sub-Location  | 
-|-----------		|-----------    		|-----------    |
-| PX-0       		| Sabaody Archipelago	|               |
-| Master Clown 		| Punk Hazard			|               | 
-| Seraphim Flamingo	| Egghead				|               |
-| Seraphim Bat		| Egghead				|               |  
-| Seraphim Crocodile| Egghead				|               |     
-| Seraphim Bear		| Egghead				|               |     
-| Seraphim Shark	| Egghead				|               | 
-| Seraphim Snake	| Egghead				|               |  
-| Seraphim Hawk		| Egghead				|               |  
-| Poison Pink		| Whole Cake Island		|               | 
-| Winch Green		| Whole Cake Island		|               | 
-| Stealth Black		| Whole Cake Island		|               | 
-| Dengeki Blue		| Whole Cake Island		|               |
-| Sparking Red		| Whole Cake Island		|               |
-| Germa 66 King		| Whole Cake Island		|               |
-| Stella    		| Egghead				|               |
+| Boss Name 		| Island        		| Sub-Location  										| 
+|-----------		|-----------    		|-----------    										|
+| PX-0       		| Sabaody Archipelago	| On the Central Grove southwest of the Amusement Park	|
+| Master Clown 		| Punk Hazard			| On top of the Lab										| 
+| Seraphim Flamingo	| Egghead				| Along the Eastern Exterior Road						|
+| Seraphim Bat		| Egghead				| Along the Eastern Exterior Road						|  
+| Seraphim Crocodile| Egghead				| Along the Eastern Exterior Road						|     
+| Seraphim Bear		| Egghead				| Along the Eastern Exterior Road						|     
+| Seraphim Shark	| Egghead				| Along the Eastern Exterior Road						| 
+| Seraphim Snake	| Egghead				| Along the Eastern Exterior Road						|  
+| Seraphim Hawk		| Egghead				| Along the Eastern Exterior Road						|  
+| Poison Pink		| Whole Cake Island		| Along the West Coast of the Germa Kingdom				| 
+| Winch Green		| Whole Cake Island		| Along the West Coast of the Germa Kingdom				| 
+| Stealth Black		| Whole Cake Island		| Along the West Coast of the Germa Kingdom				| 
+| Dengeki Blue		| Whole Cake Island		| Along the West Coast of the Germa Kingdom				|
+| Sparking Red		| Whole Cake Island		| Along the West Coast of the Germa Kingdom				|
+| Germa 66 King		| Whole Cake Island		| Along the West Coast of the Germa Kingdom				|
+| Stella    		| Egghead				| On the very top of the Labophase						|

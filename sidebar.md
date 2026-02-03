@@ -1,5 +1,6 @@
 * **General Information**
   * [Tutorial](General/Tutorial.md)
+  * [Commands](General/Commands.md)
   * [Haki](General/Haki.md)
   * [Treasure Hunts](General/TreasureHunts.md)
 

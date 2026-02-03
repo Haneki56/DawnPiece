@@ -35,3 +35,12 @@ Note: The player must complete Egghead to be have access to this questline. This
 | Bank Teller (Bulk)    | Currency Exchange                  |
 | Blacksmith            | Custom Gear Information            |
 | Doctor                | Healer                             |
+
+### Blacksmith
+
+The Black Market has upgraded versions of every [Blacksmith](https://haneki56.github.io/DawnPiece/#/Gear/Blacksmith) related block in the game. Please see below on what is different.
+
+1. Mythical Forge: This operates the same way as the Upgrade Table, however legendary gear can now be upgraded to mythical gear.
+2. Restoration Forge: This operates the same way as the Repair Station, however repair costs are cut in half.
+3. Destiny Forge: This operates the same way as a Fate Forge, however orbs of every tier can be placed to roll for a change of obtaining random gear. The amount of orbs required increase with each tier, starting with one orb for common and uncommon, and ending with five orbs at mythical.
+4. Reclamation Forge: This operates the same way as the Salvage Stand, but has a 30% payout of the upgrade cost for gear instead of 20%. Additionally, every 50 Damage Dealt or Recieved gives you an extra belly payout rather than the original value of 100.

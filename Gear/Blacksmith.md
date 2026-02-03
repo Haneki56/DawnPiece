@@ -1,6 +1,8 @@
 # Blacksmiths
 
-Blacksmiths are Essential NPCs in game located at various islands that give you information about the functions of the blocks located there. To see which island has a Blacksmith NPC, look through the Essential NPCs section for each island in the Island Guide. Every Blacksmith location has four different blocks that have various functions: Upgrade Table, Repair Station, Salvage Stand and Fate Forge. Please see the sections below for more information on each block. When interacting with each block, be careful from other players becuase they can steal anything you add to the interface.
+Blacksmiths are Essential NPCs in game located at various islands that give you information about the functions of the blocks located there. To see which island has a Blacksmith NPC, look through the Essential NPCs section for each island in the [Island Guide](https://haneki56.github.io/DawnPiece/#/Islands/Overview). Every Blacksmith location has four different blocks that have various functions: Upgrade Table, Repair Station, Salvage Stand and Fate Forge. When interacting with each block, be careful from other players because they can steal anything you add to the interface.<br>
+
+If you would like to see more information regarding the upgraded versions of the Blacksmith Blocks, see the [Black Market Page](https://haneki56.github.io/DawnPiece/#/Islands/BlackMarket?id=blacksmith) for information.
 
 ### Upgrade Table
 
@@ -16,4 +18,4 @@ While the orbs are primarily used for upgrading weapons, there is a Common Orb t
 
 ### Salvage Stand
 
-The Salvage Stand is designed to compensate you for weapons you don't want or can't sell. The payout functions are based on the Tier, Durability and Damage Dealt (Weapon) or Damage Recieved (Armor) of each gear piece. The payout for salvaging common weapons is 50 Belly, while the rest of the tiers are 10% of their upgrade cost. For every One Durability that is subtracted from the total, One Belly will be subtracted from the total payout. For every 100 Damage Dealt or Damage Recieved, One Belly will be added to the total payout you recieve for salvaging the gear piece. You can see the payouts on the interface as you add an item to the Salvage Stand.
+The Salvage Stand is designed to compensate you for weapons you don't want or can't sell. The payout functions are based on the Tier, Durability and Damage Dealt (Weapon) or Damage Recieved (Armor) of each gear piece. The payout for salvaging common weapons is 100 Belly, while the rest of the tiers are 20% of their upgrade cost. For every One Durability that is subtracted from the total, One Belly will be subtracted from the total payout. For every 100 Damage Dealt or Damage Recieved, One Belly will be added to the total payout you recieve for salvaging the gear piece. You can see the payouts on the interface as you add an item to the Salvage Stand.

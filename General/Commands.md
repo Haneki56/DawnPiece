@@ -4,7 +4,7 @@ This page lists all of the commands that you will be able to use on the server a
 
 ### DawnPiece
 
-The following chart lists all of the DawnPiece Commands that you are able to use in game.
+The following chart lists all of the DawnPiece Commands that you are able to use in game. The commands have autoppulated suggestions in game to make writing them out easier.
 
 | Command                  | Description                                  | Access        |
 |-----------               |-----------                                   |-----------    |

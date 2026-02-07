@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Revolutionary Trials Questline, speak to Sabo (Trials) on X.
+To start the Revolutionary Trials Questline, speak to Sabo (Trials) on Momoiro Island at the Round Table.
 
 <table>
 	<thead>

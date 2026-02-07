@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Bandit Trials Questline, speak to Higuma (Trials) on X.
+To start the Bandit Trials Questline, speak to Higuma (Trials) on Foosha Village by the Sea Serpent.
 
 <table>
 	<thead>

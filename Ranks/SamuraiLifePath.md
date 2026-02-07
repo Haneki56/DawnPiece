@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Samurai Trials Questline, speak to Momonosuke (Trials) on X.
+To start the Samurai Trials Questline, speak to Momonosuke (Trials) on Wano Kuni on top of the Kuri Castle Hill.
 
 <table>
 	<thead>

@@ -87,7 +87,7 @@ Ability Sets provide bonuses that either grant an ability or enchance an already
 | Set Bonus    | Description                                | Common     | Uncommon  | Rare      | Epic      | Legendary | Mythical  |
 |-----------   |---------------                             |--------    |---------- |-----      |------     |-----------|---------- |
 | Swift Stride | Increases Ground Movement Speed            | 5%         | 10%       | 20%       | 35%       | 60%       | 100%      |
-| Swift Wings  | Increases Flying Speed                     | 5%         | 10%       | 20%       | 35%       | 60%       | 100%      |
+| Swift Wings  | Increases Flying Speed                     | 10%        | 20%       | 40%       | 80%       | 150%      | 300%      |
 | Water Stride | Increases Swimming Speed                   | 10%        | 20%       | 40%       | 80%       | 150%      | 300%      |
 | Jump Boost   | Increases Jump Height (Blocks)             | +1         | +2        | +3        | +4        | +5        | +6        |
 | Flash Step   | Shift + Right Click to Teleport            | 1x per 60s | 1x per 55s| 1x per 45s| 1x per 30s| 1x per 10s| Infinite  |

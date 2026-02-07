@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Bounty Hunter Trials Questline, speak to Yosaku (Trials) on X.
+To start the Bounty Hunter Trials Questline, speak to Yosaku (Trials) on Baratie insode the Restaurant.
 
 <table>
 	<thead>

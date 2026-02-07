@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Baroque Works Trials Questline, speak to Mr. 0 (Trials) on X.
+To start the Baroque Works Trials Questline, speak to Mr. 0 (Trials) on Alabasta in the Basement of the Rain Dinners Casino.
 
 <table>
 	<thead>

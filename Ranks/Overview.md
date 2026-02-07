@@ -17,11 +17,13 @@ The balance you see by using the command /dp bounty check represents the bounty 
 
 Legacy Ranks are special ranks in game that can only be occupied by one player at a time. There are various ranks depending on the life path of the player. Each Legacy Rank requires the completion of a trials questline tied to that rank and a tribute given to a staff member. Legacy Rank Holders receive a kit specific to their rank and well as bonus similar to the general ranks. To see specific information for each life path including trials quests and bosses, refer to their respective pages.
 
-| Legacy Rank Type  | Rank Bonus                    | Rank Kit  | Required Tribute                          |
-|-----------        |-----------                    |-----------|-----------                                |
-| 1,000,000,000     | Increase MMNM Damage by 50%   | ?         | 2 Epic and 1 Legendary Devil Fruits       |
-| 2,000,000,000     | Increase MMNM Damage by 75%   | ?         | 2 Legendary and 1 Mythical Devil Fruits   |
-| 4,000,000,000     | Increase MMNM Damage by 100%  | ?         | 3 Mythical Devil Fruits                   |
+| Legacy Rank Type  | Rank Bonus                    | Rank Kit                                                              | Required Tribute              |
+|-----------        |-----------                    |-----------                                                            |-----------                    |
+| 1,000,000,000     | Increase MMNM Damage by 50%   | 100,000 Belly, 1 Legendary Orb, 64 Sea King Meat, 64 Wedding Cakes    | 1 Billion Belly Tribute       |
+| 2,000,000,000     | Increase MMNM Damage by 75%   | 200,000 Belly, 2 Legendary Orbs, 64 Sea King Meat, 64 Wedding Cakes   | 2 Billion Belly Tribute       |
+| 4,000,000,000     | Increase MMNM Damage by 100%  | 300,000 Belly, 3 Legendary Orbs, 64 Sea King Meat, 64 Wedding Cakes   | 4 Billion Belly Tribute       |
+
+Note: Tributes are bought in the [Flower Capital on Wano Kuni](https://haneki56.github.io/DawnPiece/#/Islands/WanoKuni?id=merchants) from a merchant. Rank Kits can be claimed weekly.
 
 ### Rules For Legacy Ranks
 

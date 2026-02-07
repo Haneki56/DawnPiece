@@ -22,7 +22,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Marine Trials Questline, speak to Kong (Trials) on X.
+To start the Marine Trials Questline, speak to Kong (Trials) on Marineford in th Main Building.
 
 <table>
 	<thead>

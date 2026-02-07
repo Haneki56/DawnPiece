@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Pirate Trials Questline, speak to Shanks (Trials) on X.
+To start the Pirate Trials Questline, speak to Shanks (Trials) on Foosha Village on the Red Force.
 
 <table>
 	<thead>

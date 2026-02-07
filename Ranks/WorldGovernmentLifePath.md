@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the World Government Trials Questline, speak to Garling (Trials) on X.
+To start the World Government Trials Questline, speak to Garling (Trials) on God Valley next to the Treasure Chests.
 
 <table>
 	<thead>

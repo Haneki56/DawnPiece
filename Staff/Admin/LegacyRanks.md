@@ -12,9 +12,9 @@ Command: /dp bounty check (name)
 
 3. Once steps 1 and 2 are verified, take the tribute from the player.<br>
 
-1 Billion Belly: 2 Epic and 1 Legendary Devil Fruit<br>
-2 Billion Belly: 2 Legendary and 1 Mythical Devil Fruit<br>
-4 Billion Belly: 3 Mythical Devil Fruits<br>
+1 Billion Belly Tribute (Item Sold in the Flower Capital Shops)<br>
+2 Billion Belly Tribute (Item Sold in the Flower Capital Shops)<br>
+4 Billion Belly Tribute (Item Sold in the Flower Capital Shops)<br>
 
 4. If there isn't an existing Legacy Rank Holder for the title the player wants, then they get the rank automatically. If there is a player that holds the requested rank, then they must be challenged to a best 2 out of 3 match according to 1v1 Rules that are set up in the PvP plugin for the right to have the title. Whoever wins gets the kit associated with the rank.
 
@@ -22,17 +22,17 @@ Command: /dp bounty check (name)
 
 6. If the challenger wins, give them their kit and remove the kit of the old legacy rank holder. If the challenger loses, the current legacy rank holder keeps their rank and no kit changes are necessary. If there is no challenge, simply give the player their new kit.<br>
 
-1 Billion Belly: <br>
-2 Billion Belly: <br>
-4 Billion Belly: <br>
-Remove Kit: 
+1 Billion Belly: /lp user (Username) permission set playerkits.kit.1Billion<br>
+2 Billion Belly: /lp user (Username) permission set playerkits.kit.2Billion<br>
+4 Billion Belly: /lp user (Username) permission set playerkits.kit.4Billion<br>
+Remove Kit From Old Legacy Player: /lp user (Username) permission unset playerkits.kit.(1/2/4)Billion<br>
 
 7. Give the new legacy rank holder their new damage value for their respective rank found [here](https://haneki56.github.io/DawnPiece/#/Ranks/Overview?id=legacy-ranks). If there is a rank challenge involved and the challenger wins, give them their new damage value and set the damage value of the old legacy rank holder to 1. If the challenger loses, the current legacy rank holder keeps their rank and no damage multiplier changes are necessary.<br>
 
-1 Billion Belly: /mmnm damagem 1.50 (name)<br>
-2 Billion Belly: /mmnm damagem 1.75 (name)<br>
-4 Billion Belly: /mmnm damagem 2.0 (name)<br>
-Loser Reset: /mmnm damagem 1.0 (name)
+1 Billion Belly: /mmnm damagem 1.50 (Username)<br>
+2 Billion Belly: /mmnm damagem 1.75 (Username)<br>
+4 Billion Belly: /mmnm damagem 2.0 (Username)<br>
+Loser Reset: /mmnm damagem 1.0 (Username)
 
 8. After all in game items are handled, make sure to update the [MEE6 Embed](https://mee6.xyz/en/dashboard/1385526041807949855/guild_embeds) found in the [Ranks Channel](https://discord.com/channels/1385526041807949855/1395615888585130144) with the new legacy rank holder.
 

@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Shandian Trials Questline, speak to Gan Fall (Trials) on X.
+To start the Shandian Trials Questline, speak to Gan Fall (Trials) on Skypiea inside his house on Angel Island.
 
 <table>
 	<thead>

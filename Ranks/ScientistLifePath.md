@@ -21,7 +21,7 @@ Please see the sections below regarding the information you need to know for the
 
 ### Trials Quest
 
-To start the Scientist Trials Questline, speak to Vegapunk (Trials) on X.
+To start the Scientist Trials Questline, speak to Vegapunk (Trials) on Katakuri Island inside the Lab.
 
 <table>
 	<thead>

@@ -4,7 +4,7 @@ Once the Main Questline is complete, you can start the process the unlock the Bl
 
 ### Black Market Unlock Quest
 
-To start the Black Market Quest, speak to Doflamingo (BM) on Dressrosa near X.
+To start the Black Market Quest, speak to Doflamingo (BM) on Dressrosa in front of the Palace.
 
 | Quest Code| Quest Name                | Quest Objective|
 |-----------|-----------                |-----------|

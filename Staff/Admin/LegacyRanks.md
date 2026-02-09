@@ -29,6 +29,8 @@ Remove Kit From Old Legacy Player: /lp user (Username) permission unset playerki
 
 7. Give the new legacy rank holder their new damage value for their respective rank found [here](https://haneki56.github.io/DawnPiece/#/Ranks/Overview?id=legacy-ranks). If there is a rank challenge involved and the challenger wins, give them their new damage value and set the damage value of the old legacy rank holder to 1. If the challenger loses, the current legacy rank holder keeps their rank and no damage multiplier changes are necessary.<br>
 
+Note: Before giving the damage, make sure the player types /dp rank clear. If they still have their old ranks then their damage will be set back to 1.3 the next time they relog.
+
 1 Billion Belly: /mmnm damagem 1.50 (Username)<br>
 2 Billion Belly: /mmnm damagem 1.75 (Username)<br>
 4 Billion Belly: /mmnm damagem 2.0 (Username)<br>

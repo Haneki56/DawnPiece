@@ -1,6 +1,7 @@
 * **General Information**
   * [Tutorial](General/Tutorial.md)
   * [Commands](General/Commands.md)
+  * [Food](General/Food.md)
   * [Haki](General/Haki.md)
   * [Treasure Hunts](General/TreasureHunts.md)
 
@@ -71,6 +72,7 @@
   * [Blacksmiths](Gear/Blacksmith.md)
   * [Armor](Gear/Armor.md)
   * [Set Bonus](Gear/SetBonus.md)
+  * [Runes](Gear/Runes.md)
   * [Melee Weapons](Gear/MeleeWeapons.md)
 
 * **Life Path Guide**

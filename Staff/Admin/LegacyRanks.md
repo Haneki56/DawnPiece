@@ -6,7 +6,7 @@ This page explains everything a server administrator needs to know about setting
 
 1. Check to see that the player has enough bounty to qualify for the respective legacy rank they are applying for.<br>
 
-Command: /dp bounty check (name)
+Command: /dp bounty check (Username)
 
 2. Check if the player fulfills the quest requirements. You can confirm this by using a Custom NPC wand, going to global settings, clicking player data and searching their quests completed. Trials Quest 4 is required to be completed for 1 Billion Belly Ranks, Trials Quest 7 is required to be completed for 2 Billion Belly Ranks and Trials Quest 9 is required to be completed for 4 Billion Belly Ranks.
 
@@ -29,7 +29,7 @@ Remove Kit From Old Legacy Player: /lp user (Username) permission unset playerki
 
 7. Give the new legacy rank holder their new damage value for their respective rank found [here](https://haneki56.github.io/DawnPiece/#/Ranks/Overview?id=legacy-ranks). If there is a rank challenge involved and the challenger wins, give them their new damage value and set the damage value of the old legacy rank holder to 1. If the challenger loses, the current legacy rank holder keeps their rank and no damage multiplier changes are necessary.<br>
 
-Note: Before giving the damage, make sure the player types /dp rank clear. If they still have their old ranks then their damage will be set back to 1.3 the next time they relog.
+Note: Before giving the damage, make sure the player types /dp rank clear. If they still have their old ranks then their damage will be set back to 1.3 the next time they relog.<br>
 
 1 Billion Belly: /mmnm damagem 1.50 (Username)<br>
 2 Billion Belly: /mmnm damagem 1.75 (Username)<br>

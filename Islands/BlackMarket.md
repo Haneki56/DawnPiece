@@ -38,9 +38,24 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Blacksmith
 
-The Black Market has upgraded versions of every [Blacksmith](https://haneki56.github.io/DawnPiece/#/Gear/Blacksmith) related block in the game. Please see below on what is different.
+The Black Market has upgraded versions of every [Blacksmith](https://haneki56.github.io/DawnPiece/#/Gear/Blacksmith) related block in the game. Please see below on what is different.<br>
 
-1. Mythical Forge: This operates the same way as the Upgrade Table, however legendary gear can now be upgraded to mythical gear.
-2. Restoration Forge: This operates the same way as the Repair Station, however repair costs are cut in half.
-3. Destiny Forge: This operates the same way as a Fate Forge, however orbs of every tier can be placed to roll for a change of obtaining random gear. The amount of orbs required increase with each tier, starting with one orb for common and uncommon, and ending with five orbs at mythical.
-4. Reclamation Forge: This operates the same way as the Salvage Stand, but has a 30% payout of the upgrade cost for gear instead of 20%. Additionally, every 50 Damage Dealt or Recieved gives you an extra belly payout rather than the original value of 100.
+1. Mythical Forge (Upgrade Table)
+
+The Mythical Forge works the exact same way as the Upgrade Table, with the only difference being that Legendary Gear can now be upgraded to the Mythical Tier.<br>
+
+2. Restoration Forge (Repair Station)
+
+The Restoration Forge works the exact same way as the Repair Station, however you now need to pay 1 Belly for every 20 units of durability unstead of 10. This makes it so that repair costs are cut in half.<br>
+
+3. Destiny Forge (Fate Forge)
+
+The Destiny Forge works the exact same way as the Fate Forge, however orbs of every tier can be placed to roll for a change of obtaining random gear. The amount of orbs required increase with each tier, starting with one orb for common and uncommon, and ending with five orbs at mythical.<br>
+
+4. Reclamation Forge (Salvage Stand)
+
+The Reclamation Forge works the exact same way as the Salvage Stand, however the payout for salvaging common weapons is now 150 Belly, while the rest of the tiers are 30% of their upgrade cost instead of 20%. For every One Durability that is subtracted from the total, One Belly will be subtracted from the total payout. For every 50 Damage Dealt or Damage Recieved, One Belly will be added to the total payout you recieve for salvaging the gear piece rather than the original value of 100.<br>
+
+5. Rune Forge
+
+This is a Black Market Exclusive Block that is used to add runes to your Mythical Armor Pieces. Please see the [Runes Page](https://haneki56.github.io/DawnPiece/#/Gear/Runes) which explain the Rune Bonuses and the processes of applying runes.

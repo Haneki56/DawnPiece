@@ -1,6 +1,6 @@
 # Santoryu
 
-Santoryu, also known as Three Sword Style, is a mythical class that will be based on abilities that Roronoa Zoro uses.
+Santoryu, also known as Three Sword Style, is a Mythical Class in the Slash Line that is based on abilities that Roronoa Zoro uses.
 
 ### Passives
 
@@ -26,7 +26,7 @@ Uru Tora Gari is the first automatically unlocked ability for Santoryu. The abil
 
 ### Level 0: Senhachiju Pound Ho
 
-Senhachiju Pound Ho is the second automatically unlocked ability for Santoryu. The ability allows the player to launch a slashes towards the enemy dealing damage from a distance.
+Senhachiju Pound Ho is the second automatically unlocked ability for Santoryu. The ability allows the player to launch slashes towards the enemy dealing damage from a distance.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|

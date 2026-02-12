@@ -1,14 +1,14 @@
-# Foxfire Style
+# Swordsman
 
-Foxfire Style is a Rare Class in the Slash Line that is based on abilities that Roronoa Zoro, Kin'emon and Hyogoro use as well as some custom abilities.
+Swordsman is a Common Class in the Slash Line that is based on abilities that Hatchan, Hyouzou, Kawamatsu and Rockstar use.
 
 ### Passives
 
-All Slash Type Weapons deal an extra 4 damage per hit.
+All Slash Type Weapons deal an extra 1 damage per hit.
 
-### Level 0: Flame Sword
+### Level 0: Modoku no Ken
 
-Flame Sword is the first automatically unlocked ability for Foxfire Style. The ability is active in the background and allows the player to deal lingering fire damage with every hit.
+Modoku no Ken is the first automatically unlocked ability for the Swordsman Style. The ability is active in the background and allows the player to deal lingering poison damage with every hit.
 
 | Level | Damage | Cooldown   | Radius      |
 |-------|--------|------------|------------ |
@@ -24,9 +24,9 @@ Flame Sword is the first automatically unlocked ability for Foxfire Style. The a
 | 9     | 240    | 11 Seconds |             |
 | 10    | 250    | 10 Seconds |             |
 
-### Level 0: Homura Saki
+### Level 0: Chidoriashi Hash
 
-Homura Saki is the second automatically unlocked ability for Foxfire Style. The ability allows the player to launch a flaming slash towards the enemy dealing damage from a distance.
+Chidoriashi Hash is the second automatically unlocked ability for the Swordsman Style. The ability allows the player to launch multiple slashes to the enemy from a distance.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -42,9 +42,9 @@ Homura Saki is the second automatically unlocked ability for Foxfire Style. The 
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 2: Rokudo no Tsuji
+### Level 2: Takoashi Kiken
 
-Rokudo no Tsuji is unlocked at Level 2. The ability allows the player to launch a barrage of fire slashes towards the enemy dealing damage and knockback from a distance.
+Takoashi Kiken is unlocked at Level 2. The ability allows the player to launch forward and deal multiple slashes towards the enemy.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -58,9 +58,9 @@ Rokudo no Tsuji is unlocked at Level 2. The ability allows the player to launch 
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 4: Karyu Issen
+### Level 4: Takotsubo no Kamae
 
-Karyu Issen is unlocked at Level 4. The ability allows the player to dash to the enemy and deal a flaming slash attack.
+Takotsubo no Kamae is unlocked at Level 4. The ability allows the player to recieve no damage from the next attack recieved.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -72,9 +72,9 @@ Karyu Issen is unlocked at Level 4. The ability allows the player to dash to the
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 6: Dohatsu Kohai
+### Level 6: Splitting Sword
 
-Dohatsu Kohai is unlocked at Level 6. The ability allows the player to slowly charge up and dash to the enemy leaving a trail of fire that deals damage to anyone that crosses it.
+Splitting Sword is unlocked at Level 6. The ability allows the player to launch forward and deal a drilling sword attack.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -84,9 +84,9 @@ Dohatsu Kohai is unlocked at Level 6. The ability allows the player to slowly ch
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 8: Hi no Arashi
+### Level 8: Menamu-gawa
 
-Hi no Arashi is unlocked at Level 8. The ability allows the player to launch a flame tornado towards the enemy dealing damage from a distance.
+Menamu-gawa is unlocked at Level 8. The ability allows the player to spin around dealing close range slashes in a 360 degree angle.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -94,9 +94,9 @@ Hi no Arashi is unlocked at Level 8. The ability allows the player to launch a f
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 10: Ippyakusanjo Hiryu Jigoku
+### Level 10: Amano-gawa
 
-Ippyakusanjo Hiryu Jigoku is unlocked at Level 10. The ability allows the player to launch a ranges flaming dragon slash dealing damage to anything in its path.
+Amano-gawa is unlocked at Level 10. The ability requires the player to charge up and deal a massive slash attack.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|

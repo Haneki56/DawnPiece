@@ -31,7 +31,7 @@ There will be 8 class lines that will be geared towards certain weapons of your 
 
 Common classes are the classes that you have automatically unlocked at the beginning of the game. The following links take you to each specific common class in the game. 
 
-1. Swordsman (Random Characters Sword, Saber, etc.)
+1. [Swordsman](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Swordsman)
 2. Bruiser (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Brawler (Random Characters punching moves like Boxers, Fighters, etc.)
 4. Scout (Random Characters Knife, Dagger, etc.)
@@ -60,7 +60,7 @@ Every common class levels up based on the following experience system.
 
 Uncommon classes require that you achieve the max level of the common class type of the same number to unlock. The following links take you to each specific uncommon class in the game. 
 
-1. Duelist (Random Characters Sword, Saber, etc.) 
+1. [Biken Style](https://haneki56.github.io/DawnPiece/#/Abilities/Class/BikenStyle)
 2. Raider (Random Characters Mace, Axe, Tofa, Pipe etc.)
 3. Ramen Kenpo (Cipher Pol Wanze Style)
 4. Chef (Random Character Knife, Dagger, Culinary, etc.)
@@ -89,7 +89,7 @@ Every uncommon class levels up based on the following experience system.
 
 Rare classes require that you achieve the max level of the uncommon class type of the same number to unlock. The following links take you to each specific rare class in the game. 
 
-1. Foxfire Style (Flame Sword attacks from Kin'emon, Zoro, Fossa, etc.)
+1. [Foxfire Style](https://haneki56.github.io/DawnPiece/#/Abilities/Class/FoxfireStyle)
 2. Skullsplitter (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Geo Fist (Lao G Style)
 4. Vanguard (Random Character Knife, Dagger, Lance, etc.)
@@ -118,7 +118,7 @@ Every rare class levels up based on the following experience system.
 
 Epic classes require that you achieve the max level of the rare class type of the same number to unlock. The following links take you to each specific epic class in the game. 
 
-1. Itoryu (One Sword Style Based on Zoro, Mihawk, Vista, etc.)
+1. [Ittoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Ittoryu)
 2. Executioner (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Dragon Claw Fist (Sabo Style)
 4. Harpooner (Random Character Lance, Trident, etc.)
@@ -147,7 +147,7 @@ Every epic class levels up based on the following experience system.
 
 Legendary classes require that you achieve the max level of the legendary class type of the same number to unlock. The following links take you to each specific legendary class in the game. 
 
-1. Nitoryu (Two Sword Style based on Zoro, Oden, etc.)
+1. [Nitoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Nitoryu)
 2. Twin Executioner (Gaban Dual Axe)
 3. Eight Impact Fist (Don Chinjao Style)
 4. Dragon Fang (Likely Custom Moves)
@@ -176,7 +176,7 @@ Every legendary class levels up based on the following experience system.
 
 Mythical classes require that you achieve the max level of the legendary class type of the same number to unlock. The following links take you to each specific mythical class in the game. 
 
-1. Santoryu (Three Sword Style based on Zoro)
+1. [Santoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Santoryu)
 2. Drunken Dragon Bagua (Kaido)
 3. Absolute Fist (Garp/Koby Style)
 4. Heaven Piercer (Likely Custom Moves)

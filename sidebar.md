@@ -2,6 +2,7 @@
   * [Tutorial](General/Tutorial.md)
   * [Commands](General/Commands.md)
   * [Food](General/Food.md)
+  * [Drinks](General/Drinks.md)
   * [Haki](General/Haki.md)
   * [Treasure Hunts](General/TreasureHunts.md)
 

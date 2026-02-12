@@ -1,14 +1,14 @@
-# Foxfire Style
+# Ittoryu Style
 
-Foxfire Style is a Rare Class in the Slash Line that is based on abilities that Roronoa Zoro, Kin'emon and Hyogoro use as well as some custom abilities.
+Ittoryu, also known as One Sword Style, is an Epic Class in the Slash Line that is based on abilities that Roronoa Zoro, Kozuki Oden and the Akazaya use.
 
 ### Passives
 
-All Slash Type Weapons deal an extra 4 damage per hit.
+All Slash Type Weapons deal an extra 8 damage per hit.
 
-### Level 0: Flame Sword
+### Level 0: Baki
 
-Flame Sword is the first automatically unlocked ability for Foxfire Style. The ability is active in the background and allows the player to deal lingering fire damage with every hit.
+Baki is the first automatically unlocked ability for Ittoryu. The ability launches the player forward and deals two handed overhead swing that vertically slices the enemy and stuns them.
 
 | Level | Damage | Cooldown   | Radius      |
 |-------|--------|------------|------------ |
@@ -24,9 +24,9 @@ Flame Sword is the first automatically unlocked ability for Foxfire Style. The a
 | 9     | 240    | 11 Seconds |             |
 | 10    | 250    | 10 Seconds |             |
 
-### Level 0: Homura Saki
+### Level 0: Sanbyakurokuju Pound Ho
 
-Homura Saki is the second automatically unlocked ability for Foxfire Style. The ability allows the player to launch a flaming slash towards the enemy dealing damage from a distance.
+Sanbyakurokuju Pound Ho is the second automatically unlocked ability for Ittoryu. The ability allows the player to launch slashes towards the enemy dealing damage from a distance.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -42,9 +42,9 @@ Homura Saki is the second automatically unlocked ability for Foxfire Style. The 
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 2: Rokudo no Tsuji
+### Level 2: Yakkodori
 
-Rokudo no Tsuji is unlocked at Level 2. The ability allows the player to launch a barrage of fire slashes towards the enemy dealing damage and knockback from a distance.
+Yakkodori is unlocked at Level 2. The ability allows the player to launch a projectile of compressed air towards the enemy dealing damage and knockback from a distance.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -58,9 +58,9 @@ Rokudo no Tsuji is unlocked at Level 2. The ability allows the player to launch 
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 4: Karyu Issen
+### Level 4: Shishi Sonson
 
-Karyu Issen is unlocked at Level 4. The ability allows the player to dash to the enemy and deal a flaming slash attack.
+Shishi Sonson is unlocked at Level 4. The ability allows the player to dash to the enemy and deal a slash attack.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -72,9 +72,9 @@ Karyu Issen is unlocked at Level 4. The ability allows the player to dash to the
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 6: Dohatsu Kohai
+### Level 6: Neko Niko Ban
 
-Dohatsu Kohai is unlocked at Level 6. The ability allows the player to slowly charge up and dash to the enemy leaving a trail of fire that deals damage to anyone that crosses it.
+Neko Niko Ban is unlocked at Level 6. The ability allows the player to send a shockwave slash to the enemy that stuns them.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -84,9 +84,9 @@ Dohatsu Kohai is unlocked at Level 6. The ability allows the player to slowly ch
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 8: Hi no Arashi
+### Level 8: Inu Spire
 
-Hi no Arashi is unlocked at Level 8. The ability allows the player to launch a flame tornado towards the enemy dealing damage from a distance.
+Inu Spire is unlocked at Level 8. The ability allows the player to send a shockwave slash to the enemy that ignores resistances.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -94,9 +94,9 @@ Hi no Arashi is unlocked at Level 8. The ability allows the player to launch a f
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 10: Ippyakusanjo Hiryu Jigoku
+### Level 10: Daishinkan
 
-Ippyakusanjo Hiryu Jigoku is unlocked at Level 10. The ability allows the player to launch a ranges flaming dragon slash dealing damage to anything in its path.
+Daishinkan is unlocked at Level 10. The ability launches the player forward and deals two handed overhead swing that vertically slices the enemy ignoring resistances.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|

@@ -1,14 +1,14 @@
-# Foxfire Style
+# Biken Style
 
-Foxfire Style is a Rare Class in the Slash Line that is based on abilities that Roronoa Zoro, Kin'emon and Hyogoro use as well as some custom abilities.
+Biken is an Uncommon Class in the Slash Line that is based on abilities that Cavendish uses.
 
 ### Passives
 
-All Slash Type Weapons deal an extra 4 damage per hit.
+All Slash Type Weapons deal an extra 2 damage per hit.
 
-### Level 0: Flame Sword
+### Level 0: Beautiful Sword
 
-Flame Sword is the first automatically unlocked ability for Foxfire Style. The ability is active in the background and allows the player to deal lingering fire damage with every hit.
+Beautiful Sword is the first automatically unlocked ability for Biken Style. The ability is active in the background and allows the player to lose zero durability with every hit.
 
 | Level | Damage | Cooldown   | Radius      |
 |-------|--------|------------|------------ |
@@ -24,9 +24,9 @@ Flame Sword is the first automatically unlocked ability for Foxfire Style. The a
 | 9     | 240    | 11 Seconds |             |
 | 10    | 250    | 10 Seconds |             |
 
-### Level 0: Homura Saki
+### Level 0: Saint-Exupery
 
-Homura Saki is the second automatically unlocked ability for Foxfire Style. The ability allows the player to launch a flaming slash towards the enemy dealing damage from a distance.
+Saint-Exupery is the second automatically unlocked ability for Biken Style. The ability allows the player to launch a massive slash towards the enemy dealing damage from a distance.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -42,9 +42,9 @@ Homura Saki is the second automatically unlocked ability for Foxfire Style. The 
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 2: Rokudo no Tsuji
+### Level 2: Swan Lake
 
-Rokudo no Tsuji is unlocked at Level 2. The ability allows the player to launch a barrage of fire slashes towards the enemy dealing damage and knockback from a distance.
+Swan Lake is unlocked at Level 2. The player must be in the air to use this ability. They then launch directly downward dealing a shockwave AOE slash damage effect.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -58,9 +58,9 @@ Rokudo no Tsuji is unlocked at Level 2. The ability allows the player to launch 
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 4: Karyu Issen
+### Level 4: Round Table
 
-Karyu Issen is unlocked at Level 4. The ability allows the player to dash to the enemy and deal a flaming slash attack.
+Round Table is unlocked at Level 4. The ability allows the player to spin around dealing close range slashes in a 360 degree angle.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -72,9 +72,9 @@ Karyu Issen is unlocked at Level 4. The ability allows the player to dash to the
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 6: Dohatsu Kohai
+### Level 6: Blue Bird
 
-Dohatsu Kohai is unlocked at Level 6. The ability allows the player to slowly charge up and dash to the enemy leaving a trail of fire that deals damage to anyone that crosses it.
+Blue Bird is unlocked at Level 6. The ability allows the player to create a shockwave with the next sword attack.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -84,9 +84,9 @@ Dohatsu Kohai is unlocked at Level 6. The ability allows the player to slowly ch
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 8: Hi no Arashi
+### Level 8: Precious Metal Axe
 
-Hi no Arashi is unlocked at Level 8. The ability allows the player to launch a flame tornado towards the enemy dealing damage from a distance.
+Precious Metal Axe is unlocked at Level 8. The ability allows the player to go into defense mode taking less damage but cannot use any other abilities while active.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|
@@ -94,9 +94,9 @@ Hi no Arashi is unlocked at Level 8. The ability allows the player to launch a f
 | 9     | 240    | 11 Seconds |
 | 10    | 250    | 10 Seconds |
 
-### Level 10: Ippyakusanjo Hiryu Jigoku
+### Level 10: Hakuba
 
-Ippyakusanjo Hiryu Jigoku is unlocked at Level 10. The ability allows the player to launch a ranges flaming dragon slash dealing damage to anything in its path.
+Hakuba is unlocked at Level 10. The ability allows the player to launch around in random uncontrolled directions dealing slash damage to everything in their path.
 
 | Level | Damage | Cooldown   |
 |-------|--------|------------|

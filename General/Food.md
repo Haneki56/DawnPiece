@@ -2,7 +2,7 @@
 
 This DawnPiece Mod has a variety of food items from the One Piece World. The goal of food is to restore your hunger bar as well as heal you.
 
-# Food Tiers
+### Food Tiers
 
 HP recieved and Hunger Saturation and Eating Time depend on the tier of the food. Please see the chart below for how much each tier gives you.
 
@@ -15,7 +15,7 @@ HP recieved and Hunger Saturation and Eating Time depend on the tier of the food
 | Legendary  | 16 Points         | 32 HP              | 2.5 Seconds |
 | Mythical   | 20 Points         | 64 HP              | 3 Seconds   |
 
-# Food Merchants
+### Food Merchants
 
 There are various merchants that sell food in game. Each island guide page list them in the merchants section, so make sure to take a look once you visit an island. Listed below are the general merchants. Keep in mind some islands have named versions of a general merchant. An example this is Bellemere on Cocoyashi Village being a Farmer. 
 
@@ -29,7 +29,7 @@ There are various merchants that sell food in game. Each island guide page list 
 | Ryourinin        | Japanese Food              |
 | Waiter           | General Unclassified Food  |
 
-# Food Items
+### Food Items
 
 Please see the chart below for all of the food items in game as well as their tier.
 

@@ -2,6 +2,12 @@
 
 As a helper and moderator, you will be responsible for assisting new players in getting them started, being the police force for the server, answering tickets to get necessary info until an admin takes care of it, helping with organizing server information such as the wiki and looking over the discord embeds and commands to make sure they’re up to date. Please see the information below for instructions and support.
 
+### Important Duties for Server Growth
+
+1. Advertising our Discord Server on other Discord Servers so that we can get players to join.
+2. Helping Design [Random NPC](https://docs.google.com/spreadsheets/d/1LDc19Taii6kIXeVlYipmFyDQgSyhrwayUWWB-GRt6iY/edit?usp=drive_link) Dialogs to make the map feel more alive and help new players with information. Please see how the NPC's are set up on Foosha Village for examples.
+3. Checking The [Discord FAQ Commands](https://discord.com/channels/1385526041807949855/1394162921441067119), the [Wiki](https://haneki56.github.io/DawnPiece/#/) and NPCs in game for correct information, spelling mistakes, mising information, and other things along that nature. We want to make sure we give players the proper information and that it all stays updated.
+
 ### Helper Permissions
 
 1. /Kick (IGN) (Reason)

@@ -22,9 +22,38 @@ Note: The player must complete Egghead to be have access to this questline. This
 
 ### Merchants
 
-| Merchant Name     | Merchandise |
-|-------------      |-----------  |
-| X                 | X           |
+| Merchant Name                 | Merchandise           |
+|-------------                  |-----------            |
+| Guard Runes                   | Runes                 |
+| Damage Runes                  | Runes                 |
+| Immunity Runes                | Runes                 |
+| Ability Runes                 | Runes                 |
+| Common Devil Fruit Buyer      | Devil Fruits          |
+| Common Devil Fruit Buyer 2    | Devil Fruits          |
+| Uncommon Devil Fruit Buyer    | Devil Fruits          |
+| Rare Devil Fruit Buyer        | Devil Fruits          |
+| Rare Devil Fruit Buyer 2      | Devil Fruits          |
+| Epic Devil Fruit Buyer        | Devil Fruits          |
+| Epic Devil Fruit Buyer 2      | Devil Fruits          |
+| Legendary Devil Fruit Buyer   | Devil Fruits          |
+| Mythical Devil Fruit Buyer    | Devil Fruits          |
+| Common Devil Fruit Seller     | Devil Fruits          |
+| Common Devil Fruit Seller 2   | Devil Fruits          |
+| Uncommon Devil Fruit Seller   | Devil Fruits          |
+| Rare Devil Fruit Seller       | Devil Fruits          |
+| Rare Devil Fruit Seller 2     | Devil Fruits          |
+| Epic Devil Fruit Seller       | Devil Fruits          |
+| Epic Devil Fruit Seller 2     | Devil Fruits          |
+| Legendary Devil Fruit Seller  | Devil Fruits          |
+| Mythical Devil Fruit Seller   | Devil Fruits          |
+| Common Fragments              | Devil Fruit Fragments |
+| Uncommon Fragments            | Devil Fruit Fragments |
+| Rare Fragments                | Devil Fruit Fragments |
+| Rare Fragments 2              | Devil Fruit Fragments |
+| Epic Fragments                | Devil Fruit Fragments |
+| Epic Fragments 2              | Devil Fruit Fragments |
+| Legendary Fragments           | Devil Fruit Fragments |
+| Mythical Fragments            | Devil Fruit Fragments |
 
 ### Essential NPCs
 

@@ -83,7 +83,7 @@ Note: The player must complete Egghead to be have access to this questline. This
 | North Army Deputy			| 6000 Belly	|           			| Jiron (Legendary)		|           	|
 | G Army Deputy				| 8000 Belly	| Scissors (Legendary)	| Inazuma (Legendary)	|           	|
 | Hundredth-Degree Hack		| 8000 Belly	|           			| Hack (Legendary)		|           	|
-| East Army Commander		| 10000 Belly	|           			| Belo Betty (Legendary)|           	|
+| East Army Commander		| 10000 Belly	|           			| Belo Betty (Legendary)| Kobu Fragment |
 | West Army Commander		| 10000 Belly	|           			| Morley (Legendary)	|           	|
 | South Army Commander		| 10000 Belly	|           			|           			|           	|
 | North Army Commander		| 10000 Belly	|           			| Karasu (Legendary)	| Susu Fragment |

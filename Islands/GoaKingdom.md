@@ -48,6 +48,7 @@ Bounty Reward: 550,000
 | Brawler Damage Upgrader   | Charms                    |
 | Waiter                    | Food                      |
 | Butcher                   | Food                      |
+| Barista                   | Drinks                      |
 | Wool                      | Wool Blocks               |
 | Powdered Concrete         | Powdered Concrete Blocks  |
 | Concrete                  | Concrete Blocks           |

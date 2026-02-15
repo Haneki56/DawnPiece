@@ -36,7 +36,7 @@ Note: Completing this quest unlocks Syrup Village. Speak to Luffy (OT) or the Te
 
 | Merchant Name    | Merchandise |
 |-------------     |-----------  |
-| Bartender        | Drinks      |
+| Mixologist       | Drinks      |
 
 ### Essential NPCs
 

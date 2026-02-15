@@ -6,12 +6,11 @@ This DawnPiece Mod has a variety of drink items from the One Piece World. The go
 
 There are various merchants that sell drinks in game. Each island guide page list them in the merchants section, so make sure to take a look once you visit an island. Listed below are the general merchants. Keep in mind some islands have named versions of a general merchant. An example this is Makino on Foosha Village being a Bartender. 
 
-| Merchant Name    | Merchandise                |
-|-------------     |-----------                 |
-| x                | X                          |
-| X                | X                          |  
-| X                | X                          |
-
+| Merchant Name    | Merchandise                        |
+|-------------     |-----------                         |
+| Bartender        | Strength Buff Drinks               |
+| Barista          | Speed & Regeneration Buff Drinks   |  
+| Mixologist       | Various Buff Drinks                |
 
 ### Drink Items
 

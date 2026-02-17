@@ -55,9 +55,9 @@ The Haki specific information can be found [here](https://haneki56.github.io/Daw
 
 The Race specific information can be found [here](https://haneki56.github.io/DawnPiece/#/Abilities/Race)
 
-### Classes
+### Styles
 
-The Class specific information can be found [here](https://haneki56.github.io/DawnPiece/#/Abilities/Class)
+The Style specific information can be found [here](https://haneki56.github.io/DawnPiece/#/Abilities/Style)
 
 ### Devil Fruits
 

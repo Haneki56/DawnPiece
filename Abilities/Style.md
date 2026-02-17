@@ -1,22 +1,22 @@
-# Class
+# Style
 
-Players will be able to choose a class that they will like to play as in game. To begin with, players will have access to choose a starter class, and maxing out a certain amount of classes will allow you to unlock more classes to use in the future. Unlockable classes will be stronger at their base value.
+Players will be able to choose a style that they will like to play as in game. To begin with, players will have access to choose a starter style, and maxing out a certain amount of styles will allow you to unlock more styles to use in the future. Unlockable styles will be stronger at their base value.
 
-### Class Leveling
+### Style Leveling
 
-Class leveling is tied to the amount of experience points by the player when using any class move. Experience points are tied to damage dealt for damage moves, damage recieved for armor moves, health regeneration for heal moves, distance traveled for speed moves, and so on and so forth.<br>
+Style leveling is tied to the amount of experience points by the player when using any style move. Experience points are tied to damage dealt for damage moves, damage recieved for armor moves, health regeneration for heal moves, distance traveled for speed moves, and so on and so forth.<br>
 
-Each class will have its own level save data, so if a player changes their class, they start the new class at level 0. If they change back to a class they used before, then they return to that class’s level save data. A mythical class will require more experience points to level up compared to a common class.<br>
+Each style will have its own level save data, so if a player changes their style, they start the new style at level 0. If they change back to a style they used before, then they return to that style's level save data. A mythical style will require more experience points to level up compared to a common style.<br>
 
 Every level up will increase damage, protection, range or other positive stats depending on the move. For example, a damage move will start with original damage and when it reaches level 10 it will do 100% of the damage. Every level up will also decrease cooldown, debuffs, and other negative stats depending on the move. For example, a move may have a cooldown of 15 seconds and when its level 10 it drops to 5 seconds losing 1 second per level.
 
-### Class Abilities
+### Style Abilities
 
-Each class will have passive abilities that will be available at all times. Some of these passives will include buffs and debuffs depending on the race. You start with two moves and every two levels, you unlock a class move for a maximum of 7 moves.
+Each style will have passive abilities that will be available at all times. Some of these passives will include buffs and debuffs depending on the race. You start with two moves and every two levels, you unlock a style move for a maximum of 7 moves.
 
-### Class Lines
+### Style Progression Lines
 
-There will be 8 class lines that will be geared towards certain weapons of your choice, and as a result will buff their respective weapon damage output. Each class line will have its own progression system, so reaching max level on one class will only unlock one of the classes in the next tier. The following class lines are below.
+There will be 8 style progression lines that will be geared towards certain weapons of your choice, and as a result will buff their respective weapon damage output. Each style line will have its own progression system, so reaching max level on one style will only unlock one of the styles in the next tier. The following style lines are below.
 
 1. Slash Line: Focused on Slash Weapon Related Styles
 2. Bludgeon Line: Focused on Bludgeon Weapon Related Styles
@@ -27,11 +27,11 @@ There will be 8 class lines that will be geared towards certain weapons of your 
 7. Ranged Line: Focused on Ranged Weapon Related Styles
 8. Martial Artist Line: Focused on Weaponless Related Styles
 
-### Common Class
+### Common Styles
 
-Common classes are the classes that you have automatically unlocked at the beginning of the game. The following links take you to each specific common class in the game. 
+Common styles are the styles that you have automatically unlocked at the beginning of the game. The following links take you to each specific common style in the game. 
 
-1. [Swordsman](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Swordsman)
+1. [Swordsman](https://haneki56.github.io/DawnPiece/#/Abilities/Style/Swordsman)
 2. Bruiser (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Brawler (Random Characters punching moves like Boxers, Fighters, etc.)
 4. Scout (Random Characters Knife, Dagger, etc.)
@@ -40,7 +40,7 @@ Common classes are the classes that you have automatically unlocked at the begin
 7. Gunslinger (Random Characters Pistol, Slingshot, etc.)
 8. Martial Artist (Random Characters kicking moves)
 
-Every common class levels up based on the following experience system.
+Every common style levels up based on the following experience system.
 
 | Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
@@ -56,11 +56,11 @@ Every common class levels up based on the following experience system.
 | 9         | 225,000                | 1,125,000               |
 | 10        | 250,000                | 1,375,000               |
 
-### Uncommon Class
+### Uncommon Styles
 
-Uncommon classes require that you achieve the max level of the common class type of the same number to unlock. The following links take you to each specific uncommon class in the game. 
+Uncommon styles require that you achieve the max level of the common style type of the same number to unlock. The following links take you to each specific uncommon style in the game. 
 
-1. [Biken Style](https://haneki56.github.io/DawnPiece/#/Abilities/Class/BikenStyle)
+1. [Biken Style](https://haneki56.github.io/DawnPiece/#/Abilities/Style/BikenStyle)
 2. Raider (Random Characters Mace, Axe, Tofa, Pipe etc.)
 3. Ramen Kenpo (Cipher Pol Wanze Style)
 4. Chef (Random Character Knife, Dagger, Culinary, etc.)
@@ -69,7 +69,7 @@ Uncommon classes require that you achieve the max level of the common class type
 7. Trick Shooter (Usopp)
 8. Okama Kenpo (Bon Clay, etc.)
 
-Every uncommon class levels up based on the following experience system.
+Every uncommon style levels up based on the following experience system.
 
 | Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
@@ -85,11 +85,11 @@ Every uncommon class levels up based on the following experience system.
 | 9         | 450,000                | 2,250,000               |
 | 10        | 500,000                | 2,750,000               |
 
-### Rare Class
+### Rare Styles
 
-Rare classes require that you achieve the max level of the uncommon class type of the same number to unlock. The following links take you to each specific rare class in the game. 
+Rare styles require that you achieve the max level of the uncommon style type of the same number to unlock. The following links take you to each specific rare style in the game. 
 
-1. [Foxfire Style](https://haneki56.github.io/DawnPiece/#/Abilities/Class/FoxfireStyle)
+1. [Foxfire Style](https://haneki56.github.io/DawnPiece/#/Abilities/Style/FoxfireStyle)
 2. Skullsplitter (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Geo Fist (Lao G Style)
 4. Vanguard (Random Character Knife, Dagger, Lance, etc.)
@@ -98,7 +98,7 @@ Rare classes require that you achieve the max level of the uncommon class type o
 7. Ace Gunner (Random Characters like Baby 5 Gatling, etc)
 8. Fishman Karate (Hack, Arlong, etc.)
 
-Every rare class levels up based on the following experience system.
+Every rare style levels up based on the following experience system.
 
 | Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
@@ -114,11 +114,11 @@ Every rare class levels up based on the following experience system.
 | 9         | 675,000                | 3,375,000               |
 | 10        | 750,000                | 4,125,000               |
 
-### Epic Class
+### Epic Styles
 
-Epic classes require that you achieve the max level of the rare class type of the same number to unlock. The following links take you to each specific epic class in the game. 
+Epic styles require that you achieve the max level of the rare style type of the same number to unlock. The following links take you to each specific epic style in the game. 
 
-1. [Ittoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Ittoryu)
+1. [Ittoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Style/Ittoryu)
 2. Executioner (Random Characters Mace, Axe, Tofa, Pipe, etc.)
 3. Dragon Claw Fist (Sabo Style)
 4. Harpooner (Random Character Lance, Trident, etc.)
@@ -127,7 +127,7 @@ Epic classes require that you achieve the max level of the rare class type of th
 7. Twin Barrel (Izou and other dual weapon users)
 8. Fishman Jujitsu (Jinbe)
 
-Every epic class levels up based on the following experience system.
+Every epic style levels up based on the following experience system.
 
 | Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
@@ -143,11 +143,11 @@ Every epic class levels up based on the following experience system.
 | 9         | 900,000                | 4,500,000               |
 | 10        | 1,000,000              | 5,500,000               |
 
-### Legendary Class
+### Legendary Styles
 
-Legendary classes require that you achieve the max level of the legendary class type of the same number to unlock. The following links take you to each specific legendary class in the game. 
+Legendary styles require that you achieve the max level of the legendary style type of the same number to unlock. The following links take you to each specific legendary style in the game. 
 
-1. [Nitoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Nitoryu)
+1. [Nitoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Style/Nitoryu)
 2. Twin Executioner (Gaban Dual Axe)
 3. Eight Impact Fist (Don Chinjao Style)
 4. Dragon Fang (Likely Custom Moves)
@@ -156,7 +156,7 @@ Legendary classes require that you achieve the max level of the legendary class 
 7. Sharpshooter (Likely Custom Moves but want to be based on Yassop, Van Augur)
 8. Life Return (Lucci, Kumadori)
 
-Every legendary class levels up based on the following experience system.
+Every legendary style levels up based on the following experience system.
 
 | Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |
@@ -172,11 +172,11 @@ Every legendary class levels up based on the following experience system.
 | 9         | 1,350,000              | 6,750,000               |
 | 10        | 1,500,000              | 8,250,000               |
 
-### Mythical Class
+### Mythical Styles
 
-Mythical classes require that you achieve the max level of the legendary class type of the same number to unlock. The following links take you to each specific mythical class in the game. 
+Mythical styles require that you achieve the max level of the legendary style type of the same number to unlock. The following links take you to each specific mythical style in the game. 
 
-1. [Santoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Class/Santoryu)
+1. [Santoryu](https://haneki56.github.io/DawnPiece/#/Abilities/Style/Santoryu)
 2. Drunken Dragon Bagua (Kaido)
 3. Absolute Fist (Garp/Koby Style)
 4. Heaven Piercer (Likely Custom Moves)
@@ -185,7 +185,7 @@ Mythical classes require that you achieve the max level of the legendary class t
 7. Deadeye (Likely Custom Moves but want to be based on Benn Beckman)
 8. Black Leg Style (Sanji)
 
-Every mythical class levels up based on the following experience system.
+Every mythical style levels up based on the following experience system.
 
 | Level     | Experience Per Level   | Cumulative Experience   |
 |-----------|-------------------     |---------------          |

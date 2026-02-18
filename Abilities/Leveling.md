@@ -12,21 +12,21 @@ This page is created to plan out a future leveling system for the DawnPiece Mod.
 ### Health
 
 1. Players start with vanilla 20 health and can achieve a maximum of 500 health. Health is tied to the amount of damage received by the player.
-2. While levels are cut and dry for general leveling purposes, health will increase in the background by 1 HP every 200 Damage Received.
+2. While levels are cut and dry for general leveling purposes, health will increase in the background by 1 HP every 500 Damage Received.
 
 | Level     | Health | Damage Recieved Per Level | Cumulative Damage Recieved |
 |-----------|--------|-------------------        |---------------             |
 | 0         | 20     | 0                         | 0                          |
-| 1         | 50     | 6,000                     | 6,000                      |
-| 2         | 100    | 10,000                    | 16,000                     |
-| 3         | 150    | 10,000                    | 26,000                     |
-| 4         | 200    | 10,000                    | 36,000                     |
-| 5         | 250    | 10,000                    | 46,000                     |
-| 6         | 300    | 10,000                    | 56,000                     |
-| 7         | 350    | 10,000                    | 66,000                     |
-| 8         | 400    | 10,000                    | 76,000                     |
-| 9         | 450    | 10,000                    | 86,000                     |
-| 10        | 500    | 10,000                    | 96,000                     |
+| 1         | 50     | 15,000                    | 15,000                     |
+| 2         | 100    | 25,000                    | 40,000                     |
+| 3         | 150    | 25,000                    | 65,000                     |
+| 4         | 200    | 25,000                    | 90,000                     |
+| 5         | 250    | 25,000                    | 115,000                    |
+| 6         | 300    | 25,000                    | 140,000                    |
+| 7         | 350    | 25,000                    | 165,000                    |
+| 8         | 400    | 25,000                    | 190,000                    |
+| 9         | 450    | 25,000                    | 215,000                    |
+| 10        | 500    | 25,000                    | 240,000                    |
 
 ### Stamina
 
